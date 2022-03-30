@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Electrophoretic separation, detection, and variation of amylase
+   isoenzymes.</title>
+
+	<author>Skude-G.</author>
+
+	<source>Scand-J-Clin-Lab-Invest. 1975 Jan. 35(1). P 41-47.</source>
+
+	<abstract>An electrophoretic technique for demonstrating amylase isoenzymes is
+   described. After separation in an agarose gel containing a linear
+   polyacrylamide polymer to reduce electroendosmotic flow, the amylase
+   fractions are visualized by incubation with a commercially available
+   dye-starch polymer (Phadebas Amylase Test). The technique detects
+   amylase fractions with activities below 10 U/l. Some characteristic
+   changes in such diseases as acute and chronic pancreatitis, cystic
+   fibrosis of the pancreas, macroamylasemia and inherited variants as
+   well as after maxillofacial surgery are mentioned.</abstract>
+
+	<majorsubject>AMYLASES: an</majorsubject>
+	<majorsubject>ISOENZYMES: an</majorsubject>
+
+	<minorsubject>ACUTE-DISEASE</minorsubject>
+	<minorsubject>AMYLASES: bl</minorsubject>
+	<minorsubject>CHRONIC-DISEASE</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: en</minorsubject>
+	<minorsubject>ELECTROPHORESIS-AGAR-GEL</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>PANCREATITIS: en</minorsubject>
+	<minorsubject>SALIVA: en</minorsubject>
+	<minorsubject>STAINS-AND-STAINING</minorsubject>
+
+	<reference>001   AFONSE E              CLIN CHIM ACTA                  14   195 966</reference>
+	<reference>002   AW SE                 NATURE                         209   298 966</reference>
+	<reference>003   AW SE                 GUT                              8   402 967</reference>
+	<reference>004   BAKER RWR             SCAND J CLIN LAB INVEST          6    94 954</reference>
+	<reference>005   DAVIES TJ             J CLIN PATHOL                   25   266 972</reference>
+	<reference>006   GOETZ H               CLIN CHIM ACTA                  19   235 968</reference>
+	<reference>007   GOT R                 CLIN CHIM ACTA                  22   545 968</reference>
+	<reference>008   HILL C                NATURE                         235   162 972</reference>
+	<reference>009   HOBBS JR              IN: DUBACK UC                        281 968</reference>
+	<reference>010   JOHANSSON BG          SCAND J CLIN LAB INVEST SUPPL  124     7 972</reference>
+	<reference>012   KAMARYT J             HUMANGENETIK                     1   579 965</reference>
+	<reference>013   MEITES S              CLIN CHEM                       14  1176 968</reference>
+	<reference>014   MEITES S              CRC CRIT REV CLIN LAB SCI        2   103 971</reference>
+	<reference>015   MERRITT AD            NATURE NEW BIOL                239   243 972</reference>
+	<reference>016   MUUS J                NATURE                         204   283 964</reference>
+	<reference>017   NORBY S               EXP CELL RES                    36   663 964</reference>
+	<reference>018   OGITA S               MED J OSAKA UNIV                16   271 966</reference>
+	<reference>019   PIMSTONE NR           CLIN CHEM                       10   891 964</reference>
+	<reference>020   ROSALKI SB            J CLIN PATHOL                   23   373 970</reference>
+	<reference>021$  SCHIWARA HW           ARZTL LAB ?                     19    38 973</reference>
+	<reference>022   SCHIWARA HW           Z KLIN CHEM KLIN BIOCHEM        11   319 973</reference>
+	<reference>023   SKUDE G               HEREDITAS                       65   277 970</reference>
+	<reference>025   SKUDE G               SCAND J PLAST RECONSTR SURG      7   105 973</reference>
+	<reference>026   SOMOGYI M             CLIN CHEM                        6    23 960</reference>
+	<reference>027   SPIEKERMAN AM         CLIN CHEM                       20   324 974</reference>
+	<reference>028   WIEME RJ              IN: DUBACK UC                        293 968</reference>
+	<reference>029   WILDING P             CLIN CHIM ACTA                  12    97 965</reference>
+	<reference>030   WOLF RO               NATURE                         213  1128 967</reference>
+
+	<citation>1   ODONNEL MD            BIOL GASTROENTEROL               8   354 975</citation>
+	<citation>2   SKUDE G               SCAND J GASTROENTEROL           10   577 975</citation>
+	<citation>3   SKUDE G               SCAND J GASTROENTEROL           11    21 976</citation>
+	<citation>4   SKUDE G               SCAND J GASTROENTEROL           11    17 976</citation>
+	<citation>5   SKUDE G               SCAND J GASTROENTEROL           11   525 976</citation>
+	<citation>6   SKUDE G               GUT                             17   127 976</citation>
+	<citation>7   SKUDE G               ACTA PAEDIATR SCAND             65   145 976</citation>
+	<citation>8   SKUDE G               AM J OBSTET GYNECOL            126   652 976</citation>
+	<citation>9   HAUBRICH J            ARCH OTO RHINO LARYNGOL        213     1 976</citation>
+	<citation>10   AMADOR E              ACS SYMPOSIUM SERIES          1976   175 976</citation>
+	<citation>11   MERRITT AD            ADV HUM GENET                    8   135 977</citation>
+	<citation>12   SCHIOTZ PO            CLIN GENET                      11    43 977</citation>
+	<citation>13   DONALDSON LA          SCAND J GASTROENTEROL           12   637 977</citation>
+	<citation>14   IHSE I                SCAND J GASTROENTEROL           12   629 977</citation>
+	<citation>15   MAGID E               SCAND J GASTROENTEROL           12   621 977</citation>
+	<citation>16   SKUDE G               SCAND J GASTROENTEROL           12    53 977</citation>
+	<citation>17   SKUDE G               SCAND J GASTROENTEROL           12     3 977</citation>
+	<citation>18   SKUDE G               SCAND J GASTROENTEROL           12   673 977</citation>
+	<citation>19   TAKACS O              ACTA PAEDIATR ACAD SCI HUNG     18    21 977</citation>
+	<citation>20   SKUDE G               ACTA MED SCAND                 201    53 977</citation>
+	<citation>21   BIRKHED D             SCAND J DENT RES                86   248 978</citation>
+	<citation>22   JENSEN SL             AM J PHYSIOL                   235  E381 978</citation>
+	<citation>23   BORULF S              SCAND J GASTROENTEROL           14   151 979</citation>
+	<citation>24   KANNO T               J JAPAN SOC STARCH SCI          26    96 979</citation>
+	<citation>25   NAEIJE R              ACTA OBSTET GYNECOL SCAND       58   531 979</citation>
+	<citation>26   JAKEL HP              BIOL ZENTRALBL                  98    55 979</citation>
+	<citation>27   MINAIRE Y             LYON MED                       241   213 979</citation>
+	<citation>28   MAGID E               J CLIN CHEM CLIN BIOCHEM        18   669 980</citation>
+	<citation>29   SKUDE G               J CLIN CHEM CLIN BIOCHEM        18   680 980</citation>
+	<citation>30   FAHRENKRUG J          CLIN CHEM                       26  1573 980</citation>
+	<citation>31   JACOBSON G            SCAND J CLIN LAB INVEST         40    77 980</citation>
+	<citation>32   HUETHER G             HISTOCHEM J                     13   207 981</citation>
+	<citation>33   SORENSEN S            SCAND J GASTROENTEROL           16   885 981</citation>
+	<citation>34   DERIJKE D             J CLIN CHEM CLIN BIOCHEM        19   815 981</citation>
+	<citation>35   BOSSUYT PJ            CLIN CHEM                       27   451 981</citation>
+	<citation>36   FAHRENKRUG J          CLIN CHEM                       27  1655 981</citation>
+	<citation>37   JONES JB              J PEDIATR GASTROENTEROL NUTR     1    43 982</citation>
+	<citation>38   RAMMELOO T            CLIN CHEM                       28   145 982</citation>
+	<citation>39   LINDBERG T            PEDIATRICS                      70   235 982</citation>
+	<citation>40   KOLLBERG H            ACTA PAEDIATR SCAND             71   321 982</citation>
+	<citation>41   MAGID E               SCAND J RHEUMATOL               12   129 983</citation>
+	<citation>42   RASMUSSEN SN          SCAND J GASTROENTEROL           18   353 983</citation>
+	<citation>43   NASRALLAH SM          GUT                             24   161 983</citation>
+	<citation>44   VENTRUCCI M           DIGESTION                       28   114 983</citation>
+	<citation>45   DERIJKE D             CLIN CHEM                       29  1100 983</citation>
+	<citation>46   ZIMMERMAN HM          AM J GASTROENTEROL              78   575 983</citation>
+	<citation>47   ZIMMERMAN HM          GASTROENTEROLOGY                85   190 983</citation>
+	<citation>48   HEGARDT P             J PEDIATR GASTROENTEROL NUTR     3   563 984</citation>
+	<citation>49   KJAERGAARD JJ         DIABETE METAB                   10    25 984</citation>
+	<citation>50   KOOP H                CLIN GASTROENTEROL              13   739 984</citation>
+	<citation>51   PANTEGHINI M          RIC CLIN LAB                    14   449 984</citation>
+	<citation>52   PAVESI F              RIC CLIN LAB                    14   443 984</citation>
+	<citation>53   BORGSTROM A           SCAND J GASTROENTEROL           19   220 984</citation>
+	<citation>54   MASSON P              J CLIN CHEM CLIN BIOCHEM        22   427 984</citation>
+	<citation>55   PARVIAINEN MT         J CLIN CHEM CLIN BIOCHEM        22    41 984</citation>
+	<citation>56   BECCIOLINI A          ACTA RADIOL ONCO RAD PHYS BIO   23     9 984</citation>
+	<citation>57   NILSSON PE            ACTA RADIOL DIAGN STOCKH        25   395 984</citation>
+	<citation>58   OKABE H               CLIN CHEM                       30  1219 984</citation>
+	<citation>59   ORBAEK P              SCAND J WORK ENVIRON HEALTH     11     1 985</citation>
+	<citation>60   JENSEN AR             SCAND J GASTROENTEROL           20    83 985</citation>
+	<citation>61   KJAERGAARD J          SCAND J GASTROENTEROL           20   848 985</citation>
+	<citation>62   ZAKOWSKI JJ           CRC CRIT REV CLIN LAB SCI       21   283 985</citation>
+	<citation>63   GERBER M              J CLIN CHEM CLIN BIOCHEM        23   587 985</citation>
+	<citation>64   GERBER M              CLIN CHEM                       31  1331 985</citation>
+	<citation>65   KAMMERAAT C           CLIN CHEM                       31  1078 985</citation>
+	<citation>66   MASSEY TH             CLIN CHEM                       31    70 985</citation>
+	<citation>67   URDAL P               CLIN CHEM                       31   699 985</citation>
+	<citation>68   ECKFELDT JH           ARCH PATHOL LAB MED            109   316 985</citation>
+	<citation>69   HARMOINEN A           J CLIN CHEM CLIN BIOCHEM        24   903 986</citation>
+	<citation>70   GORUS F               CLIN CHEM                       32   398 986</citation>
+
+</document>

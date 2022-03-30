@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Letter: Cystic fibrosis: detection of heterozygotes.</title>
+
+	<author>Barnes-G-L.</author>
+	<author>Ekert-H.</author>
+	<author>Dowling-S-V.</author>
+
+	<source>Lancet. 1975 Nov 8. 2(7941). P 918.</source>
+
+	<abstract>Samuels and Elliott have described a new technique for detecting
+   cystic fibrosis (C.F.) and the heterozygote for C.F.  We have tested
+   this technique in detail on a smaller number of patients.  Although
+   the number of samples tested in our study is small, results suggest
+   that this technique is not likely to be successful in detection of
+   heterozygotes for C.F.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS: fg</majorsubject>
+	<majorsubject>HETEROZYGOTE</majorsubject>
+
+	<minorsubject>ADENOSINE-DIPHOSPHATE: pd</minorsubject>
+	<minorsubject>ADULT</minorsubject>
+	<minorsubject>CHILD</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: bl</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>PLATELET-AGGREGATION: de</minorsubject>
+	<minorsubject>PROSTAGLANDINS-E: pd</minorsubject>
+
+	<reference>001   SAMUELS CE            LANCET                           2   607 975</reference>
+	<reference>002   EKERT H               J THORAC CARDIOVASC SURG        67   184 974</reference>
+
+	<citation>1   HAMDI I               MONOGR PAEDIATR                 10    84 979</citation>
+	<citation>2   BOROVIKOVA TM         TER ARKH                        52   125 980</citation>
+
+</document>

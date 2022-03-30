@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>On the nature of the defect in cystic fibrosis.</title>
+
+	<author>Conover-J-H.</author>
+	<author>Conod-E-J.</author>
+	<author>Hirschhorn-K.</author>
+
+	<source>Tex-Rep-Biol-Med. 1976. 34(1). P 45-50.</source>
+
+	<abstract>Sera and lymphocyte culture media derived from cystic fibrosis (CF)-
+   affected and carrier subjects contain ciliary dyskinesia factor (CDF)
+   detected by our rabbit tracheal bioassay. In addition, we also find
+   CDF in fibroblast media from these same donors and in amniotic fluid
+   cell media derived from CF carrier or affected fetuses. In these
+   latter instances, the media were inactive in the bioassay, but became
+   active when mixed with purified IgG. In all instances, CDF activity
+   was eliminated by the addition of anti-IgG. We have separated a low
+   molecular weight fraction, between 1,000 and 10,000 M.W., from CF
+   sera and culture media which is inactive in the bioassay until IgG is
+   added. Presumptive and indirect evidence indicates that this fraction
+   behaves similarly to the complement derived anaphylatoxin C3a. In
+   addition, we have found activity in sera from CF patients and, to a
+   lesser extent, carriers that induces degranulation of cytochalasin-B-
+   treated human polymorphonuclear leukocytes. Since this activity
+   appears to be in a different molecular species from that containing
+   CDF, we postulate that the primary defect in CF is the deficiency of
+   an enzyme whose substrates include a family of membrane-active
+   molecules.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS: bl</majorsubject>
+
+	<minorsubject>AMNIOTIC-FLUID: me</minorsubject>
+	<minorsubject>ANAPHYLATOXINS: me</minorsubject>
+	<minorsubject>ANIMAL</minorsubject>
+	<minorsubject>BIOLOGICAL-ASSAY</minorsubject>
+	<minorsubject>CILIA: ph</minorsubject>
+	<minorsubject>COMPLEMENT-3: an</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: en, fg</minorsubject>
+	<minorsubject>FIBROBLASTS:  me</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>IGG: me</minorsubject>
+	<minorsubject>LEUKOCYTES: me</minorsubject>
+	<minorsubject>LYMPHOCYTES: me</minorsubject>
+	<minorsubject>RABBITS</minorsubject>
+	<minorsubject>SUPPORT-U-S-GOVT-P-H-S</minorsubject>
+
+	<reference>001   BERATIS NG            PEDIATR RES                      7   958 973</reference>
+	<reference>002   BLOMFIELD J           GUT                             14   558 973</reference>
+	<reference>004   CONOVER JH            PEDIATR RES                      7   220 973</reference>
+	<reference>005   CONOVER JH            PEDIATR RES                      7   224 973</reference>
+	<reference>006   CONOVER JH            LANCET                           1  1194 973</reference>
+	<reference>007   CONOVER JH            LANCET                           2  1501 973</reference>
+	<reference>008   CONOVER JH            LIFE SCI                        14   253 974</reference>
+	<reference>009   DANKS DM              ANN HUM GENET                   28   323 965</reference>
+	<reference>010   DAVIS AT              PROC SOC EXP BIOL MED          137   161 971</reference>
+	<reference>011   GOLDSTEIN IM          J IMMUNOL                      111    33 973</reference>
+	<reference>012   LOBECK CC             IN: STANBURY JB                     1605 972</reference>
+	<reference>013   MANGOS JA             PEDIATR RES                      1   436 967</reference>
+	<reference>014   MCCOMBS ML            CLIN GENET                       1   171 970</reference>
+	<reference>015   RAO GJS               SCIENCE                        177   610 972</reference>
+	<reference>016   SPOCK A               PEDIATR RES                      1   173 967</reference>
+	<reference>017   VALLOTA EH            J EXP MED                      137  1109 973</reference>
+
+	<citation>1   BOWMAN BH             TEX REP BIOL MED                34     1 976</citation>
+	<citation>2   BOGART BI             PEDIATR RES                     12    15 978</citation>
+	<citation>3   STRAUSS RG            HELV PAEDIATR ACTA              34   429 979</citation>
+	<citation>4   SCHONI M              SCHWEIZ MED WOCHENSCHR         111   658 981</citation>
+	<citation>5   WILSON GB             MED HYPOTHESES                   8   527 982</citation>
+	<citation>6   WOOTEN MW             IN VITRO CELL DEVEL BIOL        21   207 985</citation>
+
+</document>

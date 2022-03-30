@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Physical properties of bronchial secretion.</title>
+
+	<author>Mitchell-Heggs-P.</author>
+
+	<source>Adv-Exp-Med-Biol. 1977. 89. P 203-15.</source>
+
+	<abstract>The Weissenberg rheogoniometer is designed to estimate viscosity at
+   a single applied shear.  By varying this shear, the associated
+   detailed variation of viscosity may be studied.  The level of
+   viscosity depends more on the macroscopic appearance of the sample
+   than the disease with which it may be associated.  This has
+   particular significance in relation to cystic fibrosis.  In cystic
+   fibrosis, the sputum viscosity is not abnormally high.  It is not
+   higher than that of macroscopically similar sputum from chronic
+   bronchitis or asthma.  Whatever the feature differentiating cystic
+   fibrosis from other diseases, it is not the viscosity of the sputum.</abstract>
+
+	<majorsubject>BRONCHI: se</majorsubject>
+	<majorsubject>SPUTUM</majorsubject>
+
+	<minorsubject>ASTHMA: pa</minorsubject>
+	<minorsubject>BRONCHIECTASIS: pa</minorsubject>
+	<minorsubject>BRONCHITIS: pa</minorsubject>
+	<minorsubject>COMPARATIVE-STUDY</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: pa</minorsubject>
+	<minorsubject>ELASTICITY</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>RHEOLOGY</minorsubject>
+	<minorsubject>VISCOSITY</minorsubject>
+
+	<reference>001   AIACHE JM             POUMON COEUR                    26    35 970</reference>
+	<reference>002   BAMBERG H             MED WELT                        37  1997 968</reference>
+	<reference>003   BLANSHARD G           ARCH MIDDX HOSP                  5   222 955</reference>
+	<reference>004   BRUCE RA              BR J CLIN PRACT                 22   289 968</reference>
+	<reference>005   CHARMAN J             BIORHEOLOGY                      9   185 972</reference>
+	<reference>006   DAVIS SS              BIORHEOLOGY                      6    11 969</reference>
+	<reference>007   FEATHER EA            BR J DIS CHEST                  64   192 970</reference>
+	<reference>008   GOLDFARB H            CLIN RES                        12   291 964</reference>
+	<reference>009   KEAL EE               POUMON COEUR                    26    51 970</reference>
+	<reference>010   KINGHORN FC           PHYS MED BIOL                   13   455 968</reference>
+	<reference>011   LIEBERMAN J           AM REV RESPIR DIS               97   654 968</reference>
+	<reference>012   MITCHELL-HEGGS PF     BULL PHYSIOPATH RESPIR NANCY     9   163 973</reference>
+	<reference>013   MITCHELL-HEGGS PF     THESIS                                   974</reference>
+	<reference>014   MITCHELL-HEGGS PF     PROC EUROP CONG RHEUM 7TH ABS            971</reference>
+	<reference>015   MITCHELL-HEGGS PF     BIORHEOLOGY                     11   417 974</reference>
+	<reference>016   PALMER KNV            BR J DIS CHEST                  64   185 970</reference>
+	<reference>017   REID L                PROC ROY INST GR BR             43   438 970</reference>
+	<reference>018   SHEFFNER AL           AM REV RESPIR DIS               90   721 964</reference>
+	<reference>019   STRESEMANN E          KLIN WOCHENSCHR                 42  1165 964</reference>
+	<reference>020   STURGESS JM           IN: LAWSON D PROC 5TH INT CF         368 969</reference>
+	<reference>021   STURGESS JM           CLIN SCI                        38   145 970</reference>
+
+	<citation>1   MARRIOTT C            THORAX                          33   545 978</citation>
+
+</document>

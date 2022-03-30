@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Echocardiographic abnormalities in patients with cystic fibrosis.</title>
+
+	<author>Hirschfeld-S-S.</author>
+	<author>Fleming-D-G.</author>
+	<author>Doershuk-C.</author>
+	<author>Liebman-J.</author>
+
+	<source>Chest. 1979 Mar. 75(3). P 351-5.</source>
+
+	<abstract>An echographic study was undertaken to evaluate left (LV) and right
+   ventricular (RV) function in 30 patients with cystic fibrosis.
+   Echographic recording of the pulmonary and aortic valve echogram
+   permitted measurement of the phases of right and left ventricular
+   systole. The ratio of the LV preejection period/LV ejection time
+   (LPEP/LVET) and shortening of the LV internal dimension %SID was
+   employed to reflect LV function, while RV preejection period/RV
+   ejection time (RPEP/RVET) has excellent correlation with pulmonary
+   artery diastolic pressure. RPEP/RVET and two other echographic
+   measurements, right ventricular wall (RVW) and internal dimension
+   (RVD) were compared with pulmonary function tests and clinical
+   scores. RPEP/RVET correlated well with percent vital capacity(%VC), r
+   = -0.73, percent residual volume (%RVol) r = +0.72, and clinical
+   score, r = -0.77. Multilinear regression of RPEP/RVET, RVD, and RVW
+   improved correlation for %VC (r = -0.80), %RVol, r = +0.82, and
+   clinical score, r = -0.84. Patients in overt right heart failure
+   exhibited elevated RPEP/RVET (mean = 0.48) when compared to patients
+   not in right heart failure (mean = .33). Marked diminution of LV
+   function was present in two patients. A variety of cardiovascular
+   abnormalities were demonstrated echographically and were valuable in
+   assessing the degree of cardiac involvement in patients with cystic
+   fibrosis.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS: pp</majorsubject>
+	<majorsubject>ECHOCARDIOGRAPHY</majorsubject>
+	<majorsubject>HEART: pp</majorsubject>
+
+	<minorsubject>ADOLESCENCE</minorsubject>
+	<minorsubject>ADULT</minorsubject>
+	<minorsubject>CHILD</minorsubject>
+	<minorsubject>CHILD-PRESCHOOL</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: co</minorsubject>
+	<minorsubject>FEMALE</minorsubject>
+	<minorsubject>HEART-FAILURE-CONGESTIVE: di, et, pp</minorsubject>
+	<minorsubject>HEART-VENTRICLE: pp</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>INFANT</minorsubject>
+	<minorsubject>MALE</minorsubject>
+	<minorsubject>MYOCARDIAL-CONTRACTION</minorsubject>
+	<minorsubject>RESIDUAL-VOLUME</minorsubject>
+	<minorsubject>SYSTOLE</minorsubject>
+	<minorsubject>VITAL-CAPACITY</minorsubject>
+
+	<reference>001   LIEBMAN J             IN: MANGOS JA                         41 976</reference>
+	<reference>002   WOOD RE               AM REV RESPIR DIS              113   833 976</reference>
+	<reference>003   SIASSI B              J PEDIATR                       78   794 971</reference>
+	<reference>004   GOLDRING RM           J PEDIATR                       65   501 964</reference>
+	<reference>005   THOMAS AJ             BR HEART J                      34   653 972</reference>
+	<reference>006   LIEBMAN J             CIRCULATION                     35   552 967</reference>
+	<reference>007   ROSENTHAL A           PEDIATR CLIN NORTH AM           23   327 976</reference>
+	<reference>008   RYSSING E             ACTA PAEDIATR SCAND             66   753 977</reference>
+	<reference>009   GEWITZ M              AM J DIS CHILD                 131   275 977</reference>
+	<reference>010   HIRSCHFELD S          CIRCULATION                     51   304 975</reference>
+	<reference>011   HIRSCHFELD S          CIRCULATION                     52   641 975</reference>
+	<reference>012   RIGGS T               CIRCULATION                     57   939 978</reference>
+	<reference>013   WEISSLER AM           IN: YU PN                        1   155 972</reference>
+	<reference>014   FORTUIN NJ            CIRCULATION                     46    26 972</reference>
+	<reference>015   HELLIESEN PJ          PEDIATRICS                      22    80 958</reference>
+	<reference>016   DUBOIS AB             J CLIN INVEST                   35   322 956</reference>
+	<reference>017   SHWACHMAN H           AM J DIS CHILD                  96     6 958</reference>
+	<reference>018   GALANT SP             PEDIATRICS                      61    46 978</reference>
+	<reference>019   MEYER RA              ECHOCARDIOGRAPHY                     257 977</reference>
+	<reference>020   GUTGESELL HP          CIRCULATION                     56   457 977</reference>
+
+	<citation>1   MATTHAY RA            BR HEART J                      43   474 980</citation>
+	<citation>2   LESTER LA             J PEDIATR                       97   742 980</citation>
+	<citation>3   FRANCIS PWJ           AM J DIS CHILD                 134   734 980</citation>
+	<citation>4   BERGER HJ             AM J CARDIOL                    47   950 981</citation>
+	<citation>5   JACOBSTEIN MD         CHEST                           80   399 981</citation>
+	<citation>6   NEWTH CJL             AM REV RESPIR DIS              124   463 981</citation>
+	<citation>7   MOSS AJ               PEDIATRICS                      70   728 982</citation>
+	<citation>8   HIRSCHFELD SS         CHEST                           82   524 982</citation>
+	<citation>9   MATTHAY RA            CLIN CHEST MED                   4   269 983</citation>
+	<citation>10   MATTHAY RA            CRIT CARE MED                   11   329 983</citation>
+	<citation>11   MACDONALD NE          J PEDIATR                      103   985 983</citation>
+	<citation>12   KELLY HW              DRUG INTEL CLIN PHARM           18   772 984</citation>
+	<citation>13   BENSON LN             AM REV RESPIR DIS              130   987 984</citation>
+	<citation>14   MOSKOWITZ WB          PEDIATR PHARMACOL                5   139 985</citation>
+	<citation>15   LESTER LA             SEM RESPIR MED                   6   285 985</citation>
+	<citation>16   PANIDIS IP            J AM COLL CARDIOL                6   701 985</citation>
+	<citation>17   PIEPSZ A              PEDIATR PULMONOL                 3    24 987</citation>
+
+</document>

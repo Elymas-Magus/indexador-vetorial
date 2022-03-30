@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Cystic fibrosis serum effect on the short circuit current of rat
+   jejunum.</title>
+
+	<author>Tucker-R-D.</author>
+	<author>Gibbs-G-E.</author>
+	<author>Christensen-M-B.</author>
+
+	<source>Pediatr-Res. 1979 Dec. 13(12). P 1371-4.</source>
+
+	<abstract>Sera from 100 subjects were tested for the presence of the cystic
+   fibrosis (CF) &quot;factor&quot; utilizing the short circuit current rat
+   jejunum bioassay. Comparing the mean percent decrease in short
+   circuit current, the presumed normal group differs from the
+   homozygous CF group at P = 0.001 and from the heterozygous group at P
+   = 0.05. The two CF genotypes are statistically different at P =
+   0.004. There is, however, a large overlap among the three groups,
+   which limits the assay&apos;s utility as a guide for factor purification
+   as well as clinical use.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS: bl</majorsubject>
+
+	<minorsubject>ANIMAL</minorsubject>
+	<minorsubject>CELL-MEMBRANE: me</minorsubject>
+	<minorsubject>COMPARATIVE-STUDY</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: fg</minorsubject>
+	<minorsubject>GENOTYPE</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>JEJUNUM: bs</minorsubject>
+	<minorsubject>MALE</minorsubject>
+	<minorsubject>MEMBRANE-POTENTIALS</minorsubject>
+	<minorsubject>RATS</minorsubject>
+
+	<reference>001   ARAKI H               PEDIATR RES                      9   932 975</reference>
+	<reference>002   ARAKI H               PROC INT CF CONG 7TH                  28 976</reference>
+	<reference>003   BESLEY GTN            J MED GENET                      6   278 969</reference>
+	<reference>004   BOWMAN BH             BIOCHEM BIOPHYS RES COMMUN      64  1310 975</reference>
+	<reference>005   BOWMAN BH             SCIENCE                        164   325 969</reference>
+	<reference>006   CHERRY JD             J PEDIATR                       79   937 971</reference>
+	<reference>007   CONOVER JH            LANCET                           1  1194 973</reference>
+	<reference>008   GILMORE JP            PROC SOC EXP BIOL MED          157    70 978</reference>
+	<reference>009   MANGOS JA             PEDIATR RES                      1   436 967</reference>
+	<reference>010   POSSELT HG            Z KINDERHEILK                  110    93 971</reference>
+	<reference>011   SPOCK A               PEDIATR RES                      1   173 967</reference>
+	<reference>012   USSING HH             ACTA PHYSIOL SCAND              61   484 964</reference>
+
+	<citation>1   TUCKER RD             COMPUT BIOL MED                 11   153 981</citation>
+	<citation>2   ALBAZZAZ FJ           RESPIRATION                     46    88 984</citation>
+	<citation>3   VONEULER AM           EXP MOL PATH                    43   142 985</citation>
+
+</document>

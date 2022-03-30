@@ -1,0 +1,304 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Present status of intrauterine diagnosis of genetic defects.</title>
+
+	<author>Burton-B-K.</author>
+	<author>Gerbie-A-B.</author>
+	<author>Nadler-H-L.</author>
+
+	<source>Am-J-Obstet-Gynecol. 1974 Mar 1. 118(5). P 718-46. (REVIEW).</source>
+
+	<abstract>Prenatal diagnosis of genetic disorders has received increasing
+   attention during the past several years.  Rapid expansion of our
+   knowledge of the basis of genetic disease and the development of
+   reliable diagnostic methods have led to rapid advances in the
+   intrauterine diagnosis of a large number of inherited disorders.
+   Prenatal diagnosis was initially used to determine the presence of
+   Down&apos;s syndrome and other chromosomal abnormalities and for the
+   determination of fetal sex in pregnancies at risk for a number of
+   severe X-linked recessive disorders.  Shortly thereafter, it became
+   clear that the same techniques could be applied to the prenatal
+   diagnosis of a number of the inborn errors of metabolism.  Most
+   recently, a number of new techniques have been developed that may
+   prove to be of great value in the prenatal diagnosis of a number of
+   severe congenital malformations that before now could not be
+   diagnosed prior to birth.  The goal of this review is to define the
+   past achievements, future goals, and present limitations of
+   intrauterine diagnosis.  The first section will deal with the general
+   approaches used in prenatal diagnosis of genetic disorders.  This
+   will be followed by a discussion of the specific applications of the
+   basic techniques to the intrauterine diagnosis of chromosomal
+   abnormalities and of the inborn errors of metabolism.  Approaches to
+   prenatal diagnosis of genetic disorders include amniocentesis, direct
+   and indirect visualization of the fetus, analysis of maternal blood
+   and urine, and sampling of fetal tissues.  Applications of prenatal
+   genetic diagnosis include X-linked recessive disorders, chromosomal
+   abnormalities, inborn errors of metabolism, disorders of lipid
+   metabolism, disorders of carbohydrate metabolism, disorders of
+   mucopolysaccharide metabolism, disorders of amino acid metabolism,
+   and miscellaneous disorders such as cystic fibrosis.  These
+   techniques provide some parents with methods for having children
+   without fear of having a child with a specific deformity.  In
+   addition to the development of approaches which will increase the
+   number of disorders detectable in utero, the potential for treatment
+   of genetic disorders is unlimited.</abstract>
+
+	<majorsubject>HEREDITARY-DISEASES: di</majorsubject>
+	<majorsubject>PRENATAL-DIAGNOSIS</majorsubject>
+
+	<minorsubject>ACID-PHOSPHATASE: me</minorsubject>
+	<minorsubject>ADRENAL-HYPERPLASIA-CONGENITAL: di</minorsubject>
+	<minorsubject>AMINO-ACID-METABOLISM-INBORN-ERRORS: di</minorsubject>
+	<minorsubject>AMNIOCENTESIS</minorsubject>
+	<minorsubject>AMNIOSCOPY</minorsubject>
+	<minorsubject>AMNIOTIC-FLUID</minorsubject>
+	<minorsubject>BLOOD-CHEMICAL-ANALYSIS</minorsubject>
+	<minorsubject>CARBOHYDRATE-METABOLISM-INBORN-ERRORS: di</minorsubject>
+	<minorsubject>CHROMOSOME-ABNORMALITIES:  di</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: di</minorsubject>
+	<minorsubject>ENDOSCOPY</minorsubject>
+	<minorsubject>FEMALE</minorsubject>
+	<minorsubject>FETUS: pa, ra</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>LESCH-NYHAN-SYNDROME: di</minorsubject>
+	<minorsubject>LIPID-METABOLISM-INBORN-ERRORS:  di</minorsubject>
+	<minorsubject>LYSOSOMES: me</minorsubject>
+	<minorsubject>METABOLISM-INBORN-ERRORS: di</minorsubject>
+	<minorsubject>MUCOPOLYSACCHARIDOSIS: di</minorsubject>
+	<minorsubject>PREGNANCY</minorsubject>
+	<minorsubject>REVIEW</minorsubject>
+	<minorsubject>ULTRASONICS: du</minorsubject>
+	<minorsubject>URINE: an</minorsubject>
+
+	<reference>001   NADLER HL             N ENGL J MED                   282   596 970</reference>
+	<reference>002   GERBIE AB             AM J OBSTET GYNECOL            109   765 971</reference>
+	<reference>004   FREDA VJ              BULL NY ACAD MED                42   475 966</reference>
+	<reference>005   QUEENAN JT            CLIN OBSTET GYNECOL              9   491 966</reference>
+	<reference>006   BURNETT RG            J IOWA MED SOC                  58   130 958</reference>
+	<reference>007   LILEY AW              NZ MED J                        59   581 960</reference>
+	<reference>008   CREASMAN WT           JAMA                           204   949 968</reference>
+	<reference>010   FUCHS F               CLIN OBSTET GYNECOL              9   565 966</reference>
+	<reference>011   ANON                  NATIONAL AMNIOCENTESIS REG</reference>
+	<reference>012   GEYER VH              Z KLIN CHEM KLIN BIOCHEM         8   145 970</reference>
+	<reference>013   TORNQVIST A           ACTA OBSTET GYNECOL SCAND       50    79 971</reference>
+	<reference>014   SALAFSKY IS           J PEDIATR                       79   794 971</reference>
+	<reference>015   SALAFSKY IS           AM J OBSTET GYNECOL            111  1046 971</reference>
+	<reference>016   SCHNECK L             LANCET                           1   582 970</reference>
+	<reference>017   FRIEDLAND J           PROC SOC EXP BIOL MED          136  1297 971</reference>
+	<reference>018   NADLER HL             LANCET                           2  1277 969</reference>
+	<reference>019   NADLER HL             LANCET                           2   369 970</reference>
+	<reference>020   EMERY AEH             LANCET                           1  1307 970</reference>
+	<reference>021   SCOTT CR              PEDIATR RES                      6   659 972</reference>
+	<reference>022   EMERY AEH             LANCET                           1   970 973</reference>
+	<reference>023   JEFFCOATE TNA         LANCET                           2   553 965</reference>
+	<reference>024   JACOBSON CB           AM J OBSTET GYNECOL             99   796 967</reference>
+	<reference>025   NICHOLS J             LANCET                           1    83 970</reference>
+	<reference>026   MERKATZ IR            J PEDIATR                       75   977 969</reference>
+	<reference>027   KAUFMAN S             J PEDIATR                       68   990 966</reference>
+	<reference>028   HOLLINGSWORTH DR      J PEDIATR                       79   923 971</reference>
+	<reference>029   MATALON R             LANCET                           1    83 970</reference>
+	<reference>031   MORROW G 3RD          J PEDIATR                       77   120 970</reference>
+	<reference>032   DESNICK RJ            MIDWEST SOC PEDIAT RES PAPER             972</reference>
+	<reference>033   BROCK DJH             LANCET                           2   197 972</reference>
+	<reference>034   LEE TY                AM J OBSTET GYNECOL            107   917 970</reference>
+	<reference>035   CASSADY G             AM J OBSTET GYNECOL             97   395 967</reference>
+	<reference>036   NADLER HL             J PEDIATR                       74   132 969</reference>
+	<reference>037   RATTAZZI MC           IN: DORFMAN A                        207 972</reference>
+	<reference>038   HUG G                 LANCET                           1  1002 970</reference>
+	<reference>039   UHLENDORF BW          PROC TISS CULT ASS 19TH AN MT        158 968</reference>
+	<reference>040   GREGSON NM            LANCET                           1    84 970</reference>
+	<reference>041   VALENTI C             J LAB CLIN MED                  73   355 969</reference>
+	<reference>042   NELSON MM             BR MED J                         1   523 970</reference>
+	<reference>044   NADLER HL             BIOCHEM GENET                    2   119 968</reference>
+	<reference>046   RYAN CA               EXP CELL RES                    71   388 972</reference>
+	<reference>047   KABACK MM             PEDIATR RES                      5   366 971</reference>
+	<reference>048   UHLENDORF BW          SCIENCE                        160  1007 968</reference>
+	<reference>049   SHIH VE               LANCET                           2    45 970</reference>
+	<reference>050   SHIH VE               CLIN CHIM ACTA                  27    73 970</reference>
+	<reference>051   GERBIE AB             AM J OBSTET GYNECOL            114   314 972</reference>
+	<reference>052   MELANCON S            SCIENCE                        173   627 971</reference>
+	<reference>053   BARNHISEL ML          J CELL PHYSIOL                  76     7 970</reference>
+	<reference>055   KABACK MM             IN: DORFMAN A                         81 972</reference>
+	<reference>056   RUSSELL JGB           J OBSTET GYNAECOL BR COMMONW    76   345 969</reference>
+	<reference>057   NOONAN CD             AM J OBSTET GYNECOL            101   929 968</reference>
+	<reference>058   OMENN GS              AM J HUM GENET                  24   31A 972</reference>
+	<reference>059   QUEENAN JT            OBSTET GYNECOL                  35   648 970</reference>
+	<reference>060   AGUERO O              SURG GYNECOL OBSTET            130   649 970</reference>
+	<reference>061   AGUERO O              AM J OBSTET GYNECOL            107   971 970</reference>
+	<reference>062   ERBSLOH J             ARCH GYNAEKOL                  173   160 942</reference>
+	<reference>063   WIESENHAAN PF         AM J OBSTET GYNECOL            113   819 972</reference>
+	<reference>064   GARRETT WJ            AUST NZ J OBSTET GYNAECOL       10     7 970</reference>
+	<reference>065   CAMPBELL S            LANCET                           2  1226 972</reference>
+	<reference>066   THIERY M              LANCET                           1   599 973</reference>
+	<reference>067   PAPP Z                LANCET                           1   729 973</reference>
+	<reference>068   HELLMAN LM            AM J OBSTET GYNECOL            115   615 973</reference>
+	<reference>070   TETERIS NJ            OBSTET GYNECOL                  32   851 968</reference>
+	<reference>071   LEVKOFF AH            AM J OBSTET GYNECOL            104    73 969</reference>
+	<reference>072   CATHRO DM             LANCET                           1   732 969</reference>
+	<reference>073   NICHOLS J             LANCET                           2  1068 967</reference>
+	<reference>074   WALKNOWSKA J          LANCET                           1  1119 969</reference>
+	<reference>075   TOWNER JW             CLIN RES                        18   208 970</reference>
+	<reference>076   MOHR J                ACTA PATH MICROBIOL SCAND       73    73 968</reference>
+	<reference>077   VALENTI C             AM J OBSTET GYNECOL            115   851 973</reference>
+	<reference>078   KAN YW                N ENGL J MED                   287     1 972</reference>
+	<reference>079   RIIS P                LANCET                           2   180 960</reference>
+	<reference>080   RIIS P                IN: MOORE KL                             966</reference>
+	<reference>081   CEDERQVIST LL         CLIN OBSTET GYNECOL             13   159 970</reference>
+	<reference>082   CASPERSSON T          CHROMOSOMA                      30   215 970</reference>
+	<reference>083   VALENTI C             LANCET                           2   220 968</reference>
+	<reference>084   GERTNER M             PROC AM PEDIATR SOC ANNU MTG         125 970</reference>
+	<reference>085   MILUNSKY A            N ENGL J MED                   283  1370 970</reference>
+	<reference>086   HSU LYF               AM J DIS CHILD                 125   290 973</reference>
+	<reference>087   MILUNSKY A            J PEDIATR                       79   303 971</reference>
+	<reference>088   KOHN G                LANCET                           2   778 970</reference>
+	<reference>089   MILUNSKY A            LANCET                           2   979 970</reference>
+	<reference>090   KOHN G                PEDIATR RES                      1   461 967</reference>
+	<reference>091   KLINGER HP            J BIOPHYS BIOCHEM CYTOL          8   345 960</reference>
+	<reference>092   BOOK JA               J MED GENET                      5   224 968</reference>
+	<reference>093   SCHLEGEL RJ           CYTOGENETICS                     5   430 968</reference>
+	<reference>094   KARDON NB             J PEDIATR                       80   297 972</reference>
+	<reference>095   OBRIEN JS             J PEDIATR                       75   167 969</reference>
+	<reference>096   OBRIEN JS             AM J DIS CHILD                 109   338 965</reference>
+	<reference>097   OKADA S               SCIENCE                        160  1002 968</reference>
+	<reference>098   SINGER HS             N ENGL J MED                   282   571 970</reference>
+	<reference>099   SLOAN HR              PEDIATR RES                      3   532 969</reference>
+	<reference>100   THOMAS GH             J LAB CLIN MED                  74   725 969</reference>
+	<reference>101   OBRIEN JS             LANCET                           2   805 969</reference>
+	<reference>102   LOWDEN JA             N ENGL J MED                   288   225 973</reference>
+	<reference>103   KABACK MM             J PEDIATR                       82  1037 973</reference>
+	<reference>104   OBRIEN JS             N ENGL J MED                   284   893 971</reference>
+	<reference>105   WOLFE LS              NEUROLOGY (MINN)                20    23 970</reference>
+	<reference>106   SINGER HS             AM J HUM GENET                  24   454 972</reference>
+	<reference>107   BOOTH CW              PEDIATRICS                      52   521 973</reference>
+	<reference>108   OKADA S               SCIENCE                        165   698 969</reference>
+	<reference>109   OBRIEN JS             N ENGL J MED                   283    15 970</reference>
+	<reference>110   OBRIEN JS             SCIENCE                        172    61 971</reference>
+	<reference>111   NAVON R               AM J HUM GENET                  25   287 973</reference>
+	<reference>112   SANDHOFF K            LIFE SCI                         7   283 968</reference>
+	<reference>113   OKADA S               AM J HUM GENET                  23    55 971</reference>
+	<reference>114   BRADY RO              PROC NAT ACAD SCI USA           55   366 966</reference>
+	<reference>115   FREDRICKSON DS        IN: STANBURY JB                      783 972</reference>
+	<reference>116   EPSTEIN CJ            AM J HUM GENET                  23   533 971</reference>
+	<reference>117   BRADY RO              BIOCHEM BIOPHYS RES COMMUN      18   221 965</reference>
+	<reference>118   BEUTLER E             AM J HUM GENET                  23    62 971</reference>
+	<reference>120   JATZKEWITZ H          J NEUROCHEM                     16    19 969</reference>
+	<reference>121   KABACK MM             N ENGL J MED                   282  1336 970</reference>
+	<reference>122   PORTER MT             PROC NAT ACAD SCI USA           62   887 969</reference>
+	<reference>123   PERCY AK              SCIENCE                        161   594 968</reference>
+	<reference>124   AUSTIN J              ARCH NEUROL                     14   259 966</reference>
+	<reference>125   AUSTIN J              ARCH NEUROL                     13   593 965</reference>
+	<reference>126   MURPHY JV             IN: BERNSOHN J                        67 971</reference>
+	<reference>127   SUZUKI K              PROC NAT ACAD SCI USA           66   302 970</reference>
+	<reference>128   SUZUKI K              BIOCHEM BIOPHYS RES COMMUN      45  1363 971</reference>
+	<reference>129   BRADY RO              N ENGL J MED                   276  1163 967</reference>
+	<reference>130   BRADY RO              SCIENCE                        172   174 971</reference>
+	<reference>131   KINT JA               SCIENCE                        167  1268 970</reference>
+	<reference>132   BEUTLER E             AM J HUM GENET                  24   237 972</reference>
+	<reference>133   WOOD S                AM J HUM GENET                  24   250 972</reference>
+	<reference>134   HERNDON JH            J CLIN INVEST                   48  1017 969</reference>
+	<reference>135   HERNDON JH            N ENGL J MED                   281  1034 969</reference>
+	<reference>136   NADLER HL             AM J OBSTET GYNECOL            103   710 969</reference>
+	<reference>137   DAWSON G              SCIENCE                        170   556 970</reference>
+	<reference>138   HERS HG               BIOCHEM J                       86    11 963</reference>
+	<reference>139   NITOWSKY HM           J LAB CLIN MED                  69   472 967</reference>
+	<reference>140   COX RP                LANCET                           2   893 970</reference>
+	<reference>141   STEINITZ K            ISR J MED SCI                    3   411 967</reference>
+	<reference>142   JUSTICE P             BIOCHEM BIOPHYS RES COMMUN      39   301 970</reference>
+	<reference>143   HOWELL RR             PROC AM PEDIATR SOC ANNU MTG         130 970</reference>
+	<reference>144   KROOTH RS             J EXP MED                      113  1155 961</reference>
+	<reference>145   NADLER HL             PEDIATRICS                      42   912 968</reference>
+	<reference>147   VAN HOOF F            LANCET                           1  1198 968</reference>
+	<reference>148   DANES BS              SCIENCE                        149   987 965</reference>
+	<reference>149   MILUNSKY A            N ENGL J MED                   281  1128 969</reference>
+	<reference>150   MATALON R             LANCET                           1   798 972</reference>
+	<reference>151   FRATANTONI JC         PROC NAT ACAD SCI USA           60   699 968</reference>
+	<reference>152   FRATANTONI JC         N ENGL J MED                   280   686 969</reference>
+	<reference>153   FRATANTONI JC         SCIENCE                        162   570 968</reference>
+	<reference>154   SLY WS                J PEDIATR                       82   249 973</reference>
+	<reference>155   WIRTSCHAFTER ZT       AM J OBSTET GYNECOL             76  1219 958</reference>
+	<reference>156   LEVY HL               PEDIATR RES                      3   113 969</reference>
+	<reference>157   COCKBURN F            J OBSTET GYNAECOL BR COMMONW    80    10 973</reference>
+	<reference>158   SAIFER A              CLIN CHEM                       16   891 970</reference>
+	<reference>159   MAHONEY MJ            IN: DORFMAN A                         95 972</reference>
+	<reference>160   MAHONEY MJ            PEDIATR RES                      7   342 973</reference>
+	<reference>161   FRIMPTER GW           AM J DIS CHILD                 113   115 967</reference>
+	<reference>162   SCHULMAN JD           J PEDIATR                       77   468 970</reference>
+	<reference>163   SCHNEIDER JA          PEDIATR RES                      7   291 973</reference>
+	<reference>164   DANCIS J              IN: DORFMAN A                        123 972</reference>
+	<reference>165   GOODMAN SI            CLIN RES                        21   295 973</reference>
+	<reference>166   GOMPERTZ D            LANCET                           1  1009 973</reference>
+	<reference>167   SEEGMILLER JE         SCIENCE                        155  1682 967</reference>
+	<reference>168   ROSENBLOOM FM         LANCET                           2   305 967</reference>
+	<reference>169   FUJIMOTO WY           LANCET                           2   511 968</reference>
+	<reference>170   DEMARS R              SCIENCE                        164  1303 969</reference>
+	<reference>171   BOYLE JA              SCIENCE                        169   688 970</reference>
+	<reference>172   LEROY JG              BIRTH DEF ORIG ART SER           5   174 969</reference>
+	<reference>173   GLASER JH             PEDIATR RES                      7   342 973</reference>
+	<reference>174   WARREN RJ             PEDIATR RES                      7   343 973</reference>
+	<reference>175   DANES BS              LANCET                           1  1061 968</reference>
+	<reference>176   NADLER HL             LANCET                           2    84 969</reference>
+	<reference>177   BOWMAN BH             SCIENCE                        164   325 969</reference>
+	<reference>178   SPOCK A               PEDIATR RES                      1   173 967</reference>
+	<reference>179   DANES BS              J EXP MED                      136  1313 972</reference>
+	<reference>180   BARNETT DR            FED PROC                        32   677 973</reference>
+	<reference>181   BOWMAN BH             PROC NAT ACAD SCI USA           70   548 973</reference>
+	<reference>182   CONOVER JH            CLIN RES                        21   531 973</reference>
+	<reference>183   NADLER HL             N ENGL J MED                   282   302 970</reference>
+	<reference>184   ROMEO G               BIOCHEM GENET                    4   659 970</reference>
+	<reference>185   REGAN JD              SCIENCE                        174   147 971</reference>
+	<reference>186   MATALON R             BIOCHEM BIOPHYS RES COMMUN      47   959 972</reference>
+	<reference>187   BACH G                PROC NAT ACAD SCI USA           69  2048 972</reference>
+	<reference>188   BACH G                FED PROC                        32   483 973</reference>
+	<reference>189   MATALON R             PEDIATR RES                      7   384 973</reference>
+	<reference>190   OBRIEN JS             PROC NAT ACAD SCI USA           69  1720 972</reference>
+	<reference>191   VON FIGURA K          BIOCHEM BIOPHYS RES COMMUN      48   262 972</reference>
+	<reference>193   HSIA YR               PROC AM PEDIATR SOC ANNU MTG          26 970</reference>
+
+	<citation>1   HENRION R             NOUV PRESSE MED                  3  2651 974</citation>
+	<citation>2   KUSS E                GYNAKOLOGE                       7   124 974</citation>
+	<citation>3   ZELLWEGER H           ACTA GENET MED GEMELLOL         23   103 974</citation>
+	<citation>4   LOWRY RB              CAN MED ASSOC J                111   633 974</citation>
+	<citation>5   LEVINE MD             AM J OBSTET GYNECOL            120   937 974</citation>
+	<citation>6   KLEIJER WJ            HISTOCHEM J                      7   496 975</citation>
+	<citation>7   PHILLIPS JM           J REPROD MED                    15    69 975</citation>
+	<citation>8   NIERMEIJER MF         J GENET HUM                     23   123 975</citation>
+	<citation>9   NUZZO F               J GENET HUM                     23   225 975</citation>
+	<citation>10   TABUCHI A             HIROSHIMA J MED SCI             24   213 975</citation>
+	<citation>11   POTIER M              BIOL NEONATE                    27   141 975</citation>
+	<citation>12   NEUFELD EF            ANNU REV BIOCHEM                44   357 975</citation>
+	<citation>13   GERBIE AB             OBSTET GYNECOL                  46   716 975</citation>
+	<citation>14   CHAUBE S              AM J OBSTET GYNECOL            121   429 975</citation>
+	<citation>15   BICKEL H              MONATSSCHR KINDERHEILKD        123   206 975</citation>
+	<citation>16   NIERMEIJER MF         J MED GENET                     13   182 976</citation>
+	<citation>17   POTIER M              BIOMEDICINE EXPRESS             25   167 976</citation>
+	<citation>18   TANCREDI F            MINERVA PEDIATR                 28  1891 976</citation>
+	<citation>19   LAURENCE KM           BR MED BULL                     32     9 976</citation>
+	<citation>20   MACVICAR J            BR MED BULL                     32     4 976</citation>
+	<citation>21   KLEIJER WJ            HUM GENET                       33   299 976</citation>
+	<citation>22   CATERINI H            OBSTET GYNECOL                  47   373 976</citation>
+	<citation>23   ELIAS S               OBSTET GYNECOL                  47  S 75 976</citation>
+	<citation>24   GERBIE AB             POSTGRAD MED                    59   129 976</citation>
+	<citation>25   HULTBERG B            BIOCHEM J                      155   599 976</citation>
+	<citation>26   TOULOUKIAN RJ         J PEDIATR SURG                  12   397 977</citation>
+	<citation>27   SANDHOFF K            ANGEWANDTE CHEMIE INTL ED       16   273 977</citation>
+	<citation>28   AUDY S                ACTA CYTOL                      21   330 977</citation>
+	<citation>29   ANTONOWICZ I          BIOL NEONATE                    32   280 977</citation>
+	<citation>30   NELSON LH             OBSTET GYNECOL                  50    65 977</citation>
+	<citation>31   LIEBAERS I            J PEDIATR                       90   423 977</citation>
+	<citation>32   GERBIE AB             AM J OBSTET GYNECOL            127   158 977</citation>
+	<citation>33   BELISLE S             AM J OBSTET GYNECOL            128   514 977</citation>
+	<citation>34   LEVINE SC             CLIN GENET                      14   133 978</citation>
+	<citation>35   MILES JH              PEDIATR CLIN NORTH AM           25   593 978</citation>
+	<citation>36   VANDERVEER E          HUM GENET                       40   285 978</citation>
+	<citation>37   BURTON BK             PEDIATRICS                      61   398 978</citation>
+	<citation>38   GOLBUS MS             CLIN PERINATOL                   6   245 979</citation>
+	<citation>39   SIMPSON JL            CLIN OBSTET GYNAECOL             6   259 979</citation>
+	<citation>40   FELIX JS              CLIN GENET                      15   215 979</citation>
+	<citation>41   TSVETKOVA IV          VOPR MED KHIM                   25   214 979</citation>
+	<citation>42   MARTIN AO             CLIN OBSTET GYNAECOL             7   143 980</citation>
+	<citation>43   SANTOS M              REV MED CHIL                   109    36 981</citation>
+	<citation>44   CHEN WW               J MED GENET                     19   433 982</citation>
+	<citation>45   SHARMA A              CURR SCI                        52   704 983</citation>
+
+</document>

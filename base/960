@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Calcium and sodium transport processes in patients with cystic
+   fibrosis.  I. A specific decrease in Mg2+-dependent, Ca2+-adenosine
+   triphosphatase activity in erythrocyte membranes from cystic
+   fibrosis patients.</title>
+
+	<author>Katz-S.</author>
+
+	<source>Pediatr-Res. 1978 Nov. 12(11). P 1033-8.</source>
+
+	<abstract>Calcium-ATPase activity (Mg2+-dependent Ca2+-ATPase, ATP
+   phosphohydrolase, EC 3.6.1.3) in erythrocyte membrane preparations
+   from cystic fibrosis (CF) patients was greatly reduced compared to
+   erythrocyte membranes from control subjects. The Km for calcium was
+   found to be similar in the two groups; however, the Vmax, the maximal
+   rate of activation of the Ca2+-ATPase, is reduced by 50% in the
+   erythrocyte membrane preparations of the CF patients (P less than
+   0.001). In contrast, the Mg2+-ATPase activity of erythrocyte
+   membranes from CF patients was unchanged compared to the control
+   subjects. No difference in the Na+,K+-ATPase activity in erythrocyte
+   membranes from CF patients compared to control patients could be
+   observed. This indicates that the Ca2+-ATPase activity noted in CF
+   erythrocytes is not part of a generalized membrane or membrane-bound
+   enzyme alteration. It remains to be determined whether this
+   alteration in Ca2+-ATPase activity is directly related to a defect in
+   calcium transport in these cells and is a generalized phenomenon in
+   CF present in cell types more directly involved in secretion.</abstract>
+
+	<majorsubject>ADENOSINE-TRIPHOSPHATASE-CALCIUM: me</majorsubject>
+	<majorsubject>CALCIUM: me</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: en</majorsubject>
+	<majorsubject>ERYTHROCYTE-MEMBRANE: en</majorsubject>
+	<majorsubject>ERYTHROCYTES: en</majorsubject>
+	<majorsubject>MAGNESIUM: me</majorsubject>
+	<majorsubject>SODIUM: me</majorsubject>
+
+	<minorsubject>ADENOSINE-TRIPHOSPHATASE-SODIUM-POTASSIUM: me</minorsubject>
+	<minorsubject>ADOLESCENCE</minorsubject>
+	<minorsubject>ADULT</minorsubject>
+	<minorsubject>FEMALE</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>MALE</minorsubject>
+
+	<reference>001   BAKER PF              IN: BUTLER JAV                       179 972</reference>
+	<reference>002   BETTELHEIM FA         BIOCHIM BIOPHYS ACTA           236   702 971</reference>
+	<reference>003   BLOMFIELD J           ARCH DIS CHILD                  48   267 973</reference>
+	<reference>004   BLOSTEIN R            J BIOL CHEM                    243  1957 968</reference>
+	<reference>005   BLOSTEIN R            J BIOL CHEM                    245   270 970</reference>
+	<reference>006   BOAT TF               PEDIATR RES                      8   531 974</reference>
+	<reference>007   BOND GH               BIOCHIM BIOPHYS ACTA           323   592 973</reference>
+	<reference>008   CALDWELL PG           IN: CUTHBERT AW                       10 973</reference>
+	<reference>009   CHERNICK WS           J PEDIATR                       59   890 961</reference>
+	<reference>010   COLE CH               PEDIATR RES                      6   616 972</reference>
+	<reference>011   DI SANTAGNESE PA      N ENGL J MED                   277  1344 967</reference>
+	<reference>012   DOUGLAS WW            BR J PHARMACOL                  34   451 968</reference>
+	<reference>013   FEIG SA               PEDIATR RES                      8   594 974</reference>
+	<reference>014   FORSTNER JF           PEDIATR RES                     10   609 976</reference>
+	<reference>015   GIBSON LE             PEDIATRICS                      48   695 971</reference>
+	<reference>016   GLYNN IM              BIOCHEM J                       90   147 964</reference>
+	<reference>017   HORTON CR             BIOCHEM BIOPHYS RES COMMUN      40   505 970</reference>
+	<reference>018   KATZ S                CF CLUB ABST                    18     9 977</reference>
+	<reference>019   KATZ S                BIOCHIM BIOPHYS ACTA           389   314 975</reference>
+	<reference>020   KATZ AM               ADV CYCLIC NUCLEO RES            5   453 975</reference>
+	<reference>021   LEE KS                J GEN PHYSIOL                   54   713 969</reference>
+	<reference>022   LOWRY OH              J BIOL CHEM                    193   265 951</reference>
+	<reference>023   MANDEL ID             CLIN PEDIATR                     8   161 969</reference>
+	<reference>024   MCEVOY FA             CLIN CHIM ACTA                  54   195 974</reference>
+	<reference>025   POST RL               METHODS ENZYMOL                 10   762 967</reference>
+	<reference>026   RUSSELL JM            J GEN PHYSIOL                   63   144 974</reference>
+	<reference>027   SCHATZMANN HJ         J PHYSIOL (LOND)               235   551 973</reference>
+	<reference>028   WIESMANN UN           CF CLUB ABST                     9    12 968</reference>
+	<reference>029   WINS P                BIOCHIM BIOPHYS ACTA           120   341 966</reference>
+	<reference>030   ZIPKIN I              CF CLUB ABST                    11    57 970</reference>
+
+	<citation>1   GOPINATH RM           AM J HEMATOL                     7   303 979</citation>
+	<citation>2   ANSAH TA              CELL CALC                        1   195 980</citation>
+	<citation>3   SCANLIN TF            CLIN CHEST MED                   1   424 980</citation>
+	<citation>4   RAESS BU              J PHARMACOL METHODS              4   273 980</citation>
+	<citation>5   DAVIS PB              PEDIATR RES                     14    83 980</citation>
+	<citation>6   ANSAH TA              PROC WEST PHARMACOL SOC         23   389 980</citation>
+	<citation>7   KATZ S                CLIN CHIM ACTA                 100   245 980</citation>
+	<citation>8   FODER B               CLIN CHIM ACTA                 104   187 980</citation>
+	<citation>9   KATZ S                CELL CALC                        2   545 981</citation>
+	<citation>10   LARSEN FL             NATURE                         294   667 981</citation>
+	<citation>11   SORSCHER EJ           LANCET                           1   368 982</citation>
+	<citation>12   WARWICK WJ            AM J MED TECHNOLOGY             48   539 982</citation>
+	<citation>13   REINILA M             ANAL BIOCHEM                   124    19 982</citation>
+	<citation>14   APPLEGARTH DA         MED HYPOTHESES                  11   277 983</citation>
+	<citation>15   FONDACARO JD          LIFE SCI                        32  1449 983</citation>
+	<citation>16   HARRIS A              CLIN CHIM ACTA                 128    41 983</citation>
+	<citation>17   MINER C               J PHYSIOL (LOND)               338  P 63 983</citation>
+	<citation>18   NORDT FJ              ANN NY ACAD SCI                416   651 983</citation>
+	<citation>19   SEYMOUR CA            BIOESSAYS                        1    38 984</citation>
+	<citation>20   KATZ S                CELL CALC                        5   421 984</citation>
+	<citation>21   BERGHOUT AGRV         PEDIATR RES                     18  1017 984</citation>
+	<citation>22   DEARBORN DG           PEDIATR RES                     18   890 984</citation>
+	<citation>23   VONRUECKER AA         PEDIATR RES                     18   594 984</citation>
+	<citation>24   WALLER RL             LIFE SCI                        35   775 984</citation>
+	<citation>25   PETTEGREW JW          J MAGNET RESON                  57   185 984</citation>
+	<citation>26   CLOUGH DL             CLIN CHIM ACTA                 138   259 984</citation>
+	<citation>27   WALLER RL             CELL CALC                        6   245 985</citation>
+	<citation>28   SUTER S               PEDIATR RES                     19   346 985</citation>
+	<citation>29   ALBAZZAZ FJ           J APPL PHYSIOL                  59  1191 985</citation>
+	<citation>30   MUALLEM S             BIOCHIM BIOPHYS ACTA           819   143 985</citation>
+	<citation>31   ALLEN BG              CELL CALC                        7   161 986</citation>
+	<citation>32   BRIDGES MA            PEDIATR RES                     20   356 986</citation>
+	<citation>33   DAVIS PB              PEDIATR RES                     20  1290 986</citation>
+	<citation>34   RUPP GM               MED HYPOTHESES                  20   245 986</citation>
+	<citation>35   MORRISSEY SM          DIGESTION                       34    28 986</citation>
+	<citation>36   HUNSINGER RN          CLIN CHIM ACTA                 156   165 986</citation>
+	<citation>37   SCHONI MH             CELL CALC                        8    53 987</citation>
+
+</document>

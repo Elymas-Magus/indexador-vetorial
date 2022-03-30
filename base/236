@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Cystic fibrosis heterozygote detection: a family study.</title>
+
+	<author>Danes-B-S.</author>
+	<author>Beck-B.</author>
+	<author>Flensborg-E-W.</author>
+
+	<source>Clin-Genet. 1975 Jul. 8(1). P 85-91.</source>
+
+	<abstract>Family studies have been done to determine if the phenotypes
+   described for the cystic fibrosis (CF) cultured cell reliably
+   detected the CF gene. Two culture phenotypes were studied in culture
+   derived from consecutive generations in four CF families: (1) cystic
+   fibrosis factor (CFF) in the medium of short-term white blood cell
+   cultures assayed by a modified oyster ciliary test and (2) the three
+   characteristics of cultured skin fibroblasts (metachromasia without
+   alcianophilia at 0.3 M MgCl2, CFF in the culture medium and metabolic
+   cooperation with normal fibroblasts). As CF is an autosomal recessive
+   disorder, the family offered a test unit for determining the
+   specificity of these cell phenotypes for the CF gene. On the basis of
+   detecting the CF culture phenotypes in the homozygote and obligatory
+   heterozygotes, the parents, and their segregation in consecutive
+   generations, detection of the CF gene was not possible in the white
+   blood cell cultures, but was possible in the skin fibroblast
+   cultures.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS: fg</majorsubject>
+	<majorsubject>HETEROZYGOTE</majorsubject>
+
+	<minorsubject>CELLS-CULTURED</minorsubject>
+	<minorsubject>CHROMOSOME-MAPPING</minorsubject>
+	<minorsubject>FEMALE</minorsubject>
+	<minorsubject>FIBROBLASTS: cy</minorsubject>
+	<minorsubject>GENES</minorsubject>
+	<minorsubject>HOMOZYGOTE</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>LEUKOCYTES: cy</minorsubject>
+	<minorsubject>MALE</minorsubject>
+	<minorsubject>PEDIGREE</minorsubject>
+	<minorsubject>PHENOTYPE</minorsubject>
+
+	<reference>001   BERATIS NG            PEDIATR RES                      7   958 973</reference>
+	<reference>002   BOWMAN BH             PROC NAT ACAD SCI USA           70   548 973</reference>
+	<reference>003   BOWMAN BH             SCIENCE                        164   325 969</reference>
+	<reference>004   BOWMAN BH             SCIENCE                        167   871 970</reference>
+	<reference>005   CONOVER JH            PEDIATR RES                      7   220 973</reference>
+	<reference>006   CONOVER JH            PEDIATR RES                      7   224 973</reference>
+	<reference>007   CONOVER JH            LANCET                           1  1194 973</reference>
+	<reference>008$  DANES BS              BIRTH DEF ORIG ART SER           7   141 971</reference>
+	<reference>009   DANES BS              BIRTH DEF ORIG ART SER           8   114 972</reference>
+	<reference>010   DANES BS              LANCET                           2   765 973</reference>
+	<reference>011   DANES BS              CLIN GENET                       7   128 975</reference>
+	<reference>012   DANES BS              J EXP MED                      123     1 966</reference>
+	<reference>013   DANES BS              J EXP MED                      129   775 969</reference>
+	<reference>014   DANES BS              AM J HUM GENET                  23   297 971</reference>
+	<reference>015   DANES BS              J EXP MED                      137  1538 973</reference>
+	<reference>016   DANES BS              J EXP MED                      132   765 970</reference>
+	<reference>017   DI SANTAGNESE PA      N ENGL J MED                   277  1287 967</reference>
+	<reference>018   SPOCK A               PEDIATR RES                      1   173 967</reference>
+	<reference>019   WOOD RE               LANCET                           2  1452 973</reference>
+
+	<citation>1   GILLARD BK            PEDIATR RES                     10   907 976</citation>
+	<citation>2   DANES BS              TEX REP BIOL MED                34   135 976</citation>
+	<citation>3   WARD JB               TEX REP BIOL MED                34    11 976</citation>
+	<citation>4   DANES BS              CLIN GENET                      11    83 977</citation>
+	<citation>5   IMPERO JE             PEDIATR RES                     12   108 978</citation>
+	<citation>6   NIELSEN HE            ACTA PAEDIATR SCAND             67   443 978</citation>
+	<citation>7   PEDERSEN PS           ACTA PAEDIATR SCAND             70   507 981</citation>
+	<citation>8   WINGE P               DAN MED BULL                    29   358 982</citation>
+	<citation>9   BECK B                ACTA PAEDIATR SCAND SUPPL 301 1982   125 982</citation>
+
+</document>

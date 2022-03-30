@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>The elasticity of sputum at low shear rates.</title>
+
+	<author>Mitchell-Heggs-P.</author>
+	<author>Palfrey-A-J.</author>
+	<author>Reid-L.</author>
+
+	<source>Biorheology. 1974 Nov. 11(6). P 417-26.</source>
+
+	<abstract>Elasticity of sputum.  Elasticity of sputum has been determined
+   using the Weissenberg rheogoniometer, by oscillatory testing, over
+   frequencies from 0.01 to 0.8 c/s.  Sputum was from patients with
+   either asthma, chronic bronchitis, cystic fibrosis, or
+   bronchiectasis and, macroscopically, mucoid, mucopurulent or
+   purulent.  As in the viscosity plot over this shear rate range two
+   Zones with a junctional region can be distinguished.  In Zone 1,
+   over the lowest shear rates, elasticity increases slowly, changes
+   little over a &quot;plateau&quot; region and then, in Zone 2, increases
+   sharply.  In contrast to the viscosity plot, the plateau does not
+   show nothing.  By 0.8 c/s some samples show decreasing elasticity.
+   Although variance between samples is wide, there is no level of
+   elasticity characteristic of each disease or of one macroscopic
+   appearance.  Elasticity and viscosity are correlated, most
+   significantly at the lowest shear rates.  Asthmatic and
+   bronchiectatic sputa resemble each other in that this correlation
+   is still significant at higher shear rates, cystic fibrosis and
+   chronic bronchitic sputum in that it is not.  Since in these last
+   two mucous gland hypertrophy is present, it may be that the sputum
+   has a higher mucus component.</abstract>
+
+	<majorsubject>RHEOLOGY</majorsubject>
+	<majorsubject>SPUTUM: ph</majorsubject>
+
+	<minorsubject>ASTHMA: pp</minorsubject>
+	<minorsubject>BRONCHIECTASIS: pp</minorsubject>
+	<minorsubject>BRONCHITIS: pp</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS:  pp</minorsubject>
+	<minorsubject>ELASTICITY</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>VISCOSITY</minorsubject>
+
+	<reference>001   STURGESS J            THESIS                                   970</reference>
+	<reference>002   DAVIS SS              BIORHEOLOGY                      6    11 969</reference>
+	<reference>003   VAN WAZER JR          VISCOSITY AND FLOW MEASUREMEN            963</reference>
+	<reference>004   REID L                BULL PHYSIOPATH RESPIR NANCY     9    15 973</reference>
+	<reference>005   STURGESS JM           CLIN SCI                        38   145 970</reference>
+	<reference>006   STURGESS J            RHEOL ACTA                      10    36 971</reference>
+	<reference>007   DAVIS SS              BULL PHYSIOPATH RESPIR NANCY     9    47 973</reference>
+	<reference>008   MITCHELL-HEGGS PF     THESIS                                   974</reference>
+	<reference>009   ANON                  LANCET                           1   775 965</reference>
+	<reference>010   KESSLER WR            PEDIATRICS                       8   648 951</reference>
+	<reference>011   WEISSENBERG K         TESTING OF MATERIALS BY MEANS            964</reference>
+	<reference>012$  HELDERS FE            J AM CHEM SOC                   60  1575 956</reference>
+	<reference>013   REID L                LANCET                           1   275 954</reference>
+	<reference>014   JACKSON ADM           PROGNOSE CHRONISCHER                     960</reference>
+	<reference>015   GODFREY S             ARCH DIS CHILD                  46   144 971</reference>
+	<reference>017   REID L                THORAX                          15   132 960</reference>
+	<reference>018   REID L                IN: PORTER R                    38    43 971</reference>
+	<reference>019   BLAKE J               RESPIR PHYSIOL                  17   394 973</reference>
+	<reference>020   PALMER KNV            BR J DIS CHEST                  64   185 970</reference>
+	<reference>021   DULFANO MJ            AM REV RESPIR DIS              104    88 971</reference>
+
+	<citation>1   MEYER FA              BIORHEOLOGY                     13    49 976</citation>
+	<citation>2   REID L                POSTGRAD MED J                  52   183 976</citation>
+	<citation>3   WANNER A              AM REV RESPIR DIS              116    73 977</citation>
+	<citation>4   ANON                  LANCET                           1  1189 978</citation>
+	<citation>5   RICHARDSON PS         PHARMACOL THER (B)               3   441 978</citation>
+	<citation>6   GELMAN RA             AM REV RESPIR DIS              120   553 979</citation>
+	<citation>7   MCINTIRE LV           ANNU REV FLUID MECH             12   159 980</citation>
+	<citation>8   SHIMURA S             BIORHEOLOGY                     17   363 980</citation>
+	<citation>9   DAVIS SS              EUR J RESPIR DIS                61   141 980</citation>
+	<citation>10   TAKISHIMA T           TOHOKU J EXP MED               131   103 980</citation>
+	<citation>11   KIM CS                BULL EUR PHYSIOPATH RESP        18   915 982</citation>
+	<citation>12   WANNER A              SEM RESPIR MED                   5   329 984</citation>
+	<citation>13   RONCORONI AJ          MED (BUENOS AIRES)              45   183 985</citation>
+
+</document>

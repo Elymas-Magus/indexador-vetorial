@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Decreased formation of alpha 2-macroglobulin-protease complexes in
+   plasma of patients with cystic fibrosis.</title>
+
+	<author>Shapira-E.</author>
+	<author>Ben-Yoseph-Y.</author>
+	<author>Nadler-H-L.</author>
+
+	<source>Biochem-Biophys-Res-Commun. 1976 Aug 9. 71(3). P 864-70.</source>
+
+	<abstract>Alpha2-macroglobulin from patients with cystic fibrosis is shown to
+   have reduced binding with papain, trypsin, and thrombin.  The
+   obligate heterozygotes for cystic fibrosis revealed intermediate
+   values between the controls and the patients.  Since papain and
+   trypsin are not plasma endopeptidases, it becomes evident that the
+   absence of alpha2-macroglobulin-protease complex in cystic fibrosis
+   is due to a molecular defect within the macroglobulin.</abstract>
+
+	<majorsubject>ALPHA-MACROGLOBULINS: me</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: me</majorsubject>
+	<majorsubject>PEPTIDE-HYDROLASES:  bl</majorsubject>
+
+	<minorsubject>CYSTIC-FIBROSIS: en, fg</minorsubject>
+	<minorsubject>GEL-DIFFUSION-TESTS</minorsubject>
+	<minorsubject>HETEROZYGOTE</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>KINETICS</minorsubject>
+	<minorsubject>MACROMOLECULAR-SYSTEMS</minorsubject>
+	<minorsubject>PAPAIN</minorsubject>
+	<minorsubject>PRECIPITIN-TESTS</minorsubject>
+	<minorsubject>PROTEIN-BINDING</minorsubject>
+	<minorsubject>TRYPSIN</minorsubject>
+	<minorsubject>SUPPORT-U-S-GOVT-P-H-S</minorsubject>
+
+	<reference>001   LOBECK CC             IN: STANBURY JB                     1605 972</reference>
+	<reference>002   RAO GJS               J PEDIATR                       80   573 972</reference>
+	<reference>003   RAO GJS               PEDIATR RES                      8   684 974</reference>
+	<reference>004   RAO GJS               PEDIATR RES                      9   739 975</reference>
+	<reference>005   WILSON GB             PEDIATR RES                     10    87 976</reference>
+	<reference>007   BARRETT AJ            BIOCHEM J                      133   709 973</reference>
+	<reference>008   MANCINI G             IMMUNOCHEMISTRY                  2   235 965</reference>
+	<reference>009   HUNTER WM             NATURE                         194   495 962</reference>
+	<reference>010   TRAVIS J              J BIOL CHEM                    240  1962 965</reference>
+	<reference>011   GLASER AN             J BIOL CHEM                    236  2948 961</reference>
+	<reference>012   WINZOR DJ             ARCH BIOCHEM BIOPHYS           104   202 964</reference>
+	<reference>013   LAURELL CB            IN: PUTNAM FW                        246 975</reference>
+
+	<citation>1   RAO GJS               PEDIATR RES                     11   981 977</citation>
+	<citation>2   SHAPIRA E             CLIN CHIM ACTA                  78   359 977</citation>
+	<citation>3   SHAPIRA E             J BIOL CHEM                    252  7923 977</citation>
+	<citation>4   WILSON GB             PEDIATR RES                     12   801 978</citation>
+	<citation>5   ALHADEFF JA           CLIN GENET                      14   189 978</citation>
+	<citation>6   CHOY H                BIOCHEM BIOPHYS RES COMMUN      82  1325 978</citation>
+	<citation>7   GUY GJ                CLIN CHIM ACTA                  87    63 978</citation>
+	<citation>8   VIRCA GD              ANAL BIOCHEM                    89   274 978</citation>
+	<citation>9   ROMEO G               NATURE                         274   909 978</citation>
+	<citation>10   APPLEGARTH DA         LANCET                           2  1236 979</citation>
+	<citation>11   ROMEO G               PEDIATR RES                     13  1030 979</citation>
+	<citation>12   WILSON GB             PEDIATR RES                     13  1079 979</citation>
+	<citation>13   JAKEL HP              BIOL ZENTRALBL                  98    55 979</citation>
+	<citation>14   BENYOSEPH Y           CLIN CHIM ACTA                  99    31 979</citation>
+	<citation>15   COMINGS DE            AM J HUM GENET                  32   273 980</citation>
+	<citation>16   SHAPIRA E             BIOCHEM BIOPHYS RES COMMUN      93    50 980</citation>
+	<citation>17   ROMEO G               J LAB CLIN MED                  95   116 980</citation>
+	<citation>18   BURDON MG             CLIN CHIM ACTA                 100   225 980</citation>
+	<citation>19   PARSONS M             CLIN CHIM ACTA                 100   215 980</citation>
+	<citation>20   SCHIDLOW DV           AM REV RESPIR DIS              121    31 980</citation>
+	<citation>21   BENYOSEPH Y           PEDIATR RES                     15   839 981</citation>
+	<citation>22   BLITZER MG            J PEDIATR GASTROENTEROL NUTR     1   289 982</citation>
+	<citation>23   COX KL                J PEDIATR GASTROENTEROL NUTR     1   345 982</citation>
+	<citation>24   OWENSWILLIAMS L       J PEDIATR GASTROENTEROL NUTR     1   567 982</citation>
+	<citation>25   BURY AF               IRCS MED SCI BIOCHEM            10   255 982</citation>
+	<citation>26   BLITZER MG            PEDIATR RES                     16   203 982</citation>
+	<citation>27   ROBERTS RC            PEDIATR RES                     16   416 982</citation>
+	<citation>28   BRIDGES MA            CLIN CHIM ACTA                 118    33 982</citation>
+	<citation>29   TUMMLER B             CLIN CHIM ACTA                 125   219 982</citation>
+	<citation>30   BUCHANAN KD           SCAND J GASTROENTEROL           18   155 983</citation>
+	<citation>31   BRIDGES MA            ANN NY ACAD SCI                421   360 983</citation>
+	<citation>32   SHAPIRA E             ANN NY ACAD SCI                421   352 983</citation>
+	<citation>33   HJELM M               CLIN BIOCHEM                    17   284 984</citation>
+	<citation>34   EAGER KB              PEDIATR RES                     18   999 984</citation>
+	<citation>35   ANON                  LANCET                           2   249 985</citation>
+
+</document>

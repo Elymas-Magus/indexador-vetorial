@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Separation of ciliary dyskinesia substances found in serum and
+   secreted by cystic fibrosis leukocytes and lymphoid cell lines,
+   using protein A--Sepharose CL-4B.</title>
+
+	<author>Wilson-G-B.</author>
+	<author>Fudenberg-H-H.</author>
+
+	<source>J-Lab-Clin-Med. 1978 Sep. 92(3). P 463-82.</source>
+
+	<abstract>Cell-free culture medium from PHA-stimulated PBL cultures or
+   long-term lymphoid cell lines from CF homozygotes or obligate
+   heterozygotes, as well as serum from such individuals, can produce
+   three distinct changes in the ciliary beat of rabbit tracheal
+   ciliated epithelium: (1) increased beat frequency, (2) CD, and (3)
+   ciliostasis.  The ability to produce both 1 and 2 seems to be
+   characteristic for leukocyte cultures from CF genotypes: 46 of 49 CF
+   cultures produced both effects, as compared with none of 16 cultures
+   from normal controls and 1 of 10 from non-CF patient controls with
+   bronchial asthma.  CTA was not specific for CF PBL cultures, since
+   13% of normal control and 60% of the non-CF patient control cultures
+   produced ciliostasis.  Similar findings were obtained when serum from
+   the same individuals or culture medium from long-term lymphoid cell
+   lines was tested.  Using protein A from Staphylococcus aureus
+   covalently coupled to Sepharose CL-4B as a reagent, we separated the
+   CDAs present in serum and in culture medium from PBL and lymphoid
+   cultures.  Protein A specifically adsorbs IgG and binds it under mild
+   conditions at physiological pH.  The CDAs are noncovalently bound to
+   IgG at physiological pH and can be co-purified with IgG.  The IgG-CDA
+   complexes can be readily desorbed from protein A-Sepharose CL-4B at
+   pH 3.0, and under these conditions the CDAs are dissociated from IgG,
+   retain all their activity, and can be separated by chromatography on
+   Bio-Gel P-10 or Sephadex G-200.  Three distinct activities were
+   removed from serum or PBL cultures which showed both CDA and CTA, and
+   two were obtained from samples which showed only CDA.  One CDA
+   believed to be specific for CF (CF-CDA) was separated from CF serum
+   and PBL or lymphoid cell culture medium.  This CF-CDA was complexed
+   noncovalently to IgG (not subclass IgG3), had a molecular weight of
+   4000 to 6000, was stable as acid pH, was found in biological fluids
+   from both homozygotes and heterozygotes for CF, was shown not to be
+   C3a (anaphylatoxin), did not require IgG for activity, and was
+   positively charged at pH values more acidic than 8.0.</abstract>
+
+	<majorsubject>BACTERIAL-PROTEINS</majorsubject>
+	<majorsubject>CILIA: an</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: bl</majorsubject>
+	<majorsubject>LEUKOCYTES: se</majorsubject>
+
+	<minorsubject>CELL-LINE</minorsubject>
+	<minorsubject>CELL-MOVEMENT</minorsubject>
+	<minorsubject>CELLS-CULTURED</minorsubject>
+	<minorsubject>CILIA: ph</minorsubject>
+	<minorsubject>GENOTYPE</minorsubject>
+	<minorsubject>HETEROZYGOTE</minorsubject>
+	<minorsubject>HOMOZYGOTE</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>HYDROGEN-ION-CONCENTRATION</minorsubject>
+	<minorsubject>IGG: me</minorsubject>
+	<minorsubject>IN-VITRO</minorsubject>
+	<minorsubject>PROTEIN-BINDING</minorsubject>
+	<minorsubject>SERUM-ALBUMIN</minorsubject>
+	<minorsubject>SERUM-ALBUMIN-BOVINE</minorsubject>
+	<minorsubject>STAPHYLOCOCCUS</minorsubject>
+	<minorsubject>SUPPORT-U-S-GOVT-P-H-S</minorsubject>
+
+	<reference>001   SPOCK A               PEDIATR RES                      1   173 967</reference>
+	<reference>002   DI SANTAGNESE PA      N ENGL J MED                   295   481 976</reference>
+	<reference>003   WOOD RE               AM REV RESPIR DIS              111   733 975</reference>
+	<reference>004   WOOD RE               AM REV RESPIR DIS              113   833 976</reference>
+	<reference>005   BOWMAN BH             SCIENCE                        164   325 969</reference>
+	<reference>006   BESLEY GTN            J MED GENET                      6   278 969</reference>
+	<reference>007   BERATIS NG            PEDIATR RES                      7   958 973</reference>
+	<reference>008   BOWMAN BH             PROC NAT ACAD SCI USA           70   548 973</reference>
+	<reference>009   DANES BS              J EXP MED                      136  1313 972</reference>
+	<reference>010   CONOVER JH            PEDIATR RES                      7   224 973</reference>
+	<reference>011   DANES BS              CLIN GENET                       7   128 975</reference>
+	<reference>012   WILSON GB             CLIN RES                        25    34 977</reference>
+	<reference>014   BOWMAN BH             BIOCHEM BIOPHYS RES COMMUN      64  1310 975</reference>
+	<reference>015   DANES BS              J EXP MED                      137  1538 973</reference>
+	<reference>016   DANES BS              TEX REP BIOL MED                34   135 976</reference>
+	<reference>017   WILSON GB             PEDIATR RES                     11   317 977</reference>
+	<reference>018   CONOD EJ              PEDIATR RES                     11    45 977</reference>
+	<reference>019   GLADE PR              AM J PATHOL                     60   483 970</reference>
+	<reference>020   CONOVER JH            LANCET                           2  1501 973</reference>
+	<reference>021   CONOVER JH            PEDIATR RES                      7   220 973</reference>
+	<reference>022   WILSON GB             PEDIATR RES                     11   143 977</reference>
+	<reference>023   WILSON GB             IN: RADOLA BJ                        337 977</reference>
+	<reference>024   WILSON GB             NATURE                         266   463 977</reference>
+	<reference>025   HJELM H               FEBS LETTERS                    28    73 972</reference>
+	<reference>026   WILSON GB             PEDIATR RES                      9   635 975</reference>
+	<reference>027   WILSON GB             PEDIATR RES                     11   139 977</reference>
+	<reference>028   POLET H               J EXP MED                      142   949 975</reference>
+	<reference>029   BOYUM A               SCAND J CLIN LAB INVEST SUPPL   97    77 968</reference>
+	<reference>030   BRODER SW             BLOOD                           35   539 970</reference>
+	<reference>032   GRABAR P              BIOCHIM BIOPHYS ACTA            10   193 953</reference>
+	<reference>033   LAURELL CB            ANAL BIOCHEM                    15    45 966</reference>
+	<reference>034   FUDENBERG HH          BASIC IMMUNOGENETICS                     977</reference>
+	<reference>035   VYAS GN               J IMMUNOL                      100   274 968</reference>
+	<reference>036   PANDEY JP             J IMMUNOGENET                    5   122 978</reference>
+	<reference>037   BOHLEN P              ARCH BIOCHEM BIOPHYS           155   213 973</reference>
+	<reference>038   KRONVALL G            J IMMUNOL                      103   828 969</reference>
+	<reference>040   SPRAGG J              ANN NY ACAD SCI                209   372 973</reference>
+	<reference>041   AMAUD P               TRANS ASSOC AM PHYSICIANS       39   205 976</reference>
+	<reference>042   CONOVER JH            LIFE SCI                        14   253 974</reference>
+	<reference>043   CONOD EJ              PEDIATR RES                      9   724 975</reference>
+	<reference>044   VALLOTA EH            J EXP MED                      137  1109 973</reference>
+	<reference>045   BARNETT DR            TEX REP BIOL MED                31   709 973</reference>
+	<reference>046   WILSON GB             PEDIATR RES                     10    87 976</reference>
+	<reference>047   SHAPIRA E             J BIOL CHEM                    252  7923 977</reference>
+
+	<citation>1   WILSON GB             PEDIATR RES                     13  1079 979</citation>
+	<citation>2   STRAUSS RG            HELV PAEDIATR ACTA              34   429 979</citation>
+	<citation>3   WILSON GB             J CLIN INVEST                   66  1010 980</citation>
+	<citation>4   MOSS RB               AM REV RESPIR DIS              121    23 980</citation>
+	<citation>5   WILSON GB             PROC SOC EXP BIOL MED          164   105 980</citation>
+	<citation>6   ROOMANS GM            ULTRASTRUCTURAL PATHOL           2    53 981</citation>
+	<citation>7   WILSON GB             J CLIN INVEST                   68   171 981</citation>
+	<citation>8   WILSON GB             CLIN GENET                      26   331 984</citation>
+
+</document>

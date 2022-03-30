@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Additional data on hepatic function tests in cystic fibrosis.</title>
+
+	<author>Feigelson-J.</author>
+	<author>Pecau-Y.</author>
+	<author>Cathelineau-L.</author>
+	<author>Navarro-J.</author>
+
+	<source>Acta-Paediatr-Scand. 1975 Mar. 64(2). P 337-44.</source>
+
+	<abstract>Fifty cystic fibrosis (CF) patients, of whom 9 had multilobular
+   cirrhosis, were observed regularly for a period of 3 years and
+   various liver function tests, indicating cytolysis, cholestasis and
+   cellular insufficiency were performed. Immunoglobulin and prothrombin
+   were assayed. In 9 patients with cirrhosis, the tests were generally
+   abnormal. Two distinct biochemical patterns of cirrhosis were
+   distinguished, one clearly cholestatic and the other of a more
+   cellular type. The distinction was made on the basis of the IgA :
+   Transferrin ratio and of gamma-glutamyl-transpeptidase levels. In the
+   non-cirrhotic patients, a temporary increase of cytolysis and
+   cholestasis was observed in 50% of the cases.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS: pp</majorsubject>
+	<majorsubject>LIVER-FUNCTION-TESTS</majorsubject>
+	<majorsubject>LIVER: pp</majorsubject>
+
+	<minorsubject>ADOLESCENCE</minorsubject>
+	<minorsubject>ADULT</minorsubject>
+	<minorsubject>ALANINE-AMINOTRANSFERASE: bl</minorsubject>
+	<minorsubject>ALKALINE-PHOSPHATASE: bl</minorsubject>
+	<minorsubject>CHILD</minorsubject>
+	<minorsubject>CHILD-PRESCHOOL</minorsubject>
+	<minorsubject>CHOLINESTERASES: bl</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: bl, en</minorsubject>
+	<minorsubject>FEMALE</minorsubject>
+	<minorsubject>GAMMA-GLUTAMYLTRANSFERASE: bl</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>IGA</minorsubject>
+	<minorsubject>IGG</minorsubject>
+	<minorsubject>IGM</minorsubject>
+	<minorsubject>INFANT</minorsubject>
+	<minorsubject>LEUCINE-AMINOPEPTIDASE: bl</minorsubject>
+	<minorsubject>LIVER-CIRRHOSIS: bl, en</minorsubject>
+	<minorsubject>MALE</minorsubject>
+	<minorsubject>ORNITHINE-CARBAMOYLTRANSFERASE: bl</minorsubject>
+	<minorsubject>PROTHROMBIN: me</minorsubject>
+	<minorsubject>SERUM-ALBUMIN: me</minorsubject>
+	<minorsubject>TRANSFERRIN: me</minorsubject>
+	<minorsubject>VITAMIN-B-12: bl</minorsubject>
+
+	<reference>001   ARON E                ANN GASTROENTEROL HEPATOL        9     1 973</reference>
+	<reference>002   BABSON AL             CLIN CHEM                       12     8 966</reference>
+	<reference>003   BENHAMOU JP           PRESSE MED                      79   185 971</reference>
+	<reference>004   BERG T                ACTA UNIV UPSALIENSIS                    969</reference>
+	<reference>005   BODIAN M              FIBROCYSTIC DIS OF THE PANCRE            952</reference>
+	<reference>006   CRAIG JM              AM J DIS CHILD                  93   357 957</reference>
+	<reference>007   DOMINICK H            PROC EWGCF 4TH ANNU MTG                  973</reference>
+	<reference>008   ELLMAN G              BIOCHEM PHARMACOL                7    88 961</reference>
+	<reference>009   FEIGELSON J           ACTA PAEDIATR SCAND             59   539 970</reference>
+	<reference>010   FEIGELSON J           ACTA PAEDIATR SCAND             61   337 972</reference>
+	<reference>011   FEIGELSON J           NOUV PRESSE MED                  1  1899 972</reference>
+	<reference>012   GAUDIER B             LILLE MED                       15  1391 970</reference>
+	<reference>013   GEIGER H              Z KINDERHEILK                  109    22 970</reference>
+	<reference>014   HALLEN J              SCAND J CLIN LAB INVEST SUPPL  124    97 972</reference>
+	<reference>015   KATTWINKEL J          J PEDIATR                       82   234 973</reference>
+	<reference>016   LELONG M              ARCH FR PEDIATR                  7   234 950</reference>
+	<reference>017   LOGRIPPO GA           AM J GASTROENTEROL              54   357 971</reference>
+	<reference>019   NAGEL W               KLIN WOCHENSCHR                 42   447 964</reference>
+	<reference>020   REITMAN S             AM J CLIN PATHOL                28     1 957</reference>
+	<reference>021   RITLAND S             SCAND J GASTROENTEROL SUPPL     19   113 973</reference>
+	<reference>022   DI SANTAGNESE PA      PEDIATRICS                      18   387 956</reference>
+	<reference>023   SITZMANN FC           ARCH KINDERHEILK               175   263 967</reference>
+	<reference>024   SNODGRASS PJ          J LAB CLIN MED                  73   263 969</reference>
+	<reference>025   SZASZ G               CLIN CHEM                       15   124 969</reference>
+	<reference>026   TURLA B               RIV CLIN PEDIATR                78   485 966</reference>
+	<reference>027   TYSON KRT             J PEDIATR SURG                   3   271 968</reference>
+	<reference>028   WILROY RS JR          J PEDIATR                       68    67 966</reference>
+
+	<citation>1   PECAU Y               BIOL GASTROENTEROL               8   193 975</citation>
+	<citation>2   SCHWARZ HP            HELV PAEDIATR ACTA              33   351 978</citation>
+	<citation>3   PECAU Y               PATHOL BIOL (PARIS)             28   575 980</citation>
+	<citation>4   PECAU Y               SEM HOP PARIS                   57  1306 981</citation>
+	<citation>5   PARK RW               GASTROENTEROLOGY                81  1143 981</citation>
+	<citation>6   CORRIGAN JJ           J PEDIATR                       99   254 981</citation>
+	<citation>7   ROY CC                J PEDIATR GASTROENTEROL NUTR     1   469 982</citation>
+	<citation>8   MOWAT AP              CLIN GASTROENTEROL              11   171 982</citation>
+	<citation>9   BERNARD O             CLIN GASTROENTEROL              14    33 985</citation>
+	<citation>10   FEIGELSON J           ANN PEDIATR (PARIS)             32   218 985</citation>
+	<citation>11   BAILEY DJ             PEDIATRICS                      79   281 987</citation>
+
+</document>

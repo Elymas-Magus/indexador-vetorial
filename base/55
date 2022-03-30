@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Some aspects of immunity in patients with cystic fibrosis.</title>
+
+	<author>Wallwork-J-C.</author>
+	<author>Brenchley-P.</author>
+	<author>McCarthy-J.</author>
+	<author>Allan-J-D.</author>
+	<author>Moss-D.</author>
+	<author>Ward-A-M.</author>
+	<author>Holzel-A.</author>
+	<author>Williams-R-F.</author>
+	<author>McFarlane-H.</author>
+
+	<source>Clin-Exp-Immunol. 1974 Nov. 18(3). P 303-20.</source>
+
+	<abstract>Various aspects of the immune status were examined in patients with
+   cystic fibrosis (CF) and the following observations were made.  Ten
+   per cent of the CF patients had elevated or reduced serum IgG
+   concentrations and there seems to be a transient low serum IgA
+   concentration in the same number.  Serum IgM concentrations were
+   normal in CF patients.  Normal levels of the three serum
+   immunoglobulins (IgG, IgA and IgM) were detected in the siblings and
+   heterozygotes.  Serum IgE concentrations were elevated in 32% of
+   patients with CF but normal concentrations were detected in
+   heterozygotes and siblings.  Precipitating antibodies to various
+   antigens and allergens were detected in the sputum of most patients
+   with CF, but their sera contained lower or undetectable titres of
+   these antibodies.  The precipitating antibodies in CF sputum to
+   bacteria, to agar, to seminal fluid, to urine and to human serum may
+   be related to a common antigenic determinant of the glycoproteins
+   present in all these fluids.  The total protein concentration in the
+   sputum of CF patients seemed to reflect the extent of lung damage.
+   The third component (C3) of serum complement concentration was
+   normal, or moderately elevated in all CF patients tested.  Serum
+   transferrin concentrations were normal in CF patients but their
+   prealbumin levels were depressed, suggesting marginal
+   undernutrition.  Peripheral blood lymphocyte transformations with
+   PHA and PWM appear to be normal in CF patients.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS: im</majorsubject>
+
+	<minorsubject>ADOLESCENCE</minorsubject>
+	<minorsubject>ADULT</minorsubject>
+	<minorsubject>ALLERGENS</minorsubject>
+	<minorsubject>ANTIGEN-ANTIBODY-REACTIONS</minorsubject>
+	<minorsubject>CHILD</minorsubject>
+	<minorsubject>CHILD-PRESCHOOL</minorsubject>
+	<minorsubject>COMPLEMENT-3</minorsubject>
+	<minorsubject>FEMALE</minorsubject>
+	<minorsubject>FOOD-HYPERSENSITIVITY</minorsubject>
+	<minorsubject>GEL-DIFFUSION-TESTS</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>IGA: an</minorsubject>
+	<minorsubject>IGG: an</minorsubject>
+	<minorsubject>IGM: an</minorsubject>
+	<minorsubject>IMMUNOGLOBULINS-J-CHAIN</minorsubject>
+	<minorsubject>INFANT</minorsubject>
+	<minorsubject>INFANT-NEWBORN</minorsubject>
+	<minorsubject>INTESTINAL-ABSORPTION</minorsubject>
+	<minorsubject>LYMPHOCYTE-TRANSFORMATION</minorsubject>
+	<minorsubject>MALE</minorsubject>
+	<minorsubject>NUTRITION-DISORDERS</minorsubject>
+	<minorsubject>LECTINS</minorsubject>
+	<minorsubject>LECTINS</minorsubject>
+	<minorsubject>PREALBUMIN: an</minorsubject>
+	<minorsubject>PRECIPITIN-TESTS</minorsubject>
+	<minorsubject>PROTEINS: im</minorsubject>
+	<minorsubject>RETICULIN: im</minorsubject>
+	<minorsubject>SPUTUM: im</minorsubject>
+	<minorsubject>TRANSFERRIN: an</minorsubject>
+
+	<reference>001   AMMANN AJ             LANCET                           1  1264 971</reference>
+	<reference>002   ANDERSEN DH           J PEDIATR                       15   763 939</reference>
+	<reference>003   BAZARAL M             J ALLERGY CLIN IMMUNOL          49   189 971</reference>
+	<reference>004   BERATIS NG            PEDIATR RES                      7   958 973</reference>
+	<reference>005   BESLEY GTN            J MED GENET                      6   278 969</reference>
+	<reference>006   BIGGAR WD             PROC NAT ACAD SCI USA           68  1716 971</reference>
+	<reference>007   BOWMAN BH             SCIENCE                        164   325 969</reference>
+	<reference>008   BRANDTZAEG P          SCAND J HAEMATOL SUPPL          12     1 970</reference>
+	<reference>009   BURNS MW              LANCET                           1   354 967</reference>
+	<reference>010   CRIFO S               PRACT OTORHINOLARYNGOL          33   394 971</reference>
+	<reference>011   DANES BS              J EXP MED                      137  1538 973</reference>
+	<reference>012   DOGGETT RG            IN: LAWSON D PROC 5TH INT CF         175 969</reference>
+	<reference>013   ESSEN R               LANCET                           1  1157 972</reference>
+	<reference>014   FLEISHER DS           J PEDIATR                       64   341 964</reference>
+	<reference>015$  GELL PGH              J CLIN PATHOL                   10    67 957</reference>
+	<reference>016   GRABAR P              IN: GRABAR P                           3 964</reference>
+	<reference>017   HEIDELBERGER M        J AM CHEM SOC                   77  3511 955</reference>
+	<reference>018   HOLSCLAW DS           J UROL                         106   568 971</reference>
+	<reference>019   HUMPHREY JH           IMMUNOLOGY FOR STUDENTS OF ME            963</reference>
+	<reference>020   IZUMI K               CARBOHYD RES                    17   227 971</reference>
+	<reference>021   JOHANSSEN SGO         IMMUNOLOGY                      10   265 968</reference>
+	<reference>022   KOHN J                J CLIN PATHOL                   23   733 970</reference>
+	<reference>023   LAWSON D              IN: WATT PJ                           69 970</reference>
+	<reference>024   LOWRY OH              J BIOL CHEM                    193   265 951</reference>
+	<reference>025   MCCARTHY DS           IN: LAWSON D PROC 5TH INT CF         194 969</reference>
+	<reference>026   MCFARLANE H           W AFR MED J                      7   149 968</reference>
+	<reference>027   MCFARLANE H           LANCET                           2  1146 971</reference>
+	<reference>028   MCFARLANE H           SYMP INT TECHNICON                       973</reference>
+	<reference>029   MCFARLANE H           CLIN EXP IMMUNOL                13   153 973</reference>
+	<reference>030   MCFARLANE H           BR MED J                         4   268 970</reference>
+	<reference>031   MANCINI G             IMMUNOCHEMISTRY                  2   235 965</reference>
+	<reference>032   MARTINEZ-TELLO FJ     J IMMUNOL                      101   989 968</reference>
+	<reference>033   MURRAY MJ             ANN INTERN MED                  53   548 960</reference>
+	<reference>034   NAGASAWA T            J IMMUNOL                      103   736 969</reference>
+	<reference>035   NEVILLE DM            J BIOL CHEM                    246  6328 971</reference>
+	<reference>036   RICHIE RF             COLLOQ TECHNICON INT CONG                972</reference>
+	<reference>037   ROWE WS               BULL WHO                        43   609 970</reference>
+	<reference>038   SEAH PP               LANCET                           1   834 971</reference>
+	<reference>039   SEAH PP               LANCET                           2   681 971</reference>
+	<reference>040   SEAH PP               LANCET                           1   611 972</reference>
+	<reference>041   SIRISHINHA S          LANCET                           1  1016 973</reference>
+	<reference>042   SMITH FR              J LAB CLIN MED                  80   423 972</reference>
+	<reference>043   SMYTHE PM             LANCET                           2   939 971</reference>
+	<reference>044   SOOTHILL JF           J LAB CLIN MED                  59   859 962</reference>
+	<reference>045   SOUTH MA              J PEDIATR                       71   645 967</reference>
+	<reference>046   SPITZ E               J ALLERGY CLIN IMMUNOL          49   337 972</reference>
+	<reference>047   SPOCK A               PEDIATR RES                      1   173 967</reference>
+	<reference>048   STEIN AA              J PEDIATR                       65   495 964</reference>
+	<reference>049   TAYLOR B              LANCET                           2   111 973</reference>
+	<reference>050   TOMASI TB JR          N ENGL J MED                   287   500 972</reference>
+	<reference>051   WAGSTAFF BW           PROC AM PEDIATR SOC ANNU MTG             966</reference>
+	<reference>052   WHISTLER RL           POLYSACCHARIDE CHEMISTRY             227 953</reference>
+
+	<citation>1   MCFARLANE H           BR MED J                         1   423 975</citation>
+	<citation>2   ALLAN JD              CLIN ALLERGY                     5   255 975</citation>
+	<citation>3   WALLWORK JC           CLIN CHEM                       21   984 975</citation>
+	<citation>4   HOIBY N               ACTA PATH MICROBIOL SCAND (C)   83   459 975</citation>
+	<citation>5   GIBBONS A             BR MED J                         1   120 976</citation>
+	<citation>6   MCFARLANE H           LANCET                           1  1241 976</citation>
+	<citation>7   WALLWORK JC           CLIN ALLERGY                     6   349 976</citation>
+	<citation>8   WEEKE B               DAN MED BULL                    23   155 976</citation>
+	<citation>9   CLARKE CW             THORAX                          31   702 976</citation>
+	<citation>10   ANON                  NUTR REV                        34   210 976</citation>
+	<citation>11   MCFARLANE H           PROC NUTR SOC                   35   263 976</citation>
+	<citation>12   MITCHELLHEGGS P       Q J MED                         45   479 976</citation>
+	<citation>13   WARNER JO             ARCH DIS CHILD                  51   507 976</citation>
+	<citation>14   GALANT SP             AM REV RESPIR DIS              114   325 976</citation>
+	<citation>15   DISANTAGNESE PA       N ENGL J MED                   295   597 976</citation>
+	<citation>16   HOIBY N               ACTA PATH MICROBIOL SCAND (C) S262     3 977</citation>
+	<citation>17   NOVEY HS              LANCET                           2   249 977</citation>
+	<citation>18   GENIN C               ARCH FR PEDIATR                 34   717 977</citation>
+	<citation>19   RAEBURN JA            PROC NUTR SOC                   36    77 977</citation>
+	<citation>20   STRUNK RC             ARCH DIS CHILD                  52   687 977</citation>
+	<citation>21   ROSSMAN CM            J PEDIATR                       90   579 977</citation>
+	<citation>22   ANON                  LANCET                           2   715 978</citation>
+	<citation>23   TURNER MW             ARCH DIS CHILD                  53   631 978</citation>
+	<citation>24   HILTON AM             BR J DIS CHEST                  72   207 978</citation>
+	<citation>25   SORENSEN RU           J PEDIATR                       93   201 978</citation>
+	<citation>26   HOIBY N               MONOGR PAEDIATR                 10   138 979</citation>
+	<citation>27   SORENSEN RU           INFECT IMMUN                    23   398 979</citation>
+	<citation>28   CARSWELL F            CLIN EXP IMMUNOL                35   141 979</citation>
+	<citation>29   HOIBY N               ACTA PAEDIATR SCAND             68   495 979</citation>
+	<citation>30   HODSON ME             THORAX                          35   801 980</citation>
+	<citation>31   TACIEREUGSTER H       HELV PAEDIATR ACTA              35    31 980</citation>
+	<citation>32   TOBIN MJ              THORAX                          35   807 980</citation>
+	<citation>33   FICK RB               J IMMUNOL METH                  38   103 980</citation>
+	<citation>34   MIELIVERGANI G        ARCH DIS CHILD                  55   696 980</citation>
+	<citation>35   WILSON GB             J CLIN INVEST                   66  1010 980</citation>
+	<citation>36   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C)   88   275 980</citation>
+	<citation>37   MOSS RB               AM REV RESPIR DIS              121    23 980</citation>
+	<citation>38   BALTIMORE RS          J INFECT DIS                   141   238 980</citation>
+	<citation>39   HARPER TB             LUNG                           157   219 980</citation>
+	<citation>40   MATTHEWS WJ           N ENGL J MED                   302   245 980</citation>
+	<citation>41   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C) S276     1 981</citation>
+	<citation>42   HODSON ME             CLIN ALLERGY                    11   565 981</citation>
+	<citation>43   LEVINSKY RJ           J TROP PEDIATR                  27     1 981</citation>
+	<citation>44   FICK RB               J CLIN INVEST                   68   899 981</citation>
+	<citation>45   PENNINGTON JE         J CLIN INVEST                   68  1140 981</citation>
+	<citation>46   HOIBY N               ACTA PATH MICROBIOL SCAND (C)   89   185 981</citation>
+	<citation>47   VANGEFFEL R           ANN IMMUNOL (PARIS)           D133   293 982</citation>
+	<citation>48   VANGEFFEL R           IMMUNOL LETTERS                  5   155 982</citation>
+	<citation>49   MOSS RB               CLIN EXP IMMUNOL                47   301 982</citation>
+	<citation>50   GOTZ M                CLIN EXP IMMUNOL                50   178 982</citation>
+	<citation>51   SCHIOTZ PO            ACTA PAEDIATR SCAND SUPPL 301 1982    55 982</citation>
+	<citation>52   LEVINSKY RJ           CLIN IMMUNOL ALLERGY             3   441 983</citation>
+	<citation>53   FICK RB               BULL EUR PHYSIOPATH RESP        19   151 983</citation>
+	<citation>54   SCHONHEYDER H         ACTA PATH MICROB IMMU SCA (B)   91   187 983</citation>
+	<citation>55   HODSON ME             POSTGRAD MED J                  60   225 984</citation>
+	<citation>56   SPEERT DP             SURV SYNTH PATHOL RES            4    14 985</citation>
+	<citation>57   MOSS RB               MONOGR ALLERGY                  19   202 986</citation>
+	<citation>58   DISIS ML              PEDIATR RES                     20   385 986</citation>
+	<citation>59   FERGUSON A            HUM NUTR CLIN NUTR             40C   255 986</citation>
+	<citation>60   MOSS RB               CHEST                           91   522 987</citation>
+
+</document>

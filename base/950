@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Cystic fibrosis: isolation and physical properties of a salivary
+   cystic fibrosis factor.</title>
+
+	<author>Impero-J-E.</author>
+	<author>Harrison-G-M.</author>
+	<author>Nelson-T-E.</author>
+
+	<source>Pediatr-Res. 1978 Feb. 12(2). P 108-14.</source>
+
+	<abstract>A ciliostatic factor has been isolated from cystic fibrosis (CF)
+   saliva by dialyzing it from purified alpha-amylase prepared by a
+   glycogen-complex method. This method of isolating the CF factor is an
+   improvement over the previously employed heparin procedure. The
+   activity of the isolated factor is proportional with concentration
+   using the oyster gill ciliostatic assay and in its inhibition of
+   mammalian glycogen debranching enzyme. The ciliostatic action of the
+   factor can be reversed by heparin under certain conditions. The type
+   of inhibition of the debranching enzyme by the isolated CF factor
+   indicates that its chemical structure is similar to that observed
+   with hydroxyalkylamines and polyamine metabolites. Physical
+   properties of the isolated factor indicate that it is of low
+   molecular weight and is labile as a function of pH and temperature.
+   At neutral pH the conditions under which it is maintained have a
+   direct effect on the length of time that it is stable.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS: me</majorsubject>
+	<majorsubject>SALIVA: an</majorsubject>
+	<majorsubject>SALIVARY-PROTEINS: ip</majorsubject>
+
+	<minorsubject>ALPHA-AMYLASE: ip, pd</minorsubject>
+	<minorsubject>ANIMAL</minorsubject>
+	<minorsubject>CILIA: de</minorsubject>
+	<minorsubject>GLYCOGEN-DEBRANCHING-ENZYME: ai</minorsubject>
+	<minorsubject>GLYCOGEN</minorsubject>
+	<minorsubject>HEPARIN</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>HYDROGEN-ION-CONCENTRATION</minorsubject>
+	<minorsubject>IN-VITRO</minorsubject>
+	<minorsubject>METHODS</minorsubject>
+	<minorsubject>OYSTERS</minorsubject>
+	<minorsubject>RABBITS</minorsubject>
+	<minorsubject>SALIVARY-PROTEINS: pd</minorsubject>
+	<minorsubject>TEMPERATURE</minorsubject>
+	<minorsubject>SUPPORT-U-S-GOVT-P-H-S</minorsubject>
+
+	<reference>001   ARAKI H               PEDIATR RES                      9   932 975</reference>
+	<reference>002   ASANO T               AM J PHYSIOL                   207   415 964</reference>
+	<reference>003   BERNFELD P            METHODS ENZYMOL                  1   149 955</reference>
+	<reference>004   BESLEY GTN            J MED GENET                      6   278 969</reference>
+	<reference>005   BISHOP SH             CF CLUB ABST                    14    25 973</reference>
+	<reference>006   BOWMAN BH             IN: MANGOS JA                        277 976</reference>
+	<reference>007   BOWMAN BH             SCIENCE                        164   325 969</reference>
+	<reference>008   ANON                  GAP CONF REP CILIARY INHIBITO          2 973</reference>
+	<reference>009   CONOVER JH            PEDIATR RES                      7   220 973</reference>
+	<reference>010   DANES BS              CLIN GENET                       7   128 975</reference>
+	<reference>011   DANES BS              J EXP MED                      136  1313 972</reference>
+	<reference>012   DANES BS              CLIN GENET                       8    85 975</reference>
+	<reference>013   DEARBORN DG           GAP CONF REP POLYAMINES               19 976</reference>
+	<reference>014   DI SANTAGNESE PA      N ENGL J MED                   295   481 976</reference>
+	<reference>015   DOGGETT RG            TEX REP BIOL MED                31   685 973</reference>
+	<reference>016   DOGGETT RG            NATURE NEW BIOL                243   250 973</reference>
+	<reference>018   DUBOIS M              ANAL CHEM                       28   350 956</reference>
+	<reference>019   FISHER EH             BIOCHEM PREP                     8    27 961</reference>
+	<reference>020   GILLARD BK            PEDIATR RES                     10   907 976</reference>
+	<reference>021   GILLARD BK            BIOCHEMISTRY                    16  3978 977</reference>
+	<reference>022   KAISER D              LANCET                           1  1003 970</reference>
+	<reference>023   KIMES BW              BIOCHIM BIOPHYS ACTA           228   223 971</reference>
+	<reference>024   LEVITZKI A            BIOCHIM BIOPHYS ACTA            81   101 964</reference>
+	<reference>025   LOBECK CC             IN: STANBURY JB                     1605 972</reference>
+	<reference>026   LOCKHART LH           TEX REP BIOL MED                31   631 973</reference>
+	<reference>027   LOWRY OH              J BIOL CHEM                    193   265 951</reference>
+	<reference>028   LOYTER A              BIOCHIM BIOPHYS ACTA            65   200 962</reference>
+	<reference>029   MANGOS JA             SCIENCE                        158   135 967</reference>
+	<reference>030   MANGOS JA             PEDIATR RES                      2   378 968</reference>
+	<reference>031   MANGOS JA             PEDIATR RES                      1   436 967</reference>
+	<reference>032   MCCOMBS ML            TEX REP BIOL MED                31   615 973</reference>
+	<reference>033   MCNEELY CM            CF CLUB ABST                    16     6 975</reference>
+	<reference>034   MILLER GL             ANAL CHEM                       31   964 959</reference>
+	<reference>035   NELSON TE             CF CLUB ABST                           7 974</reference>
+	<reference>036   NELSON TE             FED PROC                        33  1311 974</reference>
+	<reference>037   NELSON TE             BIOCHEMISTRY                     8  1419 969</reference>
+	<reference>038   NELSON TE             FED PROC                        32   627 973</reference>
+	<reference>039   SCHMOYER IR           BIOCHEM BIOPHYS RES COMMUN      46  1923 972</reference>
+	<reference>040   SPOCK A               PEDIATR RES                      1   173 967</reference>
+	<reference>041   TAYLOR A              PEDIATR RES                      8   861 974</reference>
+	<reference>042   WATTS TE              ANAL BIOCHEM                    49   479 972</reference>
+	<reference>043   WILSON GB             PEDIATR RES                      9   635 975</reference>
+	<reference>044   WOOD RE               LANCET                           2  1452 973</reference>
+
+	<citation>1   IMPERO JE             PEDIATR RES                     15   940 981</citation>
+	<citation>2   CEDER O               SCANN ELECTRON MICROSC        1982   723 982</citation>
+	<citation>3   BOGART BI             J CHROMATOGR                   381    29 986</citation>
+
+</document>

@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Enhanced renal excretion of dicloxacillin in patients with cystic
+   fibrosis.</title>
+
+	<author>Jusko-W-J.</author>
+	<author>Mosovich-L-L.</author>
+	<author>Gerbracht-L-M.</author>
+	<author>Mattar-M-E.</author>
+	<author>Yaffe-S-J.</author>
+
+	<source>Pediatrics. 1975 Dec. 56(6). P 1038-44.</source>
+
+	<abstract>Single oral doses of 6.25 mg/kg of dicloxacillin suspension were
+   given to ten cystic fibrosis (CF) patients and eight normal subjects.
+   Peak serum concentrations and areas under the concentration versus
+   time curves for dicloxacillin were variable and, on average, were 2
+   1/2 times lower in the CF patients. The time of occurrence of the
+   peak serum concentration was similar in both groups and the total
+   urinary recovery of dicloxacillin was normal or increased in the CF
+   patients, suggesting that the intestinal absorption of the drug was
+   unaffected by the disease. The low serum concentrations in the CF
+   patients were caused by unusually high renal clearances of
+   dicloxacillin which average 282 +/- 135 compared to 95 +/- 28
+   ml/min/1.73 sq m in the normal subjects. Creatinine clearances were
+   also elevated in the CF patients by 55% on average, while urea
+   clearances were normal. The serum protein binding of dicloxacillin
+   was similar in both groups of subjects. Because the rapid excretion
+   results in low and variable serum concentrations of the antibiotic,
+   treatment of CF patients with dicloxacillin may warrant use of
+   increased or more frequent doses and monitoring of serum antibiotic
+   levels.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS: dt</majorsubject>
+	<majorsubject>DICLOXACILLIN: ur</majorsubject>
+
+	<minorsubject>ADOLESCENCE</minorsubject>
+	<minorsubject>ADULT</minorsubject>
+	<minorsubject>BIOLOGICAL-AVAILABILITY</minorsubject>
+	<minorsubject>CHILD</minorsubject>
+	<minorsubject>COMPARATIVE-STUDY</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: ur, bl</minorsubject>
+	<minorsubject>DICLOXACILLIN: tu, bl</minorsubject>
+	<minorsubject>FEMALE</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>KIDNEY: me</minorsubject>
+	<minorsubject>MALE</minorsubject>
+	<minorsubject>PROTEIN-BINDING</minorsubject>
+	<minorsubject>SUPPORT-U-S-GOVT-P-H-S</minorsubject>
+
+	<reference>001   LOWE CU               IN: BARNETT HL                       413 972</reference>
+	<reference>002   HARRIS R              ARCH DIS CHILD                  30   424 955</reference>
+	<reference>003   DEREN JJ              N ENGL J MED                   288   949 973</reference>
+	<reference>004   WEBER AM              N ENGL J MED                   289  1001 973</reference>
+	<reference>005   DIEM K                DOCUMENTA GEIGY SCIENTIFIC TA            970</reference>
+	<reference>006   BENNETT JV            APPL MICROBIOL                  14   170 966</reference>
+	<reference>007   HEINEGARD D           CLIN CHIM ACTA                  43   305 973</reference>
+	<reference>008   CROCKER CL            AM J MED TECHNOLOGY             33   361 967</reference>
+	<reference>009   JUSKO WJ              J PHARM SCI                     58    57 969</reference>
+	<reference>010   BENNETT JV            J LAB CLIN MED                  66   721 965</reference>
+	<reference>011   STROBER W             PEDIATRICS                      43   416 969</reference>
+	<reference>012   WILSON GB             CLIN CHIM ACTA                  49    79 973</reference>
+	<reference>013   DOLUISIO JT           ANTIMICROB AGENTS CHEMOTHER      9    49 969</reference>
+	<reference>014   DITTERT LW            ANTIMICROB AGENTS CHEMOTHER      9    42 969</reference>
+	<reference>015   ROSENBLATT JE         ARCH INTERN MED                121   345 968</reference>
+	<reference>016   JUSKO WJ              J PHARM SCI                     61  1270 972</reference>
+	<reference>017   AGUSTA VE             J UROL                         110   113 973</reference>
+	<reference>018   RENNICK BR            AM J PHYSIOL                   212  1131 967</reference>
+	<reference>019   MOGENSEN CE           DIABETES                        22   706 973</reference>
+
+	<citation>1   WOOD RE               AM REV RESPIR DIS              113   833 976</citation>
+	<citation>2   YAFFE SJ              ANN NY ACAD SCI                281    90 976</citation>
+	<citation>3   YAFFE SJ              J INFECT DIS                   135   828 977</citation>
+	<citation>4   SOUICH PD             CLIN PHARMACOKINET               3   257 978</citation>
+	<citation>5   GUGGENBICHLER JP      MONOGR PAEDIATR                 10    34 979</citation>
+	<citation>6   BERGAN T              ARZNEIMITTEL FORSCH DRUG RES  29-2  1955 979</citation>
+	<citation>7   BRYSON YJ             J PEDIATR                       94   673 979</citation>
+	<citation>8   FINKELSTEIN E         J PEDIATR                       94   163 979</citation>
+	<citation>9   SOLDIN SJ             THER DRUG MONITOR                2   417 980</citation>
+	<citation>10   PRINCE AS             J PEDIATR                       97   148 980</citation>
+	<citation>11   BAGGOT JD             J AM VET MED ASSOC             176  1085 980</citation>
+	<citation>12   MICHALSEN H           ANTIMICROB AGENTS CHEMOTHER     19  1029 981</citation>
+	<citation>13   STRANDVIK B           LANCET                           1   800 982</citation>
+	<citation>14   BINS JW               BR J CLIN PHARMACOL             14  P611 982</citation>
+	<citation>15   SOLDIN SJ             ADV CHROMATOGR                  20   139 982</citation>
+	<citation>16   NEU HC                MED CLIN NORTH AM               66    51 982</citation>
+	<citation>17   KEARNS GL             J PEDIATR                      100   312 982</citation>
+	<citation>18   EICHENWALD HF         PEDIATR PHARMACOL                3   181 983</citation>
+	<citation>19   PADOAN R              DRUGS UNDER EXP CLIN RES         9   661 983</citation>
+	<citation>20   HUANG NN              J ANTIMICROB CHEMOTHER          11   205 983</citation>
+	<citation>21   KAMPF D               J ANTIMICROB CHEMOTHER          11    25 983</citation>
+	<citation>22   ASSAEL BM             J ANTIMICROB CHEMOTHER          12   341 983</citation>
+	<citation>23   KERCSMAR CM           J ANTIMICROB CHEMOTHER          12   289 983</citation>
+	<citation>24   LEFF RD               PEDIATR CLIN NORTH AM           30    93 983</citation>
+	<citation>25   ARVIDSSON A           ACTA PAEDIATR SCAND             72   293 983</citation>
+	<citation>26   THIRUMOORTHI MC       J PEDIATR                      102   941 983</citation>
+	<citation>27   MACDONALD NE          J PEDIATR                      103   985 983</citation>
+	<citation>28   PADOAN R              J PEDIATR                      103   320 983</citation>
+	<citation>29   ISLES A               AM REV RESPIR DIS              127   417 983</citation>
+	<citation>30   NAHATA MC             DEVELOP PHARM THER               7   221 984</citation>
+	<citation>31   MARTINI N             J CLIN HOSP PHARM                9   303 984</citation>
+	<citation>32   TURNER A              J ANTIMICROB CHEMOTHER          14   521 984</citation>
+	<citation>33   KELLY HW              DRUG INTEL CLIN PHARM           18   772 984</citation>
+	<citation>34   SCHOFIELD DH          DRUG INTEL CLIN PHARM           18   153 984</citation>
+	<citation>35   BOSSO JA              ANTIMICROB AGENTS CHEMOTHER     25   630 984</citation>
+	<citation>36   REED MD               ANTIMICROB AGENTS CHEMOTHER     25   579 984</citation>
+	<citation>37   LEEDER JS             CLIN PHARMACOL THER             36   355 984</citation>
+	<citation>38   REED MD               J PEDIATR                      104   303 984</citation>
+	<citation>39   SPINO M               J PEDIATR                      105   829 984</citation>
+	<citation>40   ANON                  LANCET                           1  1020 985</citation>
+	<citation>41   KUHN RJ               CLIN PHARMACY                    4   555 985</citation>
+	<citation>42   WOOLF RA              CLIN PHARMACY                    4   664 985</citation>
+	<citation>43   HARRISON CJ           PEDIATR PHARMACOL                5     7 985</citation>
+	<citation>44   PRANDOTA J            DEVELOP PHARM THER               8   311 985</citation>
+	<citation>45   REED MD               ANTIMICROB AGENTS CHEMOTHER     27   583 985</citation>
+	<citation>46   BLUMER JL             AM J MED                        79    37 985</citation>
+	<citation>47   HORREVORTS AM         CHEST                           88   260 985</citation>
+	<citation>48   JACOBS RF             J PEDIATR                      106  1001 985</citation>
+	<citation>49   WILSON CB             J PEDIATR                      106  1049 985</citation>
+	<citation>50   SPINO M               J PEDIATR                      107    64 985</citation>
+	<citation>51   REED MD               PEDIATR PULMONOL                 2   282 986</citation>
+	<citation>52   ASSAEL BM             INT J PEDIATR NEPHROL            7   213 986</citation>
+	<citation>53   MICHALSEN H           METH FIND EXP CLIN PHARMACOL     8   685 986</citation>
+	<citation>54   MICHALSEN H           METH FIND EXP CLIN PHARMACOL     8   727 986</citation>
+	<citation>55   BENDER SW             INFECTION                       14    17 986</citation>
+	<citation>56   BRAGANZA JM           MED HYPOTHESES                  20   233 986</citation>
+	<citation>57   WRIGHT DB             DRUG INTEL CLIN PHARM           20   845 986</citation>
+	<citation>58   GOLDFARB J            J CLIN PHARMACOL                26   222 986</citation>
+	<citation>59   LEBEL M               ANTIMICROB AGENTS CHEMOTHER     30   260 986</citation>
+	<citation>60   LITTLEWOOD JM         J ROY SOC MED                   79    55 986</citation>
+	<citation>61   BLUMER JL             J PEDIATR                      108   854 986</citation>
+	<citation>62   KEARNS GL             J PEDIATR                      108   847 986</citation>
+
+</document>

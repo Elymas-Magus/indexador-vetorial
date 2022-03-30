@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Acid mucins in human intestinal goblet cells.</title>
+
+	<author>Morrissey-S-M.</author>
+	<author>Tymvios-M-C.</author>
+
+	<source>J-Pathol. 1978 Dec. 126(4). P 197-208.</source>
+
+	<abstract>Acid mucins in goblet cells of the duodenum, jejunum and ileum of
+   neonates and infants with cystic fibrosis (CF) and without CF were
+   measured by scanning microdensitometry after alcian blue staining
+   according to the protocol of McCarthy and Reid (1963) which
+   characterises four groups of acidic mucins. In CF infants over 6 mth
+   of age, but not in controls, there was an increase along the gut from
+   duodenum to ileum of both weakly acidic and strongly acidic
+   sulphomucins. In the ileum the increase was in total mucins from 6
+   mth previously in the same CF patients and this difference could be
+   accounted for by an increase of sialidase-resistant mucins. The
+   increase in sulphomucins was more marked at the tip than at the base
+   of the villi. In CF neonates there was significant difference in the
+   quantities of acidic mucins. The question whether the mucins of CF
+   are chemically abnormal or merely accumulated to an abnormal extent
+   is probably best investigated by analysis of sialidase-resistant
+   mucins and sulphomucins of the ileum and strongly acidic sulphomucins
+   of the duodenum and jejunum in CF infants over 6 mth of age.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS: me</majorsubject>
+	<majorsubject>INFANT-NEWBORN-DISEASES: me</majorsubject>
+	<majorsubject>INTESTINE-SMALL: me</majorsubject>
+	<majorsubject>MUCINS: me</majorsubject>
+
+	<minorsubject>CELL-COUNT</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: pa</minorsubject>
+	<minorsubject>DUODENUM: me</minorsubject>
+	<minorsubject>HISTOCYTOCHEMISTRY</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>ILEUM: me</minorsubject>
+	<minorsubject>INFANT</minorsubject>
+	<minorsubject>INFANT-NEWBORN</minorsubject>
+	<minorsubject>INFANT-NEWBORN-DISEASES: pa</minorsubject>
+	<minorsubject>INTESTINE-SMALL: pa</minorsubject>
+	<minorsubject>JEJUNUM: me</minorsubject>
+
+	<reference>001   ANDERSEN DH           ANN NY ACAD SCI                 93   500 962</reference>
+	<reference>002   BAUER U               ANN PAEDIATR                   194   236 960</reference>
+	<reference>003   BELANGER L            ANN NY ACAD SCI                106   364 963</reference>
+	<reference>004   DISCHE Z              PEDIATRICS                      24    74 959</reference>
+	<reference>005   FARBER S              J MICH MED SOC                  44   587 945</reference>
+	<reference>006   FREYE HB              J PEDIATR                       64   575 964</reference>
+	<reference>007   GIBBONS RA            EXCERPTA MED INT CONG SERIES   133   695 966</reference>
+	<reference>008   GOTTSCHALK A          CHEM BIOL SIALIC ACID REL                960</reference>
+	<reference>009$  GRAIG JM              IN: RESEARCH ON CF                    25 959</reference>
+	<reference>010   GRECO V               GUT                              8   491 967</reference>
+	<reference>011   JOHANSEN PG           ANN NY ACAD SCI                106   755 963</reference>
+	<reference>012   JOHANSEN PG           J PATHOL                        99   299 969</reference>
+	<reference>013   JONES R               HISTOCHEM J                      5    19 973</reference>
+	<reference>014   KENT PW               BIOCHEM J                       87    38 963</reference>
+	<reference>015   LAMB D                THESIS                                   969</reference>
+	<reference>016   LAMB D                J PATHOL                        98   213 969</reference>
+	<reference>017   LAMB D                HISTOCHEM J                      4    91 972</reference>
+	<reference>018   LANDING BH            ROSS PAEDIATR RES CONF 18TH           63 956</reference>
+	<reference>019   LEV R                 LAB INVEST                      14  2080 966</reference>
+	<reference>020   LEV R                 AM J PATHOL                     46    23 965</reference>
+	<reference>021   MCCARTHY C            Q J EXP PHYSIOL                 49    81 964</reference>
+	<reference>022   PALLAVICINI JC        ANN NY ACAD SCI                106   330 963</reference>
+	<reference>023   POTTER JL             ANN NY ACAD SCI                106   692 963</reference>
+	<reference>024   ROELFS RE             AM J DIS CHILD                 113   419 967</reference>
+	<reference>025   DI SANTAGNESE PA      N ENGL J MED                   277  1287 967</reference>
+	<reference>026   SCHRAGER J            NATURE                         201   702 964</reference>
+	<reference>027   SHACKLEFORD JM        J HISTOCHEM CYTOCHEM            12   512 964</reference>
+	<reference>028   SPICER SS             AM J CLIN PATHOL                33   453 970</reference>
+	<reference>029   THOMAIDIS TS          J PEDIATR                       63   444 963</reference>
+	<reference>030   WAGNER BM             AM J DIS CHILD                  99    61 960</reference>
+
+	<citation>1   HOUGH L               J PHYSIOL (LOND)               291  P  9 979</citation>
+	<citation>2   MORRISSEY SM          GUT                             22   788 981</citation>
+	<citation>3   ADLER KB              LAB INVEST                      45   372 981</citation>
+	<citation>4   FORSTNER G            ADV EXP MED BIOL               144   199 982</citation>
+	<citation>5   WESLEY A              PEDIATR RES                     17    65 983</citation>
+	<citation>6   MORRISSEY SM          GUT                             24   909 983</citation>
+	<citation>7   REID L                INT REV EXP PATHOL              24   335 983</citation>
+	<citation>8   JACOBS LR             DIG DIS SCI                     28   422 983</citation>
+	<citation>9   JEFFREY I             J CLIN PATHOL                   36  1292 983</citation>
+	<citation>10   HOLLANDERS D          BR J CLIN PRACT                 37   112 983</citation>
+	<citation>11   SLOMIANY A            BIOCHIM BIOPHYS ACTA           750   253 983</citation>
+	<citation>12   REID PE               HISTOCHEM J                     16   253 984</citation>
+	<citation>13   JEFFREY I             J CLIN PATHOL                   37   957 984</citation>
+	<citation>14   HOLLANDERS D          J PHYSIOL (LOND)               348  P  8 984</citation>
+	<citation>15   CLEGHORN GJ           LANCET                           1     8 986</citation>
+	<citation>16   MORRISSEY SM          DIGESTION                       34    28 986</citation>
+	<citation>17   HOLLANDERS D          BR J CLIN PRACT                 40    74 986</citation>
+
+</document>

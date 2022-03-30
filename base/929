@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Improvement on the safety of sweat-test equipment.</title>
+
+	<author>Ellam-S-V.</author>
+
+	<source>Med-Biol-Eng-Comput. 1978 Sep. 16(5). P 595-6.</source>
+
+	<abstract>Patients with cystic fibrosis have a higher concentration of sodium
+   and chloride in their sweat than normals.  This observation led to
+   the introduction of an iontophoresis technique for stimulating the
+   sweat glands with pilocarpine.  Occasionally, electrical burns result
+   from defective equipment or from an incorrect or badly applied test
+   procedure.  A new design of equipment is presented which eliminates
+   the possibility of a burn during the test.</abstract>
+
+	<majorsubject>ACCIDENT-PREVENTION</majorsubject>
+	<majorsubject>IONTOPHORESIS: is</majorsubject>
+	<majorsubject>SAFETY</majorsubject>
+	<majorsubject>SWEAT: an</majorsubject>
+
+	<minorsubject>BURNS-ELECTRIC: pc</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: me</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+
+	<reference>001   DI SANTAGNESE PA      PEDIATRICS                      12   549 953</reference>
+	<reference>002   GIBSON LE             PEDIATRICS                      23   545 959</reference>
+	<reference>003   SCHWARZ V             ARCH DIS CHILD                  43   695 968</reference>
+
+
+</document>

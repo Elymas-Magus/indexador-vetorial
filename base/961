@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Decreased adenosine 3&apos;:5&apos;-monophosphate response to isoproterenol in
+   cystic fibrosis leukocytes.</title>
+
+	<author>Davis-P-B.</author>
+	<author>Braunstein-M.</author>
+	<author>Jay-C.</author>
+
+	<source>Pediatr-Res. 1978 Jun. 12(6). P 703-7.</source>
+
+	<abstract>Leukocyte preparations from cystic fibrosis (CF) patients produced
+   markedly less adenosine 3&apos;:5&apos;-monophosphate (cAMP) in response to
+   isoproterenol than normal cells.  Both stimulation ratio and net
+   isoproterenol-stimulated accumulation of cAMP were significantly (P
+   &lt; 0.001) lower in mixed leukocyte preparations from 20 CF patients
+   (29 trials) compared to 21 normal subjects (49 trials).  There was
+   no significant correlation of results with clinical score, and no
+   differences in the CF group attributable to medications or presence
+   of pancreatic insufficiency.  CF heterozygotes had mean stimulation
+   ratio and mean net isoproterenol-stimulated cAMP intermediate
+   betweem normal and CF.  There were no statistically significant
+   differences among normal subjects, CF patients, and CF heterozygotes
+   in basal cAMP or prostaglandin E1-stimulated cAMP.  Purified
+   mononuclear cells from five normal persons and seven CF homozygotes
+   had the same basal and prostaglandin E1-stimulated cAMP, but
+   isoproterenol-stimulated cAMP was markedly depressed (P &lt; 0.01) in
+   the CF cells.  Granulocytes from six normal persons and nine CF
+   patients also had the same basal and prostaglandin E1-stimulated
+   cAMP, but isoproterenol-stimulated cAMP was decreased (P &lt; 0.05) in
+   the CF samples.  These results clearly demonstrate a difference
+   between normal and CF leukocytes in cAMP response to beta-adrenergic
+   stimulation.  The diminised cAMP response to beta-adrenergic
+   stimulation in CF is probably related to the presence of a CF gene,
+   and may interact with other genetic abnormalities to produce the
+   clinical syndrome of CF.</abstract>
+
+	<majorsubject>ADENOSINE-CYCLIC-MONOPHOSPHATE: bl</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: bl</majorsubject>
+	<majorsubject>ISOPROTERENOL: pd</majorsubject>
+	<majorsubject>LEUKOCYTES: me</majorsubject>
+
+	<minorsubject>ADOLESCENCE</minorsubject>
+	<minorsubject>ADULT</minorsubject>
+	<minorsubject>ANTIBIOTICS</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: fg</minorsubject>
+	<minorsubject>DIGOXIN</minorsubject>
+	<minorsubject>FEMALE</minorsubject>
+	<minorsubject>GRANULOCYTES: me</minorsubject>
+	<minorsubject>HETEROZYGOTE</minorsubject>
+	<minorsubject>HOMOZYGOTE</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>LEUKOCYTES: de</minorsubject>
+	<minorsubject>MALE</minorsubject>
+	<minorsubject>MIDDLE-AGE</minorsubject>
+	<minorsubject>PANCREATIC-EXTRACTS</minorsubject>
+	<minorsubject>PROSTAGLANDINS-E: pd</minorsubject>
+	<minorsubject>RECEPTORS-ADRENERGIC-BETA: ph</minorsubject>
+
+	<reference>001   ATKINSON JP           J CYCLIC NUCLEOTIDES RES         2   297 976</reference>
+	<reference>002   BOLANDE RP            ARCH PATHOL                     95   172 973</reference>
+	<reference>003   BOURNE HR             J PHARMACOL EXP THER           178     1 971</reference>
+	<reference>004   BOYD EM               CAN MED ASSOC J                 82   821 960</reference>
+	<reference>005   BOYUM A               SCAND J CLIN LAB INVEST SUPPL   97    77 968</reference>
+	<reference>006   BRAUNSTEIN M          CF CLUB ABST                          28 975</reference>
+	<reference>007   BROWN BL              ADV CYCLIC NUCLEO RES            2    25 972</reference>
+	<reference>008   BUCHWALD M            PROC NAT ACAD SCI USA           73  2899 976</reference>
+	<reference>009   BUSSE WW              J ALLERGY CLIN IMMUNOL          58   586 976</reference>
+	<reference>010   CAMPBELL IM           PEDIATRICS                      57   480 976</reference>
+	<reference>011   CHERNICK WS           MOD PROBL PEDIATR               10   125 967</reference>
+	<reference>012   CHERNICK WS           J PEDIATR                       59   890 961</reference>
+	<reference>013   CONOLLY ME            J CLIN INVEST                   58  1307 976</reference>
+	<reference>015   DAVIS PB              FED PROC                        36   409 977</reference>
+	<reference>016   DIEM K                DOCUMENTA GEIGY SCIENTIFIC TA        156 970</reference>
+	<reference>017   DI SANTAGNESE PA      N ENGL J MED                   295   481 976</reference>
+	<reference>018   ENGELHARD VH          PROC NAT ACAD SCI USA           73  4482 976</reference>
+	<reference>019   FARBER S              AM J DIS CHILD                  64   953 942</reference>
+	<reference>021   LEFKOWITZ RJ          N ENGL J MED                   295   323 976</reference>
+	<reference>022   MANGOS JA             IN: LAWSON D PROC 5TH INT CF          25 969</reference>
+	<reference>023   MARTINEZ JR           PEDIATR RES                      9   463 975</reference>
+	<reference>024   MARTINEZ JR           PEDIATR RES                      9   470 975</reference>
+	<reference>025   MCEVOY FA             LANCET                           2   236 975</reference>
+	<reference>026   MICKEY J              J BIOL CHEM                    250  5727 975</reference>
+	<reference>027   MURAD F               J CLIN ENDOCRINOL METAB         40   552 975</reference>
+	<reference>028   PARKER DW             J CLIN INVEST                   52    48 973</reference>
+	<reference>029   PATEL KR              CLIN ALLERGY                     4   311 974</reference>
+	<reference>030   RUBIN LS              PEDIATRICS                      38   865 966</reference>
+	<reference>031   SCHAAP T              IN: MANGOS JA                        291 976</reference>
+	<reference>032   SIMOPOULOS AP         PEDIATR RES                      6   355 972</reference>
+	<reference>033   SNIDER DE             J CLIN INVEST                   58   524 976</reference>
+	<reference>034   STURGESS JM           BR J EXP PATHOL                 54   388 973</reference>
+	<reference>035   TALLMAN JF            PROC NAT ACAD SCI USA           74   873 977</reference>
+	<reference>036   TAUSSIG LM            J PEDIATR                       82   380 973</reference>
+	<reference>037   THOMPSON FE           PEDIATR RES                     10   632 976</reference>
+	<reference>038   WILLIAMS LT           J CLIN INVEST                   57   149 976</reference>
+	<reference>039   WRIGHT R              PEDIATR RES                     10   373 976</reference>
+	<reference>040   ZENSER TV             J BIOL CHEM                    251  7431 976</reference>
+
+	<citation>1   BANSCHBACH MW         BIOCHEM BIOPHYS RES COMMUN      84   922 978</citation>
+	<citation>2   DISANTAGNESE PA       MONOGR PAEDIATR                 10    66 979</citation>
+	<citation>3   LAKE CR               CLIN CHIM ACTA                  92   141 979</citation>
+	<citation>4   DAVIS PB              IRCS MED SCI BIOCHEM             8   413 980</citation>
+	<citation>5   AURBACH GD            ADV CYCLIC NUCLEO RES           12     1 980</citation>
+	<citation>6   BUCHWALD M            ADV CYCLIC NUCLEO RES           12   243 980</citation>
+	<citation>7   DAVIS PB              PEDIATR RES                     14    83 980</citation>
+	<citation>8   DAVIS PB              PEDIATR RES                     14   863 980</citation>
+	<citation>9   ROSCHER AA            PEDIATR RES                     14   261 980</citation>
+	<citation>10   AITKEN DA             J MED GENET                     17   187 980</citation>
+	<citation>11   DAVIS PB              J LAB CLIN MED                  96    75 980</citation>
+	<citation>12   LEMANSKE RF           AM REV RESPIR DIS              122   213 980</citation>
+	<citation>13   DAVIS PB              N ENGL J MED                   302  1453 980</citation>
+	<citation>14   MARKOVAC J            BIOCHEM MED                     26   299 981</citation>
+	<citation>15   JOHNSON DL            RES COMMUN CHEM PATH PHARM      32   377 981</citation>
+	<citation>16   GALANT SP             J CLIN INVEST                   68   253 981</citation>
+	<citation>17   LEMANSKE RF           AM REV RESPIR DIS              123   622 981</citation>
+	<citation>18   BYLUND DB             J PHARMACOL EXP THER           218   134 981</citation>
+	<citation>19   FRASER CM             N ENGL J MED                   305  1165 981</citation>
+	<citation>20   ROAN Y                PEDIATR RES                     16   591 982</citation>
+	<citation>21   MOTULSKY HJ           N ENGL J MED                   307    18 982</citation>
+	<citation>22   ZAMMARCHI E           RIV ITAL PEDIATR                 9   505 983</citation>
+	<citation>23   DAVIS PB              J CHRON DIS                     36   269 983</citation>
+	<citation>24   DAVIS PB              J CLIN INVEST                   71  1787 983</citation>
+	<citation>25   CABRINI G             RIV ITAL PEDIATR                10   405 984</citation>
+	<citation>26   STESSMAN J            J GERONTOL                      39   667 984</citation>
+	<citation>27   SATO K                J CLIN INVEST                   73  1763 984</citation>
+	<citation>28   EBSTEIN RP            ISR J MED SCI                   21   302 985</citation>
+	<citation>29   MITCHELL EA           AUST PAEDIATR J                 21   127 985</citation>
+	<citation>30   ERICKSON RP           AM J HUM GENET                  37   124 985</citation>
+	<citation>31   KOPELMAN H            N ENGL J MED                   312   329 985</citation>
+	<citation>32   DAVIS PB              HORM METAB RES                  18   217 986</citation>
+	<citation>33   DAVIS PB              PEDIATR RES                     20  1290 986</citation>
+	<citation>34   BOUCHER RC            J CLIN INVEST                   78  1245 986</citation>
+	<citation>35   SCHONI MH             EUR J PEDIATR                  145    80 986</citation>
+	<citation>36   SPAIDE RF             AM J OPHTHALMOL                103   204 987</citation>
+
+</document>

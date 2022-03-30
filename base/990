@@ -1,0 +1,262 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Chronic obstructive lung disease.</title>
+
+	<author>Taussig-L-M.</author>
+	<author>Lemen-R-J.</author>
+
+	<source>Adv-Pediatr. 1979. 26. P 343-416. (REVIEW).</source>
+
+	<abstract>This chapter deals with the problems of chronic obstructive lung
+   disease in children by first considering an approach to the
+   evaluation, diagnosis and management of various forms of chronic
+   obstructive lung disease with emphasis on history, physical and
+   laboratory data.  A brief overview of therapeutic principles that can
+   be applied to most forms of chronic obstructive lung disease are
+   included.  The second part of this chapter consists of reviews of
+   some of the more common diseases producing chronic airway obstruction
+   in infancy and childhood.  Patient evaluation topics discussed
+   include history and physical examination and laboratory studies.
+   Therapeutic principles in the management of chronic obstructive lung
+   disease, pediatric precursors of chronic obstructive lung disease,
+   and chronic obstructive lung disorders (asthma, cystic fibrosis,
+   bronchopulmonary dysplasia, aspiration pneumonitis, atelectasis,
+   bronchomalacia and tracheomalacia, immunodeficiency, bronchiectasis,
+   chronic bronchitis, and chronic upper airway obstruction with
+   hypoventilation) are examined.</abstract>
+
+	<majorsubject>LUNG-DISEASES-OBSTRUCTIVE</majorsubject>
+
+	<minorsubject>AIRWAY-OBSTRUCTION: di</minorsubject>
+	<minorsubject>ASTHMA: di</minorsubject>
+	<minorsubject>ATELECTASIS: di</minorsubject>
+	<minorsubject>BRONCHIAL-DISEASES: di</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: di</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>HYPOVENTILATION: et</minorsubject>
+	<minorsubject>IMMUNOLOGIC-DEFICIENCY-SYNDROMES: di</minorsubject>
+	<minorsubject>LUNG-DISEASES-OBSTRUCTIVE: di, et, th</minorsubject>
+	<minorsubject>MEDICAL-HISTORY-TAKING</minorsubject>
+	<minorsubject>PHYSICAL-EXAMINATION</minorsubject>
+	<minorsubject>PNEUMONIA-ASPIRATION: di</minorsubject>
+	<minorsubject>REVIEW</minorsubject>
+	<minorsubject>TRACHEAL-DISEASES: di</minorsubject>
+
+	<reference>001   TAUSSIG LM            ARIZ MED                        33   205 976</reference>
+	<reference>002   HOLSCLAW DS           PEDIATR ANN                      6   438 977</reference>
+	<reference>003   ANON                  US NATL HEALTH SURVEY                    975</reference>
+	<reference>004   WARING WW             RESPIR CARE                     20  1138 975</reference>
+	<reference>005   HOGG JC               IN: KENDIG EL JR                         977</reference>
+	<reference>006   DUNNILL MS            THORAX                          17   329 962</reference>
+	<reference>007   WILLIAMS HE           RESPIRATORY ILLNESS IN CHILDR            975</reference>
+	<reference>008   TAUSSIG LM            AM REV RESPIR DIS              116   233 977</reference>
+	<reference>009   WARING WW             IN: KENDIG EL JR                     105 977</reference>
+	<reference>010   SMITH CB              RADIOL CLIN NORTH AM            11   261 973</reference>
+	<reference>011   FLETCHER BD           IN: KENDIG EL JR                         977</reference>
+	<reference>012   LEMEN RG              IN: KENDIG EL JR                     166 977</reference>
+	<reference>013   POLGAR G              PULMONARY FUNCTION TESTING IN            971</reference>
+	<reference>014   ANON                  GAP CONF REP PROB SWEAT TESTI            975</reference>
+	<reference>015   ANON                  J PEDIATR                       88   711 976</reference>
+	<reference>016   GODFREY S             EXERCISE TESTING IN CHILDREN             974</reference>
+	<reference>017   WARING WW             DIAGNOSTIC PROCEDURES PRACTIC            975</reference>
+	<reference>018   EULER AR              PEDIATRICS                      60    65 977</reference>
+	<reference>019   CHRISTIE DL           J PEDIATR                       93    23 978</reference>
+	<reference>020   JONES FL JR           IN: JOHNSTON RF                          973</reference>
+	<reference>021   RICKARD K             PEDIATR CLIN NORTH AM           24   157 977</reference>
+	<reference>022   SUSKIND RM            MALNUTRITION AND THE IMMUNE R    7       977</reference>
+	<reference>023   HAMBRAEUS L           PEDIATR CLIN NORTH AM           24    17 977</reference>
+	<reference>024   FELDMAN J             AM REV RESPIR DIS              119   239 979</reference>
+	<reference>025   HARTSELL M            AM REV RESPIR DIS              117   204 978</reference>
+	<reference>026   WARING WW             IN: KENDIG EL JR                      77 977</reference>
+	<reference>027   TAUSSIG LM            J PEDIATR                       84   619 974</reference>
+	<reference>028   KEENS TG              AM REV RESPIR DIS              116   853 977</reference>
+	<reference>029   MACKOWIAK PA          N ENGL J MED                   298    21 978</reference>
+	<reference>030   AMMANN AJ             N ENGL J MED                   297   897 977</reference>
+	<reference>031   AUSTRIAN R            N ENGL J MED                   297   938 977</reference>
+	<reference>032   MONSET-COUCHARD M     CURR PROB PEDIATR NO 4           5       975</reference>
+	<reference>033   LUCAS RV              MINN MED                        52  1537 969</reference>
+	<reference>034   HEINEMANN H           AM J MED                        64   367 978</reference>
+	<reference>035   BERGLUND E            AM J CARDIOL                    11   477 963</reference>
+	<reference>036   BLAND R               J CLIN INVEST                   62   601 978</reference>
+	<reference>037   TAUSSIG LM            PEDIATR RES                     11   216 977</reference>
+	<reference>038   KERREBIJN KF          ACTA PAEDIATR SCAND SUPPL      261     3 977</reference>
+	<reference>039   LANG WR               BR MED J                         1    73 969</reference>
+	<reference>040   GOLD R                J CAN ASSOC RADIOL              20   218 969</reference>
+	<reference>041   BECROFT DMO           J CLIN PATHOL                   24    72 971</reference>
+	<reference>042   COLLEY JRT            BR MED J                         2   213 970</reference>
+	<reference>043   COLLEY JRT            BR MED BULL                     27     9 971</reference>
+	<reference>044   HOLLAND WW            BR MED J                         2   205 969</reference>
+	<reference>045   DOUGLAS JWB           BR J PREV SOC MED               20     1 966</reference>
+	<reference>046   ZAPLETAL A            AM REV RESPIR DIS              107   400 973</reference>
+	<reference>047   HARLAP S              LANCET                           1   529 974</reference>
+	<reference>048   COLLEY JRT            LANCET                           2  1031 974</reference>
+	<reference>049   COLLEY JRT            BR MED J                         2   201 974</reference>
+	<reference>050   BLAND M               ARCH DIS CHILD                  53   100 978</reference>
+	<reference>051   LEBOWITZ MD           CHEST                           69    48 976</reference>
+	<reference>052   SCHILLING RSF         AM J EPIDEMIOL                 106   274 977</reference>
+	<reference>053   SEELY JE              SCIENCE                        172   741 971</reference>
+	<reference>054   HAYNES WF JR          AM REV RESPIR DIS SUPPL         93   730 966</reference>
+	<reference>055   COLLEY JRT            BR MED J                         3   195 973</reference>
+	<reference>056   KIERNAN KE            RESPIRATION                     33   236 976</reference>
+	<reference>057   BURROWS B             AM REV RESPIR DIS              115   751 977</reference>
+	<reference>058   LOUGHLIN GM           J PEDIATR                       94   365 979</reference>
+	<reference>059   BECKERMAN RC          PEDIATR RES                     12   559 978</reference>
+	<reference>060   KATTAN M              PEDIATRICS                      59   683 977</reference>
+	<reference>061   SIMS DG               BR MED J                         1    11 978</reference>
+	<reference>062   KONIG P               ARCH DIS CHILD                  47   578 972</reference>
+	<reference>063   ROONEY JC             J PEDIATR                       79   744 971</reference>
+	<reference>064   ZWEIMAN B             J ALLERGY                       37    48 966</reference>
+	<reference>065   HILL DJ               AM REV RESPIR DIS              106   873 972</reference>
+	<reference>066   MCFADDEN ER JR        J ALLERGY CLIN IMMUNOL          56    18 975</reference>
+	<reference>067   PALMER KNV            BR MED J                         1   485 975</reference>
+	<reference>068   BLAIR H               ARCH DIS CHILD                  52   613 977</reference>
+	<reference>069   BURANAKUL B           AM J DIS CHILD                 128   343 974</reference>
+	<reference>070   DEES SC               ADV ASTHMA ALLERGY               1    12 974</reference>
+	<reference>071   LEVISON H             PEDIATR CLIN NORTH AM           21   951 974</reference>
+	<reference>072   GOLD WM               J APPL PHYSIOL                  33   496 972</reference>
+	<reference>073   OLIVE JT              AM REV RESPIR DIS              106   366 972</reference>
+	<reference>074   TSUCHIYA Y            J ALLERGY                       36   514 965</reference>
+	<reference>075   TURIAF J              REV TUBERC                      26   238 962</reference>
+	<reference>076   INNES IR              IN: GOODMAN LS                       447 975</reference>
+	<reference>077   SCHAER H              PFLUEGERS ARCH                 347   297 974</reference>
+	<reference>078   STALCUP SA            N ENGL J MED                   297   592 977</reference>
+	<reference>079   GALANT SP             PEDIATRICS                      61    46 978</reference>
+	<reference>080   MCFADDEN ER JR        N ENGL J MED                   288   221 973</reference>
+	<reference>081   EGGLESTON PA          PEDIATRICS                      54   442 974</reference>
+	<reference>082   WEISS EB              CIBA FOUND SYMP                 27    71 975</reference>
+	<reference>083   WEINBERGER M          POSTGRAD MED J                  61    85 977</reference>
+	<reference>084   CHAI H                ADV ASTHMA ALLERGY               2     1 975</reference>
+	<reference>085   BIERMAN CW            PEDIATRICS                      54   245 974</reference>
+	<reference>086   WALSON PD             J PEDIATR                       91   321 977</reference>
+	<reference>087   KOCH-WEBER J          N ENGL J MED                   297   476 977</reference>
+	<reference>088   INGRAM RH JR          AM REV RESPIR DIS              101   364 970</reference>
+	<reference>089   WOOD DW               ANN ALLERGY                     31   607 973</reference>
+	<reference>090   PIERSON WE            PEDIATRICS                      54   282 974</reference>
+	<reference>091   BERMAN SZ             J ALLERGY CLIN IMMUNOL          56   206 975</reference>
+	<reference>092   MCINTOSH K            J PEDIATR                       82   578 973</reference>
+	<reference>093   SHAPIRO GG            PEDIATRICS                      53   867 974</reference>
+	<reference>094   MINOR TE              JAMA                           227   292 974</reference>
+	<reference>095   TAUSSIG LM            IN: KELLEY VC                    4     1 976</reference>
+	<reference>096   NADLER HL             IN: STANBURY JB                     1683 978</reference>
+	<reference>097   WOOD RE               AM REV RESPIR DIS              113   833 976</reference>
+	<reference>098   DI SANTAGNESE PA      N ENGL J MED                   295   481 976</reference>
+	<reference>099   ZUELZER WW            PEDIATRICS                       4    53 949</reference>
+	<reference>100   OPPENHEIMER EH        PERSPECT PEDIATR PATHOL          2   241 975</reference>
+	<reference>101   BEDROSSIAN CWM        HUM PATHOL                       7   195 976</reference>
+	<reference>102   LAMARRE A             PEDIATRICS                      50   291 972</reference>
+	<reference>103   LANDAU LI             AM REV RESPIR DIS              108   593 973</reference>
+	<reference>104   ZAPLETAL A            PEDIATRICS                      48    64 971</reference>
+	<reference>105   FOX WW                PEDIATRICS                      54   293 974</reference>
+	<reference>106   LANDAU LI             AM REV RESPIR DIS              111   725 975</reference>
+	<reference>107   TAUSSIG LM            J PEDIATR                       84   724 974</reference>
+	<reference>108   LLOYD-STILL JD        PEDIATRICS                      53   678 974</reference>
+	<reference>109   FELLOWS KE            RADIOLOGY                      114   551 975</reference>
+	<reference>110   HOLSCLAW DS           J PEDIATR                       76   829 970</reference>
+	<reference>111   STRUNK RC             ARCH DIS CHILD                  52   687 977</reference>
+	<reference>112   MCFARLANE H           BR MED J                         1   423 975</reference>
+	<reference>113   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C)   85    57 977</reference>
+	<reference>114   SCHWARTZ RH           AM J DIS CHILD                 120   432 970</reference>
+	<reference>115   WARREN CPW            CLIN ALLERGY                     5     1 975</reference>
+	<reference>116   BARDANA EJ JR         AM J DIS CHILD                 129  1164 975</reference>
+	<reference>117   GALANT SP             AM REV RESPIR DIS              114   325 976</reference>
+	<reference>118   LANDAU LI             J PEDIATR                       82   863 973</reference>
+	<reference>119   SHAPIRO GG            PEDIATRICS                      58   740 976</reference>
+	<reference>120   WARNER JO             ARCH DIS CHILD                  51   507 976</reference>
+	<reference>121   TALAMO RC             IN: MANGOS JA                        195 976</reference>
+	<reference>122   SCHWARTZ RH           AM J DIS CHILD                 111   408 966</reference>
+	<reference>123   MARTINEZ-TELLO FJ     J IMMUNOL                      101   989 968</reference>
+	<reference>124   PENNINGTON JE         AM J MED                        58   629 975</reference>
+	<reference>125   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   559 974</reference>
+	<reference>126   BIGGAR WD             PROC NAT ACAD SCI USA           68  1716 971</reference>
+	<reference>127   BOXERBAUM B           AM REV RESPIR DIS              108   777 973</reference>
+	<reference>128   STEIN AA              J PEDIATR                       65   495 964</reference>
+	<reference>129   HOIBY N               SCAND J RESPIR DIS              56    38 975</reference>
+	<reference>130   HODSON ME             BR J DIS CHEST                  70    83 976</reference>
+	<reference>131   ORENSTEIN DM          AM J DIS CHILD                 131   973 977</reference>
+	<reference>132   WARWICK WJ            J CHRON DIS                     28   609 975</reference>
+	<reference>133   WARING WW             ADV PEDIATR                     23   401 976</reference>
+	<reference>134   THOMPSON T            J PERINATAL MED                  5   149 977</reference>
+	<reference>135   NORTHWAY WH JR        N ENGL J MED                   276   357 967</reference>
+	<reference>136   BENOIST MR            BULL EUR PHYSIOPATH RESP        12   703 976</reference>
+	<reference>137   JOHNSON JD            J PEDIATR                       84   272 974</reference>
+	<reference>138   RHODES PG             PEDIATRICS                      55   788 975</reference>
+	<reference>139   HARROD JR             J PEDIATR                       84   277 974</reference>
+	<reference>140   SPOELSTRA AJG         BIOL NEONATE                    17   321 971</reference>
+	<reference>141   SHEPARD FM            N ENGL J MED                   279  1063 968</reference>
+	<reference>142   BOSS JA               PEDIATRICS                      29   890 962</reference>
+	<reference>143   TAGHIZADEH A          AM J PATHOL                     82   241 976</reference>
+	<reference>144   ANDERSON WR           ARCH PATHOL                     91   506 971</reference>
+	<reference>145   LALANDE J             ANN RADIOL (PARIS)              15   R74 973</reference>
+	<reference>146   STAHLMAN M            PEDIATR CLIN NORTH AM           20   433 973</reference>
+	<reference>147   BRYAN MH              PEDIATRICS                      52   169 973</reference>
+	<reference>148   OUTERBRIDGE EW        AM J DIS CHILD                 123    99 972</reference>
+	<reference>149   LAMARRE A             AM REV RESPIR DIS              108    56 973</reference>
+	<reference>150   WESTGATE HD           DIS CHEST                       55   465 969</reference>
+	<reference>151   WATTS JL              PEDIATRICS                      60   273 977</reference>
+	<reference>152   STOCKS J              PEDIATRICS                      57   352 976</reference>
+	<reference>153   BARNES ND             LANCET                           2  1096 969</reference>
+	<reference>154   COATES AL             J PEDIATR                       90   611 977</reference>
+	<reference>155   EDWARDS DK            PEDIATRICS                      59   839 977</reference>
+	<reference>156   DELEMOS R             ANESTHESIOLOGY                  30   609 969</reference>
+	<reference>157   LEE CJ                J THORAC CARDIOVASC SURG        53   759 967</reference>
+	<reference>158$  NASH G                ARCH PATHOL                     21   234 971</reference>
+	<reference>159   BERG TJ               PEDIATRICS                      55    51 975</reference>
+	<reference>160   FLETCHER BD           ANN RADIOL (PARIS)              16   R78 973</reference>
+	<reference>161   PHILIP AGS            PEDIATRICS                      55    44 975</reference>
+	<reference>162   REYNOLDS EOR          ARCH DIS CHILD                  49    50 974</reference>
+	<reference>163   LILAND AE             J SURG RES                      20    85 976</reference>
+	<reference>164   RASCHE RFH            PEDIATRICS                      50   632 972</reference>
+	<reference>165   SAHEBJAMI H           AM REV RESPIR DIS              110   566 974</reference>
+	<reference>166   BADEN M               PEDIATRICS                      50   526 972</reference>
+	<reference>167   PINNEY MA             PEDIATRICS                      58   856 976</reference>
+	<reference>168   MCNAMARA JJ           PEDIATRICS                      43   527 969</reference>
+	<reference>169   DAVIS MV              ANN THORAC SURG                  3    99 967</reference>
+	<reference>170   HERBST JJ             J PEDIATR                       92    73 978</reference>
+	<reference>171   LEAPE LL              PEDIATRICS                      60   924 977</reference>
+	<reference>172   WILLIAMS HE           RESPIRATORY ILLNESS IN CHILDR            975</reference>
+	<reference>173   JOHNSON DG            PEDIATRICS                      59    62 977</reference>
+	<reference>174   JAMES V               Q J MED                         25   121 956</reference>
+	<reference>175   WARING WW             PEDIATRICS                      39   166 967</reference>
+	<reference>176   NEMIR RL              IN: KENDIG EL JR                     553 977</reference>
+	<reference>177   STANGER P             PEDIATRICS                      43   760 969</reference>
+	<reference>178   WILLIAMS H            ARCH DIS CHILD                  35   182 960</reference>
+	<reference>179   WILLIAMS HE           ARCH DIS CHILD                  47   423 972</reference>
+	<reference>180   GUPTA TCM             AM J DIS CHILD                 115    88 968</reference>
+	<reference>182   AGOSTI E              ACTA PAEDIATR SCAND             63   616 974</reference>
+	<reference>183   WAYNE KS              AM REV RESPIR DIS              114    15 976</reference>
+	<reference>184   LANDING BH            PERSPECT PEDIATR PATHOL          1       973</reference>
+	<reference>185   EIGEN H               AM REV RESPIR DIS              113   823 976</reference>
+	<reference>186   JONES JF              ARIZ MED                        33   359 976</reference>
+	<reference>187   POLMAR SH             IN: KIRKPATRICK CH                   191 976</reference>
+	<reference>188   STIEHM ER             IMMUNOL DISORD INFANT CHILD          145 973</reference>
+	<reference>189   AMMANN AJ             CURR PROB PEDIATR                5       975</reference>
+	<reference>190   BACHMANN R            SCAND J CLIN LAB INVEST         17   316 965</reference>
+	<reference>191   HUGHES WT             N ENGL J MED                   297  1381 977</reference>
+	<reference>192   FIELD CE              ARCH DIS CHILD                  44   551 969</reference>
+	<reference>193   WIGLESWORTH FW        MCGILL MED J                    24   189 955</reference>
+	<reference>194   ELIASSON R            N ENGL J MED                   297     1 977</reference>
+	<reference>195   GLAUSER EM            ACTA PAEDIATR SCAND SUPPL      165       966</reference>
+	<reference>196   LANDAU LI             THORAX                          29   304 974</reference>
+	<reference>197   MOORE JR              SURG GYNECOL OBSTET             89   146 949</reference>
+	<reference>198   STRANG LB             ARCH DIS CHILD                  35   224 960</reference>
+	<reference>199   AVERY ME              BULL JOHNS HOPKINS HOSP        109    20 961</reference>
+	<reference>200   CHERNIACK RM          RESPIRATION IN HEALTH AND DIS        331 972</reference>
+	<reference>201   MCNAMARA MJ           AM REV RESPIR DIS              100    19 969</reference>
+	<reference>202   GUMP DW               AM REV RESPIR DIS              113   465 976</reference>
+	<reference>203   MCFADDEN ER JR        N ENGL J MED                   292   555 975</reference>
+	<reference>204   HIRSCH SR             CHEST                           63     9 973</reference>
+	<reference>205   BURROWS B             ANN INTERN MED                  77   993 972</reference>
+	<reference>206   NOONAN JA             CIRCULATION SUPPL 2             32   164 965</reference>
+	<reference>207   MENASHE VD            J PEDIATR                       67   198 965</reference>
+	<reference>208   LUKE MJ               PEDIATRICS                      37   762 966</reference>
+	<reference>209   AINGER LE             BR HEART J                      30   356 968</reference>
+	<reference>210   DJALILIAN M           MAYO CLIN PROC                  50    11 975</reference>
+	<reference>211   GUILLEMINAULT C       PEDIATRICS                      58    23 976</reference>
+	<reference>212   PERLMAN M             ARCH DIS CHILD                  50   727 975</reference>
+	<reference>213   COGSWELL JJ           ARCH DIS CHILD                  49   520 974</reference>
+
+	<citation>1   POLGAR G              WIEN KLIN WOCHENSCHR            95    14 983</citation>
+	<citation>2   COLOMBO JL            PEDIATR PULMONOL                 3    86 987</citation>
+
+</document>

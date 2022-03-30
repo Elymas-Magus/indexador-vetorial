@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Invited review.  The technique and scope of electron-probe X-ray
+   analysis in pathology.</title>
+
+	<author>Ghadially-F-N.</author>
+
+	<source>Pathology. 1979 Jan. 11(1). P 95-110. (REVIEW).</source>
+
+	<abstract>The purpose of this article is to review briefly both the techniques
+   and applications of electron-probe x-ray analysis, but only studies
+   of interest to pathologists will be dealt with.  The principles of
+   x-ray fluorescence spectrometry, the capabilities and limitations of
+   energy dispersive x-ray analysis, equipment, specimen preparation,
+   and the method of electron-probe x-ray analysis are discussed.
+   Applications of electron-probe x-ray analysis include mineral
+   deposits in lungs, intranuclear bismuth inclusions, gold deposits in
+   tissues, the nature of haemosiderin, copper in Wilson&apos;s disease,
+   calcium in mitochondria, surgical implants, foreign bodies in eyes
+   and wounds, the specificity of v. Kossa method for calcium,
+   cytochemical localization of acid phosphatase, chromaffin and
+   argentaffin reactions, the transfer of antigenic material from
+   macrophages to lymphocytes, and the diagnosis of cystic fibrosis by
+   electron-probe x-ray analysis of nails.</abstract>
+
+	<majorsubject>ELECTRON-PROBE-MICROANALYSIS: mt</majorsubject>
+	<majorsubject>PATHOLOGY: is</majorsubject>
+
+	<minorsubject>ACID-PHOSPHATASE: an</minorsubject>
+	<minorsubject>ANTIGENS: me</minorsubject>
+	<minorsubject>BISMUTH: an</minorsubject>
+	<minorsubject>CALCIUM: an</minorsubject>
+	<minorsubject>CELL-NUCLEUS: an</minorsubject>
+	<minorsubject>COPPER: an</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: di</minorsubject>
+	<minorsubject>ELECTRON-PROBE-MICROANALYSIS: is</minorsubject>
+	<minorsubject>FOREIGN-BODIES: pa</minorsubject>
+	<minorsubject>GOLD: an</minorsubject>
+	<minorsubject>HEMOSIDERIN: an</minorsubject>
+	<minorsubject>HEPATOLENTICULAR-DEGENERATION: pa</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>LUNG: an</minorsubject>
+	<minorsubject>METALS: an</minorsubject>
+	<minorsubject>MINERALS: an</minorsubject>
+	<minorsubject>MITOCHONDRIA: an</minorsubject>
+	<minorsubject>NAILS: an</minorsubject>
+	<minorsubject>PROSTHESIS</minorsubject>
+	<minorsubject>REVIEW</minorsubject>
+	<minorsubject>STAINS-AND-STAINING</minorsubject>
+
+	<reference>001   BEAVER DL             ARCH PATHOL                     76    89 963</reference>
+	<reference>002   BEEUWKES R 3RD        KIDNEY INT                      12   435 977</reference>
+	<reference>003   BERRY JP              AM J PATHOL                     83   427 976</reference>
+	<reference>004   BORLAND RM            DEVELOP BIOL                    50   201 976</reference>
+	<reference>005   BUJA LM               J HISTOCHEM CYTOCHEM            24   508 976</reference>
+	<reference>006   BURR RE               TOXICOL APPL PHARMACOL           7   588 965</reference>
+	<reference>007   CHANDLER JA           X-RAY MICROANALYSIS ELECTRON             977</reference>
+	<reference>008   CHISHOLM IA           CAN J OPHTHALMOL                12   316 977</reference>
+	<reference>009   CHONG AP              AM J OBSTET GYNECOL            128   209 977</reference>
+	<reference>010   CLARKE JA             NATURE                         227    69 971</reference>
+	<reference>011   ECHLIN P              NATURE                         270   102 977</reference>
+	<reference>012   ELEY BM               HISTOCHEM J                      8   647 976</reference>
+	<reference>013   ESSNER E              IN: HAYAT MA                     1       973</reference>
+	<reference>014   FOWLER BA             J HISTOCHEM CYTOCHEM            23   722 975</reference>
+	<reference>015   GARDNER DL            J PATHOL                        98   105 969</reference>
+	<reference>016   GHADIALLY FN          ULTRASTRUCTURAL PATHOL CELL              975</reference>
+	<reference>017   GHADIALLY FN          J PATHOL                       120   201 976</reference>
+	<reference>018   GHADIALLY FN          J PATHOL                       124    77 978</reference>
+	<reference>019   GHADIALLY FN          VIRCHOWS ARCH CELL PATHOL       22   135 976</reference>
+	<reference>021   GHADIALLY FN          VIRCHOWS ARCH CELL PATHOL       16    43 974</reference>
+	<reference>022   GHADIALLY FN          ANN RHEUM DIS                   35    67 976</reference>
+	<reference>023   GHADIALLY FN          J PATHOL                       123   181 977</reference>
+	<reference>024   GHADIALLY FN          VIRCHOWS ARCH CELL PATHOL       21    45 976</reference>
+	<reference>025   GOLDFISCHER S         AM J PATHOL                     53   883 968</reference>
+	<reference>026   GOLDFISCHER S         J HISTOCHEM CYTOCHEM            12    72 964</reference>
+	<reference>027   HARRISON JD           J PATHOL                       121    83 977</reference>
+	<reference>028   HESS H                KLIN WOCHENSCHR                 50   776 972</reference>
+	<reference>029   LALONDE JMA           VIRCHOWS ARCH CELL PATHOL       25   221 977</reference>
+	<reference>031   LANGHANS              Z CHIR                          22   575 885</reference>
+	<reference>032   LECHENE CP            AM J PHYSIOL                   232  F391 977</reference>
+	<reference>033   LEVER JD              J HISTOCHEM CYTOCHEM            25   275 977</reference>
+	<reference>034   MAUGH TH              SCIENCE                        197   356 977</reference>
+	<reference>035   NORTON WL             ARTHRITIS RHEUM                 11   436 968</reference>
+	<reference>036   ORYSCHAK AF           VIRCHOWS ARCH CELL PATHOL       17   159 974</reference>
+	<reference>037   ORYSCHAK AF           VIRCHOWS ARCH CELL PATHOL       20    29 976</reference>
+	<reference>038   ORYSCHAK AF           J PATHOL                       119   183 976</reference>
+	<reference>039   PAPPENHEIMER AM       AM J PATHOL                     10   577 934</reference>
+	<reference>040   REED GB               ARCH PATHOL                     93   249 972</reference>
+	<reference>041   RICHTER GW            J EXP MED                      106   203 957</reference>
+	<reference>042   ROOMANS GM            ACTA PAEDIATR SCAND             67    89 978</reference>
+	<reference>043   RUSS JC               PROC SCANNING ELECTRO 5TH ANN            972</reference>
+	<reference>044   RYDER TA              J MICROSC                      101   143 974</reference>
+	<reference>045   SALSBURY AJ           PROC R SOC MED                  65   826 972</reference>
+	<reference>046   SELZER S              ORAL SURG                       35   828 973</reference>
+	<reference>047   SHUMAN H              PROC NAT ACAD SCI USA           73  1193 976</reference>
+	<reference>048   SIPPONEN P            ARCH PATHOL LAB MED            100   664 976</reference>
+	<reference>049   STUMP IG              CLIN BIOCHEM                    10   127 977</reference>
+	<reference>050   STURGEON P            IN: WOLMAN M                             969</reference>
+	<reference>051   THOMAS I              VIRCHOWS ARCH CELL PATHOL       26   105 977</reference>
+	<reference>052   WACHSTEIN M           AM J CLIN PATHOL                19   608 949</reference>
+	<reference>053   WACHSTEIN M           AM J PATHOL                     22   603 946</reference>
+	<reference>054   WOOD JG               ACTA HISTOCHEM                  52   143 975</reference>
+	<reference>055   YAROM R               VIRCHOWS ARCH CELL PATHOL       15    11 973</reference>
+	<reference>056   YAROM R               J HISTOCHEM CYTOCHEM            24   453 976</reference>
+	<reference>057   ZS-NAGY I             J ULTRASTRUCT RES               58    22 977</reference>
+
+	<citation>1   SHAW CF               INORG PERSP BIOL MED             2   287 979</citation>
+	<citation>2   GHADIALLY FN          CRC CRIT REV TOXICOL             6   303 979</citation>
+	<citation>3   GHADIALLY FN          J SUBMICROSC CYTOL              11   503 979</citation>
+	<citation>4   HALL TA               J MICROSC                      117   145 979</citation>
+	<citation>5   BACHMANN S            CELL TISSUE RES                213   109 980</citation>
+	<citation>6   DODSON RF             ULTRASTRUCTURAL PATHOL           2   365 981</citation>
+	<citation>7   GHADIALLY FN          J SUBMICROSC CYTOL              13   455 981</citation>
+	<citation>8   MORETON RB            BIOL REV                        56   409 981</citation>
+	<citation>9   DINSDALE D            EXP MOL PATH                    36   396 982</citation>
+	<citation>10   GHADIALLY FN          VIRCHOWS ARCH CELL PATHOL       39    21 982</citation>
+	<citation>11   DAVID H               BIOL ZENTRALBL                 101   715 982</citation>
+	<citation>12   WEINER JM             MED J AUST                       1   272 983</citation>
+	<citation>13   WANG NS               HUM PATHOL                      14   888 983</citation>
+	<citation>14   BRAIN TJ              PATHOLOGY                       15   336 983</citation>
+	<citation>15   GOLIGORSKY MS         NEPHRON                         35    89 983</citation>
+	<citation>16   MUKHERJEE TM          SCANN ELECTRON MICROSC        1983   663 983</citation>
+	<citation>17   GHADIALLY FN          J SUBMICROSC CYTOL              16   773 984</citation>
+	<citation>18   WOZNIEWICZ B          FOLIA HISTOCHEM CYTOBIOL        22   162 984</citation>
+	<citation>19   FUNAHASHI A           CHEST                           85   506 984</citation>
+	<citation>20   HOOK GR               J AM COLL NUTR                   4   599 985</citation>
+	<citation>21   GOLIGORSKY MS         MINERAL ELECTROL METAB          11   301 985</citation>
+	<citation>22   TERZAKIS JA           ORAL SURG                       59   399 985</citation>
+	<citation>23   WARLEY A              J CELL SCI                      75   401 985</citation>
+	<citation>24   BAKER D               SCANN ELECTRON MICROSC        1985   659 985</citation>
+	<citation>25   HALL TA               MICRON MICROSC ACTA             17    91 986</citation>
+	<citation>26   HARTMAN LC            J ORAL MAXILLOFAC SURG          44   628 986</citation>
+
+</document>

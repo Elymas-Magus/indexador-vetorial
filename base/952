@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Cystic fibrosis: the prognosis for five-year survival.</title>
+
+	<author>Knoke-J-D.</author>
+	<author>Stern-R-C.</author>
+	<author>Doershuk-C-F.</author>
+	<author>Boat-T-F.</author>
+	<author>Matthews-L-W.</author>
+
+	<source>Pediatr-Res. 1978 May. 12(5). P 676-9.</source>
+
+	<abstract>Statistical discriminant analysis is applied to 41 concomitant
+   variables obtained during the first year of study of 226 patients
+   with cystic fibrosis. A discriminant function based on six variables
+   is developed which can be used as a predictive index. This index
+   estimates the probability of 5-year survival for an individual
+   patient and can also be used to classify patients into one of two
+   groups: (1) will live for 5 years or (2) will die within 5 years.
+   Speculation A classification rule for cystic fibrosis is presented
+   which correctly assigns 90% of the 5-year survivors and 84% of those
+   who expire. Such a classification scheme is useful for clinical and
+   research purposes.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS: mo</majorsubject>
+
+	<minorsubject>ADOLESCENCE</minorsubject>
+	<minorsubject>CHILD</minorsubject>
+	<minorsubject>CHILD-PRESCHOOL</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>INFANT</minorsubject>
+	<minorsubject>PROBABILITY</minorsubject>
+	<minorsubject>PROGNOSIS</minorsubject>
+	<minorsubject>SUPPORT-U-S-GOVT-P-H-S</minorsubject>
+
+	<reference>001   AFIFI AA              AM J CARDIOL                    33   826 974</reference>
+	<reference>002   AFIFI AA              N ENGL J MED                   285  1497 971</reference>
+	<reference>003   CHANG PC              J AM STATIST ASSOC              69   336 974</reference>
+	<reference>004   DIXON WJ              BMDP: BIOMEDICAL COMPUTER PRO            975</reference>
+	<reference>005   DOERSHUK CF           J PEDIATR                       65   677 964</reference>
+	<reference>006   LACHENBRUCH PA        DISCRIMINANT ANALYSIS                    975</reference>
+	<reference>007   LACHENBRUCH PA        TECHNOMETRICS                   10     1 968</reference>
+	<reference>008   LURIA MH              ANN INTERN MED                  85   561 976</reference>
+	<reference>009   MATTHEWS LW           J PEDIATR                       65   558 964</reference>
+	<reference>010   MCCABE GP JR          TECHNOMETRICS                   17   103 975</reference>
+	<reference>011   MOORE DH              J AM STATIST ASSOC              68   399 973</reference>
+	<reference>012   SHUBIN H              CARDIOVASC RES                   2   329 968</reference>
+	<reference>013   SHWACHMAN H           AM J DIS CHILD                  96     6 958</reference>
+	<reference>014   STERN RC              J PEDIATR                       89   406 976</reference>
+	<reference>015   TAUSSIG LM            J PEDIATR                       82   380 973</reference>
+
+	<citation>1   KRAEMER R             HELV PAEDIATR ACTA              34   417 979</citation>
+	<citation>2   TUMMLER B             MONATSSCHR KINDERHEILKD        130   157 982</citation>
+	<citation>3   PARSONS HG            J PEDIATR GASTROENTEROL NUTR     2    44 983</citation>
+	<citation>4   DAVIS PB              SEM RESPIR MED                   6   261 985</citation>
+
+</document>

@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Blood volume changes in patients with cystic fibrosis.</title>
+
+	<author>Rosenthal-A.</author>
+	<author>Button-L-N.</author>
+	<author>Khaw-K-T.</author>
+
+	<source>Pediatrics. 1977 Apr. 59(4). P 588-94.</source>
+
+	<abstract>Simultaneous red blood cell (RBC) and plasma volume determinations
+   were obtained in 16 patients with cystic fibrosis (CF) and moderately
+   severe pulmonary involvement. Hypervolemia with an increase in both
+   RBC and plasma volumes was observed. Changes in blood volume were
+   marked when values were indexed by weight but less significant when
+   indexed by height. Decreasing systemic arterial oxygen saturation was
+   associated with a progressive increase in RBC mass, hematocrit value,
+   and hemoglobin level and a decrease in mean corpuscular hemoglobin
+   concentration. RBC and total blood volumes were highest in patients
+   with cor pulmonale and congestive heart failure. However, the
+   compensatory polycythemic response in patients with CF was inadequate
+   when compared with the response to hypoxemia in patients with
+   cyanotic congenital heart disease. The insufficient oxygen-carrying
+   capacity may compromise tissue oxygen delivery and necessitate
+   treatment.</abstract>
+
+	<majorsubject>BLOOD-VOLUME</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: pp</majorsubject>
+
+	<minorsubject>ADOLESCENCE</minorsubject>
+	<minorsubject>ADULT</minorsubject>
+	<minorsubject>ANOXEMIA: co</minorsubject>
+	<minorsubject>CHILD</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: co</minorsubject>
+	<minorsubject>ERYTHROCYTES</minorsubject>
+	<minorsubject>FEMALE</minorsubject>
+	<minorsubject>HEMATOCRIT</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>MALE</minorsubject>
+	<minorsubject>OXYGEN: bl</minorsubject>
+	<minorsubject>PULMONARY-HEART-DISEASE: co, pp</minorsubject>
+	<minorsubject>RESPIRATORY-FUNCTION-TESTS</minorsubject>
+	<minorsubject>SUPPORT-U-S-GOVT-P-H-S</minorsubject>
+
+	<reference>001   ROSENTHAL A           AM J CARDIOL                    27   162 971</reference>
+	<reference>002   VANIER T              N ENGL J MED                   269   169 963</reference>
+	<reference>003   CAPLAN AH             J PEDIATR                       73   540 968</reference>
+	<reference>004   SCHRIEBER SS          IN: FRIEDBERG CK                      29 962</reference>
+	<reference>005   SHWACHMAN H           AM J DIS CHILD                  96     6 958</reference>
+	<reference>006   BUTTON LN             TRANSFUSION                      5   143 965</reference>
+	<reference>007   KEANE JF              PROG CARDIOVASC DIS             18    57 975</reference>
+	<reference>008   TONZ O                LANCET                           2  1096 965</reference>
+	<reference>009   WENNESLAND R          J CLIN INVEST                   38  1065 959</reference>
+	<reference>010   RUSSELL SJM           ARCH DIS CHILD                  24    88 949</reference>
+	<reference>011   WEIL JV               J CLIN INVEST                   47     7 968</reference>
+	<reference>012   ROSENTHAL A           PEDIATRICS                      47   537 971</reference>
+	<reference>013   ORZALESI MM           AM REV RESPIR DIS              107   928 973</reference>
+	<reference>014$  BORDEN M              CF CLUB ABST                    15       975</reference>
+
+	<citation>1   ROSENTHAL A           PEDIATRICS                      59   919 977</citation>
+	<citation>2   LEMEN RJ              AM REV RESPIR DIS              117   639 978</citation>
+	<citation>3   SANTAGNESE PAD        AM J MED                        66   121 979</citation>
+	<citation>4   LAKE CR               CLIN CHIM ACTA                  92   141 979</citation>
+	<citation>5   FISCHER EG            J PEDIATR                       95   385 979</citation>
+	<citation>6   PEDERSEN PS           ACTA PAEDIATR SCAND             70   507 981</citation>
+	<citation>7   RIFF L                SEM PERINATOL                    6   155 982</citation>
+	<citation>8   MOSS AJ               PEDIATRICS                      70   728 982</citation>
+	<citation>9   BERG U                ACTA PAEDIATR SCAND             71   833 982</citation>
+	<citation>10   WAGENER JS            AM J PEDIATR HEMATOL ONCOL       5   153 983</citation>
+	<citation>11   KELLY HW              DRUG INTEL CLIN PHARM           18   772 984</citation>
+	<citation>12   WAGENER JS            PEDIATRICS                      74   168 984</citation>
+	<citation>13   LESTER LA             SEM RESPIR MED                   6   285 985</citation>
+
+</document>

@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>The use of new antibiotic agents for chronic pulmonary disease.</title>
+
+	<author>Huang-N-N.</author>
+
+	<source>Pediatr-Ann. 1978 Jan. 7(1). P 56, 58-60, 62 passim.</source>
+
+	<abstract>Modern advances in the development of antimicrobial agents and in
+   chemotherapy have made available potent aminoglycoside antibiotics,
+   with more effective ones to come. Their effectiveness against P.
+   aeruginosa is a great contribution to patients with cystic fibrosis
+   and other chronic disorders. The development of carbenicillin has
+   augmented the effectiveness of the aminoglycoside antibiotics.
+   Ticarcillin is similar to carbenicillin and will play a similar role
+   in antibiotic therapy. The cephalosporins serve as alternative agents
+   principally for their antistaphylococcal activity. We are urgently in
+   need of a potent antibiotic agent against P. aeruginosa that can be
+   given by the oral route. The TMP-SMX combination is a potent
+   chemotherapeutic agent that can be administered by the oral route. It
+   is effective in the treatment of P. carinii pneumonia, which is very
+   common owing to the extended survival of patients with leukemia and
+   other malignancies or with allografts who are prone to develop
+   infections with immunosuppressive therapy.</abstract>
+
+	<majorsubject>ANTIBIOTICS: tu</majorsubject>
+	<majorsubject>BACTERIAL-INFECTIONS: dt</majorsubject>
+	<majorsubject>RESPIRATORY-TRACT-INFECTIONS: dt</majorsubject>
+
+	<minorsubject>AGAMMAGLOBULINEMIA: co</minorsubject>
+	<minorsubject>AMINOGLYCOSIDES: tu</minorsubject>
+	<minorsubject>ASTHMA: co</minorsubject>
+	<minorsubject>CEPHALOSPORINS: tu</minorsubject>
+	<minorsubject>CHRONIC-DISEASE</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: co</minorsubject>
+	<minorsubject>IMMUNOLOGIC-DEFICIENCY-SYNDROMES: co</minorsubject>
+	<minorsubject>PENICILLINS: tu</minorsubject>
+	<minorsubject>PNEUMONIA-ASPIRATION: co</minorsubject>
+	<minorsubject>RESPIRATORY-TRACT-INFECTIONS: et</minorsubject>
+	<minorsubject>SULFAMETHOXAZOLE: tu</minorsubject>
+	<minorsubject>TETRACYCLINES: tu</minorsubject>
+	<minorsubject>TRIMETHOPRIM: tu</minorsubject>
+
+	<reference>001   WOOD RE               AM REV RESPIR DIS              113   833 976</reference>
+	<reference>002   CUMMING WA            RADIOLOGY                      105   387 972</reference>
+	<reference>003   BARTLETT JG           CHEST                           68   560 975</reference>
+	<reference>004   KIM IG                LARYNGOSCOPE                    83   347 973</reference>
+	<reference>005   GOSINK BB             AM J ROENTG RAD THER NUCL MED  117   816 973</reference>
+	<reference>006   LARAYA-CUASAY LR      AM REV RESPIR DIS              109   703 974</reference>
+	<reference>007   BAUER AW              AM J CLIN PATHOL                45   493 966</reference>
+	<reference>008   STRATFORD BC          LANCET                           1   378 974</reference>
+	<reference>009   MENDELSON J           ANTIMICROB AGENTS CHEMOTHER      9   633 976</reference>
+	<reference>010   MEYERS RM             ARCH OTOLARYNGOL                92   160 970</reference>
+	<reference>011   KOSSEK JC             J LAB INVEST                    30    48 974</reference>
+	<reference>012   BOBROW SN             JAMA                           222  1546 972</reference>
+	<reference>013   HOLMES RK             ANTIMICROB AGENTS CHEMOTHER      6   253 974</reference>
+	<reference>014   HOUANG ET             LANCET                           1   423 976</reference>
+	<reference>015   NEU HC                J INFECT DIS SUPPL             134     3 976</reference>
+	<reference>016   HUANG NN              INFECTION SUPPL                  4   465 976</reference>
+	<reference>017   MARKS MI              J CLIN PHARMACOL                15   246 975</reference>
+	<reference>018   HUANG NN              CLINICAL EXPERIENCE WITH AMIK            976</reference>
+	<reference>019   KHAN AJ               CURR THER RES                   19   479 976</reference>
+	<reference>020   KLASTERSKY J          J MED MICROBIOL                  7   465 974</reference>
+	<reference>021   LEVISON ME            ANTIMICROB AGENTS CHEMOTHER      5   667 974</reference>
+	<reference>022   MCLAUGHLIN JE         LANCET                           1   261 971</reference>
+	<reference>023   RIFF LJ               ARCH INTERN MED                130   887 972</reference>
+	<reference>024   LEVINE BB             J INFECT DIS SUPPL             128   364 973</reference>
+	<reference>025   TUANO SB              ANTIMICROB AGENTS CHEMOTHER      6   101 966</reference>
+	<reference>026   BURTON JR             JAMA                           229   679 974</reference>
+	<reference>027   THORNHILL TS          APPL MICROBIOL                  17   457 969</reference>
+	<reference>028   STORE SD              J POSTGRAD MED                  21   121 975</reference>
+	<reference>029   KIRBY WMM             J INFECT DIS SUPPL             128   341 973</reference>
+	<reference>030   STANFORD HC           J INFECT DIS SUPPL             122     9 970</reference>
+	<reference>031   HUANG NN              J PEDIATR                       78   338 971</reference>
+	<reference>032   BROWN CH 3RD          N ENGL J MED                   291   265 974</reference>
+	<reference>033   ERVIN ER              ANTIMICROB AGENTS CHEMOTHER      9    94 976</reference>
+	<reference>034   PARRY MF              J PEDIATR                       90   144 977</reference>
+	<reference>035   PARRY MF              J INFECT DIS SUPPL             134   194 976</reference>
+	<reference>036   NEU HC                ANTIMICROB AGENTS CHEMOTHER      8   457 975</reference>
+	<reference>037   HUANG NN              ANTIMICROB AGENTS CHEMOTHER      6   127 966</reference>
+	<reference>038   PINES A               PRACTITIONER                   213   727 974</reference>
+	<reference>039   BROGDEN RN            DRUGS                            9   251 975</reference>
+	<reference>040   GROSSMAN ER           PEDIATRICS                      47   567 971</reference>
+	<reference>041   FRIMPTER GW           JAMA                           184   111 963</reference>
+	<reference>042   KABU SB               CLIN PHARMACOL THER              9   550 968</reference>
+	<reference>043   BERGAN T              ACTA MED SCAND                 192   483 972</reference>
+	<reference>044   LEWIN EB              J INFECT DIS SUPPL             128   618 973</reference>
+	<reference>045   STORE SD              J POSTGRAD MED                  21   114 975</reference>
+	<reference>046   KNIGHT D              LANCET                           2   717 975</reference>
+	<reference>047   HUGHES WT             CANCER                          36  2004 975</reference>
+	<reference>048   HUGHES WT             N ENGL J MED                   295   726 976</reference>
+
+
+</document>

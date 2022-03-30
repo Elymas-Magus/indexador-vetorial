@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Evidence against a specific effect of serum from patients with
+   cystic fibrosis on sodium-dependent glucose transport in the rat
+   jejunum.</title>
+
+	<author>Will-P-C.</author>
+	<author>Boat-T-F.</author>
+	<author>Hopfer-U.</author>
+
+	<source>Pediatr-Res. 1979 Oct. 13(10). P 1129-33.</source>
+
+	<abstract>Sera from patients with cystic fibrosis of the pancreas (CF) and
+   normal human sera were assayed for the ability to inhibit sodium-
+   dependent glucose transport in rat brush-border membrane vesicles.
+   Fresh CF and age- and sex-matched control sera were both inhibitory
+   when compared to physiologic saline. The inhibition by CF serum was
+   44 +/- 13% (mean +/- SD) at a final serum concentration of 6.7%, 67
+   +/- 34% at 10% serum, and 68 +/- 28% at 20% serum. The ratio of the
+   inhibition of CF sera compared to that of control sera was 1.00,
+   0.78, and 0.93 at 6.7, 10, and 20% serum concentrations,
+   respectively. Although a slightly greater inhibition by CF serum was
+   observed at a concentration of 10%, this is probably not significant
+   because no difference could be detected at a concentration of 20%
+   serum. Glucose transport in the presence of serum was sensitive to
+   phlorizin indicating that the residual glucose transport was
+   proceeding by the sodium-dependent glucose transport system. These
+   findings suggest that CF serum does not specifically inhibit the
+   sodium-dependent glucose transport system. The intravesicular space
+   accessible to glucose was reduced in the presence of CF or control
+   serum. Fresh CF serum was 1.4 times more effective than fresh control
+   serum (P less than 0.01). The presence of substantial vesicle-
+   shrinking activity in control serum indicates that this activity
+   cannot be considered specific for CF.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS: bl</majorsubject>
+	<majorsubject>GLUCOSE: me</majorsubject>
+	<majorsubject>JEJUNUM: me</majorsubject>
+	<majorsubject>SODIUM: pd</majorsubject>
+
+	<minorsubject>ANIMAL</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>IN-VITRO</minorsubject>
+	<minorsubject>MALE</minorsubject>
+	<minorsubject>MICROVILLI: me</minorsubject>
+	<minorsubject>PHLORHIZIN: pd</minorsubject>
+	<minorsubject>RATS</minorsubject>
+
+	<reference>001   ARAKI H               PEDIATR RES                      9   932 975</reference>
+	<reference>002   ARAKI H               PROC INT CF CONG 7TH                  28 976</reference>
+	<reference>003   ARVANITAKIS S         TEX REP BIOL MED                34   175 976</reference>
+	<reference>004   BARNETT DR            TEX REP BIOL MED                31   709 973</reference>
+	<reference>005   BENKE PJ              PROC SOC EXP BIOL MED          137  1283 971</reference>
+	<reference>006   BENSADOUN A           ANAL BIOCHEM                    70   241 976</reference>
+	<reference>007   BROWN GA              LANCET                           2   639 971</reference>
+	<reference>008   CONOD EJ              PEDIATR RES                     11    45 977</reference>
+	<reference>009   DESJEUX JF            EUROPEAN SOC PEDIAT RES MTG              970</reference>
+	<reference>010   DESJEUX JF            CF CLUB ABST                    15       974</reference>
+	<reference>011   DI SANTAGNESE PA      N ENGL J MED                   295   481 976</reference>
+	<reference>012   DOERSHUK CF           J PEDIATR                       65   677 964</reference>
+	<reference>013   DOGGETT RG            TEX REP BIOL MED                31   685 973</reference>
+	<reference>014   FRIZZELL RA           J MEMBR BIOL                    27   297 976</reference>
+	<reference>015   FROMTER E             NATURE NEW BIOL                235     9 972</reference>
+	<reference>016   GILMORE JP            PROC SOC EXP BIOL MED          157    70 978</reference>
+	<reference>017   HOPFER U              PROC NAT ACAD SCI USA           72  2027 975</reference>
+	<reference>018   HOPFER U              J SUPRAMOL STRUCT                7     1 977</reference>
+	<reference>019   HOPFER U              J BIOL CHEM                    248    25 973</reference>
+	<reference>020   HOPFER U              ANN NY ACAD SCI                264   414 975</reference>
+	<reference>021   KAISER D              PEDIATR RES                      5   167 971</reference>
+	<reference>022   LOWRY OH              J BIOL CHEM                    193   265 951</reference>
+	<reference>023   MANGOS JA             TEX REP BIOL MED                31   651 973</reference>
+	<reference>024   MANGOS JA             SCIENCE                        158   135 967</reference>
+	<reference>025   MANGOS JA             PEDIATR RES                      1   436 967</reference>
+	<reference>026   MENG K                PFLUEGERS ARCH                 357    91 975</reference>
+	<reference>027   MORIN CL              BIOMEDICINE EXPRESS             19   133 973</reference>
+	<reference>028   MURER H               PROC NAT ACAD SCI USA           71   484 974</reference>
+	<reference>029   SCHMITZ J             BIOCHIM BIOPHYS ACTA           323    98 973</reference>
+	<reference>030   SCHNEYER LH           AM J PHYSIOL                   219  1050 970</reference>
+	<reference>031   SCHNEYER LH           PHYSIOL REV                     52   720 972</reference>
+	<reference>032   SCHULTZ SG            PHYSIOL REV                     50   637 970</reference>
+	<reference>033   SHAPIRO BL            PEDIATR RES                      9   885 975</reference>
+	<reference>034   SIGRIST-NELSON K      J BIOL CHEM                    250  5674 975</reference>
+	<reference>035   TANNENBAUM C          FED PROC                        36   360 977</reference>
+	<reference>036   TAUSSIG LM            LANCET                           1  1367 972</reference>
+	<reference>037   TAYLOR A              PEDIATR RES                      8   861 974</reference>
+	<reference>038   WILSON GB             NATURE                         266   463 977</reference>
+	<reference>039   WILSON GB             PEDIATR RES                     11   317 977</reference>
+	<reference>040   ZAR JH                BIOSTATISTICAL ANALYSIS                  974</reference>
+
+	<citation>1   WILL PC               PEDIATR RES                     14  1245 980</citation>
+	<citation>2   BANCHINI G            PEDIATR RES                     15  1073 981</citation>
+	<citation>3   ALBAZZAZ FJ           RESPIRATION                     46    88 984</citation>
+
+</document>

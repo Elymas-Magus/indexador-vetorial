@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Gentamicin in paediatrics.</title>
+
+	<author>McAllister-T-A.</author>
+
+	<source>Postgrad-Med-J. 1974 Nov. 50 Suppl 7. P 45-52.</source>
+
+	<abstract>Gentamicin is a broad-spectrum, bactericidal aminoglycoside
+   antibiotic in its tenth year of use in the U.K.  League tables of
+   antibiotics, ranked by disc sensitivity tests against urinary tract
+   pathogens and Staph. aureus confirm its remarkable effectiveness in
+   1973.  Bacteriodes sp. and some streptococci are the only major
+   omissions from its spectrum.  MIC of sensitive strains is usually
+   less than or equal to 2 microg/ml although Pseudomonas may require
+   greater than or equal to 4 microg/ml.  The therapeutic range aimed
+   for is 2-12 microg/ml in serum and peak levels are measured 1 hr
+   after intramuscular and 20 min after intravenous injection.  Most
+   workers regard a level of 12 microg/ml as potentially toxic and try
+   to avoid exceeding it.</abstract>
+
+	<majorsubject>GENTAMICINS: tu</majorsubject>
+
+	<minorsubject>AGE-FACTORS</minorsubject>
+	<minorsubject>BACTERIA: de</minorsubject>
+	<minorsubject>CHILD</minorsubject>
+	<minorsubject>CHILD-PRESCHOOL</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: dt, mi</minorsubject>
+	<minorsubject>ENTEROBACTERIACEAE-INFECTIONS: dt</minorsubject>
+	<minorsubject>FEMALE</minorsubject>
+	<minorsubject>GENTAMICINS: ae, ad</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>INFANT</minorsubject>
+	<minorsubject>INFANT-NEWBORN</minorsubject>
+	<minorsubject>LEUKEMIA: co</minorsubject>
+	<minorsubject>MALE</minorsubject>
+	<minorsubject>SEPTICEMIA: dt, mi</minorsubject>
+	<minorsubject>URINARY-TRACT-INFECTIONS: mi</minorsubject>
+
+	<reference>001  ABSTON S              J INFECT DIS SUPPL             124   275 971</reference>
+	<reference>002   BARBER M              BR MED J                         1   203 966</reference>
+	<reference>003   BLOCKEY NJ            J BONE JOINT SURG              54B   299 972</reference>
+	<reference>004   BLOOM SR              POSTGRAD MED J                  45   761 969</reference>
+	<reference>005   BULGER RJ             AM J MED SCI                   246   717 963</reference>
+	<reference>006   BULGER RJ             ANN INTERN MED                  59   593 963</reference>
+	<reference>007   BUSUTTIL AA           LANCET                           1   264 973</reference>
+	<reference>008   CLANCY MT             J IR MED ASSOC                  65   514 972</reference>
+	<reference>009   DARRELL JH            BR MED J                         4   427 972</reference>
+	<reference>010   EYKYN S               LANCET                           1   545 971</reference>
+	<reference>011   FILLASTRE JP          BR MED J                         2   396 973</reference>
+	<reference>012   GINGELL JC            BR MED J                         2    19 968</reference>
+	<reference>013   HOLT RJ               ARCH DIS CHILD                  43   329 968</reference>
+	<reference>014   ILLINGWORTH RS        PRESCRIBERS&apos; JOURNAL            13   124 973</reference>
+	<reference>015   JACKSON GG            J INFECT DIS SUPPL             124    65 971</reference>
+	<reference>016   JAO RL                ANTIMICROB AGENTS CHEMOTHER      3   148 963</reference>
+	<reference>017   KABINS SA             J INFECT DIS SUPPL             124    65 971</reference>
+	<reference>018   KLASTERSKY J          LANCET                           1   653 971</reference>
+	<reference>019   KLEIN JO              J INFECT DIS SUPPL             124   224 971</reference>
+	<reference>020   ANON                  LANCET                           1   191 973</reference>
+	<reference>021   LEVISON ME            LANCET                           2    45 971</reference>
+	<reference>022   LEWIS JE              NATURE NEW BIOL                239   214 972</reference>
+	<reference>023   LIGHTBOWN JB          IN: WATT PJ                            5 970</reference>
+	<reference>024   LYNN B                LANCET                           1   654 971</reference>
+	<reference>025   MCALLISTER TA         LANCET                           1  1520 973</reference>
+	<reference>026   MCALLISTER TA         IN: FORFAR JO                       1795 973</reference>
+	<reference>027   MCALLISTER TA         POSTGRAD MED J SEPT SUPPL       47     7 971</reference>
+	<reference>029   MCHENRY MC            J INFECT DIS SUPPL             124   164 971</reference>
+	<reference>030   MCLAUGHLIN JE         LANCET                           1   261 971</reference>
+	<reference>031   MACMILLAN BG          J INFECT DIS SUPPL             124   278 971</reference>
+	<reference>033   MILNER RDG            POSTGRAD MED J SUPPL 7          50    40 974</reference>
+	<reference>034   MILNER RDG            ARCH DIS CHILD                  47   927 972</reference>
+	<reference>035   NEWMAN RL             MR MED J                         1   539 967</reference>
+	<reference>036   NOONE P               BR MED J                         1   477 974</reference>
+	<reference>037   NOONE P               LANCET                           2  1194 972</reference>
+	<reference>038   NOONE P               LANCET                           1   316 973</reference>
+	<reference>039   RIFF LJ               J INFECT DIS SUPPL             124    98 971</reference>
+	<reference>040   RIFF LJ               LANCET                           1   592 971</reference>
+	<reference>041   SMITH DH              LANCET                           1   252 967</reference>
+	<reference>042   SMITH DH              N ENGL J MED                   286   583 972</reference>
+	<reference>043   SONNE M               APPL MICROBIOL                  17   893 969</reference>
+	<reference>044   STRATFORD BC          LANCET                           1   378 974</reference>
+	<reference>045   WEINSTEIN MJ          ANTIMICROB AGENTS CHEMOTHER      3     1 963</reference>
+
+	<citation>1   MCALLISTER TA         SCOTT MED J                     20    97 975</citation>
+	<citation>2   RAINE PAM             SCOTT MED J                     21    66 976</citation>
+	<citation>3   TAYLOR M              ARCH DIS CHILD                  51   369 976</citation>
+	<citation>4   RAINE PAM             J INFECT DIS                   134  S165 976</citation>
+
+</document>

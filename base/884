@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Mucoid Pseudomonas aeruginosa and cystic fibrosis: resistance of the
+   mucoid from to carbenicillin, flucloxacillin and tobramycin and the
+   isolation of mucoid variants in vitro.</title>
+
+	<author>Govan-J-R.</author>
+	<author>Fyfe-J-A.</author>
+
+	<source>J-Antimicrob-Chemother. 1978 May. 4(3). P 233-40.</source>
+
+	<abstract>Mucoid strains of Pseudomonas aeruginosa isolated from the sputa of
+   patients with cystic fibrosis or in vitro through selection with
+   phage were more resistant to carbenicillin, flucloxacillin and
+   tobramycin and more sensitive to tetracycline than related
+   non-mucoid strains.  The observations led to the development of a
+   technique for the isolation of mucoid variants in vitro based on
+   enhanced resistance to carbenicillin.  Mucoid variants were isolated
+   from various strains of Ps. aeruginosa and the exopolysaccharide
+   found to be similar to that obtained from mucoid Ps. aeruginosa
+   isolated from patients with cystic fibrosis.</abstract>
+
+	<majorsubject>ANTIBIOTICS: pd</majorsubject>
+	<majorsubject>CARBENICILLIN: pd</majorsubject>
+	<majorsubject>CLOXACILLIN: aa</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: mi</majorsubject>
+	<majorsubject>FLOXACILLIN: pd</majorsubject>
+	<majorsubject>PSEUDOMONAS-AERUGINOSA: ip</majorsubject>
+	<majorsubject>TOBRAMYCIN: pd</majorsubject>
+
+	<minorsubject>CHEMISTRY-PHYSICAL</minorsubject>
+	<minorsubject>DRUG-RESISTANCE-MICROBIAL</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>POLYSACCHARIDES-BACTERIAL: an</minorsubject>
+	<minorsubject>PSEUDOMONAS-AERUGINOSA: de</minorsubject>
+
+	<reference>001   BRUMFITT W            J ANTIMICROB CHEMOTHER           1   163 975</reference>
+	<reference>002   DOGGETT RG            APPL MICROBIOL                  18   936 969</reference>
+	<reference>003   DOGGETT RG            IN: LAWSON D PROC 5TH INT CF         175 969</reference>
+	<reference>004   DOGGETT RG            J PEDIATR                       68   215 966</reference>
+	<reference>005   EVANS LR              J BACTERIOL                    116   915 973</reference>
+	<reference>006   GOVAN JRW             J MED MICROBIOL                  8   513 975</reference>
+	<reference>007   GOVAN JRW             J ANTIMICROB CHEMOTHER           2   215 976</reference>
+	<reference>008   GOVAN JRW             IN: NORRIS JR                   10    59 978</reference>
+	<reference>009   HOLLOWAY BW           BACT REV                        33   419 969</reference>
+	<reference>010   IACOCCA VF            AM J DIS CHILD                 106   315 963</reference>
+	<reference>011   LAWSON D              IN: WATT PJ                           69 970</reference>
+	<reference>012   MCCRAE WM             J INFECT DIS SUPPL             134   191 976</reference>
+	<reference>013   MARKS MI              J PEDIATR                       79   822 971</reference>
+	<reference>014   MARTIN DR             J MED MICROBIOL                  6   111 973</reference>
+	<reference>015   MAY JR                J MED MICROBIOL                  6    77 973</reference>
+	<reference>016   PHILLIPS I            J MED MICROBIOL                  2     9 969</reference>
+	<reference>017   RAEBURN JA            J ANTIMICROB CHEMOTHER           2   107 976</reference>
+	<reference>018   SONNENSCHEIN C        ZENTRALBL BAKTERIOL            104   365 927</reference>
+	<reference>019   STANISICH V           GENETICS                        61   327 969</reference>
+	<reference>020   WILLIAMS RJ           J MED MICROBIOL                  6   409 973</reference>
+	<reference>021   ZIERDT CH             J BACTERIOL                     87  1003 964</reference>
+
+	<citation>1   HOLLOWAY BW           MICROBIOL REV                   43    73 979</citation>
+	<citation>2   GOVAN JRW             J GEN MICROBIOL                110   229 979</citation>
+	<citation>3   THOMASSEN MJ          J INFECT DIS                   140   873 979</citation>
+	<citation>4   DEMKO CA              CURRENT MICROBIOL                4    69 980</citation>
+	<citation>5   MARKOWITZ SM          J ANTIMICROB CHEMOTHER           6   251 980</citation>
+	<citation>6   CHENG KJ              CAN J MICROBIOL                 26  1104 980</citation>
+	<citation>7   LAM J                 INFECT IMMUN                    28   546 980</citation>
+	<citation>8   LIEBERMAN MM          INFECT IMMUN                    29   489 980</citation>
+	<citation>9   FYFE JAM              J GEN MICROBIOL                119   443 980</citation>
+	<citation>10   BRISOU JF             C R ACAD SCI (D)(PARIS)        290  1421 980</citation>
+	<citation>11   FICK RB               CLIN CHEST MED                   2    91 981</citation>
+	<citation>12   SLACK MPE             LANCET                           2   502 981</citation>
+	<citation>13   COSTERTON JW          CRC CRIT REV MICROBIOL           8   303 981</citation>
+	<citation>14   IRVIN RT              ANTIMICROB AGENTS CHEMOTHER     19  1056 981</citation>
+	<citation>15   CHENG KJ              CAN J MICROBIOL                 27   461 981</citation>
+	<citation>16   BLACKWOOD LL          INFECT IMMUN                    32   443 981</citation>
+	<citation>17   COSTERTON JW          ANNU REV MICROBIOL              35   299 981</citation>
+	<citation>18   MARKS MI              J PEDIATR                       98   173 981</citation>
+	<citation>19   GOVAN JRW             J GEN MICROBIOL                125   217 981</citation>
+	<citation>20   BERGAN T              SCAND J INFECT DIS            1981     7 981</citation>
+	<citation>21   BAKER NR              CURRENT MICROBIOL                7    35 982</citation>
+	<citation>22   SLACK MPE             J ANTIMICROB CHEMOTHER          10   368 982</citation>
+	<citation>23   PIGGOTT NH            EUR J APP MICROBIO BIOTECHNOL   16   131 982</citation>
+	<citation>24   SUTHERLAND IW         ADV MICROB PHYSIOL              23    79 982</citation>
+	<citation>25   BOYCE JR              INFECT IMMUN                    37   840 982</citation>
+	<citation>26   OHMAN DE              INFECT IMMUN                    37   662 982</citation>
+	<citation>27   HOOKE AM              INFECT IMMUN                    38   136 982</citation>
+	<citation>28   MONTIE TC             INFECT IMMUN                    38  1296 982</citation>
+	<citation>29   EXNER M               ZENTRALBL BAKT MIKROB HYG (B)  176   425 982</citation>
+	<citation>30   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    33 982</citation>
+	<citation>31   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    75 982</citation>
+	<citation>32   COSTERTON JW          REV INFECT DIS                   5  S867 983</citation>
+	<citation>33   GOVAN JRW             REV INFECT DIS                   5  S874 983</citation>
+	<citation>34   OMBAKA EA             REV INFECT DIS                   5  S880 983</citation>
+	<citation>35   COSTERTON JW          PROG FOOD NUTR SCI               7    91 983</citation>
+	<citation>36   OLIVER AM             J CLIN LAB IMMUNOL              10   221 983</citation>
+	<citation>37   TURNOWSKY F           FEMS MICROBIOL LETTERS          17   243 983</citation>
+	<citation>38   HACKING AJ            J GEN MICROBIOL                129  3473 983</citation>
+	<citation>39   DALHOFF A             ZENTRALBL BAKT MIKROB HYG (A)  254   379 983</citation>
+	<citation>40   COSTERTON JW          REV INFECT DIS                   6  S608 984</citation>
+	<citation>41   GRISTINA AG           ORTHOP CLIN NORTH AM            15   517 984</citation>
+	<citation>42   KELLY HW              DRUG INTEL CLIN PHARM           18   772 984</citation>
+	<citation>43   NACUCCHIO MC          PEDIATR RES                     18   295 984</citation>
+	<citation>44   CHAN R                J CLIN MICROBIOL                19     8 984</citation>
+	<citation>45   WINGENDER J           FEMS MICROBIOL LETTERS          21    63 984</citation>
+	<citation>46   COSTERTON JW          DEVELOP IND MICROBIOL           25   363 984</citation>
+	<citation>47   TANNENBAUM CS         ANTIMICROB AGENTS CHEMOTHER     25   673 984</citation>
+	<citation>48   LAMBE DW              CAN J MICROBIOL                 30   809 984</citation>
+	<citation>49   MILLS J               INFECT IMMUN                    43   359 984</citation>
+	<citation>50   HANSEN JB             APPL ENVIRON MICROBIOL          47   704 984</citation>
+	<citation>51   VOGEL F               DTSCH MED WSCHR                109  1148 984</citation>
+	<citation>52   FYFE JAM              J GEN MICROBIOL                130   825 984</citation>
+	<citation>53   JARMAN TR             ARCH MICROBIOL                 137   231 984</citation>
+	<citation>54   GOLDBERG JB           J BACTERIOL                    158  1115 984</citation>
+	<citation>55   DARZINS A             J BACTERIOL                    159     9 984</citation>
+	<citation>56   LINKER A              J BACTERIOL                    159   958 984</citation>
+	<citation>57   LIEBERMAN MM          SURV SYNTH PATHOL RES            4   312 985</citation>
+	<citation>58   MARTY N               MED MALAD INFECT                15   604 985</citation>
+	<citation>59   SHABTAI J             DEVELOP IND MICROBIOL           26   291 985</citation>
+	<citation>60   IRVIN RT              CAN J MICROBIOL                 31   268 985</citation>
+	<citation>61   MARESZBABCZYSZYN J    ARCH IMMUNOL THER EXP           33   515 985</citation>
+	<citation>62   SUTHERLAND IW         ANNU REV MICROBIOL              39   243 985</citation>
+	<citation>63   MARCUS H              INFECT IMMUN                    47   723 985</citation>
+	<citation>64   SHABTAI Y             APPL ENVIRON MICROBIOL          49   192 985</citation>
+	<citation>65   LUZAR MA              INFECT IMMUN                    50   577 985</citation>
+	<citation>66   KOMIYAMA K            ORAL SURG                       59   590 985</citation>
+	<citation>67   WINKLER U             KLIN WSCHR                      63   490 985</citation>
+	<citation>68   GRISTINA AG           J BONE JOINT SURG              67A   264 985</citation>
+	<citation>69   DUMA RJ               AM J MED                        78   154 985</citation>
+	<citation>70   GRISTINA AG           SURGERY                         98    12 985</citation>
+	<citation>71   LORY S                CURR TOP MICROBIOL IMMUNOL     118    53 985</citation>
+	<citation>72   PULLIAM L             J INFECT DIS                   151   153 985</citation>
+	<citation>73   DARZINS A             J BACTERIOL                    161   249 985</citation>
+	<citation>74   OHMAN DE              J BACTERIOL                    162  1068 985</citation>
+	<citation>75   GOVAN JRW             MICROBIOL SCI                    3   302 986</citation>
+	<citation>76   SCHMITT DD            J VASC SURG                      3   732 986</citation>
+	<citation>77   WEBB LX               J VASC SURG                      4    16 986</citation>
+	<citation>78   MCEACHRAN DW          J MICROBIOL METH                 5    99 986</citation>
+	<citation>79   FLOURNOY DJ           METH FIND EXP CLIN PHARMACOL     8   391 986</citation>
+	<citation>80   FRIEND PA             J INFECT                        13    55 986</citation>
+	<citation>81   MACGEORGE J           J MED MICROBIOL                 21   331 986</citation>
+	<citation>82   KRIEG DP              J CLIN MICROBIOL                24   986 986</citation>
+	<citation>83   PITT TL               J ROY SOC MED                   79    13 986</citation>
+	<citation>84   DERETIC V             J BACTERIOL                    165   510 986</citation>
+	<citation>85   DERETIC V             BIO TECHNOL                      5   469 987</citation>
+	<citation>86   GROSS M               J PHYTOPATH                    118   276 987</citation>
+
+</document>

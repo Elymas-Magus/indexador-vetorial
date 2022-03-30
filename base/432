@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Immunologic aspects of cystic fibrosis.  pp.  195-217.</title>
+
+	<author>Talamo-R-C.</author>
+	<author>Stiehm-E-R.</author>
+	<author>Schwartz-R-H.</author>
+
+	<source>In: Mangos JA, Talamo RC, ed. Cystic fibrosis: projections into the
+   future. New York, Stratton, 1976. WI 820 C9995 1976. (REVIEW).</source>
+
+	<abstract>Because of the prominent role of infection in cystic fibrosis, and
+   because of the genetic nature of both cystic fibrosis and specific
+   immune defects, considerable effort has been expended in determining
+   if there are hereditary immune defects in cystic fibrosis patients
+   that render them susceptible to infection.  Against a congenital
+   immune defect is the fact that the infections nearly always are
+   localized to the lung with the same two organisms, rather than
+   infections at multiple sites involving multiple organisms.  Specific
+   immune mechanisms in the B and T cell systems are examined.
+   Nonspecific host defense mechanisms include the complement system,
+   phagocytosis, pulmonary clearance, the pulmonary barrier to the
+   systemic spread of infection, protease inhibitors, and factor
+   XIII-dependent systems.  Hypersensitivity states include allergy and
+   atopy, allergic aspergillosis, immune complex disease, and
+   hypersensitivity to pancreatic extracts.  The presence or absence of
+   specific antigen components and the association of HL-A antigens are
+   also discussed.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS: im</majorsubject>
+
+	<minorsubject>ALPHA-1-ANTITRYPSIN: me</minorsubject>
+	<minorsubject>ANTIBODIES</minorsubject>
+	<minorsubject>ASPERGILLOSIS: et</minorsubject>
+	<minorsubject>B-LYMPHOCYTES: im</minorsubject>
+	<minorsubject>COMPLEMENT: me</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: co</minorsubject>
+	<minorsubject>FACTOR-XII</minorsubject>
+	<minorsubject>HLA-ANTIGENS</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>HYPERSENSITIVITY: et</minorsubject>
+	<minorsubject>IGA: me</minorsubject>
+	<minorsubject>IGD: me</minorsubject>
+	<minorsubject>IGG: me</minorsubject>
+	<minorsubject>IGM: me</minorsubject>
+	<minorsubject>IMMUNE-COMPLEX-DISEASE</minorsubject>
+	<minorsubject>IMMUNOLOGIC-DEFICIENCY-SYNDROMES: co</minorsubject>
+	<minorsubject>LUNG: pp</minorsubject>
+	<minorsubject>MONOGRAPH</minorsubject>
+	<minorsubject>PANCREATIC-EXTRACTS: im</minorsubject>
+	<minorsubject>PHAGOCYTOSIS</minorsubject>
+	<minorsubject>PSEUDOMONAS-INFECTIONS: et</minorsubject>
+	<minorsubject>RESPIRATORY-TRACT-INFECTIONS: et</minorsubject>
+	<minorsubject>REVIEW</minorsubject>
+	<minorsubject>STAPHYLOCOCCAL-INFECTIONS: et</minorsubject>
+	<minorsubject>T-LYMPHOCYTES: im</minorsubject>
+
+	<reference>001   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   559 974</reference>
+	<reference>002   GREEN MN              AM J DIS CHILD                 100   365 960</reference>
+	<reference>003   SCHWARTZ RH           AM J DIS CHILD                 111   408 966</reference>
+	<reference>004   YOHE RM               ANN ALLERGY                     30   627 972</reference>
+	<reference>005   COLLINS-WILLIAMS C    ANN ALLERGY                     25   177 967</reference>
+	<reference>006   WALLWORK JC           CLIN EXP IMMUNOL                18   303 974</reference>
+	<reference>007   RACHELEFSKY GS        AM J DIS CHILD                 128   355 974</reference>
+	<reference>008   SPITZ E               J ALLERGY CLIN IMMUNOL          49   337 972</reference>
+	<reference>009   MARTINEZ-TELLO FJ     J IMMUNOL                      101   989 968</reference>
+	<reference>010   FALCHUK ZM            PEDIATRICS                      51    49 973</reference>
+	<reference>011   GUGLER EC             J PEDIATR                       73   548 968</reference>
+	<reference>012   SOUTH MA              J PEDIATR                       71   645 967</reference>
+	<reference>013   RULE AH               PEDIATRICS                      48   601 971</reference>
+	<reference>014   HALBERT SP            PEDIATRICS                      26   792 960</reference>
+	<reference>015   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   81   298 973</reference>
+	<reference>016   HALBERT SP            MOD PROBL PEDIATR               10   144 967</reference>
+	<reference>017   SCHWARTZ RH           AM J DIS CHILD                 120   432 970</reference>
+	<reference>018   HABBOUSHE C           PEDIATRICS                      48   973 971</reference>
+	<reference>019   DIAZ F                J INFECT DIS                   121   269 970</reference>
+	<reference>020   PENNINGTON JE         J INFECT DIS SUPPL             130   159 974</reference>
+	<reference>021   MCFARLANE H           BR MED J                         1   423 975</reference>
+	<reference>022   RENNERT OM            CLIN PEDIATR                    11   351 972</reference>
+	<reference>023   HUNICKI VZ            KLIN WOCHENSCHR                 75   862 963</reference>
+	<reference>024   AMMANN AJ             MEDICINE (BALTIMORE)            50   223 971</reference>
+	<reference>025   BELTOAS E             J LANCET                        85   254 965</reference>
+	<reference>026   BITAR J               J PEDIATR                       71   123 967</reference>
+	<reference>027   BIGGAR WD             PROC NAT ACAD SCI USA           68  1716 971</reference>
+	<reference>028   CONOVER JH            LANCET                           2  1501 973</reference>
+	<reference>029   HANN S                LANCET                           2   520 974</reference>
+	<reference>030   LIEBERMAN J           AM REV RESPIR DIS              111   100 975</reference>
+	<reference>031   SCANLIN TF JR         LANCET                           1  1382 975</reference>
+	<reference>032   CONOVER JH            LIFE SCI                        14   253 974</reference>
+	<reference>033   POLLEY MJ             GAP CONF REP CILIARY INHIBITO            973</reference>
+	<reference>034   BOHME B               HELV PAEDIATR ACTA              27   607 972</reference>
+	<reference>035   BOXERBAUM B           AM REV RESPIR DIS              108   777 973</reference>
+	<reference>036   ROSSMAN CM            PEDIATR RES                      8   469 974</reference>
+	<reference>037   WOOD RE               AM REV RESPIR DIS              111   733 975</reference>
+	<reference>038   TALAMO RC             PEDIATRICS                      56    91 975</reference>
+	<reference>039   SCHWARTZ RH           CF CLUB ABST                          19 972</reference>
+	<reference>040   SHARP HL              IN: MANGOS JA                        229 973</reference>
+	<reference>041   HOIBY N               ACTA PAEDIATR SCAND             63   843 974</reference>
+	<reference>042   LIEBERMAN J           PEDIATR RES                      3   571 969</reference>
+	<reference>043   RAO GJS               J PEDIATR                       80   573 972</reference>
+	<reference>044   RAO GJS               SCIENCE                        177   610 972</reference>
+	<reference>045   RAO GJS               PEDIATR RES                      8   684 974</reference>
+	<reference>046   TALAMO RC             PEDIATR RES                      7  170A 972</reference>
+	<reference>047   KOMP DM               CHEST                           58   501 970</reference>
+	<reference>048   COOMBS RRA            IN: GELL PGH                         761 975</reference>
+	<reference>049   VAN METRE TE JR       J ALLERGY CLIN IMMUNOL          31   141 960</reference>
+	<reference>050   KULCZYCKI LL          JAMA                           175   358 961</reference>
+	<reference>051   PEPYS J               J ROY COLL PHYSICIANS LOND       2    42 967</reference>
+	<reference>052   HENDERSON AH          THORAX                          23   501 968</reference>
+	<reference>053   MEARNS MB             THORAX                          20   385 965</reference>
+	<reference>054   BATTEN JC             MOD PROBL PEDIATR               10   227 967</reference>
+	<reference>055   ORES CN               CF CLUB ABST                    16    48 975</reference>
+	<reference>056   MEARNS MB             LANCET                           1   538 967</reference>
+	<reference>057   BURNS MW              LANCET                           1   270 968</reference>
+	<reference>058   DOLAN TF JR           AM REV RESPIR DIS              110   812 974</reference>
+	<reference>059   BERGNER A             PEDIATRICS                      55   814 975</reference>
+	<reference>060   RAUNIO V              IN: DI SANTAGNESE PA                 339 964</reference>
+	<reference>061   TALAMO RC             IN: DI SANTAGNESE PA                 356 964</reference>
+	<reference>062   BLANC WA              IN: DI SANTAGNESE PA                 327 964</reference>
+	<reference>063   URIEL J               IN: DI SANTAGNESE PA                 243 964</reference>
+	<reference>064   LOWE CU               SCIENCE                        153  1124 966</reference>
+	<reference>065   BROGLIO AL            CF CLUB ABST                             967</reference>
+	<reference>066   SCHWARTZ RH           J LAB CLIN MED                  70   725 967</reference>
+	<reference>067   GREEN MN              PEDIATRICS                      21   635 958</reference>
+	<reference>068   GREENE EL             INT ARCH ALLERGY                40   184 971</reference>
+	<reference>069   STEPHAN U             PEDIATRICS                      55    35 975</reference>
+	<reference>070   BREWERTON DA          LANCET                           1   904 973</reference>
+	<reference>071   MACKAY IR             LANCET                           2   793 972</reference>
+	<reference>072   FALCHUK ZM            J CLIN INVEST                   51  1602 972</reference>
+	<reference>073   WALFORD RL            HISTOCOMPATIBILITY TESTING           271 970</reference>
+	<reference>074   POLYMENIDIS Z         LANCET                           2  1452 973</reference>
+	<reference>075   VLADUTIU AO           IMMUNOGENETICS                   1   305 974</reference>
+	<reference>076   PATTERSON PR          CF CLUB ABST                             975</reference>
+	<reference>077   BACH FH               SCIENCE                        176  1024 972</reference>
+
+	<citation>1   DISANTAGNESE PA       N ENGL J MED                   295   597 976</citation>
+	<citation>2   HOIBY N               ACTA PATH MICROBIOL SCAND (C) S262     3 977</citation>
+	<citation>3   BUESCHER ES           J PEDIATR                       93   530 978</citation>
+	<citation>4   SORENSEN RU           J PEDIATR                       93   201 978</citation>
+	<citation>5   SEALE TW              J CLIN MICROBIOL                 9    72 979</citation>
+	<citation>6   CHURCH JA             J PEDIATR                       95   272 979</citation>
+	<citation>7   MCCARTHY MM           CLIN PEDIATR                    19   746 980</citation>
+	<citation>8   FICK RB               J IMMUNOL METH                  38   103 980</citation>
+	<citation>9   CHURCH JA             ANN ALLERGY                     45   217 980</citation>
+	<citation>10   WILSON GB             J CLIN INVEST                   66  1010 980</citation>
+	<citation>11   HARPER TB             LUNG                           157   219 980</citation>
+	<citation>12   MATTHEWS WJ           N ENGL J MED                   302   245 980</citation>
+	<citation>13   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C) S276     1 981</citation>
+	<citation>14   WELCH MJ              PEDIATRICS                      67   664 981</citation>
+	<citation>15   MOSS RB               J PEDIATR                       99   215 981</citation>
+	<citation>16   SORENSEN RU           AM REV RESPIR DIS              123    37 981</citation>
+	<citation>17   DANIELE RP            AM REV RESPIR DIS              124   738 981</citation>
+	<citation>18   VANGEFFEL R           IMMUNOL LETTERS                  5   155 982</citation>
+	<citation>19   WILSON GB             MED HYPOTHESES                   8   527 982</citation>
+	<citation>20   PUGASHETTI BK         J CLIN MICROBIOL                16   686 982</citation>
+	<citation>21   GRAFT DF              AM REV RESPIR DIS              125   540 982</citation>
+	<citation>22   HARPER TB             AM REV RESPIR DIS              126   540 982</citation>
+	<citation>23   GUIDOTTI TL           AM J MED SCI                   283   157 982</citation>
+	<citation>24   SORENSEN RU           EUR J RESPIR DIS                64   524 983</citation>
+	<citation>25   FICK RB               J CLIN INVEST                   74   236 984</citation>
+	<citation>26   AUERBACH HS           LANCET                           2   686 985</citation>
+	<citation>27   SPEERT DP             SURV SYNTH PATHOL RES            4    14 985</citation>
+
+</document>

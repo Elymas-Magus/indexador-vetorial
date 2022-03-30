@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Granulocyte NADH oxidase in cystic fibrosis.</title>
+
+	<author>Berry-D-H.</author>
+	<author>Brewster-M-A.</author>
+
+	<source>Ann-Allergy. 1977 May. 38(5). P 316-9.</source>
+
+	<abstract>The nitro blue tetrazolium dye test was evaluated for its usefulness
+   in detecting superimposed bacterial infection in 50 children with
+   cystic fibrosis.  No correlation of percentage of positive
+   neutrophils to superimposed infection, clinical status or to
+   bacterial organisms could be determined.  Cystic fibrosis
+   granulocytes generally have greater NADH oxidase activity than do
+   controls.</abstract>
+
+	<majorsubject>BACTERIAL-INFECTIONS: di</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: en</majorsubject>
+	<majorsubject>GRANULOCYTES: en</majorsubject>
+	<majorsubject>LEUKOCYTES: en</majorsubject>
+	<majorsubject>NADH-NADPH-OXIDOREDUCTASES: bl</majorsubject>
+
+	<minorsubject>BACTERIAL-INFECTIONS: co</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: bl, co</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>NITROBLUE-TETRAZOLIUM: du</minorsubject>
+
+	<reference>001   KARNOVSKY ML          SEMIN HEMATOL                    5   156 968</reference>
+	<reference>002   NATHAN DG             J CLIN INVEST                   48    85 969</reference>
+	<reference>003   BAEHNER RL            N ENGL J MED                   278   971 968</reference>
+	<reference>004   PARK BH               LANCET                           2   532 968</reference>
+	<reference>005   FEIGIN RD             J PEDIATR                       78   230 971</reference>
+	<reference>006   MATULA G              N ENGL J MED                   285   311 971</reference>
+	<reference>007   EVANS TJ              LANCET                           1   992 974</reference>
+	<reference>008   FEIGIN RD             CLIN MED                        81    16 974</reference>
+	<reference>009   STEIGBIGEL RT         N ENGL J MED                   290   235 974</reference>
+	<reference>010   FINEBERG H            N ENGL J MED                   290  1144 974</reference>
+	<reference>011   SULLIVAN JF           AM J DIS CHILD                 125   702 973</reference>
+
+
+</document>

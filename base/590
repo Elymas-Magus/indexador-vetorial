@@ -1,0 +1,445 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Pseudomonas aeruginosa infection in cystic fibrosis.  Diagnostic and
+   prognostic significance of pseudomonas aeruginosa precipitins
+   determined by means of crossed immunoelectrophoresis.  A survey.</title>
+
+	<author>Hoiby-N.</author>
+
+	<source>Acta-Pathol-Microbiol-Scand [Suppl]. 1977. (262). P 1-96. (REVIEW).</source>
+
+	<abstract>The purpose of the first part of the present work is to review the
+   literature concerning the lower respiratory tract infections and the
+   antimicrobial resistance mechanisms in cystic fibrosis patients.
+   The second part of the work deals with the most important
+   therapeutical problem in cystic fibrosis today, viz. the Pseudomonas
+   aeruginosa lung infection.  A survey is made of the investigations
+   of the present author and his colleagues into the immune response
+   against Pseudomonas aeruginosa infection and the literature
+   concerning these subjects.  Furthermore, the possible mechanisms of
+   tissue damage in the respiratory tract of cystic fibrosis patients
+   during these infections are discussed.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS: im</majorsubject>
+	<majorsubject>PRECIPITINS</majorsubject>
+	<majorsubject>PSEUDOMONAS-INFECTIONS: im</majorsubject>
+
+	<minorsubject>ANTIBODIES-BACTERIAL: an</minorsubject>
+	<minorsubject>ANTIGENS-BACTERIAL: an</minorsubject>
+	<minorsubject>CROSS-REACTIONS</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: co</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>IMMUNOELECTROPHORESIS-TWO-DIMENSIONAL</minorsubject>
+	<minorsubject>PRECIPITINS: an</minorsubject>
+	<minorsubject>PROGNOSIS</minorsubject>
+	<minorsubject>PSEUDOMONAS-AERUGINOSA: im</minorsubject>
+	<minorsubject>PSEUDOMONAS-INFECTIONS: co</minorsubject>
+	<minorsubject>REVIEW</minorsubject>
+
+	<reference>001   ADLER JL              ARCH INTERN MED                127   760 971</reference>
+	<reference>002   ALLEN JC              INFECT IMMUN                    12   318 975</reference>
+	<reference>003$  ALLISON AC            TRANSPLANT REV                  19     3 975</reference>
+	<reference>004   ANDERSEN B            IN: PEDERSEN J                       120 971</reference>
+	<reference>005   ANDERSEN B            NORD MED                        39  1575 948</reference>
+	<reference>006   ANDERSEN DH           AM J DIS CHILD                  56   344 938</reference>
+	<reference>007   ANDERSEN DH           PEDIATRICS                       3   406 949</reference>
+	<reference>008   ANDERSEN DH           J CHRON DIS                      7    58 958</reference>
+	<reference>009   ANDERSEN V            CLIN EXP IMMUNOL                26   469 976</reference>
+	<reference>010   ANDERSON EL           SOUTH MED J                     67   771 974</reference>
+	<reference>011   ASAY LD               N ENGL J MED                   262  1062 960</reference>
+	<reference>012   AXELSEN NH            INFECT IMMUN                     4   525 971</reference>
+	<reference>013   AXELSEN NH            PROTIDES BIOL FLUIDS            19   561 971</reference>
+	<reference>014   AXELSEN NH            J IMMUNOL METH                   1   109 972</reference>
+	<reference>015   AXELSEN NH            INFECT IMMUN                     7   949 973</reference>
+	<reference>016   AXELSEN NH            SCAND J IMMUNOL SUPPL 2          1    71 973</reference>
+	<reference>017   AXELSEN NH            SCAND J IMMUNOL SUPPL 2          1    91 973</reference>
+	<reference>018   AXELSEN NH            SCAND J IMMUNOL SUPPL 2          1   101 973</reference>
+	<reference>019   AXELSEN NH            J IMMUNOL METH                   2   393 973</reference>
+	<reference>020   AXELSEN NH            J IMMUNOL METH                   2   245 973</reference>
+	<reference>021   AXELSEN NH            SCAND J IMMUNOL SUPPL 2          1       973</reference>
+	<reference>022   AXELSEN NH            CLIN EXP IMMUNOL                17   385 974</reference>
+	<reference>023   AXELSEN NH            INFECT IMMUN                     9   952 974</reference>
+	<reference>024   AXELSEN NH            SCAND J IMMUNOL SUPPL 2          4     1 975</reference>
+	<reference>025   AXELSEN NH            SCAND J IMMUNOL SUPPL 2          4   217 975</reference>
+	<reference>026   AXELSEN NH            SCAND J IMMUNOL                  5   177 976</reference>
+	<reference>027   BAIRD IM              ANTIMICROB AGENTS CHEMOTHER     10   626 976</reference>
+	<reference>028   BARDANA EJ JR         AM J DIS CHILD                 129  1164 975</reference>
+	<reference>029   BARSON AJ             ARCH DIS CHILD                  46    55 971</reference>
+	<reference>030   BARTON AD             J LAB CLIN MED                  88   423 976</reference>
+	<reference>031   BEDROSSIAN CWM        HUM PATHOL                       7   195 976</reference>
+	<reference>032   BERGAN T              IN: BROWN MRW                        189 975</reference>
+	<reference>033   BERGAN T              ACTA PATH MICROBIOL SCAND (B)   83   553 975</reference>
+	<reference>034   BIGGAR WD             PROC NAT ACAD SCI USA           68  1716 971</reference>
+	<reference>035   BIGGAR WD             AM REV RESPIR DIS              109   403 974</reference>
+	<reference>036   BJERRUM OJ            SCAND J IMMUNOL SUPPL 1          2   133 973</reference>
+	<reference>037   BJERRUM OJ            SCAND J IMMUNOL SUPPL 2          4    89 975</reference>
+	<reference>038   BJORNSON AB           J INFECT DIS SUPPL             130   119 974</reference>
+	<reference>039   BJORNSON AB           J INFECT DIS SUPPL             130   127 974</reference>
+	<reference>040   BLACKFAN KD           J PEDIATR                       13   627 938</reference>
+	<reference>041   BOCK E                J NEUROCHEM                     18  2435 971</reference>
+	<reference>042   BOCK E                J IMMUNOL METH                   2    75 972</reference>
+	<reference>043   BOCK E                SCAND J IMMUNOL SUPPL 1          2    95 973</reference>
+	<reference>044   BODE FR               MEDICINE (BALTIMORE)            53   255 974</reference>
+	<reference>045   BODIAN M              FIBROCYSTIC DIS OF THE PANCRE            952</reference>
+	<reference>046   BOG-HANSEN TC         ANAL BIOCHEM                    56   480 973</reference>
+	<reference>047   BOHME B               HELV PAEDIATR ACTA              27   607 972</reference>
+	<reference>048   BOXERBAUM B           AM REV RESPIR DIS              108   777 973</reference>
+	<reference>049   BOXERBAUM B           AM REV RESPIR DIS              109   403 974</reference>
+	<reference>050   BRADLEY DE            J HYG LOND                      74   419 975</reference>
+	<reference>051   BRADSHAW MW           LANCET                           1  1095 971</reference>
+	<reference>052   BRENTJENS JR          J EXP MED                      140   105 974</reference>
+	<reference>053   BROGAN TD             IMMUNOLOGY                       7   626 964</reference>
+	<reference>054   BROGAN TD             THORAX                          30    72 975</reference>
+	<reference>055   BROGREN CH            SCAND J IMMUNOL SUPPL 2          4    37 975</reference>
+	<reference>056   BRYANT DH             J ALLERGY CLIN IMMUNOL          56   417 975</reference>
+	<reference>057   BUCKLEY RH            J CLIN INVEST                   55   157 975</reference>
+	<reference>058   BURNS MW              AUSTRALAS ANN MED               17   289 968</reference>
+	<reference>059   BURNS MW              LANCET                           1   270 968</reference>
+	<reference>060   BURNS MW              BR MED J                         3   382 973</reference>
+	<reference>061   CALDWELL HD           J IMMUNOL                      115   963 975</reference>
+	<reference>062   CALDWELL HD           J IMMUNOL                      115   969 975</reference>
+	<reference>063   CAMPBELL PA           BACT REV                        40   284 976</reference>
+	<reference>064   CARLSON DM            BIOCHEMISTRY                     5  2817 966</reference>
+	<reference>065   CETIN ET              J BACTERIOL                     89  1432 965</reference>
+	<reference>066   CHANGUS JE            ARCH PATHOL LAB MED            100     7 976</reference>
+	<reference>067   CLARKE CW             POSTGRAD MED J                  51   147 975</reference>
+	<reference>068   CLARKE HGM            PROTIDES BIOL FLUIDS            14   503 966</reference>
+	<reference>069   CLOSS O               SCAND J IMMUNOL SUPPL 2          4   173 975</reference>
+	<reference>070   COCHRANE CG           IN: ZWEIFACH BW                  3    85 974</reference>
+	<reference>071   COOMBS RRA            IN: GELL PGH                         761 975</reference>
+	<reference>072   COOPER RG             MED J AUST                       1   527 967</reference>
+	<reference>073   CROZIER DN            PEDIATR CLIN NORTH AM           21   935 974</reference>
+	<reference>074   CURTIN JA             ANN INTERN MED                  54  1077 961</reference>
+	<reference>075   DAHR P                DTSCH MED WSCHR                 61  1879 935</reference>
+	<reference>076   DANES BS              LANCET                           1  1061 968</reference>
+	<reference>077   DANES BS              AM J HUM GENET                  23   297 971</reference>
+	<reference>078   DANES BS              CLIN GENET                      11    83 977</reference>
+	<reference>079   DEFOREST A            CF CLUB ABST                             976</reference>
+	<reference>080   DIAZ F                J INFECT DIS                   121   269 970</reference>
+	<reference>081   DICKEY LB             DIS CHEST                       17   151 950</reference>
+	<reference>082   DIEM K                DOCUMENTA GEIGY SCIENTIFIC TA            962</reference>
+	<reference>083   DI SANTAGNESE PA      AM J DIS CHILD                  72    17 946</reference>
+	<reference>084   DI SANTAGNESE PA      PEDIATRICS                      12   178 953</reference>
+	<reference>085   DI SANTAGNESE PA      DIS CHEST                       27   654 955</reference>
+	<reference>086   DI SANTAGNESE PA      AM J MED                        21   406 956</reference>
+	<reference>087   DI SANTAGNESE PA      N ENGL J MED                   277  1287 967</reference>
+	<reference>088   DI SANTAGNESE PA      N ENGL J MED                   295   481 976</reference>
+	<reference>089   DOGGETT RG            J BACTERIOL                     87   427 964</reference>
+	<reference>090   DOGGETT RG            J BACTERIOL                     89   476 965</reference>
+	<reference>091   DOGGETT RG            J PEDIATR                       68   215 966</reference>
+	<reference>092   DOGGETT RG            APPL MICROBIOL                  18   936 969</reference>
+	<reference>093   DOGGETT RG            IN: LAWSON D PROC 5TH INT CF         175 969</reference>
+	<reference>094   DOGGETT RG            INFECT IMMUN                     6   628 972</reference>
+	<reference>095   DOGGETT RG            CF CLUB ABST                             976</reference>
+	<reference>097   ANON                  NUTR REV                        34   210 976</reference>
+	<reference>098   EICHENWALD HF         IN: MCINTOSH R                        89 960</reference>
+	<reference>099   ELSTON HR             AM J CLIN PATHOL                48   519 967</reference>
+	<reference>100   ESTERLY JR            JOHNS HOPKINS MED J            122    94 968</reference>
+	<reference>101   ESTERLY JR            IN: MANGOS JA                        115 976</reference>
+	<reference>102   EVANS LR              J BACTERIOL                    116   915 973</reference>
+	<reference>103   FANCONI G             WIEN MED WOCHENSCHR             86   753 936</reference>
+	<reference>104   FARBER S              ARCH PATHOL                     37   238 944</reference>
+	<reference>105   FEIGELSON J           MOD PROBL PEDIATR               10   214 967</reference>
+	<reference>106   FEIGHERY C            BR MED J                         1   524 976</reference>
+	<reference>107   FEIGIN RD             J PEDIATR                       87   677 975</reference>
+	<reference>108   FLENSBORG EW          NORD MED                        39  1574 948</reference>
+	<reference>109   FLENSBORG EW          MDSKR PRAKT LAEGEG              50   269 972</reference>
+	<reference>110   FOLEY FD              TEX MED                         65    36 969</reference>
+	<reference>111   FORKNER CE            PSEUDOMONAS AERUGINOSA INFECT         69 960</reference>
+	<reference>112   FORSGREN A            INFECT IMMUN                    10   402 974</reference>
+	<reference>113   FRIIS B               PROC INT CF CONG 7TH                     976</reference>
+	<reference>114   FAERO O               UGESKR LAEGER                  138  2551 976</reference>
+	<reference>115   GALANT SP             AM REV RESPIR DIS              114   325 976</reference>
+	<reference>116   GALLIN JI             IN: KIRKPATRICK CH                   161 976</reference>
+	<reference>117   ANON                  GAP CONF REP PSEUDOMON IN CF             974</reference>
+	<reference>118   GARRARD SD            PEDIATRICS                       8   482 951</reference>
+	<reference>119   GELFAND EW            PEDIATR CLIN NORTH AM           21   745 974</reference>
+	<reference>120   GIBBONS A             BR MED J                         1   120 976</reference>
+	<reference>121   GIFFORD RM            J S CAROLINA MED ASSOC          68   204 972</reference>
+	<reference>122   GORDON DS             AM REV RESPIR DIS              108   127 973</reference>
+	<reference>123   GOVAN JRW             J MED MICROBIOL                  8   513 975</reference>
+	<reference>124   GOVAN JRW             J ANTIMICROB CHEMOTHER           2   215 976</reference>
+	<reference>125   GRABAR P              BIOCHIM BIOPHYS ACTA            10   193 953</reference>
+	<reference>126   GRANT JA              J IMMUNOL                      114  1101 975</reference>
+	<reference>127   GREEN GM              MED CLIN NORTH AM               57   547 973</reference>
+	<reference>128   GRIFFISS JM           J IMMUNOL                      114  1779 975</reference>
+	<reference>129   GROV A                ACTA PATH MICROBIOL SCAND (C)   84    71 976</reference>
+	<reference>130   GRUBB A               SCAND J CLIN LAB INVEST SUPPL  124    59 972</reference>
+	<reference>131   GUGLER EC             J PEDIATR                       73   548 968</reference>
+	<reference>132   GUTTMAN RM            CLIN EXP IMMUNOL                19   121 975</reference>
+	<reference>133   GOTZ M                Z KINDERHEILK                  117   183 974</reference>
+	<reference>134   HABBOUSHE C           PEDIATRICS                      48   973 971</reference>
+	<reference>135   HALBERT SP            PEDIATRICS                      26   792 960</reference>
+	<reference>136   HALBERT SP            MOD PROBL PEDIATR               10   144 967</reference>
+	<reference>137   HANN S                INFECT IMMUN                    14   114 976</reference>
+	<reference>138   HARBOE N              SCAND J IMMUNOL SUPPL 1          2   161 973</reference>
+	<reference>139   HARRISON GM           CF Q ANNOTATED REFERENCES       13    30 975</reference>
+	<reference>140   HENRIKSEN SD          ACTA PATH MICROBIOL SCAND       25   485 948</reference>
+	<reference>141   HERTZ JB              ACTA PATH MICROBIOL SCAND (B)   84   386 976</reference>
+	<reference>142   HILL HR               J PEDIATR                       84    55 974</reference>
+	<reference>143   HIRSCHHORN R          IN: ZWEIFACH BW                  1   259 974</reference>
+	<reference>144   HOBBS G               J APPL BACT                     27    83 964</reference>
+	<reference>145   HOFF GE               SCAND J INFECT DIS               6   333 974</reference>
+	<reference>146   HOFF GE               ACTA PATH MICROBIOL SCAND (B)   83   219 975</reference>
+	<reference>147   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   81   298 973</reference>
+	<reference>148   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   541 974</reference>
+	<reference>149   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   551 974</reference>
+	<reference>150   HOIBY N               ACTA PAEDIATR SCAND             63   843 974</reference>
+	<reference>151   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   559 974</reference>
+	<reference>152   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   83   321 975</reference>
+	<reference>153   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   83   328 975</reference>
+	<reference>154   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   83   433 975</reference>
+	<reference>155   HOIBY N               SCAND J IMMUNOL SUPPL 2          4   187 975</reference>
+	<reference>156   HOIBY N               SCAND J IMMUNOL SUPPL 2          4   187 975</reference>
+	<reference>157   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   83   549 975</reference>
+	<reference>158   HOIBY N               SCAND J RESPIR DIS              56    38 975</reference>
+	<reference>159   HOIBY N               ACTA PATH MICROBIOL SCAND (C)   83   459 975</reference>
+	<reference>160   HOIBY N               ACTA PATH MICROBIOL SCAND (C)   84   372 976</reference>
+	<reference>161   HOIBY N               ACTA PATH MICROBIOL SCAND (C)   84   372 976</reference>
+	<reference>162   HOIBY N               SCAND J RESPIR DIS              57   103 976</reference>
+	<reference>163   HOIBY N               SCAND J RESPIR DIS              57    37 976</reference>
+	<reference>164   HOIBY N               ACTA PATH MICROBIOL SCAND (C)   84   372 976</reference>
+	<reference>165   HOIBY N               ACTA PATH MICROBIOL SCAND (C)   85   142 977</reference>
+	<reference>166   HOIBY N               ACTA PATH MICROBIOL SCAND (C)   85   142 977</reference>
+	<reference>167   HOIBY N               ACTA PATH MICROBIOL SCAND (C)   85   107 977</reference>
+	<reference>168   HOIBY N               SCAND J RESPIR DIS              58    65 977</reference>
+	<reference>169   HOLMBERG K            THESIS                                 1 975</reference>
+	<reference>170   HOLZHAUER RJ          CF CLUB ABST                    17    22 976</reference>
+	<reference>171   HOMMA JY              JAPAN J EXP MED                 42   583 972</reference>
+	<reference>172   HOMMA JY              JAPAN J EXP MED                 44     1 974</reference>
+	<reference>173   HOOK WA               J IMMUNOL                      114  1185 975</reference>
+	<reference>174   HUANG NN              J PEDIATR                       59   512 961</reference>
+	<reference>175   HUANG NN              AM J DIS CHILD                 120   289 970</reference>
+	<reference>176   HUANG NN              CF CLUB ABST                          43 976</reference>
+	<reference>177   HUANG NN              CF CLUB ABST                             976</reference>
+	<reference>178   HUGHES DE             IN: NORRIS JR                   5B     1 971</reference>
+	<reference>179   IACOCCA VF            AM J DIS CHILD                 106   315 963</reference>
+	<reference>180   IACOCCA VF            ARCH DIS CHILD                  43   220 968</reference>
+	<reference>181   JACKSON AE            J LAB CLIN MED                  69   833 967</reference>
+	<reference>182   JESSEN O              THESIS                                61 965</reference>
+	<reference>183   JOHANSEN KS           UGESKR LAEGER                  138  2772 976</reference>
+	<reference>184   JOHNSON KJ            J CLIN INVEST                   54   349 974</reference>
+	<reference>185   KAIJSER B             INT ARCH ALLERGY                48    72 975</reference>
+	<reference>186   KALTREIDER HB         AM REV RESPIR DIS              113   347 976</reference>
+	<reference>187   KALTREIDER HB         IN: KIRKPATRICK CH                    73 976</reference>
+	<reference>188   KILBOURN JP           J PEDIATR                       73   408 968</reference>
+	<reference>189   KIRKPATRICK CH        IMMUNOL INFECT REACT LUNG              1 976</reference>
+	<reference>190   KIRKPATRICK CH        IN: KIRKPATRICK CH                   211 976</reference>
+	<reference>191   KLEINMAIER H          ZENTRALBL BAKTERIOL ORIG A     172    54 958</reference>
+	<reference>192   KLINEBERGER C         MUNCH MED WOCHENSCHR            54  1330 907</reference>
+	<reference>193   KLINEBERGER C         Z IMMUN FORSCH                   2   686 909</reference>
+	<reference>194   KOCH C                ACTA PATH MICROBIOL SCAND (B)   81   787 973</reference>
+	<reference>195   KOCH C                ACTA PATH MICROBIOL SCAND (B)   82   439 974</reference>
+	<reference>196   KOCH C                ACTA PATH MICROBIOL SCAND (C)   83   144 975</reference>
+	<reference>197   KOLLBERG H            THESIS                                   974</reference>
+	<reference>198   KONTOMICHALOU P       ANTIMICROB AGENTS CHEMOTHER      9   866 976</reference>
+	<reference>199   KRONVALL G            INFECT IMMUN                    13  1132 976</reference>
+	<reference>200   LAMM LU               ANN HUM GENET                   38   383 975</reference>
+	<reference>201   LANYI B               ACTA MICROBIOL ACAD SCI HUNG    19   259 972</reference>
+	<reference>202   LANYI B               ACTA MICROBIOL ACAD SCI HUNG    20   249 973</reference>
+	<reference>203   LANYI B               ACTA MICROBIOL ACAD SCI HUNG    20   337 973</reference>
+	<reference>204   LARAYA-CUASAY LR      J PEDIATR                       89    23 976</reference>
+	<reference>205   LAURELL CB            SCAND J CLIN LAB INVEST SUPPL  124    21 972</reference>
+	<reference>206   LAWSON D              IN: WATT PJ                           69 970</reference>
+	<reference>207   LEBER PD              IN: ZWEIFACH BW                  3   401 974</reference>
+	<reference>208   LIND I                ACTA PATH MICROBIOL SCAND       73   637 968</reference>
+	<reference>209   LINKER A              J BIOL CHEM                    241  3845 966</reference>
+	<reference>210   LIU PV                J INFECT DIS SUPPL             130    94 974</reference>
+	<reference>211   LLOYD-STILL JD        PEDIATRICS                      53   678 974</reference>
+	<reference>212   LOPEZ M               ANNU REV MED                    27   453 976</reference>
+	<reference>213   LOWBURY EJL           J MED MICROBIOL                  3    39 970</reference>
+	<reference>214   LYKKEGAARD E          DAN MED BULL                    21   241 974</reference>
+	<reference>215   MARGARETTEN W         N ENGL J MED                   265   773 961</reference>
+	<reference>216   MARTIN DR             J MED MICROBIOL                  6   111 973</reference>
+	<reference>217   MARTINEZ-TELLO FJ     J IMMUNOL                      101   989 968</reference>
+	<reference>218   MATTHEWS LW           J PEDIATR                       65   558 964</reference>
+	<reference>219   MAY JR                CHEMOTHERAPY OF CHRONIC BRONC            968</reference>
+	<reference>220   MAY JR                ARCH DIS CHILD                  47   908 972</reference>
+	<reference>221   MAY JR                J MED MICROBIOL                  6    77 973</reference>
+	<reference>222   MAY JR                POSTGRAD MED J                  51   144 975</reference>
+	<reference>223   MCCOMBS ML            TEX REP BIOL MED                31   615 973</reference>
+	<reference>224   MCCOMBS RP            N ENGL J MED                   286  1186 972</reference>
+	<reference>225   MCCRAE WM             SCOTT MED J                     19   187 974</reference>
+	<reference>226   MCFARLANE H           BR MED J                         1   423 975</reference>
+	<reference>227   MCFARLANE H           BR MED J                         1   524 976</reference>
+	<reference>228   MEARNS MB             LANCET                           1   538 967</reference>
+	<reference>229   MEARNS MB             ARCH DIS CHILD                  47     5 972</reference>
+	<reference>230   MEARNS MB             ARCH DIS CHILD                  47   902 972</reference>
+	<reference>231   MITCHELL-HEGGS PF     Q J MED                         45   479 976</reference>
+	<reference>232   MURAKAWA T            JAPAN J MICROBIOL               17   273 973</reference>
+	<reference>233   MURAKAWA T            JAPAN J MICROBIOL               17   513 973</reference>
+	<reference>234   MYEROWITZ RL          LANCET                           2   250 972</reference>
+	<reference>235   NELSON RA JR          IN: ZWEIFACH BW                  3    37 974</reference>
+	<reference>236   NETER E               J INFECT DIS SUPPL             130   132 974</reference>
+	<reference>237   NEWHOUSE M            N ENGL J MED                   295   990 976</reference>
+	<reference>238   NIELSEN EL            UGESKR LAEGER                  133  1017 971</reference>
+	<reference>239   NIELSEN H             ACTA PATH MICROBIOL SCAND (C)   84   261 976</reference>
+	<reference>240   OGILVIE BM            BR MED BULL                     32   177 976</reference>
+	<reference>241   OLITZKI AL            BOLL IST SIEROTER MILAN         42   213 963</reference>
+	<reference>242   ORES CN               CF Q ANNOTATED REFERENCES       13    31 975</reference>
+	<reference>243   THUESEN-PEDERSEN J    DAN MED BULL                    21    12 974</reference>
+	<reference>244   PENNINGTON JE         AM J MED                        55   155 973</reference>
+	<reference>245   PENNINGTON JE         J INFECT DIS SUPPL             130   159 974</reference>
+	<reference>246   PENNINGTON JE         AM J MED                        58   629 975</reference>
+	<reference>247   PITTMAN FE            PEDIATRICS                      24    40 959</reference>
+	<reference>248   POLLEY MJ             J MED GENET                     11   249 974</reference>
+	<reference>249   REYNOLDS HY           J IMMUNOL                      111   358 973</reference>
+	<reference>250   REYNOLDS HY           J IMMUNOL                      111   358 973</reference>
+	<reference>251   REYNOLDS HY           J INFECT DIS SUPPL             130   134 974</reference>
+	<reference>252   REYNOLDS HY           J CLIN INVEST                   53  1351 974</reference>
+	<reference>253   REYNOLDS HY           ANN INTERN MED                  82   819 975</reference>
+	<reference>254   REYNOLDS HY           J CLIN INVEST                   56   376 975</reference>
+	<reference>255   REYNOLDS HY           J IMMUNOL                      114  1813 975</reference>
+	<reference>256   REYNOLDS HY           IN: KIRKPATRICK CH                   143 976</reference>
+	<reference>257   REYNOLDS HY           IN: KIRKPATRICK CH                     3 976</reference>
+	<reference>258   ROBINSON MJ           ARCH DIS CHILD                  50   962 975</reference>
+	<reference>259   ROE EA                BR J EXP PATHOL                 55   336 974</reference>
+	<reference>260   ROSENLUND ML          CRC CRIT REV CLIN LAB SCI        3   257 972</reference>
+	<reference>261   SADOFF JC             J INFECT DIS SUPPL             130    61 974</reference>
+	<reference>262   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C)   83   469 975</reference>
+	<reference>263   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C)   85    57 977</reference>
+	<reference>264   SCHWAB JH             BACT REV                        39   121 975</reference>
+	<reference>265   SCHWARTZ RH           AM J DIS CHILD                 111   408 966</reference>
+	<reference>266   SCHWARTZ RH           AM J DIS CHILD                 120   432 970</reference>
+	<reference>267   SCHWARZMANN S         INFECT IMMUN                     3   762 971</reference>
+	<reference>268   SCHWARZ LH            J BACTERIOL                     54    30 947</reference>
+	<reference>269   SEIDMON EJ            J PEDIATR                       87   528 975</reference>
+	<reference>270   SHWACHMAN H           CLIN PEDIATR                    14  1115 975</reference>
+	<reference>271   SHIRAGANIAN RP        J IMMUNOL                      116   639 976</reference>
+	<reference>272   SLAVIN RG             POSTGRAD MED                    59   137 976</reference>
+	<reference>273   SMYTH CJ              INFECT IMMUN                    13  1273 976</reference>
+	<reference>275   SOLBERG CO            LANCET                           2   727 972</reference>
+	<reference>276   SONNENSCHEIN C        ZENTRALBL BAKTERIOL            104   365 927</reference>
+	<reference>277   SOUTAR CA             THORAX                          31   158 976</reference>
+	<reference>278   SOUTH MA              J PEDIATR                       71   645 967</reference>
+	<reference>279   SOUTHERN PM           J LAB CLIN MED                  76   548 970</reference>
+	<reference>280   SOUTHERN PM           APPL MICROBIOL                  21   377 971</reference>
+	<reference>281   SPOCK A               PEDIATR RES                      1   173 967</reference>
+	<reference>282   STERN RC              J PEDIATR                       89   406 976</reference>
+	<reference>283   STOSSEL TP            N ENGL J MED                   290   717 974</reference>
+	<reference>284   SULLIVAN JF           AM J DIS CHILD                 125   702 973</reference>
+	<reference>285   SUTHERLAND IW         IN: WEIR DM                      1     1 973</reference>
+	<reference>286   SWEET GH              J IMMUNOL                      111   554 973</reference>
+	<reference>287   SVENDSEN PJ           J IMMUNOL METH                   1   169 972</reference>
+	<reference>288   TALAMO RC             IN: MANGOS JA                        195 976</reference>
+	<reference>289   TAUSSIG LM            J PEDIATR                       84   724 974</reference>
+	<reference>290   TAUSSIG LM            CF CLUB ABST                    17    21 976</reference>
+	<reference>291   TAYLOR PW             CLIN SCI                        43   705 972</reference>
+	<reference>292   THERKELSEN AJ         MEDICINSK STATISTIK AKADEMISK            968</reference>
+	<reference>293   THIRKILL CE           J IMMUNOL                      114  1107 975</reference>
+	<reference>294   TUNSTALL AM           J APPL BACT                     38   159 975</reference>
+	<reference>295   TURK JL               BOLL IST SIEROTER MILAN SUPPL   53   208 974</reference>
+	<reference>296   TURNER-WARWICK M      THORAX                          30   601 975</reference>
+	<reference>297   URIEL J               IN: GRABAR P                          30 964</reference>
+	<reference>298   VAWTER GF             GAP CONF REP PATHOL OF CF              9 972</reference>
+	<reference>299   VERBRUGGEN R          CLIN CHEM                       21     5 975</reference>
+	<reference>300   VESTERGAARD BJ        ACTA PATH MICROBIOL SCAND (B)   81   808 973</reference>
+	<reference>301   WAISBREN BA           J IMMUNOL                       97   431 966</reference>
+	<reference>302   WALDMAN RH            J INFECT DIS                   130   419 974</reference>
+	<reference>303   WALLWORK JC           CLIN EXP IMMUNOL                18   303 974</reference>
+	<reference>304   WARNER JO             ARCH DIS CHILD                  51   507 976</reference>
+	<reference>305   WARREN CPW            CLIN ALLERGY                     5     1 975</reference>
+	<reference>306   WARREN SL             ANN ALLERGY                     36   337 976</reference>
+	<reference>307   WARWICK WJ            J ASTHMA RES                     5   277 968</reference>
+	<reference>308   WARWICK WJ            J CHRON DIS                     28   609 975</reference>
+	<reference>309   WEEKE B               SCAND J CLIN LAB INVEST         21   351 968</reference>
+	<reference>310   WEEKE B               PROTIDES BIOL FLUIDS            19   547 971</reference>
+	<reference>311   WEEKE B               SCAND J IMMUNOL SUPPL 1          2    37 973</reference>
+	<reference>312   WEEKE B               SCAND J IMMUNOL SUPPL 1          3    47 973</reference>
+	<reference>313   WEEKE B               SCAND J IMMUNOL SUPPL 1          2   149 973</reference>
+	<reference>314   WEEKE B               DAN MED BULL                    23   155 976</reference>
+	<reference>315   WEINSTEIN RJ          J CLIN INVEST                   58   190 976</reference>
+	<reference>316   WIGLESWORTH FW        AM J MED SCI                   212   351 946</reference>
+	<reference>317   WILLIAMS RJ           J MED MICROBIOL                  6   409 973</reference>
+	<reference>318   WILSON GS             TOPLEY WILSONS PRINCIPLES OF     1   368 975</reference>
+	<reference>319   WISSLER H             HELV PAEDIATR ACTA SUPPL 1       1     3 945</reference>
+	<reference>320   WOOD RE               AM REV RESPIR DIS              113   833 976</reference>
+	<reference>321   WRETLIND B            J MED MICROBIOL                  6    91 973</reference>
+	<reference>322   WRIGHT GL JR          IMMUNOL COMMUN                   3    35 974</reference>
+	<reference>323   WRIGHT PF             J INFECT DIS                   134   144 976</reference>
+	<reference>324   WULFF HR              RATIONEL KLINIK                          973</reference>
+	<reference>325   YOUNG LS              J INFECT DIS                   126   257 972</reference>
+	<reference>326   YOUNG LS              J INFECT DIS                   126   257 972</reference>
+	<reference>327   YOUNG LS              CRC CRIT REV CLIN LAB SCI        3   291 972</reference>
+	<reference>328   YOUNG LS              J INFECT DIS SUPPL             130   111 974</reference>
+	<reference>329   ZAVALA DC             J ALLERGY CLIN IMMUNOL          56   450 975</reference>
+	<reference>330   ZEGERS BJM            N ENGL J MED                   294  1026 976</reference>
+	<reference>331   ZIERDT CH             J BACTERIOL                     87  1003 964</reference>
+	<reference>332   ZIERDT CH             J CLIN MICROBIOL                 1   521 975</reference>
+	<reference>333   ZUELZER WW            PEDIATRICS                       4    53 949</reference>
+
+	<citation>1   THOMASSEN MJ          PEDIATR RES                     13  1085 979</citation>
+	<citation>2   THOMASSEN MJ          J INFECT DIS                   140   873 979</citation>
+	<citation>3   BERDISCHEWSKY M       PEDIATR RES                     14   830 980</citation>
+	<citation>4   THOMASSEN MJ          PEDIATR RES                     14   715 980</citation>
+	<citation>5   GOSCINIAK G           ARCH IMMUNOL THER EXP           28   619 980</citation>
+	<citation>6   HODSON ME             THORAX                          35   801 980</citation>
+	<citation>7   HOIBY N               ACTA PATH MICROBIOL SCAND (C)   88   149 980</citation>
+	<citation>8   BEAUDRY PH            J PEDIATR                       97   144 980</citation>
+	<citation>9   FICK RB               CLIN CHEST MED                   2    91 981</citation>
+	<citation>10   PETERSEN NT           ACTA PAEDIATR SCAND             70   623 981</citation>
+	<citation>11   HOIBY N               ACTA PATH MICROBIOL SCAND (C)   89   185 981</citation>
+	<citation>12   MARKS MI              J PEDIATR                       98   173 981</citation>
+	<citation>13   MOSS RB               J PEDIATR                       99   215 981</citation>
+	<citation>14   MOLLER NE             SCAND J INFECT DIS            1981    87 981</citation>
+	<citation>15   MOROZ AF              ZH MIKROBIO EPIDEMIO IMMUNOBI 1981     6 981</citation>
+	<citation>16   SEALE TW              ANN CLIN LAB SCI                12   415 982</citation>
+	<citation>17   BREMMELGAARD A        SCAND J INFECT DIS              14   271 982</citation>
+	<citation>18   PUGASHETTI BK         J CLIN MICROBIOL                16   686 982</citation>
+	<citation>19   BAKER NR              IN VITRO                        18   369 982</citation>
+	<citation>20   SORDELLI DO           CLIN IMMUNOL IMMUNOPATHOL       22   153 982</citation>
+	<citation>21   BAKER NR              CAN J MICROBIOL                 28   248 982</citation>
+	<citation>22   PERMIN H              ALLERGY                         37    93 982</citation>
+	<citation>23   MOLLER NE             EUR J RESPIR DIS                63   130 982</citation>
+	<citation>24   SZAFF M               ACTA PAEDIATR SCAND             71   821 982</citation>
+	<citation>25   ZIELINSKI CC          N ENGL J MED                   306   486 982</citation>
+	<citation>26   BECK B                ACTA PAEDIATR SCAND SUPPL 301 1982   125 982</citation>
+	<citation>27   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    33 982</citation>
+	<citation>28   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    63 982</citation>
+	<citation>29   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    75 982</citation>
+	<citation>30   MICHALSEN H           ACTA PAEDIATR SCAND SUPPL 301 1982   101 982</citation>
+	<citation>31   SCHIOTZ PO            ACTA PAEDIATR SCAND SUPPL 301 1982    55 982</citation>
+	<citation>32   ZIMAKOFF J            J HOSP INFECT                    4    31 983</citation>
+	<citation>33   HOOGKAMPKORSTANJE JAA J ANTIMICROB CHEMOTHER          12   175 983</citation>
+	<citation>34   PERMIN H              J ANTIMICROB CHEMOTHER          12   313 983</citation>
+	<citation>35   HEILESEN AM           SCAND J INFECT DIS              15   271 983</citation>
+	<citation>36   SCHILLER NL           PEDIATR RES                     17   747 983</citation>
+	<citation>37   MARESZBABCZYSZYN J    ARCH IMMUNOL THER EXP           31   199 983</citation>
+	<citation>38   DORING G              INFECT IMMUN                    42   197 983</citation>
+	<citation>39   LAM JS                INFECT IMMUN                    42    88 983</citation>
+	<citation>40   BROOK I               EUR J RESPIR DIS                64    51 983</citation>
+	<citation>41   DORING G              J INFECT DIS                   147   744 983</citation>
+	<citation>42   CAPLAN DB             REV INFECT DIS                   6  S705 984</citation>
+	<citation>43   SCHILLER NL           CURRENT MICROBIOL               10   185 984</citation>
+	<citation>44   ANWAR H               FEMS MICROBIOL LETTERS          24   235 984</citation>
+	<citation>45   EFTHIMIOU J           THORAX                          39   150 984</citation>
+	<citation>46   MCNEILL WF            AM J CLIN PATHOL                81   742 984</citation>
+	<citation>47   DORING G              ACTA PATH MICROB IMMU SCA (C)   92   307 984</citation>
+	<citation>48   ISLES A               J PEDIATR                      104   206 984</citation>
+	<citation>49   THOMASSEN MJ          J PEDIATR                      104   352 984</citation>
+	<citation>50   LYNN AR               J BACTERIOL                    158  1161 984</citation>
+	<citation>51   KLINGER KW            EUR J CLIN MICROBIOL             4   201 985</citation>
+	<citation>52   ROE EA                BURNS                           11   252 985</citation>
+	<citation>53   BRAUNER A             SCAND J INFECT DIS              17    63 985</citation>
+	<citation>54   BAEK L                J CLIN MICROBIOL                22   229 985</citation>
+	<citation>55   WARREN RL             ANTIMICROB AGENTS CHEMOTHER     27   468 985</citation>
+	<citation>56   REYNOLDS HY           DISEASE A MONTH                 31     1 985</citation>
+	<citation>57   LUZAR MA              INFECT IMMUN                    50   572 985</citation>
+	<citation>58   LUZAR MA              INFECT IMMUN                    50   577 985</citation>
+	<citation>59   WINKLER U             KLIN WSCHR                      63   490 985</citation>
+	<citation>60   OJENIYI B             ACTA PATH MICROB IMMU SCA (B)   93     7 985</citation>
+	<citation>61   THOMASSEN MJ          AM REV RESPIR DIS              131   791 985</citation>
+	<citation>62   FICK RB               J INFECT DIS                   151   589 985</citation>
+	<citation>63   ILYUKHIN VI           ZH MIKROBIO EPIDEMIO IMMUNOBI         88 986</citation>
+	<citation>64   PADGETT PJ            CURRENT MICROBIOL               14   187 986</citation>
+	<citation>65   PEDERSEN SS           SCAND J INFECT DIS              18   133 986</citation>
+	<citation>66   FICK RB               PEDIATR RES                     20  1258 986</citation>
+	<citation>67   BRETT MM              J CLIN PATHOL                   39  1124 986</citation>
+	<citation>68   BRETT MM              ARCH DIS CHILD                  61  1114 986</citation>
+	<citation>69   MOSS RB               AM REV RESPIR DIS              133   648 986</citation>
+	<citation>70   WANG EEL              PEDIATR INFECT DIS J             6   256 987</citation>
+	<citation>71   DASGUPTA MK           J CLIN IMMUNOL                   7    51 987</citation>
+	<citation>72   HINDERSSON P          J GEN MICROBIOL                133   587 987</citation>
+
+</document>

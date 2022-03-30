@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Immune complexes in cystic fibrosis.</title>
+
+	<author>McFarlane-H.</author>
+	<author>Holzel-A.</author>
+	<author>Brenchley-P.</author>
+	<author>Allan-J-D.</author>
+	<author>Wallwork-J-C.</author>
+	<author>Singer-B-E.</author>
+	<author>Worsley-B.</author>
+
+	<source>Br-Med-J. 1975 Feb 22. 1(5955). P 423-8.</source>
+
+	<abstract>Circulating immune complexes were detected in serum and sputum of
+   patients with cystic fibrosis (C.F.).  There were extensive deposits
+   of immunoglobulins and complement immune complexes in several of the
+   C.F. organs, especially the respiratory and gastrointestinal tracts,
+   but not in the kidneys.  Significant concentrations of IgG and of
+   complement complexes could be eluted from the lungs of the C.F.
+   patients but not from those of controls.  Studies involving
+   immunoabsorption, autoradiography, and molecular sieving through
+   Sephadex G-200 columns identified both bovine serum albumin and
+   staphylococcal alpha-haemolysin as two of the antigens present in
+   the immune complexes.  The sedimentation constant of the immune
+   complexes was about 8S to 11S.  The clinical significance of these
+   immune complexes and the wide variety of antibodies detected in C.F.
+   patients are discussed.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS: im</majorsubject>
+
+	<minorsubject>ADSORPTION</minorsubject>
+	<minorsubject>ADULT</minorsubject>
+	<minorsubject>ANTIBODIES</minorsubject>
+	<minorsubject>ANTIGEN-ANTIBODY-COMPLEX: an</minorsubject>
+	<minorsubject>AUTORADIOGRAPHY</minorsubject>
+	<minorsubject>CHILD</minorsubject>
+	<minorsubject>CHILD-PRESCHOOL</minorsubject>
+	<minorsubject>COMPLEMENT: an</minorsubject>
+	<minorsubject>FEMALE</minorsubject>
+	<minorsubject>FLUORESCENT-ANTIBODY-TECHNIC</minorsubject>
+	<minorsubject>GASTROINTESTINAL-SYSTEM: im</minorsubject>
+	<minorsubject>CHROMATOGRAPHY-GEL</minorsubject>
+	<minorsubject>HEMOLYSINS: ip</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>IGA</minorsubject>
+	<minorsubject>IGG: ip</minorsubject>
+	<minorsubject>IGM</minorsubject>
+	<minorsubject>IMMUNOELECTROPHORESIS</minorsubject>
+	<minorsubject>INFANT</minorsubject>
+	<minorsubject>LUNG: im</minorsubject>
+	<minorsubject>MALE</minorsubject>
+	<minorsubject>PRECIPITIN-TESTS</minorsubject>
+	<minorsubject>RESPIRATORY-SYSTEM: im</minorsubject>
+	<minorsubject>SERUM-ALBUMIN-BOVINE: im</minorsubject>
+	<minorsubject>SPUTUM: im</minorsubject>
+	<minorsubject>STAPHYLOCOCCUS</minorsubject>
+
+	<reference>001   ALLISON AC            LANCET                           1  1232 969</reference>
+	<reference>002   BURNS MW              LANCET                           1   354 967</reference>
+	<reference>003   CRACCO G              PROC EWGCF 5TH ANNU MTG               16 974</reference>
+	<reference>004   DIXON FJ              HARVEY LECTURES                 58    21 963</reference>
+	<reference>005   GRABAR P              IN: GRABAR P                           3 964</reference>
+	<reference>006   GULCHARD Y            PROC EWGCF 5TH ANNU MTG                  974</reference>
+	<reference>007   JOHANSSON SGO         IMMUNOLOGY                      10   265 968</reference>
+	<reference>008   KILBURN KH            IN: MANGOS JA                        129 973</reference>
+	<reference>009   MCCARTHY DS           IN: LAWSON D PROC 5TH INT CF         194 969</reference>
+	<reference>010   MANCINI G             IMMUNOCHEMISTRY                  2   235 965</reference>
+	<reference>011   MERCOLA KE            EXP MOL PATH                    19   230 973</reference>
+	<reference>012   MURRAY MJ             ANN INTERN MED                  53   548 960</reference>
+	<reference>013   PEPYS J               IN: SERAFINI U                       136 971</reference>
+	<reference>014   SOOTHILL JF           CLIN EXP IMMUNOL                 2    83 967</reference>
+	<reference>015   SOOTHILL JF           LANCET                           2   929 967</reference>
+	<reference>016   STEIN AA              J PEDIATR                       65   495 964</reference>
+	<reference>017   WALLWORK JC           CLIN EXP IMMUNOL                18   303 974</reference>
+	<reference>018   WARREN CPW            AM REV RESPIR DIS              109   672 974</reference>
+
+	<citation>1   ALLAN JD              CLIN ALLERGY                     5   255 975</citation>
+	<citation>2   GIBBONS A             BR MED J                         1   120 976</citation>
+	<citation>3   MCFARLANE H           LANCET                           1  1241 976</citation>
+	<citation>4   WALLWORK JC           CLIN ALLERGY                     6   349 976</citation>
+	<citation>5   STEPHAN U             INTERNIST                       17   336 976</citation>
+	<citation>6   VISCONTI A            ANN SCLAVO                      18   308 976</citation>
+	<citation>7   WEEKE B               DAN MED BULL                    23   155 976</citation>
+	<citation>8   CLARKE CW             THORAX                          31   702 976</citation>
+	<citation>9   ANON                  NUTR REV                        34   210 976</citation>
+	<citation>10   GALANT SP             AM REV RESPIR DIS              114   325 976</citation>
+	<citation>11   DISANTAGNESE PA       N ENGL J MED                   295   597 976</citation>
+	<citation>12   GENIN C               ARCH FR PEDIATR                 34   717 977</citation>
+	<citation>13   STRUNK RC             ARCH DIS CHILD                  52   687 977</citation>
+	<citation>14   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C)   85    57 977</citation>
+	<citation>15   ZUBLER RH             PROG ALLERGY                    24     1 978</citation>
+	<citation>16   HILTON AM             CLIN EXP IMMUNOL                31   237 978</citation>
+	<citation>17   SMITH WR              CHEST                           73   471 978</citation>
+	<citation>18   GOTZ M                EUR J PEDIATR                  127   133 978</citation>
+	<citation>19   HOIBY N               MONOGR PAEDIATR                 10   138 979</citation>
+	<citation>20   SCHIOTZ PO            MONOGR PAEDIATR                 10   131 979</citation>
+	<citation>21   HOWIE AD              SCOTT MED J                     24   193 979</citation>
+	<citation>22   HOIBY N               ACTA PAEDIATR SCAND             68   495 979</citation>
+	<citation>23   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C)   87   229 979</citation>
+	<citation>24   SOTER NA              J PEDIATR                       95   197 979</citation>
+	<citation>25   BERDISCHEWSKY M       PEDIATR RES                     14   830 980</citation>
+	<citation>26   HODSON ME             THORAX                          35   801 980</citation>
+	<citation>27   CARR RI               CLIN EXP IMMUNOL                39   562 980</citation>
+	<citation>28   MIELIVERGANI G        ARCH DIS CHILD                  55   696 980</citation>
+	<citation>29   MOSS RB               AM REV RESPIR DIS              121    23 980</citation>
+	<citation>30   MATTHEWS WJ           N ENGL J MED                   302   245 980</citation>
+	<citation>31   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C) S276     1 981</citation>
+	<citation>32   FICK RB               CLIN CHEST MED                   2    91 981</citation>
+	<citation>33   HOLLAND EJ            J CLIN LAB IMMUNOL               6   137 981</citation>
+	<citation>34   PENNINGTON JE         J CLIN INVEST                   68  1140 981</citation>
+	<citation>35   CHURCH JA             CHEST                           80   405 981</citation>
+	<citation>36   MARKS MI              J PEDIATR                       98   173 981</citation>
+	<citation>37   MOSS RB               J PEDIATR                       99   215 981</citation>
+	<citation>38   DANIELE RP            AM REV RESPIR DIS              124   738 981</citation>
+	<citation>39   FROLAND SS            SCAND J INFECT DIS            1981    72 981</citation>
+	<citation>40   COX KL                J PEDIATR GASTROENTEROL NUTR     1   345 982</citation>
+	<citation>41   ABRAMOWSKY CR         HUM PATHOL                      13   934 982</citation>
+	<citation>42   MARGOLIES R           PEDIATR RES                     16   181 982</citation>
+	<citation>43   MOSS RB               CLIN EXP IMMUNOL                47   301 982</citation>
+	<citation>44   PITCHERWILMOTT RW     ARCH DIS CHILD                  57   577 982</citation>
+	<citation>45   MANTHEI U             AM REV RESPIR DIS              126   253 982</citation>
+	<citation>46   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    63 982</citation>
+	<citation>47   SCHIOTZ PO            ACTA PAEDIATR SCAND SUPPL 301 1982    55 982</citation>
+	<citation>48   ANON                  LANCET                           2   257 983</citation>
+	<citation>49   MARGOLIES R           PEDIATR RES                     17   931 983</citation>
+	<citation>50   BRYAN LE              J CLIN MICROBIOL                18   276 983</citation>
+	<citation>51   KLINGER JD            INFECT IMMUN                    39  1377 983</citation>
+	<citation>52   WALLACE JM            AM REV RESPIR DIS              128  1077 983</citation>
+	<citation>53   DORING G              J INFECT DIS                   147   744 983</citation>
+	<citation>54   DAVIS CA              HUM PATHOL                      15   244 984</citation>
+	<citation>55   BOSSO JA              DRUG INTEL CLIN PHARM           18   825 984</citation>
+	<citation>56   SPEERT DP             PEDIATR RES                     18   431 984</citation>
+	<citation>57   HODSON ME             POSTGRAD MED J                  60   225 984</citation>
+	<citation>58   DORING G              ACTA PATH MICROB IMMU SCA (C)   92   307 984</citation>
+	<citation>59   WHEELER WB            J PEDIATR                      104   695 984</citation>
+	<citation>60   MICHALSEN H           PATHOL RES PRACT               178   261 984</citation>
+	<citation>61   AUERBACH HS           LANCET                           2   686 985</citation>
+	<citation>62   SPEERT DP             SURV SYNTH PATHOL RES            4    14 985</citation>
+	<citation>63   MISCHLER EH           SEM RESPIR MED                   6   271 985</citation>
+	<citation>64   HODSON ME             CLIN ALLERGY                    15   363 985</citation>
+	<citation>65   WISNIESKI JJ          AM REV RESPIR DIS              132   770 985</citation>
+	<citation>66   GOTZ M                MONATSSCHR KINDERHEILKD        133   718 985</citation>
+	<citation>67   PIER GB               J INFECT DIS                   151   575 985</citation>
+	<citation>68   WOODS DE              J INFECT DIS                   151   581 985</citation>
+	<citation>69   DISIS ML              PEDIATR RES                     20   385 986</citation>
+	<citation>70   HOIBY N               ANNU REV MICROBIOL              40    29 986</citation>
+	<citation>71   PHILLIPS BM           J ROY SOC MED                   79    44 986</citation>
+	<citation>72   MOSS RB               AM REV RESPIR DIS              133   648 986</citation>
+	<citation>73   BOSSO JA              PEDIATR INFECT DIS J             6   393 987</citation>
+	<citation>74   DASGUPTA MK           J CLIN IMMUNOL                   7    51 987</citation>
+
+</document>

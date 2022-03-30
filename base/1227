@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Chemotherapy of chronic infections with mucoid Pseudomonas
+   aeruginosa in lower airways of patients with cystic fibrosis.</title>
+
+	<author>Friis-B.</author>
+
+	<source>Scand-J-Infect-Dis. 1979. 11(3). P 211-7.</source>
+
+	<abstract>The bacteriological effect of chemotherapy against Pseudomonas
+   aeruginosa (Ps.ae.) in lungs of patients with cystic fibrosis is
+   reviewed. During a 5-year period 49 children and adults were treated
+   with 190 courses of different antibiotics. The mucoid strains of
+   Ps.ae. disappeared in 72.0% of the courses in which a combination of
+   tobramycin and carbenicillin was employed. Tobramycin given alone had
+   only bacteriological effect in 26.6% of the courses. Colimycin alone
+   or in combination with carbenicillin had no effect. In 18 patients
+   who received subsequent courses of tobramycin and combination of
+   tobramycin and carbenicillin a significant difference in favour of
+   the combination therapy was found, also in cases with many
+   precipitins against Ps.ae. in serum. In 74.5% of the initially
+   successful courses the patients were recolonized with Ps.ae. within 1
+   month. No nephrotoxic or ototoxic side effects were demonstrated in
+   spite of the high doses of tobramycin (10 mg/kg/24 h) emmployed and
+   the repeated courses.</abstract>
+
+	<majorsubject>ANTIBIOTICS: tu</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: co</majorsubject>
+	<majorsubject>PNEUMONIA: dt</majorsubject>
+	<majorsubject>PSEUDOMONAS-INFECTIONS: dt</majorsubject>
+
+	<minorsubject>ADOLESCENCE</minorsubject>
+	<minorsubject>ADULT</minorsubject>
+	<minorsubject>CARBENICILLIN: tu</minorsubject>
+	<minorsubject>CHILD</minorsubject>
+	<minorsubject>CHILD-PRESCHOOL</minorsubject>
+	<minorsubject>CHRONIC-DISEASE</minorsubject>
+	<minorsubject>COLISTIN: tu</minorsubject>
+	<minorsubject>DRUG-EVALUATION</minorsubject>
+	<minorsubject>DRUG-THERAPY-COMBINATION</minorsubject>
+	<minorsubject>FEMALE</minorsubject>
+	<minorsubject>GENTAMICINS: tu</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>INFANT</minorsubject>
+	<minorsubject>MALE</minorsubject>
+	<minorsubject>PNEUMONIA: co</minorsubject>
+	<minorsubject>PRECIPITINS: an</minorsubject>
+	<minorsubject>PSEUDOMONAS-AERUGINOSA: im</minorsubject>
+	<minorsubject>PSEUDOMONAS-INFECTIONS: co</minorsubject>
+	<minorsubject>TOBRAMYCIN: tu</minorsubject>
+
+	<reference>001   ANDERSON EL           ANTIMICROB AGENTS CHEMOTHER      8   300 975</reference>
+	<reference>002   DAVIES J              J INFECT DIS SUPPL             124     7 971</reference>
+	<reference>003   GIBSON LE             PEDIATRICS                      23   545 959</reference>
+	<reference>004   HAWLEY HB             CURR THER RES                   16   414 974</reference>
+	<reference>005   HOFF GE               SCAND J INFECT DIS               6   333 974</reference>
+	<reference>006   HUANG NN              J PEDIATR                       78   338 971</reference>
+	<reference>007   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   81   298 973</reference>
+	<reference>008   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   541 974</reference>
+	<reference>009   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   551 974</reference>
+	<reference>010   HOIBY N               SCAND J RESPIR DIS              58    65 977</reference>
+	<reference>011   KLASTERSKY J          AM J MED SCI                   266    13 973</reference>
+	<reference>012   KLUGE RM              ANN INTERN MED                  81   584 974</reference>
+	<reference>013   KLUGE RM              ANTIMICROB AGENTS CHEMOTHER      6   442 974</reference>
+	<reference>014   MARKS MI              J PEDIATR                       79   822 971</reference>
+	<reference>015   MCCRAE WM             SCOTT MED J                     21    68 976</reference>
+	<reference>016   MEYER RD              APPL MICROBIOL                  22  1147 971</reference>
+	<reference>017   MEYERS BR             J CLIN PHARMACOL                12   321 972</reference>
+
+	<citation>1   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C) S276     1 981</citation>
+	<citation>2   FEIGELSON J           NOUV PRESSE MED                 10   955 981</citation>
+	<citation>3   MALMBORG AS           SCAND J INFECT DIS            1981    64 981</citation>
+	<citation>4   MOLLER NE             SCAND J INFECT DIS            1981    87 981</citation>
+	<citation>5   DAVIDSON S            ISR J MED SCI                   18   859 982</citation>
+	<citation>6   KELLY HW              J PEDIATR                      101   793 982</citation>
+	<citation>7   BECK B                ACTA PAEDIATR SCAND SUPPL 301 1982   125 982</citation>
+	<citation>8   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    75 982</citation>
+	<citation>9   PERMIN H              J ANTIMICROB CHEMOTHER          12   313 983</citation>
+	<citation>10   HEILESEN AM           SCAND J INFECT DIS              15   271 983</citation>
+	<citation>11   DORING G              INFECT IMMUN                    42   197 983</citation>
+	<citation>12   SCHIOTZ PO            ACTA PAEDIATR SCAND             72   283 983</citation>
+	<citation>13   SZAFF M               ACTA PAEDIATR SCAND             72   651 983</citation>
+	<citation>14   DRUSANO GL            REV INFECT DIS                   6    13 984</citation>
+	<citation>15   KELLY HW              DRUG INTEL CLIN PHARM           18   772 984</citation>
+	<citation>16   FRASER GL             DRUG INTEL CLIN PHARM           19   757 985</citation>
+	<citation>17   STACK BHR             THORAX                          40   358 985</citation>
+	<citation>18   STOUT SA              DRUG INTEL CLIN PHARM           21   322 987</citation>
+
+</document>

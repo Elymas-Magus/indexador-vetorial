@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Data on the HL-A linkage group.</title>
+
+	<author>Lamm-L-U.</author>
+	<author>Thorsen-I-L.</author>
+	<author>Petersen-G-B.</author>
+	<author>Jorgensen-J.</author>
+	<author>Henningsen-K.</author>
+	<author>Bech-B.</author>
+	<author>Kissmeyer-Nielsen-F.</author>
+
+	<source>Ann-Hum-Genet. 1975 May. 38(4). P 383-90.</source>
+
+	<abstract>Lod scores from a study in 229 families of the linkage relations of
+   HL-A-PGM3 to 19 marker loci and cystic fibrosis are reported. The
+   data exclude that ADA belongs to this linkage group while they give
+   weak support for the inclusion of P. There is weak evidence for
+   linkage of cystic fibrosis to PGM3, but none for linkage to HL-A. No
+   new suggestive linkages appeared.</abstract>
+
+	<majorsubject>HISTOCOMPATIBILITY-ANTIGENS</majorsubject>
+	<majorsubject>HLA-ANTIGENS</majorsubject>
+	<majorsubject>LINKAGE-GENETICS</majorsubject>
+
+	<minorsubject>BLOOD-GROUPS</minorsubject>
+	<minorsubject>COMPUTERS</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: fg</minorsubject>
+	<minorsubject>GENE-FREQUENCY</minorsubject>
+	<minorsubject>GENOTYPE</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>PHOSPHOGLUCOMUTASE: bi</minorsubject>
+	<minorsubject>RECOMBINATION-GENETIC</minorsubject>
+
+	<reference>001   AZEN EA               BIOCHEM GENET                    3   215 969</reference>
+	<reference>002   BACH FH               AM J HUM GENET                  25   208 973</reference>
+	<reference>003   CHEN SH               SCIENCE                        173   148 971</reference>
+	<reference>004   CREAGAN RP            LANCET                           2  1449 973</reference>
+	<reference>005   DANES BS              J EXP MED                      129   775 969</reference>
+	<reference>006   DANES BS              AM J HUM GENET                  23   297 971</reference>
+	<reference>007   DAUSSET J             HISTOCOMPATIBILITY TESTING               972</reference>
+	<reference>008   EDWARDS JH            CLIN GENET                       3   371 972</reference>
+	<reference>009   EDWARDS JH            HISTOCOMPATIBILITY TESTING               972</reference>
+	<reference>010   FELLOUS M             EUR J IMMUNOL                    3   543 973</reference>
+	<reference>011   JONGSMA A             HUMANGENETIK                    20   195 973</reference>
+	<reference>012   LAMM LU               HUM HERED                       24   273 974</reference>
+	<reference>013   LAMM LU               HUM HERED                       20   305 970</reference>
+	<reference>014   LAMM LU               TISSUE ANTIGENS                  2   205 972</reference>
+	<reference>015   LAMM LU               NATURE NEW BIOL                231   109 971</reference>
+	<reference>016   MAYNARD-SMITH S       MATH TABLES RES WORKERS IN HU            961</reference>
+	<reference>017   MIDDLETON J           TISSUE ANTIGENS                  4   366 974</reference>
+	<reference>018   RENWICK JH            BR MED BULL                     25    65 969</reference>
+	<reference>019   ROBSON EB             ANN HUM GENET                   36   393 973</reference>
+	<reference>021   SVEJGAARD A           TISSUE ANTIGENS                  1    81 971</reference>
+
+	<citation>1   JONES EA              SOMATIC CELL GENET               2   483 976</citation>
+	<citation>2   BIJNEN AB             J IMMUNOGENET                    3   171 976</citation>
+	<citation>3   WEITKAMP LR           TISSUE ANTIGENS                  7   273 976</citation>
+	<citation>4   GOODCHILD MC          J MED GENET                     13   417 976</citation>
+	<citation>5   BODMER WF             CYTOGENET CELL GENET            16    24 976</citation>
+	<citation>6   LEWIS M               CYTOGENET CELL GENET            16   317 976</citation>
+	<citation>7   SIMON M               GUT                             17   332 976</citation>
+	<citation>8   DAY NK                VOX SANG                        31    96 976</citation>
+	<citation>9   JERSILD C             TRANSPLANTAT REV                32    43 976</citation>
+	<citation>10   RAUM D                J CLIN INVEST                   58  1240 976</citation>
+	<citation>11   ROTTHAUWE HW          DTSCH MED WSCHR                101   849 976</citation>
+	<citation>12   MUNRO A               NATURE                         264   145 976</citation>
+	<citation>13   HOIBY N               ACTA PATH MICROBIOL SCAND (C) S262     3 977</citation>
+	<citation>14   BOMFORD A             LANCET                           1   327 977</citation>
+	<citation>15   KOMPF J               SCAND J IMMUNOL                  6   453 977</citation>
+	<citation>16   FELLOUS M             EUR J IMMUNOL                    7    22 977</citation>
+	<citation>17   GIRALDO G             CLIN IMMUNOL IMMUNOPATHOL        8   377 977</citation>
+	<citation>18   OHELA K               TISSUE ANTIGENS                  9    90 977</citation>
+	<citation>19   SAFWENBERG J          TISSUE ANTIGENS                 10   287 977</citation>
+	<citation>20   BREUNING MH           HUM GENET                       37   131 977</citation>
+	<citation>21   ROSENFELD SI          J IMMUNOL                      119   604 977</citation>
+	<citation>22   SIMON M               N ENGL J MED                   297  1017 977</citation>
+	<citation>23   HENNEQUET A           TISSUE ANTIGENS                 12   159 978</citation>
+	<citation>24   LEWIS M               CYTOGENET CELL GENET            22   452 978</citation>
+	<citation>25   WEITKAMP L            CYTOGENET CELL GENET            22    92 978</citation>
+	<citation>26   BODMER WF             PROC R SOC LOND (B)            202    93 978</citation>
+	<citation>27   BODMER WF             HARVEY LECTURES               1978    91 978</citation>
+	<citation>28   CUZNER ML             MOL ASP MED                      2   147 979</citation>
+	<citation>29   BERGER R              CLIN GENET                      15   245 979</citation>
+	<citation>30   HAUPTMANN G           REV FR TRANSFUS IMMUNOHEMATOL   22   587 979</citation>
+	<citation>31   PEPPER B              HUM HERED                       29   279 979</citation>
+	<citation>32   BENDER K              HUM GENET                       49   159 979</citation>
+	<citation>33   RAUM  D               J CLIN INVEST                   64   858 979</citation>
+	<citation>34   HERROD HG             J PEDIATR                       94   676 979</citation>
+	<citation>35   RUBINSTEIN P          J IMMUNOL                      122  2584 979</citation>
+	<citation>36   TACIEREUGSTER H       HELV PAEDIATR ACTA              35    31 980</citation>
+	<citation>37   NAKAO Y               CLIN EXP IMMUNOL                42    20 980</citation>
+	<citation>38   PEDERSEN L            HUM GENET                       54   371 980</citation>
+	<citation>39   LOPEZLARREA C         HUM GENET                       57   317 981</citation>
+	<citation>40   PLATZ P               DIABETOLOGIA                    23    16 982</citation>
+	<citation>41   NIELSEN OH            ACTA PAEDIATR SCAND             71   339 982</citation>
+	<citation>42   BECK B                ACTA PAEDIATR SCAND SUPPL 301 1982   125 982</citation>
+	<citation>43   MARDER HK             KIDNEY INT                      23   749 983</citation>
+	<citation>44   ROBSON EB             ANN HUM GENET                   48   347 984</citation>
+	<citation>45   REGUEIRO JR           HUM GENET                       67   437 984</citation>
+	<citation>46   EIBERG H              CLIN GENET                      27   206 985</citation>
+	<citation>47   EIBERG H              CLIN GENET                      28   265 985</citation>
+	<citation>48   PEDERSEN  EB          Q J MED                         57   883 985</citation>
+	<citation>49   SCHMIEGELOW K         CLIN GENET                      29   374 986</citation>
+	<citation>50   WERDELIN L            ACTA NEUROL SCAND               73     1 986</citation>
+
+</document>

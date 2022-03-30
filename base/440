@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Physiology and pharmacology of secretion and cystic fibrosis.  A
+   review of past developments and projections into the future.  pp.
+   311-36.</title>
+
+	<author>Mangos-J-A.</author>
+	<author>Bargman-G-J.</author>
+	<author>Martinez-J-R.</author>
+	<author>Rennert-O-M.</author>
+
+	<source>In: Mangos JA, Talamo RC, ed. Cystic fibrosis: projections into the
+   future. New York, Stratton, 1976. WI 820 C9995 1976. (REVIEW).</source>
+
+	<abstract>Cystic fibrosis is a recessively inherited metabolic disease which is
+   characterized by a universal dysfunction in the exocrine glands of
+   affected individuals.  This dysfunction results in abnormalities of
+   the composition and/or the physiochemical behavior of the various
+   exocrine gland products.  Although significant advances have been
+   made in our understanding of exocrine gland physiology and
+   pharmacology, many questions remain unanswered and significant gaps
+   exist in our knowledge of exocrine gland function.  Perhaps
+   clarification of these issues may lead to better understanding of the
+   pathogenesis of cystic fibrosis and to development of better forms of
+   therapy for the patients.  The purpose of this article is to review
+   past and present developments in this area of biomedical research and
+   to point out areas of exocrine gland physiology and pharmacology
+   where more knowledge is needed in order to clarify the nature of a
+   disease like cystic fibrosis.  Composition of the acinar fluid,
+   secretory mechanisms, modification of ductal fluid, ionic dependence
+   and energy requirements of the secretory process, calcium metabolism
+   in exocrine glands, and exocrine gland dysfunction in cystic fibrosis
+   are discussed.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS: pp</majorsubject>
+	<majorsubject>EXOCRINE-GLANDS: se</majorsubject>
+
+	<minorsubject>ADENOSINE-TRIPHOSPHATE: me</minorsubject>
+	<minorsubject>ANIMAL</minorsubject>
+	<minorsubject>BODY-FLUIDS: se</minorsubject>
+	<minorsubject>CALCIUM: me</minorsubject>
+	<minorsubject>CHLORIDES: me</minorsubject>
+	<minorsubject>DISEASE-MODELS-ANIMAL</minorsubject>
+	<minorsubject>EXOCRINE-GLANDS: ir</minorsubject>
+	<minorsubject>GLUCOSE: se</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>MEMBRANE-POTENTIALS</minorsubject>
+	<minorsubject>MICE</minorsubject>
+	<minorsubject>MONOGRAPH</minorsubject>
+	<minorsubject>NEURAL-TRANSMISSION</minorsubject>
+	<minorsubject>NEUROSECRETION</minorsubject>
+	<minorsubject>OSMOLAR-CONCENTRATION</minorsubject>
+	<minorsubject>PANCREAS: se</minorsubject>
+	<minorsubject>POLYAMINES: ph</minorsubject>
+	<minorsubject>POTASSIUM: me</minorsubject>
+	<minorsubject>REVIEW</minorsubject>
+	<minorsubject>SALIVARY-GLANDS: se</minorsubject>
+	<minorsubject>SODIUM: me</minorsubject>
+	<minorsubject>SWEAT-GLANDS: se</minorsubject>
+	<minorsubject>SWEAT: se</minorsubject>
+	<minorsubject>UREA: se</minorsubject>
+	<minorsubject>WATER: me</minorsubject>
+
+	<reference>001   DI SANTAGNESE PA      N ENGL J MED                   277  1287 967</reference>
+	<reference>002   DI SANTAGNESE PA      N ENGL J MED                   277  1344 967</reference>
+	<reference>003   LOBECK CC             IN: STANBURY JB                     1605 972</reference>
+	<reference>005   MANGOS JA             IN: MANGOS JA                        221 973</reference>
+	<reference>006   MARTINEZ JR           IN: DI SANTAGNESE PA                 129 966</reference>
+	<reference>007   MARTINEZ JR           PFLUEGERS ARCH                 290   124 966</reference>
+	<reference>008   MARTINEZ JR           PHYSIOLOGIST                    10   244 967</reference>
+	<reference>009   MARTINEZ JE           IN: BOTELHO SY                        20 969</reference>
+	<reference>010   MANGOS JA             PFLUEGERS ARCH                 291    99 966</reference>
+	<reference>011   MANGOS JA             AM J PHYSIOL                   221   496 971</reference>
+	<reference>012   MANGOS JA             AM J PHYSIOL                   225    18 973</reference>
+	<reference>013   MANGOS JA             AM J PHYSIOL                   225   450 973</reference>
+	<reference>014   MANGOS JA             PROC SOC EXP BIOL MED          146   321 974</reference>
+	<reference>015   SCHULZ IJ             PFLUEGERS ARCH                 284   360 965</reference>
+	<reference>016   SCHULZ IJ             J CLIN INVEST                   48  1470 969</reference>
+	<reference>017   SCHULZ IJ             PFLUEGERS ARCH                 308   277 969</reference>
+	<reference>018   YOUNG JA              PFLUEGERS ARCH                 291    85 966</reference>
+	<reference>019   YOUNG JA              PFLUEGERS ARCH                 327   285 971</reference>
+	<reference>020   PETERSEN OH           IN: GIEBISCH G                       207 971</reference>
+	<reference>021   PETERSEN OH           PHIL TRANS R SOC LOND BIOL     262   307 971</reference>
+	<reference>022   PETERSEN OH           IN: EMMELIN N                         21 972</reference>
+	<reference>023   PETERSEN OH           ACTA PHYSIOL SCAND SUPPL 381           1 972</reference>
+	<reference>024   SCRATCHERD T          GUT                             14   592 973</reference>
+	<reference>025   SWANSON CH            J GEN PHYSIOL                   62   407 973</reference>
+	<reference>026   PETERSEN OH           J MEMBR BIOL                    16   353 974</reference>
+	<reference>027   MANGOS JA             AM J PHYSIOL                   218  1329 970</reference>
+	<reference>028   MANGOS JA             AM J PHYSIOL                   224  1260 973</reference>
+	<reference>029   MANGOS JA             AM J PHYSIOL                   225   683 973</reference>
+	<reference>030   SCHNEYER CA           IN: THORN NA                          42 974</reference>
+	<reference>031   GARRETT JR            IN: THORN NA                         487 974</reference>
+	<reference>032   EMMELIN N             HANDBOOK OF PHYSIOLOGY           2       967</reference>
+	<reference>033   BATZRI S              J BIOL CHEM                    248   361 973</reference>
+	<reference>034   POHTO P               J ORAL THER PHARMACOL            4   467 968</reference>
+	<reference>035   BATZRI S              J BIOL CHEM                    248   356 973</reference>
+	<reference>037   MANGOS JA             AM J PHYSIOL                   229   553 975</reference>
+	<reference>038   MANGOS JA             AM J PHYSIOL                   229   560 975</reference>
+	<reference>039   MANGOS JA             AM J PHYSIOL                   229   566 975</reference>
+	<reference>040   THOMAS JE             HANDBOOK OF PHYSIOLOGY           2   955 967</reference>
+	<reference>041   TAUSSIG LM            J PEDIATR                       79  1034 971</reference>
+	<reference>042   AMSTERDAM A           PROC NAT ACAD SCI USA           69  3028 973</reference>
+	<reference>043   PETERSEN OH           EXPERIENTIA                     29   160 973</reference>
+	<reference>044   PETERSEN OH           NATURE NEW BIOL                244    73 973</reference>
+	<reference>045   PETERSEN OH           IN: USSING HH                        478 973</reference>
+	<reference>046$  NISHIYAMA A           J PHYSIOL (LOND)               283   145 974</reference>
+	<reference>047   NISHIYAMA A           IN: THORN NA                         216 974</reference>
+	<reference>048   NISHIYAMA A           EXPERIENTIA                     29   161 973</reference>
+	<reference>049   ROBISON GA            CYCLIC AMP                               971</reference>
+	<reference>050   GOLDBERG ND           IN: WEISSMAN G                       185 975</reference>
+	<reference>051   DOUGLAS WW            BR J PHARMACOL                  34   451 968</reference>
+	<reference>052   RASMUSSEN H           SCIENCE                        170   404 970</reference>
+	<reference>053   AMSTERDAM A           J CELL BIOL                     41   753 969</reference>
+	<reference>054   JAMIESON JD           J CELL BIOL                     48   503 971</reference>
+	<reference>055   KANNO T               IN: THORN NA                         278 974</reference>
+	<reference>056   BYRT PN               BIOCHIM BIOPHYS ACTA           148   215 967</reference>
+	<reference>057   DREISBACH RH          PROC SOC EXP BIOL MED          126   279 967</reference>
+	<reference>058   SCHRAMM M             J BIOL CHEM                    245  3225 970</reference>
+	<reference>059   PALADE GE             SCIENCE                        189   347 975</reference>
+	<reference>060   LIEBOW C              AM J PHYSIOL                   226  1077 974</reference>
+	<reference>061   LIEBOW C              SCIENCE                        189   472 975</reference>
+	<reference>062   YOUNG JA              PFLUEGERS ARCH                 295   157 967</reference>
+	<reference>063   YOUNG JA              PFLUEGERS ARCH                 319   185 970</reference>
+	<reference>064   FIELD MJ              PFLUEGERS ARCH                 345   207 973</reference>
+	<reference>065   SCHNEYER LH           AM J PHYSIOL                   215   664 968</reference>
+	<reference>066   SCHNEYER LH           AM J PHYSIOL                   217  1324 969</reference>
+	<reference>067   KNAUF H               IN: GEIBISH G                        198 970</reference>
+	<reference>068   FIELD MJ              THESIS                                   972</reference>
+	<reference>069   MARTIN CJ             PFLUEGERS ARCH                 327   303 971</reference>
+	<reference>070   YOUNG JA              PFLUEGERS ARCH                 327   285 971</reference>
+	<reference>071   MARTIN CJ             PFLUEGERS ARCH                 341   131 971</reference>
+	<reference>072   MARTIN CJ             IN: THORN NA                         549 974</reference>
+	<reference>073   MARTINEZ JR           EUR J PHARMACOL                 18   375 972</reference>
+	<reference>074   DENNIS AR             PROC ARUST PHYSIOL PHARMACOL     4    45 973</reference>
+	<reference>075   CASE RM               IN: BOTELHO SY                        39 969</reference>
+	<reference>076   JANOWITZ HD           CIBA FOUND SYMP EXOCRINE PANC        115 962</reference>
+	<reference>077   CASE RM               J PHYSIOL (LOND)               196   133 968</reference>
+	<reference>078   WORMSLEY KG           GASTROENTEROLOGY                54   197 968</reference>
+	<reference>079   MANGOS JA             AM J PHYSIOL                   224  1235 973</reference>
+	<reference>080   PETERSEN OH           J PHYSIOL (LOND)               210   205 970</reference>
+	<reference>081   DOUGLAS WW            J PHYSIOL (LOND)               165   528 963</reference>
+	<reference>082   MARTINEZ JR           EXPERIENTIA                     28   167 972</reference>
+	<reference>083   SELINGER Z            J BIOL CHEM                    248   369 973</reference>
+	<reference>084   PETERSEN OH           J PHYSIOL (LOND)               208   431 970</reference>
+	<reference>085   CASE RM               J PHYSIOL (LOND)               235    75 973</reference>
+	<reference>086   MATTHEWS EJ           J PHYSIOL (LOND)               231   283 973</reference>
+	<reference>087   BABAD H               EUR J BIOCHEM                    1    96 967</reference>
+	<reference>088   FEINSTEIN H           EUR J BIOCHEM                   13   158 970</reference>
+	<reference>089   RIDDERSTAP AS         AM J PHYSIOL                   216   547 969</reference>
+	<reference>090   CASE RM               IN: THORN NA                         344 974</reference>
+	<reference>091   WINDELER AS JR        ARCH ORAL BIOL                  11  1043 966</reference>
+	<reference>092   DREISBACH RH          AM J PHYSIOL                   196   645 959</reference>
+	<reference>093   NEILSEN SP            J PHYSIOL (LOND)               223   685 972</reference>
+	<reference>094   DREISBACH RH          BIOCHEM J                       82    71 962</reference>
+	<reference>095   DREISBACH RH          PROC SOC EXP BIOL MED          116   953 964</reference>
+	<reference>096   SCHNEYER LH           AM J PHYSIOL                   226   821 974</reference>
+	<reference>097   DI SANTAGNESE PA      PEDIATRICS                      12   549 953</reference>
+	<reference>098   MANGOS JA             TEX REP BIOL MED                31   651 973</reference>
+	<reference>099   MANGOS JA             SCIENCE                        158   135 967</reference>
+	<reference>100   KAISER D              PEDIATR RES                      5   167 971</reference>
+	<reference>101   HADORN B              CAN MED ASSOC J                 98   377 968</reference>
+	<reference>102   JOHANSEN PG           LANCET                           1   455 968</reference>
+	<reference>103   CHERNICK WS           J PEDIATR                       59   890 961</reference>
+	<reference>104   CHERNICK WS           J PEDIATR                       65   694 964</reference>
+	<reference>105   CHERNICK WS           ANN NY ACAD SCI                106   698 963</reference>
+	<reference>106   CHERNICK WS           MOD PROBL PEDIATR               10   125 967</reference>
+	<reference>107   BARBERO GJ            IN: DI SANTAGNESE PA                 208 964</reference>
+	<reference>108   BARBERO GJ            CF CLUB ABST                           4 967</reference>
+	<reference>109   MANDEL ID             AM J DIS CHILD                 113   431 967</reference>
+	<reference>110   MANDEL ID             AM J DIS CHILD                 110   646 965</reference>
+	<reference>111   MARMAR J              GASTROENTEROLOGY                50   551 966</reference>
+	<reference>112   GUGLER EC             J PEDIATR                       71   585 967</reference>
+	<reference>113   RUBIN LS              J PEDIATR                       63  1120 963</reference>
+	<reference>114   MANGOS JA             PEDIATR RES                      1   436 967</reference>
+	<reference>115   MANGOS JA             PEDIATR RES                      2   378 968</reference>
+	<reference>116   TAYLOR A              PEDIATR RES                      8   861 974</reference>
+	<reference>117   LUTZ RJ               IN: GABELNICK HL                     119 973</reference>
+	<reference>118   LITT M                BIOCHEM BIOPHYS RES COMMUN      43   919 971</reference>
+	<reference>119   BETTELHEIM FA         BIORHEOLOGY                      8   129 971</reference>
+	<reference>120   LORIN MI              BIORHEOLOGY                      9    27 972</reference>
+	<reference>121   KHAN MA               TEX REP BIOL MED                31   665 973</reference>
+	<reference>122   SELYE HR              SCIENCE                        133    44 961</reference>
+	<reference>123   MANGOS JA             IN: LAWSON D PROC 5TH INT CF          25 969</reference>
+	<reference>124   MARTINEZ JR           PEDIATR RES                      9   470 975</reference>
+	<reference>125   MARTINEZ JR           PEDIATR RES                      9   463 975</reference>
+	<reference>126   IMMKEN L              CF CLUB ABST                    16     9 975</reference>
+	<reference>127   PIVETTA OH            J HERED                         64   301 973</reference>
+	<reference>131   SMITH T               BIOCHEM J                       84   292 962</reference>
+	<reference>132   ELFERINK J            Z NATURFORSCH                   30   117 975</reference>
+	<reference>133   FULLER D              BIOCHEM J                      150   557 975</reference>
+	<reference>134   RUSSELL DH            GORDON RES CONF POLYAMINES               975</reference>
+	<reference>135   PROCTOR MS            J INVEST DERMATOL               65   409 975</reference>
+	<reference>136   CASE RM               IN: THORN NA                         344 974</reference>
+	<reference>137   RASMUSSEN H           SCIENCE                        170   404 970</reference>
+
+	<citation>1   DISANTAGNESE PA       N ENGL J MED                   295   534 976</citation>
+	<citation>2   DANN LG               LANCET                           2   405 978</citation>
+	<citation>3   HALLINAN F            MED HYPOTHESES                   7   793 981</citation>
+	<citation>4   MANGOS JA             J DENT RES                      60    19 981</citation>
+	<citation>5   ROOMANS GM            SCANN ELECTRON MICROSC        1982   229 982</citation>
+	<citation>6   HARE ER               PEDIATR RES                     19   938 985</citation>
+	<citation>7   SCHONI MH             PEDIATR RES                     19    47 985</citation>
+
+</document>

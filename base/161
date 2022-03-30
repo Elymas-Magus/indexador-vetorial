@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Susceptibility of mucoid Pseudomonas aeruginosa to gentamicin disks.</title>
+
+	<author>Anderson-E-L.</author>
+
+	<source>South-Med-J. 1974 Jul. 67(7). P 771-2.</source>
+
+	<abstract>To compare the in vitro susceptibility of mucoid and nonmucoid
+   Pseudomonas aeruginosa to gentamicin, 144 isolates of both mucoid
+   and nonmucoid P aeruginosa were cultured from throat swab and
+   sputum specimens from 29 patients with diagnosed cystic fibrosis.
+   Mucoid forms of P aeruginosa from throat swab cultures were all
+   susceptible to gentamicin, whereas only 85.5% of the mucoid strains
+   from sputum cultures were susceptible.  Nonmucoid strains from
+   throat swab and sputum cultures were 85.1% and 77.8% susceptible,
+   respectively.  Since the differences in susceptibility between the
+   four groups of organisms were not significant (P &lt; 0.05), it was
+   concluded that these data show no real differences in susceptibility
+   to gentamicin between the mucoid and nonmucoid strains.</abstract>
+
+	<majorsubject>PSEUDOMONAS-AERUGINOSA: de</majorsubject>
+	<majorsubject>GENTAMICINS: pd</majorsubject>
+	<majorsubject>PHARYNX: mi</majorsubject>
+	<majorsubject>SPUTUM:  mi</majorsubject>
+
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>PSEUDOMONAS-AERUGINOSA: ip</minorsubject>
+	<minorsubject>MICROBIAL-SENSITIVITY-TESTS</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: mi</minorsubject>
+
+	<reference>001   COX CE                MED CLIN NORTH AM               54  1305 970</reference>
+	<reference>002   GATMAITAN BG          AM J MED SCI                   260    90 970</reference>
+	<reference>003   BAUER AW              AM J CLIN PATHOL                45   493 966</reference>
+	<reference>004   GILARDI GL            APPL MICROBIOL                  16  1497 968</reference>
+	<reference>005   KIRBY WMM             J INFECT DIS                   119   361 969</reference>
+	<reference>006   TRAUB WH              APPL MICROBIOL                  20    98 970</reference>
+	<reference>007   DOGGETT RG            APPL MICROBIOL                  18   936 969</reference>
+	<reference>008   DOGGETT RG            J BACTERIOL                     87   427 964</reference>
+	<reference>009   HUANG NN              J PEDIATR                       78   338 971</reference>
+	<reference>010   SCHWARZMANN S         INFECT IMMUN                     3   762 971</reference>
+
+	<citation>1   HOIBY N               ACTA PATH MICROBIOL SCAND (C) S262     3 977</citation>
+	<citation>2   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    75 982</citation>
+	<citation>3   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    33 982</citation>
+
+</document>

@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Comparison between purified alpha2-macroglobulin preparations from
+   normal controls and patients with cystic fibrosis.  Kinetic and
+   structural properties of the complex with bovine trypsin.</title>
+
+	<author>Shapira-E.</author>
+	<author>Martin-C-L.</author>
+	<author>Nadler-H-L.</author>
+
+	<source>J-Biol-Chem. 1977 Nov 25. 252(22). P 7923-9.</source>
+
+	<abstract>Alpha-2-macroglobulin was purified from plasma obtained from three
+   healthy controls and three patients with cystic fibrosis.  The
+   normal and patient preparations were indistinguishable antigenically
+   and in their UV absorption spectra.  Competitive inhibition by these
+   preparations of the hydrolysis of benzoyl-L-arginine ethyl ester by
+   bovine trypsin was observed.  The Ki value for normal
+   alpha-2-macroglobulin was 5.3 x 10-8 M as compared to 1.8 x 10-7 M
+   for cystic fibrosis patients preparations.  The km values of the
+   alpha-2-macroglobulin-trypsin complex were 6.3 x 10-4 M for the
+   normal protein and 1.5 x 10-4 M with the alpha-2-macroglobulin from
+   the cystic fibrosis patients.  Gel chromatography of normal
+   alpha-2-macroglobulin, preincubated in molar ratios with bovine
+   trypsin, revealed the formation of alpha-2-macroglobulin fragments.
+   These fragments were not obtained with the preparations from the
+   cystic fibrosis patients.  Both the normal and cystic fibrosis
+   alpha-2-macroglobulins were shown by gel chromatography in sodium
+   dodecyl sulfate to be tetramers, noncovalently bound.  After
+   reduction and alkylation the monomers were found to be a single
+   polypeptide chain.  The fragments obtained by preincubating normal
+   alpha-2-macroglobulin with trypsin had approximately half the
+   molecular weight of the intact monomer.  Cystic fibrosis
+   alpha-2-macroglobulin preincubated with trypsin in sodium dodecyl
+   sulfate a single major component identical to the intact monomers,
+   with no formation of alpha-2-macroglobulin fragments.</abstract>
+
+	<majorsubject>ALPHA-MACROGLOBULINS</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: bl</majorsubject>
+
+	<minorsubject>ALPHA-MACROGLOBULINS: im, ip</minorsubject>
+	<minorsubject>CHROMATOGRAPHY-GEL</minorsubject>
+	<minorsubject>COMPARATIVE-STUDY</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>IMMUNOELECTROPHORESIS</minorsubject>
+	<minorsubject>KINETICS</minorsubject>
+	<minorsubject>PROTEIN-BINDING</minorsubject>
+	<minorsubject>TRYPSIN</minorsubject>
+	<minorsubject>SUPPORT-U-S-GOVT-P-H-S</minorsubject>
+
+	<reference>001   JONES JM              BIOCHEM J                      127   187 972</reference>
+	<reference>002   BARRETT AJ            BIOCHEM J                      133   709 973</reference>
+	<reference>003   ROBERTS RC            IN: FRITZ H                           63 974</reference>
+	<reference>004   DUNN JT               J BIOL CHEM                    242  5549 967</reference>
+	<reference>005   HARPEL PC             J EXP MED                      138   508 973</reference>
+	<reference>006   BAUMSTARK JS          BIOCHIM BIOPHYS ACTA           207   318 970</reference>
+	<reference>007   SAUNDERS R            J CLIN INVEST                   50  2376 971</reference>
+	<reference>008   SUGIHAR H             J BIOCHEM (TOKYO)               70   649 971</reference>
+	<reference>009   BIETH J               FEBS LETTERS                     8   319 970</reference>
+	<reference>010   DOLOVICH J            J LAB CLIN MED                  77   951 971</reference>
+	<reference>011   SCHREIBER AD          J CLIN INVEST                   52  1394 973</reference>
+	<reference>012   OHLSSON K             SCAND J CLIN LAB INVEST         34   349 974</reference>
+	<reference>013   BERTHILLIER G         BIOCHIM BIOPHYS ACTA           170   140 968</reference>
+	<reference>014   MCCONNELL DJ          PROC SOC EXP BIOL MED          147   891 974</reference>
+	<reference>015   SHAPIRA E             PEDIATR RES                     10   812 976</reference>
+	<reference>016   WILSON GB             PEDIATR RES                     10    87 976</reference>
+	<reference>017   SHAPIRA E             BIOCHEM BIOPHYS RES COMMUN      71   864 976</reference>
+	<reference>018   SHAPIRA E             J LAB CLIN MED                  77   877 971</reference>
+	<reference>019   HUNTER WM             NATURE                         194   495 962</reference>
+	<reference>020   TRAVIS J              J BIOL CHEM                    240  1962 965</reference>
+	<reference>021   DIXON M               BIOCHEM J                       55   170 953</reference>
+	<reference>022   HANES CS              BIOCHEM J                       26  1406 932</reference>
+	<reference>023   DIXON M               ENZYMES                              316 964</reference>
+	<reference>024   ERLANGER BF           ARCH BIOCHEM BIOPHYS            95   271 961</reference>
+	<reference>025   IWAMOTO M             BIOCHIM BIOPHYS ACTA           214   402 970</reference>
+	<reference>026   SCHULTZE HE           MOLECULAR BIOL OF HUMAN PROTE    1       966</reference>
+	<reference>027   SHAPIRA E             CLIN CHIM ACTA                  78   359 977</reference>
+	<reference>028   LENAD J               BIOCHEM BIOPHYS RES COMMUN      45   662 971</reference>
+	<reference>029   RINDERKNECHT H        IMMUNOCHEMISTRY                 12     1 975</reference>
+	<reference>030   ARNON R               IN: SELA M                            88 973</reference>
+	<reference>031   SHAPIRA E             BIOCHEMISTRY                     6  3951 967</reference>
+	<reference>032   CITRI N               ADV ENZYMOL                     37   397 973</reference>
+	<reference>033   BECHET JJ             BIOCHIM BIOPHYS ACTA           178   561 969</reference>
+	<reference>034   BARRETT AJ            IN: FRITZ H                           72 974</reference>
+	<reference>035   GAUTHIER F            C R SOC BIOL (PARIS)           168   437 974</reference>
+
+	<citation>1   ALHADEFF JA           CLIN GENET                      14   189 978</citation>
+	<citation>2   TRAVIS J              BIOCHEMISTRY                    17  5651 978</citation>
+	<citation>3   WILSON GB             J LAB CLIN MED                  92   463 978</citation>
+	<citation>4   BOAT TF               ACS SYMPOSIUM SERIES          1978   108 978</citation>
+	<citation>5   DISANTAGNESE PA       MONOGR PAEDIATR                 10    66 979</citation>
+	<citation>6   VANLEUVEN F           PEDIATR RES                     13  1384 979</citation>
+	<citation>7   BENYOSEPH Y           CLIN CHIM ACTA                  99    31 979</citation>
+	<citation>8   KURECKI T             ANAL BIOCHEM                    99   415 979</citation>
+	<citation>9   BARRETT AJ            BIOCHEM J                      181   401 979</citation>
+	<citation>10   SCANLIN TF            CLIN CHEST MED                   1   424 980</citation>
+	<citation>11   DAVIS PB              PEDIATR RES                     14    83 980</citation>
+	<citation>12   SHAPIRA E             BIOCHEM BIOPHYS RES COMMUN      93    50 980</citation>
+	<citation>13   ROMEO G               J LAB CLIN MED                  95   116 980</citation>
+	<citation>14   PARSONS M             CLIN CHIM ACTA                 100   215 980</citation>
+	<citation>15   KRESS LF              BIOCHIM BIOPHYS ACTA           613   469 980</citation>
+	<citation>16   NELLES LP             BIOCHIM BIOPHYS ACTA           623    46 980</citation>
+	<citation>17   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C) S276     1 981</citation>
+	<citation>18   HALLINAN F            MED HYPOTHESES                   7   793 981</citation>
+	<citation>19   BENYOSEPH Y           PEDIATR RES                     15   839 981</citation>
+	<citation>20   RICHMAN JBY           CAN J BIOCHEM                   59   519 981</citation>
+	<citation>21   VANLEUVEN F           J BIOL CHEM                    256  9016 981</citation>
+	<citation>22   LAINE A               BIOCHIM BIOPHYS ACTA           668   429 981</citation>
+	<citation>23   BLITZER MG            J PEDIATR GASTROENTEROL NUTR     1   289 982</citation>
+	<citation>24   OWENSWILLIAMS L       J PEDIATR GASTROENTEROL NUTR     1   567 982</citation>
+	<citation>25   BURY AF               IRCS MED SCI BIOCHEM            10   255 982</citation>
+	<citation>26   BLITZER MG            PEDIATR RES                     16   203 982</citation>
+	<citation>27   ROBERTS RC            PEDIATR RES                     16   416 982</citation>
+	<citation>28   CRISTOL P             SEM HOP PARIS                   58   449 982</citation>
+	<citation>29   BRIDGES MA            CLIN CHIM ACTA                 118    21 982</citation>
+	<citation>30   BRIDGES MA            CLIN CHIM ACTA                 118    33 982</citation>
+	<citation>31   TUMMLER B             CLIN CHIM ACTA                 125   219 982</citation>
+	<citation>32   BACK SA               BIOCHEM MED                     30    34 983</citation>
+	<citation>33   SLOMIANY A            J BIOL CHEM                    258  8535 983</citation>
+	<citation>34   BRIDGES MA            ANN NY ACAD SCI                421   360 983</citation>
+	<citation>35   SHAPIRA E             ANN NY ACAD SCI                421   352 983</citation>
+	<citation>36   EAGER KB              PEDIATR RES                     18   999 984</citation>
+	<citation>37   MARYNEN P             BIOCHIM BIOPHYS ACTA           799   187 984</citation>
+	<citation>38   GOLDSTEIN W           AM REV RESPIR DIS              134    49 986</citation>
+
+</document>

@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Cystic fibrosis detection by means of a test-strip.</title>
+
+	<author>Stephan-U.</author>
+	<author>Busch-E-W.</author>
+	<author>Kollberg-H.</author>
+	<author>Hellsing-K.</author>
+
+	<source>Pediatrics. 1975 Jan. 55(1). P 35-8.</source>
+
+	<abstract>The effectiveness of meconium screening for albumin as an indication
+   of cystic fibrosis is examined. BM-Test Meconium was applied to
+   69,000 investigations. In 60 positive tests, cystic fibrosis was
+   confirmed later. No increased albumin content was observed in four
+   cases of cystic fibrosis.</abstract>
+
+	<majorsubject>ALBUMINS: an</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: di</majorsubject>
+	<majorsubject>INDICATORS-AND-REAGENTS</majorsubject>
+	<majorsubject>INFANT-NEWBORN-DISEASES: di</majorsubject>
+	<majorsubject>MASS-SCREENING: mt</majorsubject>
+	<majorsubject>MECONIUM: an</majorsubject>
+	<majorsubject>REAGENT-STRIPS</majorsubject>
+
+	<minorsubject>EVALUATION-STUDIES</minorsubject>
+	<minorsubject>FALSE-NEGATIVE-REACTIONS</minorsubject>
+	<minorsubject>FALSE-POSITIVE-REACTIONS</minorsubject>
+	<minorsubject>GEL-DIFFUSION-TESTS</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>INFANT</minorsubject>
+	<minorsubject>INFANT-NEWBORN</minorsubject>
+	<minorsubject>IONTOPHORESIS</minorsubject>
+	<minorsubject>MASS-SCREENING: is</minorsubject>
+	<minorsubject>METHODS</minorsubject>
+	<minorsubject>PHENOLPHTHALEINS</minorsubject>
+	<minorsubject>PILOCARPINE</minorsubject>
+
+	<reference>001   GEORGE L              ARCH DIS CHILD                  46   139 971</reference>
+	<reference>002   WARWICK WJ            MINN MED                        52  1567 969</reference>
+	<reference>003   SHWACHMAN H           PEDIATRICS                      46   335 970</reference>
+	<reference>004   KOCH G                IN: VON WINDORFER A                   30 968</reference>
+	<reference>005   WRIGHT SW             AM J HUM GENET                  20   157 968</reference>
+	<reference>006   KULCZYCKI LL          AM J DIS CHILD                 127    64 974</reference>
+	<reference>007   GLANZMANN E           ANN PAEDIATR                   175    33 950</reference>
+	<reference>008   BUCHANAN DJ           PEDIATRICS                       9   304 952</reference>
+	<reference>009   GREEN MN              PEDIATRICS                      21   635 958</reference>
+	<reference>010   WISER WC              PEDIATRICS                      33   115 964</reference>
+	<reference>011   GREEN MN              PEDIATRICS                      41   989 968</reference>
+	<reference>012   SCHUTT WH             ARCH DIS CHILD                  43   178 968</reference>
+	<reference>013   BRAY PT               PROC EWGCF 3RD ANNU MTG                  972</reference>
+	<reference>014   PROSSER R             PROC EWGCF 4TH ANNU MTG                  973</reference>
+	<reference>015   CAIN ARR              ARCH DIS CHILD                  47   131 972</reference>
+	<reference>016   GIBBS GE              PAEDIATRICIAN                    1   133 972</reference>
+	<reference>017   HOBBS JR              PROTIDES BIOL FLUIDS            17   517 969</reference>
+	<reference>018   KOLLBERG H            ARCH DIS CHILD                  47   836 972</reference>
+	<reference>019   SHWACHMAN H           IN: MANGOS JA                        277 973</reference>
+	<reference>020   HELLSING K            SCAND J CLIN LAB INVEST         33   333 974</reference>
+	<reference>022   PROSSER R             ARCH DIS CHILD                  49   597 974</reference>
+	<reference>023   STEPHAN U             IN: MANGOS JA                        281 973</reference>
+	<reference>024   STEPHAN U             PADIATRISCHE PRAXIS             12   487 973</reference>
+	<reference>025   STEPHAN U             PEDIATRE                        10    63 974</reference>
+	<reference>026   STEPHAN U             KLIN PAEDIATR                  186    79 974</reference>
+	<reference>027   STEPHAN U             CF CLUB ABST                    15       974</reference>
+	<reference>028   KAISER D              HELV PAEDIATR ACTA              29    51 974</reference>
+	<reference>030   THORNER RM            PUBLIC HEALTH MONOGRAPH DHEW    10       967</reference>
+	<reference>031   PRITCHARD JA          OBSTET GYNECOL                  25   289 965</reference>
+	<reference>032   RULE AH               PEDIATRICS                      45   847 970</reference>
+	<reference>033   EGGERMONT E           BIOL NEONATE                    10   266 966</reference>
+	<reference>034   SHWACHMAN H           HOSP PRACT                       9   143 974</reference>
+	<reference>036   GOTTSCHALK B          DTSCH GESUNDHEITSW              28  2049 973</reference>
+	<reference>037   LAWSON D              ARCH DIS CHILD                  47     1 972</reference>
+
+	<citation>1   CHILDS B              ANNU REV GENET                   9    67 975</citation>
+	<citation>2   BERRY HK              FED PROC                        34  2134 975</citation>
+	<citation>3   ANTONOWICZ I          LANCET                           1   746 976</citation>
+	<citation>4   ANON                  LANCET                           2   614 976</citation>
+	<citation>5   RYLEY HC              LANCET                           2   365 976</citation>
+	<citation>6   STEPHAN U             INTERNIST                       17   336 976</citation>
+	<citation>7   LANZA I               MINERVA PEDIATR                 28  1510 976</citation>
+	<citation>8   EGGERMONT E           ARCH DIS CHILD                  51   901 976</citation>
+	<citation>9   GRAND RJ              GASTROENTEROLOGY                70   790 976</citation>
+	<citation>10   ANON                  J PEDIATR                       88   711 976</citation>
+	<citation>11   WOOD RE               AM REV RESPIR DIS              113   833 976</citation>
+	<citation>12   ANON                  BR MED J                         1   596 977</citation>
+	<citation>13   TENKATE LP            INT J EPIDEMIOL                  6    23 977</citation>
+	<citation>14   CARTER CO             J MED GENET                     14   316 977</citation>
+	<citation>15   ANDORSKY M            AM J DIG DIS                    22    56 977</citation>
+	<citation>16   TENKATE LP            ANN HUM GENET                   40   287 977</citation>
+	<citation>17   KRAEMER R             SCHWEIZ MED WOCHENSCHR         107  1105 977</citation>
+	<citation>18   BRUNS WT              AM J DIS CHILD                 131    71 977</citation>
+	<citation>19   KATZNELSON D          ISR J MED SCI                   14   204 978</citation>
+	<citation>20   FIFI AR               MINERVA PEDIATR                 30   597 978</citation>
+	<citation>21   ANTONOWICZ I          BIOL NEONATE                    34   225 978</citation>
+	<citation>22   WATTS RWE             EXPERIENTIA                     34   143 978</citation>
+	<citation>23   RETIEF AE             S AFR MED J                     54   849 978</citation>
+	<citation>24   SCHUTTRINGER G        CLIN CHIM ACTA                  83   109 978</citation>
+	<citation>25   GOTZ M                EUR J PEDIATR                  127   133 978</citation>
+	<citation>26   ROSENSTEIN BJ         AM J DIS CHILD                 132   167 978</citation>
+	<citation>27   SHWACHMAN H           AM J DIS CHILD                 132  1112 978</citation>
+	<citation>28   HOSLI P               LANCET                           2   543 979</citation>
+	<citation>29   KAISER D              AKTUEL ERNAHRUNGSMED             4    26 979</citation>
+	<citation>30   RYLEY HC              MONOGR PAEDIATR                 10   151 979</citation>
+	<citation>31   GURWITZ D             PEDIATR CLIN NORTH AM           26   603 979</citation>
+	<citation>32   RYLEY HC              ARCH DIS CHILD                  54    92 979</citation>
+	<citation>33   DOYLE EE              IR MED J                        72    93 979</citation>
+	<citation>34   WOOD RE               SOUTH MED J                     72   189 979</citation>
+	<citation>35   JAKEL HP              BIOL ZENTRALBL                  98    55 979</citation>
+	<citation>36   HOSLI P               FEBS LETTERS                   104   271 979</citation>
+	<citation>37   ANON                  CAN MED ASSOC J                121  1193 979</citation>
+	<citation>38   BERRY HK              AM J DIS CHILD                 134   930 980</citation>
+	<citation>39   MASTELLA G            RIV ITAL PEDIATR                 7   581 981</citation>
+	<citation>40   HSIEH MC              CLIN CHEM                       27   388 981</citation>
+	<citation>41   EVANS RT              J CLIN PATHOL                   34   911 981</citation>
+	<citation>42   FORREST DC            ARCH DIS CHILD                  56   151 981</citation>
+	<citation>43   SHWACHMAN H           ARCH DIS CHILD                  56   137 981</citation>
+	<citation>44   BORGSTROM A           ACTA PAEDIATR SCAND             70   619 981</citation>
+	<citation>45   CAVELL B              ACTA PAEDIATR SCAND             70   635 981</citation>
+	<citation>46   PARK RW               GASTROENTEROLOGY                81  1143 981</citation>
+	<citation>47   MACHILL G             BIOL ZENTRALBL                 100   449 981</citation>
+	<citation>48   ANON                  LANCET                           1  1000 982</citation>
+	<citation>49   KOLLBERG H            ACTA PAEDIATR SCAND             71   197 982</citation>
+	<citation>50   ROSENSTEIN BJ         JOHNS HOPKINS MED J            150   113 982</citation>
+	<citation>51   ROSENSTEIN BJ         JAMA                           247  3313 982</citation>
+	<citation>52   MOHRENWEISER HW       ISOZYMES                        10    51 983</citation>
+	<citation>53   HEELEY AF             CLIN CHEM                       29  2011 983</citation>
+	<citation>54   POSSELT HG            ATEMWEGS LUNGENKRANKH           10   345 984</citation>
+	<citation>55   HSIEH MC              CLIN CHIM ACTA                 138   221 984</citation>
+	<citation>56   NAYLOR EW             SEM PERINATOL                    9   232 985</citation>
+	<citation>57   PERINI JM             BULL EUR PHYSIOPATH RESP        21   569 985</citation>
+	<citation>58   GRUTTNER R            MONATSSCHR KINDERHEILKD        133    54 985</citation>
+	<citation>59   STOLLINGER O          WIEN MED WOCHENSCHR            135   307 985</citation>
+	<citation>60   KNOPFLE G             KLIN PAEDIATR                  197    13 985</citation>
+	<citation>61   KNOPFLE G             KLIN PAEDIATR                  197   481 985</citation>
+	<citation>62   NAZER H               TRANS R SOC TROP MED HYG        80   348 986</citation>
+
+</document>

@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Dexamethasone-resistant cystic fibrosis fibroblasts show
+   cross-resistance to sex steroids.</title>
+
+	<author>Breslow-J-L.</author>
+	<author>Epstein-J.</author>
+	<author>Fontaine-J-H.</author>
+
+	<source>Cell. 1978 Apr. 13(4). P 663-9.</source>
+
+	<abstract>Diploid skin fibroblasts derived from individuals with the autosomal
+   recessive disease, cystic fibrosis (CF), were shown previously to be
+   significantly  more resistant to the cytotoxicity of dexamethasone, a
+   glucocorticoid hormone, than were normal human fibroblasts. Here
+   cystic fibrosis fibroblasts are also shown to be more resistant than
+   normal human fibroblasts to the cytotoxic effects of the sex
+   hormones, 17 beta-estradiol, dihydrotestosterone and progesterone.
+   Since cells are believed to contain different receptors for each of
+   the steroid hormones, it is not probable than the resistance of CF
+   cells to these hormones results from a receptor deficiency. This was
+   shown by the fact that CF cells were found to exhibit the same
+   receptor activity as normal cells for 3-H-dexamethasone. Furthermore,
+   neither normal human nor CF fibroblasts could be demonstrated to
+   contain detectable receptor activity for 3H-17 beta-estradiol. In
+   addition, the studies of fibroblast killing by hormones led to the
+   further interesting observation that normal human diploid
+   fibroblasts, regardless of the sex of the tissue donor, are sensitive
+   to killing by each of the sex hormones. These findings suggest that
+   the cytotoxic effects of the steroid hormones may be observed
+   independently of the specific hormone receptors. The studies reported
+   here thus suggest that the resistance of CF cells to the different
+   steroid hormones is probably the result of a defect in a pathway in
+   cellular steroid hormone metabolism other than that involving
+   receptors.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS</majorsubject>
+	<majorsubject>DEXAMETHASONE: pd</majorsubject>
+	<majorsubject>ESTRADIOL: pd</majorsubject>
+	<majorsubject>PROGESTERONE: pd</majorsubject>
+	<majorsubject>STANOLONE: pd</majorsubject>
+
+	<minorsubject>CELL-SURVIVAL: de</minorsubject>
+	<minorsubject>CELLS-CULTURED</minorsubject>
+	<minorsubject>DEXAMETHASONE: me</minorsubject>
+	<minorsubject>DRUG-RESISTANCE</minorsubject>
+	<minorsubject>FEMALE</minorsubject>
+	<minorsubject>FIBROBLASTS: de, me</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>MALE</minorsubject>
+	<minorsubject>SUPPORT-U-S-GOVT-NON-P-H-S</minorsubject>
+
+	<reference>001   BAXTER JD             SCIENCE                        171   189 971</reference>
+	<reference>002   BOURGEOIS S           CELL                            11   423 977</reference>
+	<reference>003   BRESLOW JL            EXP CELL RES                   110   399 977</reference>
+	<reference>004   CHAN L                N ENGL J MED                   294  1322 976</reference>
+	<reference>005   CONNEALLY PM          TEX REP BIOL MED                31   639 973</reference>
+	<reference>006   EPSTEIN JL            PROC NAT ACAD SCI USA           74  1676 977</reference>
+	<reference>007   EPSTEIN JL            PROC NAT ACAD SCI USA           74  5642 977</reference>
+	<reference>008   FREUND JE             MODERN ELEMENTARY STATISTICS             967</reference>
+	<reference>009   GORSKI J              ANNU REV PHYSIOL                38   425 976</reference>
+	<reference>010   GRIFFIN JE            J CLIN INVEST                   57  1342 976</reference>
+	<reference>011   HORWITZ KB            STEROID                         26   785 975</reference>
+	<reference>012   KAUFMAN M             J CLIN INVEST                   58   345 976</reference>
+	<reference>013   KEENAN BS             J CLIN ENDOCRINOL METAB         38  1143 974</reference>
+	<reference>014   LEUNG K               ANNU REV PHYSIOL                37   245 975</reference>
+	<reference>015   LOWRY OH              J BIOL CHEM                    193   265 951</reference>
+	<reference>016   MEYER WJ III          PROC NAT ACAD SCI USA           72  1469 975</reference>
+	<reference>017   MIDDLEBROOK JL        ENDOCRINOLOGY                  100   271 977</reference>
+	<reference>018   NEIFELD JP            J BIOL CHEM                    252  2972 977</reference>
+	<reference>019   ROUSSEAU GG           J STEROID BIOCHEM                6    75 975</reference>
+	<reference>020   SCATCHARD G           ANN NY ACAD SCI                 51   660 949</reference>
+	<reference>021   SIBLEY CH             CELL                             2   221 974</reference>
+	<reference>022   YAMAMOTO KR           PROC NAT ACAD SCI USA           71  3901 974</reference>
+	<reference>023   YAMAMOTO KR           IN: GREEP RO                    32     3 976</reference>
+
+	<citation>1   EPSTEIN J             SOMATIC CELL GENET               4   451 978</citation>
+	<citation>2   BRESLOW JL            SCIENCE                        201   180 978</citation>
+	<citation>3   HARRIS A              DEVELOP MED CHILD NEUROL        21   675 979</citation>
+	<citation>4   BRESLOW JL            J CELL PHYSIOL                  99   343 979</citation>
+	<citation>5   KURZ JB               SCIENCE                        206  1317 979</citation>
+	<citation>6   THOMPSON EB           J STEROID BIOCHEM               12   193 980</citation>
+	<citation>7   DAVIS PB              PEDIATR RES                     14    83 980</citation>
+	<citation>8   CHASE HP              METABOLISM                      29   365 980</citation>
+	<citation>9   KOEFFLER HP           CANCER RES                      40   563 980</citation>
+	<citation>10   DEMEYTS P             CIRC RES                        46  I  3 980</citation>
+	<citation>11   BRESLOW JL            SCIENCE                        207  1007 980</citation>
+	<citation>12   PEDERSEN PS           ACTA PAEDIATR SCAND             70   507 981</citation>
+	<citation>13   KELLER GH             ARCH BIOCHEM BIOPHYS           211   321 981</citation>
+	<citation>14   BRESLOW JL            N ENGL J MED                   304     1 981</citation>
+	<citation>15   SEALE TW              ANN CLIN LAB SCI                12   415 982</citation>
+	<citation>16   MINGUELL JJ           ARCH BIOL MED EXP               15   457 982</citation>
+	<citation>17   JUNEJA HS             EXP HEMATOL                     12   221 984</citation>
+	<citation>18   LANGHOFF E            PEDIATR RES                     18   488 984</citation>
+	<citation>19   GROSS NJ              AM REV RESPIR DIS              129   805 984</citation>
+	<citation>20   PINSKY L              ADV HUM GENET                   16   299 987</citation>
+
+</document>

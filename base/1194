@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Genetic aspects of pediatric lung disease.</title>
+
+	<author>Cox-D-W.</author>
+	<author>Talamo-R-C.</author>
+
+	<source>Pediatr-Clin-North-Am. 1979 Aug. 26(3). P 467-80.</source>
+
+	<abstract>Several genetic diseases are described which affect the lung,
+   usually or at least in some cases, in the pediatric age group.
+   The four disorders discussed have been selected wither for their
+   high frequency or for their demonstration of the variety of ways in
+   which genetic factors can influence disease: cystic fibrosis, one of
+   the most common of the metabolic disorders inherited as an autosomal
+   recessive trait; immotile cilia syndrome, including Kartagener&apos;s
+   syndrome, single gene disorders involving structural abnormalities
+   of the cilia; asthma, a common disorder in children with a genetic
+   component; and alpha1-antitrypsin deficiency, an inherited protein
+   deficiency commonly causing obstructive lung disease in adults and
+   occasionally affecting children.</abstract>
+
+	<majorsubject>LUNG-DISEASES: fg</majorsubject>
+
+	<minorsubject>ALPHA-1-ANTITRYPSIN: df</minorsubject>
+	<minorsubject>ASTHMA: fg</minorsubject>
+	<minorsubject>CHILD</minorsubject>
+	<minorsubject>CILIA: pa</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: fg, pp</minorsubject>
+	<minorsubject>DEFICIENCY-DISEASES: pp</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>KARTAGENER-TRIAD: fg, pp</minorsubject>
+	<minorsubject>LUNG-DISEASES: im</minorsubject>
+
+	<reference>001   AFZELIUS BA           SCIENCE                        193   317 976</reference>
+	<reference>002   BIAS WB               IN: AUSTEN KF                            973</reference>
+	<reference>003   BOIS E                CLIN GENET                      14    73 978</reference>
+	<reference>004   COX DW                AM REV RESPIR DIS              113   601 976</reference>
+	<reference>006   DANKS DM              ANN HUM GENET                   28   323 965</reference>
+	<reference>007   DI SANTAGNESE PA      N ENGL J MED                   295   481 976</reference>
+	<reference>008   ELIASSON R            N ENGL J MED                   297     1 977</reference>
+	<reference>009   FAGERHOL MK           CLIN CHIM ACTA                  16   199 967</reference>
+	<reference>010   FALLIERS CJ           J ALLERGY                       47   207 971</reference>
+	<reference>011   FISCHER TJ            PEDIATRICS                      62   443 978</reference>
+	<reference>012   GARROD AE             Q J MED                          6   242 913</reference>
+	<reference>013   GORDIS L              EPIDEMIOL CHRONIC LUNG DIS IN            973</reference>
+	<reference>014   GRUNDBACHER FJ        J ALLERGY CLIN IMMUNOL          56   104 975</reference>
+	<reference>015   HOLMES LB             AM J MED SCI                   255    13 968</reference>
+	<reference>016   HOUSTEK J             CHEST                           64   773 973</reference>
+	<reference>017   KARTAGENER M          BEITR KLIN TUBERK               83   489 933</reference>
+	<reference>018   KARTAGENER M          ARCH PEDIATR                    79   193 962</reference>
+	<reference>019   KONIG P               J ALLERGY CLIN IMMUNOL          54   280 974</reference>
+	<reference>020   KUEPPERS F            IN: LENFANT C                   13       978</reference>
+	<reference>021   KUEPPERS F            AM REV RESPIR DIS              110   176 974</reference>
+	<reference>022   LAURELL CB            SCAND J CLIN LAB INVEST         15   132 963</reference>
+	<reference>023   LOGAN WD              DIS CHEST                       48   613 965</reference>
+	<reference>024   LUCK D                PROC NAT ACAD SCI USA           74  3456 977</reference>
+	<reference>025   MARSH DG              SCIENCE                        179   691 973</reference>
+	<reference>026   MOROZ SP              J PEDIATR                       88    19 976</reference>
+	<reference>027   MOSSBERG B            SCAND J RESPIR DIS              59    55 978</reference>
+	<reference>028   MOSSBERG B            MT SINAI J MED                  44   837 977</reference>
+	<reference>029   NADLER HL             IN: STANBURY JB                     1683 978</reference>
+	<reference>030   PIERCE JA             ANAL BIOCHEM                    74   227 976</reference>
+	<reference>031   SCHAAP T              IN: MANGOS JA                        291 976</reference>
+	<reference>032   SCHWARTZ M            ACTA ALLERGOL SUPPL II           5       952</reference>
+	<reference>033   SHARP HL              J LAB CLIN MED                  73   934 969</reference>
+	<reference>034   STURGESS JM           N ENGL J MED                   300    53 979</reference>
+	<reference>035   SVEGER T              N ENGL J MED                   294  1316 976</reference>
+	<reference>036   TALAMO RC             J PEDIATR                       79    20 971</reference>
+	<reference>037   TORGERSEN J           ACTA RADIOL                     28    17 947</reference>
+	<reference>038   TORGERSEN J           AM J HUM GENET                   2   361 950</reference>
+
+	<citation>1   AFZELIUS BA           AM J HUM GENET                  33   852 981</citation>
+	<citation>2   TURNER JAP            PEDIATRICS                      67   805 981</citation>
+	<citation>3   HURWITZ RC            CLIN GENET                      22     7 982</citation>
+	<citation>4   YARNAL JR             POSTGRAD MED                    71   195 982</citation>
+	<citation>5   RIMPELA A             ACTA PAEDIATR SCAND SUPPL     1982     1 982</citation>
+	<citation>6   LEVISON H             EUR J RESPIR DIS                64   102 983</citation>
+	<citation>7   CANET E               PRESSE MED                      13  1607 984</citation>
+	<citation>8   NADEL HR              RADIOLOGY                      154   651 985</citation>
+	<citation>9   STURGESS JM           AM J MED GENET                  25   149 986</citation>
+
+</document>

@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>The biologic activities of cystic fibrosis serum.  I. The effects of
+   cystic fibrosis sera and calcium ionophore A 23187 on rabbit
+   tracheal explants.</title>
+
+	<author>Bogart-B-I.</author>
+
+	<source>Pediatr-Res. 1977 Feb. 11(2). P 131-4.</source>
+
+	<abstract>An ionophore A23187-induced increase in membrane permeability to
+   calcium ions in culture medium produced a rabbit tracheal mucociliary
+   response indistinguishable from that caused by cystic fibrosis (CF)
+   sera on three different occasions. Specific chelation of calcium ions
+   with EGTA in the basal medium Eagle (BME) media with no additive or
+   in native CF sera abolished the mucociliary disturbances in all
+   cases. Increased membrane permeability to calcium may be important in
+   the production of the mucociliary response by CF serum factor(s) in
+   the tracheal assay system.</abstract>
+
+	<majorsubject>A-23187: pd</majorsubject>
+	<majorsubject>ANTIBIOTICS: pd</majorsubject>
+	<majorsubject>CALCIUM: pd</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: bl</majorsubject>
+	<majorsubject>TRACHEA: de</majorsubject>
+
+	<minorsubject>ANIMAL</minorsubject>
+	<minorsubject>CELL-MEMBRANE-PERMEABILITY: de</minorsubject>
+	<minorsubject>CILIA: de</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: pp</minorsubject>
+	<minorsubject>EGTA: pd</minorsubject>
+	<minorsubject>IN-VITRO</minorsubject>
+	<minorsubject>MUCOUS-MEMBRANE: se</minorsubject>
+	<minorsubject>OSMOLAR-CONCENTRATION</minorsubject>
+	<minorsubject>RABBITS</minorsubject>
+	<minorsubject>TISSUE-CULTURE</minorsubject>
+	<minorsubject>TRACHEA: me</minorsubject>
+
+	<reference>001   BLOMFIELD J           ARCH DIS CHILD                  48   267 973</reference>
+	<reference>002   CHERNICK WS           J PEDIATR                       59   890 961</reference>
+	<reference>003   COCHRANE DE           PROC NAT ACAD SCI USA           71   408 974</reference>
+	<reference>004   CONOVER JH            PEDIATR RES                      7   220 973</reference>
+	<reference>005   DI SANTAGNESE PA      PEDIATRICS                      12    40 953</reference>
+	<reference>006   DI SANTAGNESE PA      N ENGL J MED                   277  1287 967</reference>
+	<reference>007   EIMERL S              J BIOL CHEM                    249  3991 974</reference>
+	<reference>008   FOREMAN JC            NATURE                         245   249 973</reference>
+	<reference>009   GUGLER EC             J PEDIATR                       71   585 967</reference>
+	<reference>010   KAGAYAMA M            J CELL BIOL                     62   519 974</reference>
+	<reference>011   LOBECK CC             IN: STANBURY JB                     1605 972</reference>
+	<reference>012   MANGOS JA             SCIENCE                        158   135 967</reference>
+	<reference>013   MANGOS JA             PEDIATR RES                      2   378 968</reference>
+	<reference>014   MANGOS JA             PEDIATR RES                      1   436 967</reference>
+	<reference>015   PRESSMAN BC           FED PROC                        32  1698 973</reference>
+	<reference>016   REED PW               J BIOL CHEM                    247  6970 972</reference>
+	<reference>017   SATIR P               SCIENCE                        190   586 975</reference>
+	<reference>018   SELINGER Z            PROC NAT ACAD SCI USA           71   128 974</reference>
+	<reference>019   SPOCK A               PEDIATR RES                      1   173 967</reference>
+	<reference>020   WILLIAMS JA           BIOCHEM BIOPHYS RES COMMUN      60   542 974</reference>
+	<reference>021   WONG DT               ARCH BIOCHEM BIOPHYS           156   578 973</reference>
+	<reference>022   WOTMAN S              ARCH ORAL BIOL                  16   663 971</reference>
+
+	<citation>1   MARIN MG              J APPL PHYSIOL                  44   900 978</citation>
+	<citation>2   CONOVER JH            BIOCHEM BIOPHYS RES COMMUN      83  1595 978</citation>
+	<citation>3   BANSCHBACH MW         BIOCHEM BIOPHYS RES COMMUN      84   922 978</citation>
+	<citation>4   BOAT TF               ACS SYMPOSIUM SERIES          1978   108 978</citation>
+	<citation>5   FEIGAL RJ             PEDIATR RES                     13   764 979</citation>
+	<citation>6   VERDUGO P             PEDIATR RES                     13   131 979</citation>
+	<citation>7   BOGART BI             BIOCHEM BIOPHYS RES COMMUN      88  1398 979</citation>
+	<citation>8   KENNEDY JR            PEDIATR RES                     14  1173 980</citation>
+	<citation>9   ROSCHER AA            PEDIATR RES                     14   261 980</citation>
+	<citation>10   SATIR P               ENVIRON HEALTH PERSPECT         35    77 980</citation>
+	<citation>11   SANDERSON MJ          PEDIATR RES                     15   219 981</citation>
+	<citation>12   CAMPBELL AK           EXPERIENTIA                     37  1110 981</citation>
+	<citation>13   SORSCHER EJ           LANCET                           1   368 982</citation>
+	<citation>14   MORIARTY CM           J MED                           13   257 982</citation>
+	<citation>15   ANDO T                ACTA HISTOCHEM CYTOCHEM         15   812 982</citation>
+	<citation>16   BOAT TF               PEDIATR RES                     16   792 982</citation>
+	<citation>17   BOGART BI             PEDIATR RES                     16   223 982</citation>
+	<citation>18   MARIN MG              J APPL PHYSIOL                  52   198 982</citation>
+	<citation>19   CEDER O               SCANN ELECTRON MICROSC        1982   723 982</citation>
+	<citation>20   ROOMANS GM            SCANN ELECTRON MICROSC        1982   229 982</citation>
+	<citation>21   CEDER O               ULTRASTRUCTURAL PATHOL           4   305 983</citation>
+	<citation>22   VONEULER AM           ULTRASTRUCTURAL PATHOL           5    37 983</citation>
+	<citation>23   MCPHERSON MA          CLIN CHIM ACTA                 135   181 983</citation>
+	<citation>24   KATZ S                CELL CALC                        5   421 984</citation>
+	<citation>25   BARBIERI EJ           BR J PHARMACOL                  82   199 984</citation>
+	<citation>26   RUSSI EW              CHEST                           86   475 984</citation>
+	<citation>27   VONEULER AM           LIFE SCI                        37  2399 985</citation>
+	<citation>28   VONEULER AM           EXP MOL PATH                    43   142 985</citation>
+	<citation>29   AHMED T               CHEST                           88  S142 985</citation>
+	<citation>30   MORRISSEY SM          DIGESTION                       34    28 986</citation>
+	<citation>31   MARIN MG              PHARMACOL REV                   38   273 986</citation>
+	<citation>32   LOFDAHL CG            ACTA PHARMACOL TOXICOL          58    91 986</citation>
+
+</document>

@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Cystic fibrosis.  A dilemma in the metabolic pathogenesis of genetic
+   disease.</title>
+
+	<author>Changus-J-E.</author>
+	<author>Pitot-H-C.</author>
+
+	<source>Arch-Pathol-Lab-Med. 1976 Jan. 100(1). P 7-11. (REVIEW).</source>
+
+	<abstract>The fundamental pathological observations in cystic fibrosis (CF)
+   were made over three decades ago.  More recently, physiological
+   findings have directed investigation toward a plethora of humoral
+   substances and their possible role in disturbances of the secretory
+   processes in CF.  The application of the techniques of molecular
+   biology and of tissue culture is beginning to increase our knowledge
+   about the so-called CF factors and their diverse effects on
+   epithelial and ciliated surfaces.  Emphasis in current research is
+   on the chemical characterization of the CF factors, the metabolism
+   of cells cultured from patients with CF, and the biochemical events
+   controlling the processes of secretion.  Some current theories as to
+   the metabolic pathogenesis of CF are considered in the context of
+   existing findings.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS: me</majorsubject>
+
+	<minorsubject>ANIMAL</minorsubject>
+	<minorsubject>CELLS-CULTURED</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: pa, fg</minorsubject>
+	<minorsubject>CYTOPLASM: ul</minorsubject>
+	<minorsubject>FIBROBLASTS: ul</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>IGG: an</minorsubject>
+	<minorsubject>INFANT-NEWBORN</minorsubject>
+	<minorsubject>LEUKOCYTES: ul</minorsubject>
+	<minorsubject>MUCINS: me</minorsubject>
+	<minorsubject>MUCOPOLYSACCHARIDES: me</minorsubject>
+	<minorsubject>PROTEIN-BINDING</minorsubject>
+	<minorsubject>RABBITS</minorsubject>
+	<minorsubject>REVIEW</minorsubject>
+	<minorsubject>SALIVA: an</minorsubject>
+	<minorsubject>SALIVARY-GLANDS: ul</minorsubject>
+	<minorsubject>SWEAT: an</minorsubject>
+
+	<reference>001   LOBECK CC             IN: STANBURY JB                     1605 972</reference>
+	<reference>002   ANDERSEN DH           AM J DIS CHILD                  56   344 938</reference>
+	<reference>003   FARBER S              ARCH PATHOL                     37   238 944</reference>
+	<reference>004   FARBER S              J MICH MED SOC                  44   587 945</reference>
+	<reference>005   SWENEY LR             ARCH PATHOL                     86   413 968</reference>
+	<reference>007   LEV R                 AM J PATHOL                     46    23 965</reference>
+	<reference>008   STURGESS JM           IN: LAWSON D PROC 5TH INT CF         368 969</reference>
+	<reference>009   MENGUY R              GASTROENTEROLOGY                59   257 970</reference>
+	<reference>010   DOGGETT RG            J CLIN PATHOL                   24   270 971</reference>
+	<reference>011   LITT M                BIOCHEM BIOPHYS RES COMMUN      43   919 971</reference>
+	<reference>012   GUGLER EC             J PEDIATR                       71   585 967</reference>
+	<reference>013   GUGLER EC             J PEDIATR                       73   548 968</reference>
+	<reference>014   DISCHE Z              ANN NY ACAD SCI                 93   526 962</reference>
+	<reference>015   DI SANTAGNESE PA      PEDIATRICS                      19   252 957</reference>
+	<reference>016   BENKE PJ              PROC SOC EXP BIOL MED          137  1283 971</reference>
+	<reference>017   CHERNICK WS           MOD PROBL PEDIATR               10   125 967</reference>
+	<reference>018   CHERNICK WS           J PEDIATR                       59   890 961</reference>
+	<reference>019   CHERNICK WS           J PEDIATR                       65   694 964</reference>
+	<reference>020   DI SANTAGNESE PA      PEDIATRICS                      12   549 953</reference>
+	<reference>021   MANGOS JA             PEDIATR RES                      1   436 967</reference>
+	<reference>022   MANGOS JA             PEDIATR RES                      2   378 968</reference>
+	<reference>023   BENKE PJ              LANCET                           1   182 972</reference>
+	<reference>024   TAYLOR A              PEDIATR RES                      8   861 974</reference>
+	<reference>025   RAO GJS               J PEDIATR                       80   573 972</reference>
+	<reference>026   SPOCK A               PEDIATR RES                      1   173 967</reference>
+	<reference>027   BESLEY GTN            J MED GENET                      6   278 969</reference>
+	<reference>028   BOWMAN BH             SCIENCE                        164   325 969</reference>
+	<reference>029   SPOCK A               GAP CONF REP CILIARY INHIBITO            973</reference>
+	<reference>030   BOAT TF               AM REV RESPIR DIS              110   428 974</reference>
+	<reference>031   BALFE JW              SCIENCE                        162   689 968</reference>
+	<reference>032   HORTON CR             BIOCHEM BIOPHYS RES COMMUN      40   505 970</reference>
+	<reference>033   HADDEN JW             PROC SOC EXP BIOL MED          142   577 973</reference>
+	<reference>034   FITZPATRICK DF        NATURE NEW BIOL                235   173 972</reference>
+	<reference>035   FEIG SA               PEDIATR RES                      8   594 974</reference>
+	<reference>036   MORIN CL              BIOMEDICINE EXPRESS             19   133 973</reference>
+	<reference>037   TAUSSIG LM            LANCET                           1  1367 972</reference>
+	<reference>038   BROWN GA              LANCET                           2   639 971</reference>
+	<reference>039   WILSON GB             PEDIATR RES                      9   635 975</reference>
+	<reference>040   NOUSIA-ARVANITAKIS S  CF CLUB ABST                    14    43 973</reference>
+	<reference>041   BOWMAN BH             IN: MANGOS JA                         29 973</reference>
+	<reference>042   CONOVER JH            LANCET                           1  1194 973</reference>
+	<reference>043   WOOD RE               LANCET                           2  1452 973</reference>
+	<reference>044   CONOVER JH            LANCET                           2  1501 973</reference>
+	<reference>045   DANES BS              LANCET                           1  1061 968</reference>
+	<reference>046   DANES BS              J EXP MED                      129   775 969</reference>
+	<reference>047   LIE SO                PEDIATR RES                      7    13 973</reference>
+	<reference>048   LIE SO                PROC NAT ACAD SCI USA           69  2361 972</reference>
+	<reference>049   DANES BS              J EXP MED                      136  1313 972</reference>
+	<reference>050   BERATIS NG            PEDIATR RES                      7   958 973</reference>
+	<reference>051   DANES BS              AM J HUM GENET                  25   323 973</reference>
+	<reference>052   DANES BS              J EXP MED                      137  1538 973</reference>
+	<reference>053   BARNETT DR            TEX REP BIOL MED                31   703 973</reference>
+	<reference>054   CROW JF               IN: NEEL JV                           23 965</reference>
+	<reference>055   DANES BS              LANCET                           2   765 973</reference>
+	<reference>056   RENNERT OM            LANCET                           2  1091 973</reference>
+	<reference>057   BARTMAN J             J PEDIATR                       76   430 970</reference>
+	<reference>058   MATALON R             LANCET                           2   838 969</reference>
+	<reference>059   MATALON R             BIOCHEM BIOPHYS RES COMMUN      33   954 968</reference>
+	<reference>060   WIESMANN UN           J PEDIATR                       77   685 970</reference>
+	<reference>061   KRAUS I               PEDIATRICS                      47  1010 971</reference>
+	<reference>062   BENKE PJ              N ENGL J MED                   284   731 971</reference>
+	<reference>063   ROBERTSON JA          LANCET                           1  1256 974</reference>
+	<reference>064   DANES BS              BIOCHEM GENET                   12   359 974</reference>
+	<reference>065   HOUCK JC              PROC SOC EXP BIOL MED          147   167 974</reference>
+	<reference>066   QUISSELL DO           NATURE                         247   115 974</reference>
+	<reference>068   FLETCHER DS           CLIN CHIM ACTA                  44     5 973</reference>
+	<reference>069   BAIG MM               J PEDIATR                       86    72 975</reference>
+	<reference>070   RENNERT OM            IN: MANGOS JA                         41 973</reference>
+	<reference>071   COHEN LF              PEDIATR RES                      9   312 975</reference>
+	<reference>072   HANN S                LANCET                           2   520 974</reference>
+	<reference>073   LIEBERMAN J           LANCET                           1  1230 974</reference>
+	<reference>074   RAO GJS               SCIENCE                        177   610 972</reference>
+	<reference>075   LIEBERMAN J           AM REV RESPIR DIS              109   399 974</reference>
+	<reference>076   COBURN MD             AM REV RESPIR DIS              110   368 974</reference>
+	<reference>077   RAO GJS               PEDIATR RES                      8   684 974</reference>
+	<reference>078   LOUISOT P             CLIN CHIM ACTA                  48   373 973</reference>
+	<reference>079   SINGER L              CLIN BIOCHEM                     7   146 974</reference>
+
+	<citation>1   HOIBY N               ACTA PATH MICROBIOL SCAND (C) S262     3 977</citation>
+	<citation>2   CALLAHAN JW           PEDIATR RES                     11  1166 977</citation>
+	<citation>3   SULLIVAN JL           BIOCHEM GENET                   15  1125 977</citation>
+	<citation>4   NEUTRA MR             GASTROENTEROLOGY                75   701 978</citation>
+	<citation>5   BANSCHBACH MW         BIOCHEM BIOPHYS RES COMMUN      84   922 978</citation>
+	<citation>6   GABRIDGE MG           PEDIATR RES                     13    31 979</citation>
+	<citation>7   PEARSON RD            PEDIATR RES                     13   834 979</citation>
+	<citation>8   RIORDAN JR            BIOCHIM BIOPHYS ACTA           574    39 979</citation>
+	<citation>9   LOPEZCORELLA E        PATOLOGIA (MEXICO CITY)         18   167 980</citation>
+	<citation>10   MALER T               BIOCHIM BIOPHYS ACTA           598     1 980</citation>
+
+</document>

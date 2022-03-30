@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Disease-medication relationships in altered taste sensitivity.</title>
+
+	<author>Carson-J-A.</author>
+	<author>Gormican-A.</author>
+
+	<source>J-Am-Diet-Assoc. 1976 Jun. 68(06). P 550-3.</source>
+
+	<abstract>Reviewing evidence of abnormal taste acuity elicits several factors
+   which can change a patient&apos;s taste acuity.  Consideration of his
+   diagnosis, his nutritional status, and the treatment he is receiving
+   or has received can offer further understanding of his perceptions of
+   food.  Future studies will furnish more information about how the
+   patient&apos;s ability to taste and smell may be altered and thus affect
+   his attitude toward food.</abstract>
+
+	<majorsubject>DRUG-THERAPY: ae</majorsubject>
+	<majorsubject>NUTRITION</majorsubject>
+	<majorsubject>TASTE-DISORDERS: et</majorsubject>
+
+	<minorsubject>ANESTHETICS: pd</minorsubject>
+	<minorsubject>ANOREXIA: et</minorsubject>
+	<minorsubject>DYSAUTONOMIA-FAMILIAL: co</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: co</minorsubject>
+	<minorsubject>DEFICIENCY-DISEASES: co</minorsubject>
+	<minorsubject>ENDOCRINE-DISEASES:  co</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>KIDNEY-DISEASES: co</minorsubject>
+	<minorsubject>NEOPLASMS: co</minorsubject>
+	<minorsubject>NERVOUS-SYSTEM-DISEASES: co</minorsubject>
+	<minorsubject>NUTRITION: de</minorsubject>
+	<minorsubject>SJOGRENS-SYNDROME: co</minorsubject>
+	<minorsubject>TASTE: de</minorsubject>
+	<minorsubject>WOUNDS-AND-INJURIES: co</minorsubject>
+
+	<reference>001   RUBINI ME             AM J CLIN NUTR                  27   223 974</reference>
+	<reference>002   PANGBORN RM           IN: KARE MR                              967</reference>
+	<reference>003   HENKIN RL             BORDENS NUTR REV                28    71 967</reference>
+	<reference>004   GREEN RF              SCHIZOPHRENIA                    2    70 970</reference>
+	<reference>005   GREEN RF              JAMA                           218  1303 971</reference>
+	<reference>006   HODGES RE             IN: WHITE PL                             972</reference>
+	<reference>007   COHEN IK              JAMA                           223   915 973</reference>
+	<reference>008   HAMBIDGE KM           PEDIATR RES                      6   868 972</reference>
+	<reference>009   HENKIN RI             PROC NAT ACAD SCI USA           62    30 969</reference>
+	<reference>010   ANON                  POSTGRAD MED                    53    30 973</reference>
+	<reference>011$  HENKIN RI             JAMA                           223   914 971</reference>
+	<reference>012   KING ER               VA MED                          98   652 971</reference>
+	<reference>013   FLETCHER GH           RADIATION THERAPY IN THE MANA            962</reference>
+	<reference>014   TEWFIK HH             PRESENTATION DIET THERAPY USA            973</reference>
+	<reference>015   MACCARTHY-LEVENTHAL F LANCET                           2  1138 959</reference>
+	<reference>016   BONANNI G             NUNT RADIOL                     31   383 965</reference>
+	<reference>017   KALMUS H              J LARYNGOL OTOL                 73   180 959</reference>
+	<reference>018   HANSEN D              WEGNEISER FUR DIE FACHAERZTLI   18   133 970</reference>
+	<reference>019   CONGER AD             RADIAT RES                      37    31 969</reference>
+	<reference>020   HENKIN RI             J CLIN INVEST                   42   727 963</reference>
+	<reference>021   HENKIN RI             J CLIN ENDOCRINOL METAB         27  1436 967</reference>
+	<reference>022   HENKIN RI             J CLIN ENDOCRINOL METAB         28   624 968</reference>
+	<reference>023   WEISS VALBRANCA G     RIV CLIN MED                     5    46 946</reference>
+	<reference>024   SCHAUPP H             ARCH KLIN EXP OHR NAS KEHLK H  195   179 969</reference>
+	<reference>025   SCHELLING JL          LANCET                           1   508 965</reference>
+	<reference>026   DEWYS WD              ANN NY ACAD SCI                230   427 974</reference>
+	<reference>027   ABASOV IT             SOV MED                         25    47 961</reference>
+	<reference>028   SIMON JA              MASTERS RESEARCH REPORT                  974</reference>
+	<reference>029   HENKIN RI             IN: BOSMA JF                             967</reference>
+	<reference>030   HENKIN RI             NATURE                         227   965 970</reference>
+	<reference>032   HENKIN RI             ANN INTERN MED                  76   375 972</reference>
+	<reference>033   HENKIN RI             SCIENCE                        138  1107 962</reference>
+	<reference>034   HENKIN RI             IN: BOSMA JF                             970</reference>
+	<reference>035   BRANDENBURG JH        FACIAL NERVE PARALYSIS (TAPE)            973</reference>
+	<reference>036   KALMUS H              CHEMICAL SENSES IN HEALTH                960</reference>
+	<reference>037   SUMNER D              BRAIN                           90   187 967</reference>
+	<reference>038   GROSSMAN SP           IN: HERXHEIMER A                         968</reference>
+	<reference>039   MATA F                J NEUROPSYCH                     4   315 963</reference>
+	<reference>040   FOGAN L               ANN INTERN MED                  74   795 971</reference>
+	<reference>041   HENKIN RI             LANCET                           2  1268 967</reference>
+	<reference>042   DUFFIELD JE           BR MED J                         1   491 973</reference>
+	<reference>043$  SCOTT PJ              NZ MED J                        59   296 970</reference>
+	<reference>044   SHAFAR J              LANCET                           1    83 965</reference>
+	<reference>045   RABE F                MED WELT                        16   711 970</reference>
+	<reference>046   HALLMAN BL            JAMA                           152   322 953</reference>
+	<reference>047   SCHNEEBURG NG         JAMA                           149  1091 952</reference>
+
+	<citation>1   BURLESON WR           AM J HOSP PHARM                 35   584 978</citation>
+	<citation>2   MATTES RD             AM J CLIN NUTR                  41   672 985</citation>
+
+</document>

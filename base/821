@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Structure and function of small airways in health and disease.</title>
+
+	<author>Ranga-V.</author>
+	<author>Kleinerman-J.</author>
+
+	<source>Arch-Pathol-Lab-Med. 1978 Dec. 102(12). P 609-17. (REVIEW).</source>
+
+	<abstract>During the last two decades, great strides have been made in our
+   understanding of the functional aspects of airflow in the periphery
+   of the lung. It seems that the small airways are the important site
+   of obstruction in a variety of chronic respiratory disorders
+   associated with airflow obstruction. This review deals with the
+   anatomic and functional aspects of small airways in normal and
+   diseased lungs. In particular, the basis of obstruction or narrowing
+   that is not dependent on intrinsic airway lesion is reviewed. The
+   variety of pathologic changes in small airways observed in these
+   diseases are outlined along with physiologic tests that are currently
+   used to detect dysfunction at a stage long before they produce
+   symptoms or alter standard tests of lung function.</abstract>
+
+	<majorsubject>BRONCHI</majorsubject>
+
+	<minorsubject>AGING</minorsubject>
+	<minorsubject>AIRWAY-RESISTANCE</minorsubject>
+	<minorsubject>ANIMAL</minorsubject>
+	<minorsubject>BRONCHI: pa, ph, pp</minorsubject>
+	<minorsubject>BRONCHIAL-DISEASES: di</minorsubject>
+	<minorsubject>BRONCHITIS: pa</minorsubject>
+	<minorsubject>CHILD-PRESCHOOL</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: pa</minorsubject>
+	<minorsubject>DOGS</minorsubject>
+	<minorsubject>GRAVITATION</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>INFANT</minorsubject>
+	<minorsubject>LUNG-COMPLIANCE</minorsubject>
+	<minorsubject>LUNG-VOLUME-MEASUREMENTS</minorsubject>
+	<minorsubject>MAXIMAL-EXPIRATORY-FLOW-RATE</minorsubject>
+	<minorsubject>PULMONARY-EMPHYSEMA: pa</minorsubject>
+	<minorsubject>RESPIRATORY-TRACT-DISEASES: pa</minorsubject>
+	<minorsubject>REVIEW</minorsubject>
+	<minorsubject>SMOKING</minorsubject>
+
+	<reference>001   GOUGH J               PROC R SOC MED                  45   576 952</reference>
+	<reference>002   MATSUBA K             AM REV RESPIR DIS              104   516 971</reference>
+	<reference>003   WEST JB               J APPL PHYSIOL                  14   753 959</reference>
+	<reference>004   PEDLEY TJ             RESPIR PHYSIOL                   9   387 970</reference>
+	<reference>005   AMBERSON JB           TRANS ASSOC AM PHYSICIANS       60    92 947</reference>
+	<reference>006   SPAIN DM              AM REV TUBERC                   68    24 953</reference>
+	<reference>007   WEIBEL ER             MORPHOMETRY OF THE HUMAN LUNG            963</reference>
+	<reference>008   HORSEFIELD K          J APPL PHYSIOL                  24   373 968</reference>
+	<reference>009   SMITH P               THORAX                          29   147 974</reference>
+	<reference>010   KUHN C                IN: BOUHUYS A                         91 976</reference>
+	<reference>011   BREEZE RG             AM REV RESPIR DIS              116   705 977</reference>
+	<reference>012   BASSET F              Z ZELLFORSCH MIKROSK ANAT      116    45 971</reference>
+	<reference>013   EL-BERMANI AL-W       AM J ANAT                      137    12 973</reference>
+	<reference>014   HUNG K-S              J ULTRASTRUCT RES               43   426 973</reference>
+	<reference>015   HUGHES JMB            J APPL PHYSIOL                  32    25 972</reference>
+	<reference>016   BRISCOE WA            J CLIN INVEST                   37  1279 958</reference>
+	<reference>017   MILIC-EMILI J         J APPL PHYSIOL                  21   749 966</reference>
+	<reference>018   GLAZIER JB            J APPL PHYSIOL                  23   694 967</reference>
+	<reference>019   WEST JB               J APPL PHYSIOL                  32   332 972</reference>
+	<reference>020   TURNER JM             J APPL PHYSIOL                  25   664 968</reference>
+	<reference>021   NIEWOEHNER DE         J APPL PHYSIOL                  36   412 974</reference>
+	<reference>022   MACKLEM PT            RESPIR PHYSIOL                   8   191 970</reference>
+	<reference>023   MACKLEM PT            J APPL PHYSIOL                  22   395 967</reference>
+	<reference>024   HOGG JC               N ENGL J MED                   278  1355 968</reference>
+	<reference>025   WOOLCOCK AJ           J CLIN INVEST                   48  1097 969</reference>
+	<reference>026   OLSON DE              J APPL PHYSIOL                  28   482 970</reference>
+	<reference>027   HOGG JC               N ENGL J MED                   282  1283 970</reference>
+	<reference>028   HIGH RH               PEDIATR CLIN NORTH AM            4   183 957</reference>
+	<reference>029   KILBURN KH            LAB INVEST                      28    55 973</reference>
+	<reference>030   MAHVI D               AM J PATHOL                     86   559 977</reference>
+	<reference>031   LULLMANN-RAUCH R      VIRCHOWS ARCH CELL PATHOL       11   167 972</reference>
+	<reference>032   SNIDER GL             AM REV RESPIR DIS               85   666 962</reference>
+	<reference>033   BIGNON J              AM REV RESPIR DIS               99   669 969</reference>
+	<reference>034   BIGNON J              THORAX                          25   556 970</reference>
+	<reference>035   MATSUBA K             AM J PATHOL                     67   265 972</reference>
+	<reference>036   DEPIERRE A            CHEST                           62   699 972</reference>
+	<reference>037   MATSUBA K             AM REV RESPIR DIS              107   552 973</reference>
+	<reference>038   ZUELZER WW            PEDIATRICS                       4    53 949</reference>
+	<reference>039   WHITWELL F            THORAX                           7   213 952</reference>
+	<reference>040   ANON                  HEALTH CONSEQUENCES OF SM                972</reference>
+	<reference>041   ANDERSON AE JR        ARCH ENVIRON HEALTH             12   569 966</reference>
+	<reference>042   SEELY JE              SCIENCE                        172   741 971</reference>
+	<reference>043   NIEWOEHNER DE         N ENGL J MED                   291   755 974</reference>
+	<reference>044   BODE FR               AM J MED                        59    43 975</reference>
+	<reference>045   INGRAM RH             BULL PHYSIOPATH RESPIR NANCY     7   195 971</reference>
+	<reference>046   DAYMAN H              J CLIN INVEST                   30  1175 951</reference>
+	<reference>047   FRY DL                AM J MED                        29   672 960</reference>
+	<reference>048   MEAD J                J APPL PHYSIOL                  22    95 967</reference>
+	<reference>049   MACKLEM PT            J APPL PHYSIOL                  20   653 965</reference>
+	<reference>050   MARTIN RR             AM REV RESPIR DIS              111   119 975</reference>
+	<reference>051   SCHILDER DP           J CLIN INVEST                   42  1705 963</reference>
+	<reference>052   HUTCHEON M            AM REV RESPIR DIS              110   458 974</reference>
+	<reference>053   MACKLEM PT            J CLIN INVEST                   44   897 965</reference>
+	<reference>054   DESPAS PJ             J CLIN INVEST                   51  3235 972</reference>
+	<reference>055   MCCARTHY DS           AM J MED                        52   747 972</reference>
+	<reference>056   ANTHONISEN NR         RESPIR PHYSIOL                   8    58 969</reference>
+	<reference>057$  OTIS AB               J APPL PHYSIOL                  22   395 967</reference>
+	<reference>058   HOWELL JBL            IN: STRETTON TB                      157 976</reference>
+
+	<citation>1   BASKERVILLE A         NZ VET J                        29   235 981</citation>
+	<citation>2   EBERT RV              BR J DIS CHEST                  75   277 981</citation>
+	<citation>3   LINHARTOVA A          ARCH PATHOL LAB MED            106   499 982</citation>
+	<citation>4   MARIN ML              LUNG                           160   257 982</citation>
+	<citation>5   KILBURN KH            ARCH ENVIRON HEALTH             38   277 983</citation>
+
+</document>

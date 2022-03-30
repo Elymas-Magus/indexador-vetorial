@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>The fecal microflora and bile acids in children with cystic fibrosis.</title>
+
+	<author>Roy-C-C.</author>
+	<author>Delage-G.</author>
+	<author>Fontaine-A.</author>
+	<author>Robitaille-L.</author>
+	<author>Chartrand-L.</author>
+	<author>Weber-A.</author>
+	<author>Morin-C-L.</author>
+
+	<source>Am-J-Clin-Nutr. 1979 Dec. 32(12). P 2404-9.</source>
+
+	<abstract>Fecal fat, bile acids, and the rectal microflora were studied in
+   seven control children and in three groups of patients with cystic
+   fibrosis (CF).  Seven were off antibiotics, ten on oral cloxacillin,
+   and six on i.v. triple therapy (cloxacillin, gentamycin, and
+   carbenicillin) for at least 2 weeks.  Controls had lower
+   concentrations (milligrams per gram dry stool) of both fat (P &lt;
+   0.005) and vile acids (P &lt; 0.025) than CF children off antibiotics.
+   Antibiotics had little or no effect on fat but led to a striking
+   decrease (P &lt; 0.01) of bile acids in the triple therapy group.
+   Concomitantly, there was reduced deconjugation of bile acids (P &lt;
+   0.01) and formation of secondary bile acids (P &lt; 0.005).  This was
+   associated with a 5-fold increase in the percentage of bile acids
+   found in the aqueous phase of stools and with a marked reduction (P
+   &lt; 0.001) of the anaerobic flora (log counts per gram wet stool) in
+   children on triple therapy (4.3 plus or minus 1.9) when compared to
+   controls (9.8 plus or minus 0.1), CF off antibiotics (9.1 plus or
+   minus 0.1) and CF on cloxacillin (9.6 plus or minus 0.2).  The close
+   relationship between the anaerobic flora, the extent of bile acid
+   microbial transformation, and fecal bile acid concentrations suggest
+   that reduction of the anaerobic flora decreases adsorption of bile
+   acids to dietary residues and microbes, favors bile acid absorption,
+   and leads to a decreased fecal loss of bile acids in CF.</abstract>
+
+	<majorsubject>ANTIBIOTICS: tu</majorsubject>
+	<majorsubject>BILE-ACIDS-AND-SALTS: me</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: me, mi</majorsubject>
+	<majorsubject>FECES: an, mi</majorsubject>
+
+	<minorsubject>CARBENICILLIN: tu</minorsubject>
+	<minorsubject>CHILD</minorsubject>
+	<minorsubject>CHILD-PRESCHOOL</minorsubject>
+	<minorsubject>CLOXACILLIN: tu</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: dt</minorsubject>
+	<minorsubject>DRUG-THERAPY-COMBINATION</minorsubject>
+	<minorsubject>GENTAMICINS: tu</minorsubject>
+	<minorsubject>GRAM-NEGATIVE-AEROBIC-BACTERIA</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>INFANT</minorsubject>
+
+	<reference>001   ROY CC                CLIN GASTROENTEROL               6   377 977</reference>
+	<reference>002   ROY CC                N ENGL J MED                   297  1301 977</reference>
+	<reference>003   WEBER AM              GUT                             17   295 976</reference>
+	<reference>004   WEBER AM              N ENGL J MED                   289  1001 973</reference>
+	<reference>005   LEFEBVRE D            EXPERIENTIA                     33   616 977</reference>
+	<reference>006   HOLDEMAN LV           ANAEROBE LABORATORY MANUAL               975</reference>
+	<reference>007   BEST WR               AM J CLIN NUTR                  23  1609 970</reference>
+	<reference>008   JEEJEEBHOY KN         CLIN BIOCHEM                     3   157 970</reference>
+	<reference>009   LEVIN SJ              ANAL CHEM                       33  1407 961</reference>
+	<reference>010   WEBER AM              CLIN CHIM ACTA                  39   524 972</reference>
+	<reference>011   BANCROFT TA           TOPICS IN INTERMED STAT METH     1   100 968</reference>
+	<reference>012   HOLDEMAN LV           APPL ENVIRON MICROBIOL          31   539 976</reference>
+	<reference>013   MOORE WEC             APPL MICROBIOL                  27   961 974</reference>
+	<reference>014   ATTEBERY HR           AM J CLIN NUTR                  25  1931 972</reference>
+	<reference>015   MATA LJ               AM J CLIN NUTR                  25  1380 972</reference>
+	<reference>016   FLOCH MH              AM J CLIN NUTR                  25  1418 972</reference>
+	<reference>017   SUTTER VL             J INFECT DIS                   131   417 975</reference>
+	<reference>018   SUTTER VL             ANTIMICROB AGENTS CHEMOTHER     10   736 976</reference>
+	<reference>019   MIDTVEDT T            AM J CLIN NUTR                  27  1341 974</reference>
+	<reference>020   GARBUTT JT            GASTROENTEROLOGY                56   711 969</reference>
+	<reference>021   KRAG E                J CLIN INVEST                   53  1686 974</reference>
+	<reference>022   GUSTAFSSON BE         ACTA PATH MICROBIOL SCAND       72   433 968</reference>
+	<reference>023   EASTWOOD MA           BIOCHIM BIOPHYS ACTA           152   165 968</reference>
+	<reference>024   GUSTAFSSON BE         SCAND J GASTROENTEROL            3   125 968</reference>
+	<reference>025   SCHIFF ER             J CLIN INVEST                   51  1351 972</reference>
+	<reference>026   EASTWOOD M            AM J CLIN NUTR                  29  1461 976</reference>
+
+	<citation>1   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    33 982</citation>
+	<citation>2   BALISTRERI WF         J PEDIATR GASTROENTEROL NUTR     2   105 983</citation>
+	<citation>3   ISENBERG JN           J PEDIATR GASTROENTEROL NUTR     2   447 983</citation>
+	<citation>4   WESLEY A              PEDIATR RES                     17    65 983</citation>
+	<citation>5   COLOMBO C             J PEDIATR GASTROENTEROL NUTR     3   556 984</citation>
+	<citation>6   TAZAWA Y              J PEDIATR GASTROENTEROL NUTR     3   378 984</citation>
+	<citation>7   GRYBOSKI JD           AM J GASTROENTEROL              80   871 985</citation>
+	<citation>8   WEBER AM              ACTA PAEDIATR SCAND SUPPL 317 1985     9 985</citation>
+	<citation>9   LEROY C               DIG DIS SCI                     31   911 986</citation>
+	<citation>10   LONNQVIST B           J INFECT DIS                   153   175 986</citation>
+
+</document>

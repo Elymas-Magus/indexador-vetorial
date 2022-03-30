@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Electrophoretic analysis of serum proteins in cystic fibrosis.</title>
+
+	<author>Thomas-J-M.</author>
+	<author>Merritt-A-D.</author>
+	<author>Hodes-M-E.</author>
+
+	<source>Pediatr-Res. 1977 Nov. 11(11). P 1148-54.</source>
+
+	<abstract>This study utilized isoelectric focusing and electrophoresis in an
+   attempt to detect a cystic fibrosis (CF) serum factor(s), for which
+   there is considerable indirect evidence.  The method of isoelectric
+   focusing in polyacrylamide gels (IEFAG) specified by Wilson et al.
+   (53), as reproduced in our laboratory, did not enable the detection
+   of a CF factor protein reported to focus near pH 8.4-8.5.
+   Consequently, we employed our modified IEFAG techniques, which
+   enabled us to demonstrate significantly enhanced resolution and
+   striking heterogeneity in serum gamm-globulins.  Despite the
+   significant increase in the number of bands resolved by our methods,
+   neither a difference at pH 8.4-8.5 nor other differences throughout
+   the alkaline pH range could be detected consistently in the CF and
+   heterozygous sera.  The two-step IEFAG/disc electrophoresis
+   technique outline by Altland et al. (2), as reproduced in our
+   laboratory, indicated that at least one small, cationic protein
+   could be fractioned from all serum samples.  Improvements in the
+   method of disc electrophoresis resulted in the observation of
+   numerous bands from some samples and of differences among the
+   samples, but no protein band unique to the CF genotypes was
+   observed.  Our approach, employing different electrophoresis
+   techniques and varying the conditions of sample analysis, should
+   have increased the likelihood of detecting a protein or proteins
+   specific for the CF genotypes.  Despite the many variations in our
+   approach, no consistently unique protein was observed in the CF or
+   heterozygous sera.  A CF serum factor cannot be readily demonstrated
+   by the electrophoretic techniques described.  The value of the
+   &quot;biophysical assay&quot; and the &quot;nonbiologic technique&quot; reported in the
+   literature is suspect, and the promise and applicability of these
+   techniques as diagnostic tests for the CF gene should be carefully
+   evaluated.</abstract>
+
+	<majorsubject>BLOOD-PROTEINS: an</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: bl</majorsubject>
+
+	<minorsubject>BLOOD-PROTEIN-ELECTROPHORESIS</minorsubject>
+	<minorsubject>BLOOD-PROTEINS: ge</minorsubject>
+	<minorsubject>CHILD</minorsubject>
+	<minorsubject>COMPARATIVE-STUDY</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: fg</minorsubject>
+	<minorsubject>ELECTROPHORESIS-DISC</minorsubject>
+	<minorsubject>HETEROZYGOTE</minorsubject>
+	<minorsubject>HOMOZYGOTE</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>HYDROGEN-ION-CONCENTRATION</minorsubject>
+	<minorsubject>IGG: an</minorsubject>
+	<minorsubject>ISOELECTRIC-FOCUSING</minorsubject>
+
+	<reference>002   ALTLAND K             HUMANGENETIK                    28   207 975</reference>
+	<reference>003   AWDEH ZL              NATURE                         219    66 968</reference>
+	<reference>004   BARNETT DR            TEX REP BIOL MED                31   697 973</reference>
+	<reference>005   BARNETT DR            TEX REP BIOL MED                31   703 973</reference>
+	<reference>006   BARNETT DR            TEX REP BIOL MED                31   709 973</reference>
+	<reference>007   BERATIS NG            PEDIATR RES                      7   958 973</reference>
+	<reference>008   BOWMAN BH             TEX REP BIOL MED                31   611 973</reference>
+	<reference>009   BOWMAN BH             LANCET                           1   404 974</reference>
+	<reference>010   BOWMAN BH             BIOCHEM BIOPHYS RES COMMUN      64  1310 975</reference>
+	<reference>011   BOWMAN BH             N ENGL J MED                   294   937 976</reference>
+	<reference>012   BULL HB               ARCH BIOCHEM BIOPHYS           104   297 964</reference>
+	<reference>013   ANON                  J PEDIATR                       88   711 976</reference>
+	<reference>014   CONNEALLY PM          TEX REP BIOL MED                31   639 973</reference>
+	<reference>015   CONOVER JH            PEDIATR RES                      7   224 973</reference>
+	<reference>016   CROW JF               IN: NEEL JV                           23 965</reference>
+	<reference>017   DANES BS              J EXP MED                      137  1538 973</reference>
+	<reference>018   DANKS DM              ANN HUM GENET                   28   323 965</reference>
+	<reference>019   DI SANTAGNESE PA      N ENGL J MED                   295   481 976</reference>
+	<reference>020   GIBSON LE             PEDIATRICS                      23   545 959</reference>
+	<reference>021   HAGLUND H             METHODS BIOCHEM ANAL            19     1 971</reference>
+	<reference>022   HOWARD A              IN: PEETERS H                   17   449 969</reference>
+	<reference>023   JOSEPHSEN RV          ANAL BIOCHEM                    40   476 971</reference>
+	<reference>024   KULCZYCKI LL          CLIN PEDIATR                     3   692 964</reference>
+	<reference>025   LAGOW J               BIOCHEMISTRY                    11  4520 972</reference>
+	<reference>026   LOBECK CC             IN: STANBURY JB                     1605 972</reference>
+	<reference>027   MCCOMBS ML            TEX REP BIOL MED                31   615 973</reference>
+	<reference>028   NAKHLEH ET            ANAL BIOCHEM                    49   218 972</reference>
+	<reference>029   OPPENHEIMER EH        PEDIATRICS                      42   547 968</reference>
+	<reference>030   POLLEY MJ             J MED GENET                     11   249 974</reference>
+	<reference>031   RADOLA BJ             IN: PEETERS H                   18   487 970</reference>
+	<reference>032   RADOLA BJ             BIOCHIM BIOPHYS ACTA           295   412 973</reference>
+	<reference>033   RADOLA BJ             ANN NY ACAD SCI                209   127 973</reference>
+	<reference>034   RADOLA BJ             BIOCHIM BIOPHYS ACTA           386   181 974</reference>
+	<reference>035   SALAMAN MR            BIOCHEM J                      122    93 971</reference>
+	<reference>036   SCHMOYER IR           LIFE SCI PART 2                 11  1037 972</reference>
+	<reference>037   SCHMOYER IR           BIOCHEM BIOPHYS RES COMMUN      46  1923 972</reference>
+	<reference>038   SHWACHMAN H           HOSP PRACT                       9   143 974</reference>
+	<reference>039   SMITH QT              PEDIATR RES                     10   999 976</reference>
+	<reference>040$  SMYTH CJ              J GEN MICROBIOL                  7    41 974</reference>
+	<reference>041   THOMAS JM             CF CLUB ABST                    17    19 976</reference>
+	<reference>042   THOMAS JM             PEDIATR RES                     11   138 977</reference>
+	<reference>044   UI N                  BIOCHIM BIOPHYS ACTA           229   567 971</reference>
+	<reference>045   UI N                  ANN NY ACAD SCI                209   198 973</reference>
+	<reference>046   VALMET E              SCIENCE TOOLS                   15     8 968</reference>
+	<reference>047   VESTERBERG O          BIOCHIM BIOPHYS ACTA           257    11 972</reference>
+	<reference>048   VESTERBERG O          IN: ARBUTHNOTT JP                        975</reference>
+	<reference>049   WANG CI               N ENGL J MED                   279  1216 968</reference>
+	<reference>050   WILLIAMSON AR         IN: WEIR DM                              973</reference>
+	<reference>052   WILSON GB             PEDIATR RES                     10  1001 976</reference>
+	<reference>053   WILSON GB             PEDIATR RES                      9   635 975</reference>
+	<reference>054   WILSON GB             CLIN CHIM ACTA                  49    79 973</reference>
+	<reference>055   WILSON GB             PEDIATR RES                     11   139 977</reference>
+	<reference>056   WRIGHT SW             AM J HUM GENET                  20   157 968</reference>
+
+	<citation>1   SCHOLEY J             PEDIATR RES                     12   800 978</citation>
+	<citation>2   WILSON GB             PEDIATR RES                     12   801 978</citation>
+	<citation>3   SCHAAP T              ISR J MED SCI                   14   201 978</citation>
+	<citation>4   THOMAS JM             ANAL BIOCHEM                    90   596 978</citation>
+	<citation>5   TULLY GW              PEDIATR RES                     13  1078 979</citation>
+	<citation>6   WILSON GB             PEDIATR RES                     13  1079 979</citation>
+	<citation>7   MANSON JC             LANCET                           1   330 980</citation>
+	<citation>8   NEVIN GB              HUM GENET                       56   387 981</citation>
+	<citation>9   THOMAS JM             CLIN CHIM ACTA                 111   199 981</citation>
+	<citation>10   BULLOCK S             CLIN GENET                      21   336 982</citation>
+	<citation>11   BROCK DJH             HUM GENET                       60    30 982</citation>
+	<citation>12   BURY AF               CLIN CHIM ACTA                 118    45 982</citation>
+	<citation>13   GRATAROLI R           PEDIATR RES                     18   130 984</citation>
+	<citation>14   ANON                  LANCET                           2   249 985</citation>
+	<citation>15   KLINGER KW            SEM RESPIR MED                   6   243 985</citation>
+	<citation>16   JAMIESON A            HUM GENET                       70   168 985</citation>
+	<citation>17   GETLIFFE KA           J INHERIT METAB DIS              9   348 986</citation>
+
+</document>

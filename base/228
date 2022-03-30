@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Cystic fibrosis--immunological reactions to A. fumigatus and common
+   allergens.</title>
+
+	<author>Warren-C-P.</author>
+	<author>Tai-E.</author>
+	<author>Batten-J-C.</author>
+	<author>Hutchcroft-B-J.</author>
+	<author>Pepys-J.</author>
+
+	<source>Clin-Allergy. 1975 Mar. 5(1). P 1-12.</source>
+
+	<abstract>Immunological studies of forty-three patients with cystic fibrosis
+   showed that positive prick tests to at least one common allergen were
+   obtained in 70%, to multiple allergens in 28% and to A. fumigatus in
+   50%. Specific IgE antibodies against these allergens were found in
+   the appropriate subjects. In spite of this evidence of type 1, IgE,
+   sensitization none of the patients had a history of infantile eczema.
+   Intracutaneous tests with A. fumigatus extract gave types 1 and 3
+   reactions in sixteen patients (37%), only seven of whom were among
+   the sixteen (37%) who gave positive precipitin tests. Raised levels
+   of total serum IgG and IgA were found as compared with healthy
+   controls and asthmatic subjects. No differences were found in total
+   serum IgM and IgD levels. The high incidence of allergy to A.
+   fumigatus in cystic fibrosis is confirmed.</abstract>
+
+	<majorsubject>ASPERGILLUS-FUMIGATUS: im</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: im</majorsubject>
+
+	<minorsubject>ASPERGILLOSIS: im</minorsubject>
+	<minorsubject>ASTHMA: im</minorsubject>
+	<minorsubject>EOSINOPHILS: im</minorsubject>
+	<minorsubject>HAY-FEVER: im</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>HYPERSENSITIVITY: im</minorsubject>
+	<minorsubject>IGE: an</minorsubject>
+	<minorsubject>IMMUNOGLOBULINS: an</minorsubject>
+	<minorsubject>LEUKOCYTE-COUNT</minorsubject>
+	<minorsubject>PRECIPITIN-TESTS</minorsubject>
+	<minorsubject>SKIN-TESTS</minorsubject>
+
+	<reference>001   BATTEN JC             MOD PROBL PEDIATR               10   227 967</reference>
+	<reference>002   COCHRANE CG           J EXP MED                      134   75S 971</reference>
+	<reference>003   CURRAN WS             ANN INTERN MED                  55   777 961</reference>
+	<reference>004   DOLOVICH J            J ALLERGY                       46   127 970</reference>
+	<reference>005   DOLOVICH J            J ALLERGY CLIN IMMUNOL          52    38 973</reference>
+	<reference>006   KATZ RM               N ENGL J MED                   288   233 973</reference>
+	<reference>007   LESKOWITZ S           CLIN ALLERGY                     2   237 972</reference>
+	<reference>008   LONGBOTTOM JL         J PATHOL BACTERIOL              88   141 964</reference>
+	<reference>009   MCCARTHY DS           IN: LAWSON D PROC 5TH INT CF         194 969</reference>
+	<reference>010   MCCARTHY DS           CLIN ALLERGY                     1   415 971</reference>
+	<reference>011   MEARNS MB             THORAX                          20   385 965</reference>
+	<reference>012   MEARNS MB             LANCET                           1   538 967</reference>
+	<reference>013   PEPYS J               IN: GELL PGH                             968</reference>
+	<reference>014   PEPYS J               PROC INT CONG ALLERGOLOGY        6   221 968</reference>
+	<reference>015   PEPYS J               CLIN ALLERGY SUPPL               3   491 973</reference>
+	<reference>016   PEPYS J               CLIN ALLERGY                     3   143 973</reference>
+	<reference>017   ROWE DS               BULL WHO                        40   613 969</reference>
+	<reference>018   SALVAGGIO JE          CLIN ALLERGY                     3    43 973</reference>
+	<reference>019   SCADDING JG           SCAND J RESPIR DIS              48   372 967</reference>
+	<reference>020   SIMON G               TEACH IN ON CF                           970</reference>
+	<reference>021   TADA T                J IMMUNOL                      104   377 970</reference>
+	<reference>022   TAYLOR B              LANCET                           2   111 973</reference>
+	<reference>023   WIDE L                LANCET                           2  1105 967</reference>
+
+	<citation>1   WARNER JO             LANCET                           1   990 976</citation>
+	<citation>2   MULLINS J             CLIN ALLERGY                     6   209 976</citation>
+	<citation>3   MITCHELLHEGGS P       Q J MED                         45   479 976</citation>
+	<citation>4   CLARKE CW             CLIN ALLERGY                     7   527 977</citation>
+	<citation>5   WARNER JO             CLIN ALLERGY                     7   385 977</citation>
+	<citation>6   SAKULA A              BR J DIS CHEST                  71   295 977</citation>
+	<citation>7   TURNER MW             ARCH DIS CHILD                  53   631 978</citation>
+	<citation>8   ZAMBIE MF             ANN ALLERGY                     42   290 979</citation>
+	<citation>9   HODSON ME             THORAX                          35   801 980</citation>
+	<citation>10   TOBIN MJ              THORAX                          35   807 980</citation>
+	<citation>11   PRIOR J               BR J DIS CHEST                  74    84 980</citation>
+	<citation>12   MATTHEWS WJ           N ENGL J MED                   302   245 980</citation>
+	<citation>13   CROMWELL O            LANCET                           2   164 981</citation>
+	<citation>14   REEN DJ               CLIN ALLERGY                    11   571 981</citation>
+	<citation>15   CLARKE CW             BR J DIS CHEST                  75    15 981</citation>
+	<citation>16   MOSS RB               J PEDIATR                       99   215 981</citation>
+	<citation>17   ZETTERSTROM O         BR MED J                       283  1215 981</citation>
+	<citation>18   SCHIOTZ PO            ACTA PAEDIATR SCAND SUPPL 301 1982    55 982</citation>
+	<citation>19   ANON                  LANCET                           2   257 983</citation>
+	<citation>20   BIRX DL               ANN ALLERGY                     53   124 984</citation>
+	<citation>21   HODSON ME             POSTGRAD MED J                  60   225 984</citation>
+	<citation>22   LAUFER P              J ALLERGY CLIN IMMUNOL          73    44 984</citation>
+	<citation>23   AUERBACH HS           LANCET                           2   686 985</citation>
+	<citation>24   STARKE ID             BR J DIS CHEST                  79   295 985</citation>
+	<citation>25   GORDON IJ             J ROY COLL PHYSICIANS LOND      20   206 986</citation>
+	<citation>26   PIEDRA P              J PEDIATR                      108   817 986</citation>
+
+</document>

@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Detection of cystic fibrosis homozygotes and heterozygotes with
+   plasma.</title>
+
+	<author>Hosli-P.</author>
+	<author>Vogt-E.</author>
+
+	<source>Lancet. 1979 Sep 15. 2(8142). P 543-5.</source>
+
+	<abstract>Evidence is accumulating which indicates that the basic defect in
+   cystic fibrosis interferes with the formation of recognition markers
+   on hydrolytic enzymes. As a result these hydrolases leak into the
+   extracellular space and some of them display abnormal
+   thermolabilities. By heat inactivation of plasma alpha-mannosidase at
+   41 degrees C and plasma phosphatase at 36.5 degrees C, both enzymes
+   being assayed at pH 5.4, it is possible to differentiate normal
+   people from cystic fibrosis carriers and patients.</abstract>
+
+	<majorsubject>ACID-PHOSPHATASE: bl</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: di</majorsubject>
+	<majorsubject>MANNOSIDASES: bl</majorsubject>
+
+	<minorsubject>CYSTIC-FIBROSIS: en, fg</minorsubject>
+	<minorsubject>HEAT</minorsubject>
+	<minorsubject>HETEROZYGOTE-DETECTION</minorsubject>
+	<minorsubject>HOMOZYGOTE</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+
+	<reference>001   WOOD RE               AM REV RESPIR DIS              113   833 976</reference>
+	<reference>002   STEINBERG AG          AM J HUM GENET                  12   416 960</reference>
+	<reference>003   DI SANTAGNESE PA      N ENGL J MED                   295   481 976</reference>
+	<reference>004   ANDERSON CM           CF A MANUAL OF DIAGNOSIS AND             976</reference>
+	<reference>005   GIBSON LE             PEDIATRICS                      23   545 959</reference>
+	<reference>006   SCHWARZ V             ARCH DIS CHILD                  43   695 968</reference>
+	<reference>007   STEPHAN U             PEDIATRICS                      55    35 975</reference>
+	<reference>008   HOSLI P               BIOCHEM BIOPHYS RES COMMUN      73   209 976</reference>
+	<reference>009   PAPP Z                CLIN GENET                      11   431 977</reference>
+	<reference>010   BRESLOW JL            SCIENCE                        201   180 978</reference>
+	<reference>011   HOSLI P               BIOCHEM BIOPHYS RES COMMUN      79   741 977</reference>
+	<reference>012   HOSLI P               PROC INT CF CONG 7TH                 278 976</reference>
+	<reference>013   HOSLI P               MONOGR PAEDIATR                 10    90 979</reference>
+	<reference>014   NEUFELD EF            J SUPRAMOL STRUCT                6    95 977</reference>
+	<reference>015   KAPLAN A              PROC NAT ACAD SCI USA           74  2026 977</reference>
+	<reference>016   PAZUR JH              BIOCHEM BIOPHYS RES COMMUN      40   110 970</reference>
+	<reference>017   HIRANI S              CLIN CHIM ACTA                  81   135 977</reference>
+	<reference>018   KRESS BC              BIOCHEM BIOPHYS RES COMMUN      81   756 978</reference>
+
+	<citation>1   KOLLBERG H            ACTA PAEDIATR SCAND SUPPL 301 1982    15 982</citation>
+	<citation>2   CAREY WF              MED J AUST                       2   528 983</citation>
+	<citation>3   CEDER O               ACTA PAEDIATR SCAND SUPPL 309 1983     1 983</citation>
+	<citation>4   GUEANT JL             CLIN CHIM ACTA                 143   217 984</citation>
+	<citation>5   OGLESBEE LH           CLIN CHIM ACTA                 143   135 984</citation>
+	<citation>6   PERINI JM             BULL EUR PHYSIOPATH RESP        21   569 985</citation>
+	<citation>7   MORSE ML              LANCET                           1   625 986</citation>
+	<citation>8   KUZEMKO JA            J ROY SOC MED                   79     2 986</citation>
+
+</document>

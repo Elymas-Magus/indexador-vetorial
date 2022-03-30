@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Adverse effects of iodides on thyroid function.</title>
+
+	<author>Vagenakis-A-G.</author>
+	<author>Braverman-L-E.</author>
+
+	<source>Med-Clin-North-Am. 1975 Sep. 59(5). P 1075-88. (REVIEW).</source>
+
+	<abstract>The administration of pharmacologic quantities of iodine such as
+   iodides for the treatment of pulmonary disease, organic iodine
+   present in medications and x-ray contrast dyes, and the ingestion of
+   iodine-rich natural foods, may result in goiter, hypothyroidism, or
+   hyperthyroidism, especially in patients with underlying thyroid
+   disease. Medications containing iodide may induce hypothroidism in
+   euthyroid patients with Hashimoto&apos;s thyroiditis, 131I or surgically
+   treated Graves&apos; disease, or following hemithyroidectomy for nodules;
+   and they may induce hyperthyroidism in patients with endemic iodine-
+   deficient goiter, autonomous nodules or nontoxic nodular goiter, or
+   in patients recently treated with antithyroid drugs for Graves&apos;
+   disease. Rarely, hypothyroidism or hyperthyroidism may develop in
+   patients with completely normal thyroid function during
+   administration of iodide. The etiology of iodide-induced goiter and
+   hypothyroidism in patients with cystic fibrosis remains obscure.
+   Iodide-induced myxedema may also occur in patients receiving drugs
+   which alter thyroid function, such as lithium, phenazone, and
+   sulfisoxazole. Finally, iodides do have a role in the treatment of
+   hyperthyroidism but their use should probably be restricted to
+   thyroid storm, preoperative preparation of the hyperthyroid patient,
+   and following 131I treatment.</abstract>
+
+	<majorsubject>IODIDES: ae</majorsubject>
+	<majorsubject>THYROID-DISEASES: ci</majorsubject>
+	<majorsubject>THYROID-GLAND: de</majorsubject>
+
+	<minorsubject>CYSTIC-FIBROSIS: co</minorsubject>
+	<minorsubject>DRUG-SYNERGISM</minorsubject>
+	<minorsubject>GOITER: ci</minorsubject>
+	<minorsubject>GOITER-EXOPHTHALMIC: co</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>HYPERTHYROIDISM: ci, dt</minorsubject>
+	<minorsubject>HYPOTHYROIDISM: ci, co</minorsubject>
+	<minorsubject>INFANT-NEWBORN</minorsubject>
+	<minorsubject>INFANT-NEWBORN-DISEASES: ci</minorsubject>
+	<minorsubject>IODINE: me, pd, tu</minorsubject>
+	<minorsubject>LACTATION</minorsubject>
+	<minorsubject>MATERNAL-FETAL-EXCHANGE</minorsubject>
+	<minorsubject>PREGNANCY</minorsubject>
+	<minorsubject>REVIEW</minorsubject>
+	<minorsubject>THYROID-DISEASES: di</minorsubject>
+	<minorsubject>THYROID-GLAND: me</minorsubject>
+	<minorsubject>THYROID-HORMONES: me</minorsubject>
+	<minorsubject>THYROIDITIS-LYMPHOMATOUS: co</minorsubject>
+	<minorsubject>SUPPORT-U-S-GOVT-P-H-S</minorsubject>
+
+	<reference>001   AHMED M               J CLIN ENDOCRINOL METAB         38   574 974</reference>
+	<reference>002   ALEXANDER WD          Q J MED                         31   281 962</reference>
+	<reference>002   ALEXANDER WD          LANCET                           2   866 965</reference>
+	<reference>003   ANDERSON FB           ACTA ENDOCRINOL                 73    35 973</reference>
+	<reference>005   BEGG TB               Q J MED                         32   351 963</reference>
+	<reference>006   BELL CO               TRANS AM GOITER ASSOC                 28 952</reference>
+	<reference>007   BIERWALTER WH         BULL ALL INDIA INST MED SCI      3   145 969</reference>
+	<reference>008   BOYLE JA              J CLIN ENDOCRINOL METAB         25  1255 965</reference>
+	<reference>009   BLUM M                N ENGL J MED                   291    24 974</reference>
+	<reference>010   BRAVERMAN LE          J CLIN INVEST                   42  1216 963</reference>
+	<reference>011   BRAVERMAN LE          J CLIN ENDOCRINOL METAB         32   515 971</reference>
+	<reference>012   BRAVERMAN LE          TRANS ASSOC AM PHYSICIANS       84   130 971</reference>
+	<reference>013   BRAVERMAN LE          N ENGL J MED                   281   816 969</reference>
+	<reference>014   DEODHAR SD            ENDOCRINOLOGY                   85   629 969</reference>
+	<reference>014   CONNOLLY RJ           LANCET                           1   500 970</reference>
+	<reference>015   EMERSON CH            J CLIN ENDOCRINOL METAB         40    33 975</reference>
+	<reference>016   ERMANS AM             ACTA ENDOCRINOL                 70   463 972</reference>
+	<reference>017   FEINBERG WD           J CLIN ENDOCRINOL METAB         19   567 959</reference>
+	<reference>018   FISHER DA             J CLIN ENDOCRINOL METAB         33   667 971</reference>
+	<reference>019   GALTON VA             ENDOCRINOLOGY                   64   835 959</reference>
+	<reference>019   HAGEN GA              N ENGL J MED                   277   559 967</reference>
+	<reference>020   HALL R                CLIN EXP IMMUNOL                 1   205 966</reference>
+	<reference>021   HAMILTON CR JR        MEDICINE (BALTIMORE)            52   195 973</reference>
+	<reference>022   HURXTHAL LE           LAHEY CLIN BULL                  4    73 945</reference>
+	<reference>023   INGBAR SH             ENDOCRINOLOGY                   53   171 953</reference>
+	<reference>024   INGBAR SH             IN: WILLIAMS RH                      119 974</reference>
+	<reference>025   JACKSON AS            BOSTON MED SURG J              193  1138 925</reference>
+	<reference>026   KOUTRAS DA            J CLIN ENDOCRINOL METAB         24   867 964</reference>
+	<reference>027   MILNE K               ENDOCRINOLOGY                   71   580 962</reference>
+	<reference>028   MORTON ME             J BIOL CHEM                    154   381 944</reference>
+	<reference>029   NAGATAKI S            ENDOCRINOLOGY                   74   731 964</reference>
+	<reference>030   PASTERNAK DP          ENDOCRINOLOGY                   84   769 969</reference>
+	<reference>031   RABEN MS              ENDOCRINOLOGY                   42   107 948</reference>
+	<reference>033   SHOPSIN B             AM J MED                        55   695 973</reference>
+	<reference>034   STANLEY MD            J CLIN ENDOCRINOL METAB          9   941 949</reference>
+	<reference>035   SUZUKI H              ACTA ENDOCRINOL                 50   161 965</reference>
+	<reference>036   SUZUKI H              J CLIN ENDOCRINOL METAB         34   332 972</reference>
+	<reference>037   TIMMERMANS J          CONGENITALE JODIDEKROP MOCAND   31   308 963</reference>
+	<reference>038   VAGENAKIS AG          J CLIN INVEST                   52   528 973</reference>
+	<reference>039   VAGENAKIS AG          ENDOCRINOLOGY                   94  1669 974</reference>
+	<reference>040   VAGENAKIS AG          J CLIN INVEST                   54   913 974</reference>
+	<reference>041   VAGENAKIS AG          N ENGL J MED                   287   523 972</reference>
+	<reference>042   VIDOR GI              J CLIN ENDOCRINOL METAB         37   901 973</reference>
+	<reference>043   WARTOFSKY L           J CLIN ENDOCRINOL METAB         33   488 971</reference>
+	<reference>044   WARTOFSKY L           J CLIN INVEST                   49    78 970</reference>
+	<reference>044   WARTOFSKY L           JAMA                           226  1083 973</reference>
+	<reference>045   WOLFF J               AM J MED                        47   101 969</reference>
+	<reference>046   WOLFF J               J BIOL CHEM                    174   555 948</reference>
+
+	<citation>1   RODESCH F             AM J OBSTET GYNECOL            126   723 976</citation>
+	<citation>2   COOPER DS             CLIN ENDOCRINOL METAB            7   199 978</citation>
+	<citation>3   EMRICH D              CLIN ENDOCRINOL                  8   257 978</citation>
+	<citation>4   TORTOROLO G           MINERVA PEDIATR                 30   659 978</citation>
+	<citation>5   COBB WE               AM J HOSP PHARM                 35    51 978</citation>
+	<citation>6   RODESCH F             ANN ENDOCRINOL PARIS            39   145 978</citation>
+	<citation>7   PEKONEN F             ANN CHIR GYNAECOL               67   165 978</citation>
+	<citation>8   REINWEIN D            LANGENBECKS ARCH CHIR          347   145 978</citation>
+	<citation>9   BRAVERMAN LE          CLIN ENDOCRINOL METAB            8   621 979</citation>
+	<citation>10   BEKAERT J             COEUR MED INTERNE               18   241 979</citation>
+	<citation>11   JACKSON R             CANCER TREAT REP                63  1393 979</citation>
+	<citation>12   BREUEL HP             MED KLIN                        74  1492 979</citation>
+	<citation>13   THEODOROPOULOS T      SCIENCE                        205   502 979</citation>
+	<citation>14   BAJORUNAS DR          CLIN ENDOCRINOL METAB            9   405 980</citation>
+	<citation>15   RABER JH              DRUG INTEL CLIN PHARM           14   344 980</citation>
+	<citation>16   REINER RG             DIG DIS SCI                     25   379 980</citation>
+	<citation>17   BECROFT DMO           ARCH DIS CHILD                  55   213 980</citation>
+	<citation>18   DOSREMEDIOS LV        ARCH INTERN MED                140  1045 980</citation>
+	<citation>19   STERNTHAL E           N ENGL J MED                   303  1083 980</citation>
+	<citation>20   VOLF V                ATOMKERNENERG KERNTECH          37    50 981</citation>
+	<citation>21   OBER KP               ARCH INTERN MED                141  1225 981</citation>
+	<citation>22   KLEINMANN RE          CATHET CARDIOVASC DIAGN          8   261 982</citation>
+	<citation>23   EMANUELE  R           RIC CLIN LAB                    12   589 982</citation>
+	<citation>24   WEMEAU JL             THERAPIE                        37    95 982</citation>
+	<citation>25   SAFRAN M              OBSTET GYNECOL                  60    35 982</citation>
+	<citation>26   COYLE PJ              ANN R COLL SURG ENGL            64   334 982</citation>
+	<citation>27   PONT A                WEST J MED                     136   255 982</citation>
+	<citation>28   FRADKIN JE            MEDICINE                        62     1 983</citation>
+	<citation>29   CHEN BX               CHIN MED J                      96   235 983</citation>
+	<citation>30   DAHLBERG PA           ACTA ENDOCRINOL                104   195 983</citation>
+	<citation>31   MCGOVERN B            CLIN CARDIOL                     7   131 984</citation>
+	<citation>32   ROBUSCHI G            ACTA DIABETOL LAT               21   357 984</citation>
+	<citation>33   FABRE JL              ANN CARDIOL ANGEIOL (PARIS)     33   175 984</citation>
+	<citation>34   MAZONSON PD           AM J MED                        77   751 984</citation>
+	<citation>35   RAJATANAVIN R         AM J MED                        77   378 984</citation>
+	<citation>36   BECKER DV             JAMA                           252   659 984</citation>
+	<citation>37   WILKIN JK             CUTIS                           36   335 985</citation>
+	<citation>38   JANSSON R             J CLIN ENDOCRINOL METAB         60   168 985</citation>
+	<citation>39   MARIGOLD JH           BR J SURG                       72    45 985</citation>
+	<citation>40   HAWTHORNE GC          ARCH INTERN MED                145  1016 985</citation>
+	<citation>41   DRALLE H              LANGENBECKS ARCH CHIR          365    79 985</citation>
+	<citation>42   ABALOVICH MS          MED (BUENOS AIRES)              46     9 986</citation>
+	<citation>43   MARTINO E             J CLIN ENDOCRINOL METAB         63  1233 986</citation>
+	<citation>44   TAJIRI J              J CLIN ENDOCRINOL METAB         63   412 986</citation>
+	<citation>45   SAFRAN M              AM J MED SCI                   292   136 986</citation>
+	<citation>46   ROBUSCHI GV           J ENDOCRINOLOGICAL INVEST       10   183 987</citation>
+	<citation>47   MECHLIS S             AM J CARDIOL                    59   833 987</citation>
+
+</document>

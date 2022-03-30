@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Bronchial hyperreactivity in cystic fibrosis and asthma.</title>
+
+	<author>Mitchell-I.</author>
+	<author>Corey-M.</author>
+	<author>Woenne-R.</author>
+	<author>Krastins-I-R.</author>
+	<author>Levison-H.</author>
+
+	<source>J-Pediatr. 1978 Nov. 93(5). P 744-8.</source>
+
+	<abstract>We studied 113 patients with CF and compared their responsiveness to
+   inhaled methacholine to that of 50 asthmatic children and 26 normal
+   children. Positive responses to MCh occurred in 51% of the patients
+   with CF and 98% of those with asthma. There was a significant
+   correlation between a positive response to MCh in CF and poor
+   pulmonary function. There was no relationship between allergic
+   rhinitis or positive allergen skin tests and a positive MCh response.
+   Dose-response curves and time course to MCh challenge differed in CF
+   and asthma. Bronchial hyperreactivity is thus common in CF but is
+   different from that in asthma.</abstract>
+
+	<majorsubject>ASTHMA: pp</majorsubject>
+	<majorsubject>BRONCHI: de</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: pp</majorsubject>
+	<majorsubject>METHACHOLINE-COMPOUNDS: pd</majorsubject>
+
+	<minorsubject>ADOLESCENCE</minorsubject>
+	<minorsubject>ADULT</minorsubject>
+	<minorsubject>ASTHMA: im</minorsubject>
+	<minorsubject>BRONCHI: im, pp</minorsubject>
+	<minorsubject>CHILD</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: fg, im</minorsubject>
+	<minorsubject>DOSE-RESPONSE-RELATIONSHIP-DRUG</minorsubject>
+	<minorsubject>FEMALE</minorsubject>
+	<minorsubject>FORCED-EXPIRATORY-VOLUME</minorsubject>
+	<minorsubject>HISTAMINE: pd</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>MALE</minorsubject>
+
+	<reference>001   COUNAHAN R            ARCH DIS CHILD                  50   477 975</reference>
+	<reference>002   WARNER JO             ARCH DIS CHILD                  51   507 976</reference>
+	<reference>003   LANDAU LI             J PEDIATR                       82   863 973</reference>
+	<reference>004   SKORECKI K            ACTA PAEDIATR SCAND             65    39 976</reference>
+	<reference>005   CHAI H                J ALLERGY CLIN IMMUNOL          56   323 975</reference>
+	<reference>006   ROTHSTEIN RJ          J ALLERGY CLIN IMMUNOL          53   100 974</reference>
+	<reference>007   MELLIS CM             PEDIATRICS                      61   446 978</reference>
+	<reference>008   MERCER TT             ANN ALLERGY                     23   314 965</reference>
+	<reference>009   WENG TR               AM REV RESPIR DIS               99   879 969</reference>
+	<reference>010   NIE NH                STAT PACKAGE FOR THE SOCIAL S            975</reference>
+	<reference>011   SNEDECOR GW           STATISTICAL METHODS                      967</reference>
+	<reference>012   HALUSZKA J            RESPIRATION                     32   217 975</reference>
+	<reference>013   EMPEY DW              AM REV RESPIR DIS              113   131 976</reference>
+	<reference>014   RUBINFELD AR          AM REV RESPIR DIS              115   381 977</reference>
+	<reference>015   SWIFT DL              IN: LAWSON D PROC 5TH INT CF             969</reference>
+	<reference>016   DOLOVICH MB           J APPL PHYSIOL                  40   468 976</reference>
+	<reference>017   NELSON LA             CF CLUB ABST                    18       977</reference>
+
+	<citation>1   ANON                  LANCET                           1   708 979</citation>
+	<citation>2   MIHALAS LS            J PEDIATR                       94  1013 979</citation>
+	<citation>3   MILLIGAN DWA          J PEDIATR                       95    24 979</citation>
+	<citation>4   KATTAN M              N ENGL J MED                   301   664 979</citation>
+	<citation>5   BURDON JGW            MED J AUST                       2    77 980</citation>
+	<citation>6   SLY PD                AUST PAEDIATR J                 16   205 980</citation>
+	<citation>7   KATTAN M              THORAX                          35   531 980</citation>
+	<citation>8   ORMEROD LP            THORAX                          35   768 980</citation>
+	<citation>9   TOBIN MJ              THORAX                          35   807 980</citation>
+	<citation>10   MOSS RB               AM REV RESPIR DIS              121    23 980</citation>
+	<citation>11   GURWITZ D             AM REV RESPIR DIS              122    95 980</citation>
+	<citation>12   LARSEN GL             AM J DIS CHILD                 134  1143 980</citation>
+	<citation>13   DAVIS PB              N ENGL J MED                   302  1453 980</citation>
+	<citation>14   FANTA CH              MED CLIN NORTH AM               65   473 981</citation>
+	<citation>15   GALANT SP             J CLIN INVEST                   68   253 981</citation>
+	<citation>16   GURWITZ D             J PEDIATR                       98   551 981</citation>
+	<citation>17   MOSS RB               J PEDIATR                       99   215 981</citation>
+	<citation>18   LEMANSKE RF           AM REV RESPIR DIS              123   622 981</citation>
+	<citation>19   VANASPEREN P          AM J DIS CHILD                 135   815 981</citation>
+	<citation>20   RUSSELL NJ            BR J DIS CHEST                  76    35 982</citation>
+	<citation>21   SCHIOTZ PO            ACTA PAEDIATR SCAND SUPPL 301 1982    55 982</citation>
+	<citation>22   WONNE R               ATEMWEGS LUNGENKRANKH            9   104 983</citation>
+	<citation>23   NEIJENS HJ            PEDIATR CLIN NORTH AM           30   829 983</citation>
+	<citation>24   DAVIS PB              J CHRON DIS                     36   269 983</citation>
+	<citation>25   SCHEINMANN P          SEM HOP PARIS                   59  2969 983</citation>
+	<citation>26   LEWIS MI              S AFR MED J                     65   641 984</citation>
+	<citation>27   MCFADDEN ER           J ALLERGY CLIN IMMUNOL          73   413 984</citation>
+	<citation>28   DAVIS PB              AM REV RESPIR DIS              129   911 984</citation>
+	<citation>29   SELTZER J             AM REV RESPIR DIS              129   790 984</citation>
+	<citation>30   MISCHLER EH           SEM RESPIR MED                   6   271 985</citation>
+	<citation>31   WONNE R               CLIN ALLERGY                    15   455 985</citation>
+	<citation>32   MITCHELL I            ANN ALLERGY                     54   233 985</citation>
+	<citation>33   HORDVIK NL            AM REV RESPIR DIS              131   889 985</citation>
+	<citation>34   DARGA LL              PEDIATR PULMONOL                 2    82 986</citation>
+	<citation>35   MACLUSKY IB           PEDIATR PULMONOL                 2    94 986</citation>
+	<citation>36   DAVIS PB              HORM METAB RES                  18   217 986</citation>
+	<citation>37   DAVIES RJ             J ALLERGY CLIN IMMUNOL          78  1031 986</citation>
+	<citation>38   SULLIVAN MM           CHEST                           90   239 986</citation>
+	<citation>39   BARNES PJ             AM REV RESPIR DIS              134  1289 986</citation>
+	<citation>40   STEAD RJ              PROSTAGLANDINS LEUKOTR MED      26    91 987</citation>
+	<citation>41   GALVEZ RA             J ALLERGY CLIN IMMUNOL          79   331 987</citation>
+
+</document>

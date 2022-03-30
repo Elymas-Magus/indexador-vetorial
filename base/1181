@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Bioavailability of oral antibiotics in cystic fibrosis.</title>
+
+	<author>Guggenbichler-J-P.</author>
+	<author>Kienel-G.</author>
+
+	<source>Monogr-Paediatr. 1979. 10. P 34-40.</source>
+
+	<abstract>The present investigation was designed to assess the absorption and
+   disposition in cystic fibrosis patients of two commonly used
+   antibiotics: an aminopenicillin, epicillin, and a cephalexin,
+   Ospexin.  The pharmacokinetic parameters of epicillin in patients
+   with CF and their normal controls differ in a number of aspects.  The
+   difference found in the maximal plasma concentrations could be
+   accounted for by a manifold increase in the renal clearance of the
+   drug.  Our data support the idea that patients with CF exhibit an
+   unusually large and rapid renal clearance of certain penicillins.</abstract>
+
+	<majorsubject>AMPICILLIN: aa</majorsubject>
+	<majorsubject>CEPHALEXIN: me</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: dt</majorsubject>
+	<majorsubject>EPICILLIN: me</majorsubject>
+
+	<minorsubject>ADMINISTRATION-ORAL</minorsubject>
+	<minorsubject>BIOLOGICAL-AVAILABILITY</minorsubject>
+	<minorsubject>CEPHALEXIN: ad, bl, tu</minorsubject>
+	<minorsubject>CHILD</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: bl, me</minorsubject>
+	<minorsubject>EPICILLIN: ad, bl, tu</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>LUNG-DISEASES: dt</minorsubject>
+
+	<reference>001   SHWACHMAN H           PEDIATR CLIN NORTH AM           22   787 975</reference>
+	<reference>002   DEREN JJ              N ENGL J MED                   288   949 973</reference>
+	<reference>003   WEBER AM              N ENGL J MED                   289  1001 973</reference>
+	<reference>005   JUSKO WJ              PEDIATRICS                      56  1038 975</reference>
+	<reference>006   JUSKO WJ              J PHARM SCI                     61  1270 972</reference>
+	<reference>007   YAFFE SJ              J INFECT DIS                   135   828 977</reference>
+	<reference>008   PARSONS RL            CLIN PHARMAKOKINET               2    45 977</reference>
+
+	<citation>1   MICHALSEN H           ANTIMICROB AGENTS CHEMOTHER     19  1029 981</citation>
+	<citation>2   LEFF RD               PEDIATR CLIN NORTH AM           30    93 983</citation>
+	<citation>3   NAHATA MC             DEVELOP PHARM THER               7   221 984</citation>
+	<citation>4   SPINO M               J PEDIATR                      105   829 984</citation>
+	<citation>5   HARRISON CJ           PEDIATR PHARMACOL                5     7 985</citation>
+	<citation>6   SPINO M               J PEDIATR                      107    64 985</citation>
+	<citation>7   SORGEL F              EUR J PEDIATR                  143   249 985</citation>
+	<citation>8   SMITH MJ              ANTIMICROB AGENTS CHEMOTHER     30   614 986</citation>
+
+</document>

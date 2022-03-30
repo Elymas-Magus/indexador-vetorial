@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Association of cystic fibrosis with allergy.</title>
+
+	<author>Warner-J-O.</author>
+	<author>Taylor-B-W.</author>
+	<author>Norman-A-P.</author>
+	<author>Soothill-J-F.</author>
+
+	<source>Arch-Dis-Child. 1976 Jul. 51(7). P 507-11.</source>
+
+	<abstract>Immediate skin hypersensitivity to various inhalant allergens was
+   present in 59% of 123 children with cystic fibrosis (CF), a much
+   higher percentage than in the general population. This is consistent
+   with the idea that atopy arises as a result of impaired handling of
+   antigen at mucosal surfaces. The allergic CF children had more chest
+   infections, a worse chest x-ray appearance, and lower peak expiratory
+   flow rates. Allergic diseases were also frequent in the CF obligate
+   heterozygotes (32% of mothers and 26% of fathers). It is suggested
+   that the heterozygotes may also have a mucosal abnormality resulting
+   in defective antigen handling.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS: co</majorsubject>
+	<majorsubject>HYPERSENSITIVITY: co</majorsubject>
+
+	<minorsubject>ADOLESCENCE</minorsubject>
+	<minorsubject>ALLERGENS</minorsubject>
+	<minorsubject>ASPERGILLUS: im</minorsubject>
+	<minorsubject>BREAST-FEEDING</minorsubject>
+	<minorsubject>CHILD</minorsubject>
+	<minorsubject>CLADOSPORIUM: im</minorsubject>
+	<minorsubject>FEMALE</minorsubject>
+	<minorsubject>HAY-FEVER: co</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>HYPERSENSITIVITY:  fg</minorsubject>
+	<minorsubject>HYPERSENSITIVITY-IMMEDIATE</minorsubject>
+	<minorsubject>INFANT</minorsubject>
+	<minorsubject>INTRADERMAL-TESTS</minorsubject>
+	<minorsubject>LUNG-VOLUME-MEASUREMENTS</minorsubject>
+	<minorsubject>MALE</minorsubject>
+	<minorsubject>PEAK-EXPIRATORY-FLOW-RATE</minorsubject>
+	<minorsubject>RESPIRATORY-TRACT-INFECTIONS: co</minorsubject>
+
+	<reference>001   BLAIR H               CLIN ALLERGY                     4   389 974</reference>
+	<reference>002   BOWMAN BH             SCIENCE                        164   325 969</reference>
+	<reference>003   CARR RD               ARCH DERMATOL                   89    27 964</reference>
+	<reference>004   CHANG N               AM REV RESPIR DIS              106   867 972</reference>
+	<reference>005   CHRISPIN AR           PEDIATR RADIOL                   2   101 974</reference>
+	<reference>006   CRACCO G              PROC EWGCF 5TH ANNU MTG               16 974</reference>
+	<reference>007   DAY G                 ARCH DIS CHILD                  48   355 973</reference>
+	<reference>008   FEATHERBY EA          CAN MED ASSOC J                102   835 970</reference>
+	<reference>009   HORN MEC              CHEST SUPPL                     63    44 973</reference>
+	<reference>010   KULCZYCKI LL          JAMA                           175   358 961</reference>
+	<reference>011   LANDAU LI             J PEDIATR                       82   863 973</reference>
+	<reference>012   LIFSCHITZ MI          AM REV RESPIR DIS               99   399 969</reference>
+	<reference>013   MEARNS MB             LANCET                           1   538 967</reference>
+	<reference>014   RACHELEFSKY GS        AM J DIS CHILD                 128   355 974</reference>
+	<reference>015   ROTHSTEIN RJ          J ALLERGY CLIN IMMUNOL          53   100 974</reference>
+	<reference>016   SPOCK A               PEDIATR RES                      1   173 967</reference>
+	<reference>017   TAYLOR B              LANCET                           2   111 973</reference>
+	<reference>018   VAN METRE TE JR       J ALLERGY CLIN IMMUNOL          31   141 960</reference>
+	<reference>019   WALLWORK JC           CLIN EXP IMMUNOL                18   303 974</reference>
+	<reference>020   WARREN CPW            CLIN ALLERGY                     5     1 975</reference>
+
+	<citation>1   HOIBY N               ACTA PATH MICROBIOL SCAND (C) S262     3 977</citation>
+	<citation>2   WARNER JO             CLIN ALLERGY                     7   385 977</citation>
+	<citation>3   DESPRES P             NOUV PRESSE MED                  7  2566 978</citation>
+	<citation>4   SILVERMAN M           ARCH DIS CHILD                  53   873 978</citation>
+	<citation>5   TURNER MW             ARCH DIS CHILD                  53   631 978</citation>
+	<citation>6   MELLIS CM             PEDIATRICS                      61   446 978</citation>
+	<citation>7   MITCHELL I            J PEDIATR                       93   744 978</citation>
+	<citation>8   ANON                  LANCET                           1   708 979</citation>
+	<citation>9   PRICE JF              CLIN ALLERGY                     9   563 979</citation>
+	<citation>10   CARSWELL F            MONOGR PAEDIATR                 10   144 979</citation>
+	<citation>11   LEUPOLD W             MONOGR PAEDIATR                 10   119 979</citation>
+	<citation>12   CARSWELL F            CLIN EXP IMMUNOL                35   141 979</citation>
+	<citation>13   ZAMBIE MF             ANN ALLERGY                     42   290 979</citation>
+	<citation>14   SANTAGNESE PAD        AM J MED                        66   121 979</citation>
+	<citation>15   LARSEN GL             AM REV RESPIR DIS              119   399 979</citation>
+	<citation>16   NELSON LA             AM REV RESPIR DIS              120   863 979</citation>
+	<citation>17   SLY PD                AUST PAEDIATR J                 16   205 980</citation>
+	<citation>18   VANASPEREN PP         AUST PAEDIATR J                 16    53 980</citation>
+	<citation>19   HODSON ME             THORAX                          35   801 980</citation>
+	<citation>20   ORMEROD LP            THORAX                          35   768 980</citation>
+	<citation>21   SKOV PS               ALLERGY                         35    23 980</citation>
+	<citation>22   TOBIN MJ              THORAX                          35   232 980</citation>
+	<citation>23   TOBIN MJ              THORAX                          35   807 980</citation>
+	<citation>24   BRUETON MJ            ARCH DIS CHILD                  55   348 980</citation>
+	<citation>25   GEORGE RH             ARCH DIS CHILD                  55   910 980</citation>
+	<citation>26   MOSS RB               AM REV RESPIR DIS              121    23 980</citation>
+	<citation>27   LARSEN GL             AM J DIS CHILD                 134  1143 980</citation>
+	<citation>28   CROMWELL O            LANCET                           2   164 981</citation>
+	<citation>29   REEN DJ               CLIN ALLERGY                    11   571 981</citation>
+	<citation>30   SHEN J                INFECT IMMUN                    32   967 981</citation>
+	<citation>31   HOLZER FJ             ARCH DIS CHILD                  56   455 981</citation>
+	<citation>32   CLARKE CW             BR J DIS CHEST                  75    15 981</citation>
+	<citation>33   VANASPEREN P          AM J DIS CHILD                 135   815 981</citation>
+	<citation>34   WILSON GB             MED HYPOTHESES                   8   527 982</citation>
+	<citation>35   PITCHERWILMOTT RW     ARCH DIS CHILD                  57   582 982</citation>
+	<citation>36   VOSS MJ               J ALLERGY CLIN IMMUNOL          69   536 982</citation>
+	<citation>37   PRIGENT F             ANN DERMATOL VENEREOL          109   341 982</citation>
+	<citation>38   SCHIOTZ PO            ACTA PAEDIATR SCAND SUPPL 301 1982    55 982</citation>
+	<citation>39   ANON                  LANCET                           2   257 983</citation>
+	<citation>40   MURPHY MB             THORAX                          39   179 984</citation>
+	<citation>41   LAUFER P              J ALLERGY CLIN IMMUNOL          73    44 984</citation>
+	<citation>42   SPEERT DP             SURV SYNTH PATHOL RES            4    14 985</citation>
+	<citation>43   LAUFER P              CUTIS                           35   557 985</citation>
+	<citation>44   LAUFER P              CUTIS                           36   245 985</citation>
+	<citation>45   BERKIN KE             EUR J RESPIR DIS                67   103 985</citation>
+	<citation>46   HORDVIK NL            AM REV RESPIR DIS              131   889 985</citation>
+	<citation>47   WILMOTT RW            AM J DIS CHILD                 139   669 985</citation>
+	<citation>48   DINWIDDIE R           J ROY SOC MED                   79     6 986</citation>
+	<citation>49   PIEDRA P              J PEDIATR                      108   817 986</citation>
+
+</document>

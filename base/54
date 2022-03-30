@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Ca2+ uptake and binding by isolated erythrocyte membranes from
+   cystic fibrosis and control subjects.</title>
+
+	<author>Duffy-M-J.</author>
+	<author>Cohn-E-V.</author>
+	<author>Schwarz-V.</author>
+
+	<source>Clin-Chim-Acta. 1974 Jan 19. 50(1). P 97-101.</source>
+
+	<abstract>Ca2+-ATPase activity, high affinity Ca2+ binding in the presence and
+   absence of ATP and low affinity Ca2+ binding at added CaCl2
+   concentrations of 1 microM, 100 microM and 10 mM were measured in
+   isolated erythrocyte membranes from cystic fibrosis and control
+   subjects.  No significant difference was detected between the two
+   groups for any of these measurements.</abstract>
+
+	<majorsubject>CALCIUM: me</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: bl</majorsubject>
+	<majorsubject>ERYTHROCYTES: me</majorsubject>
+	<majorsubject>RECEPTORS-DRUG: de</majorsubject>
+
+	<minorsubject>ADENOSINE-TRIPHOSPHATASE: bl</minorsubject>
+	<minorsubject>ADENOSINE-TRIPHOSPHATE: pd</minorsubject>
+	<minorsubject>BINDING-SITES</minorsubject>
+	<minorsubject>BIOLOGICAL-TRANSPORT</minorsubject>
+	<minorsubject>CELL-MEMBRANE: de, me</minorsubject>
+	<minorsubject>COMPARATIVE-STUDY</minorsubject>
+	<minorsubject>ERYTHROCYTES: cy, de</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>PROTEIN-BINDING</minorsubject>
+
+	<reference>001   GIBSON LE             PEDIATRICS                      48   695 971</reference>
+	<reference>002   MANGOS JA             SCIENCE                        158   135 967</reference>
+	<reference>003   BALFE JW              SCIENCE                        162   689 968</reference>
+	<reference>004   HORTON CR             BIOCHEM BIOPHYS RES COMMUN      40   505 970</reference>
+	<reference>005   HARRISON D            J PHYSIOL (LOND)               199   367 968</reference>
+	<reference>006   FITZPATRICK DF        NATURE NEW BIOL                235   173 972</reference>
+	<reference>008   LOWRY OH              J BIOL CHEM                    193   265 951</reference>
+	<reference>009   CHA YN                J GEN PHYSIOL                   57   202 971</reference>
+	<reference>010   LONG C                BIOCHEM J                      132   559 973</reference>
+	<reference>011   SUTCLIFFE CH          PROC R SOC MED                  61   297 968</reference>
+	<reference>012   SPOCK A               IN: TAKOUSKA S                        70 970</reference>
+	<reference>013   MANGOS JA             PEDIATR RES                      1   436 967</reference>
+	<reference>014   KAISER D              LANCET                           1  1003 970</reference>
+
+	<citation>1   COLE CH               PEDIATR RES                      9   763 975</citation>
+	<citation>2   WARD JB               TEX REP BIOL MED                34    11 976</citation>
+	<citation>3   FODER B               CLIN CHIM ACTA                 104   187 980</citation>
+	<citation>4   KATZ S                CELL CALC                        5   421 984</citation>
+	<citation>5   CLOUGH DL             CLIN CHIM ACTA                 138   259 984</citation>
+
+</document>

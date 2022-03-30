@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Induction of alkaline phosphatase in cultured human fibroblasts.
+   Comparison of normal cells and those from patients with cystic
+   fibrosis.</title>
+
+	<author>Wijcik-L.</author>
+	<author>Buchwald-M.</author>
+	<author>Riordan-J-R.</author>
+
+	<source>Biochim-Biophys-Acta. 1979 Jul 4. 585(3). P 374-82.</source>
+
+	<abstract>The membrane glycoprotein enzyme, alkaline phosphatase was induced in
+   cultured human fibroblasts by dibutyryl cyclic AMP, sodium butyrate,
+   the serum glycoprotein fetuin, the Tamm-Horsfall urinary
+   glycoprotein, and by a number of inhibitors of DNA synthesis. The
+   uninduced basal enzyme activity increased at later stages of growth
+   when the cells became confluent. Induction by dibutyryl cyclic AMP or
+   fetuin was most effective when the agents were added after the cells
+   had reached stationary phase and was maximal after at least two days
+   of exposure. The levels of induction resulting from the addition of
+   pairs of the agents, dibutyryl cyclic AMP, n-butyrate and fetuin were
+   additive indicating that these have different modes of action. The
+   inhibitors of DNA synthesis, cytosine arabinoside, hydroxyurea, and
+   methothrexate were less effective inducers. Bromodeoxyuridine which
+   also has non-DNA mediated effects induced to the same extent as
+   dibutyryl cyclic AMP. Similar experiments with sex- and age-matched
+   cell strains derived from patients with cystic fibrosis failed to
+   detect differences in the levels of induction from those observed in
+   normal cells. In addition, the combined inductive effects of Tamm-
+   Horsfall glycoprotein, isoproterenol and theophylline, were similar
+   with normal and cystic fibrosis cells.</abstract>
+
+	<majorsubject>ALKALINE-PHOSPHATASE: bi</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: en</majorsubject>
+	<majorsubject>FIBROBLASTS: en</majorsubject>
+
+	<minorsubject>CELL-DIVISION</minorsubject>
+	<minorsubject>CELLS-CULTURED</minorsubject>
+	<minorsubject>COMPARATIVE-STUDY</minorsubject>
+	<minorsubject>DNA: bi</minorsubject>
+	<minorsubject>ENZYME-INDUCTION: de</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>TIME-FACTORS</minorsubject>
+
+	<reference>001   STEPAN J              EXPERIENTIA                     29   948 973</reference>
+	<reference>002   FISHMAN WH            AM J MED                        56   617 974</reference>
+	<reference>003   LIN CW                J HISTOCHEM CYTOCHEM            24   659 976</reference>
+	<reference>004   RIORDAN JR            IN: JULIONO RL                   2   146 978</reference>
+	<reference>005   KOYAMA H              BIOCHEM BIOPHYS RES COMMUN      46   305 972</reference>
+	<reference>006   MAZIERE JC            BIOCHIMIE                       59   221 977</reference>
+	<reference>007   NOSE K                JAPAN J EXP MED                 46   347 976</reference>
+	<reference>008   COX RJ                BIOCHEM J                      105   155 967</reference>
+	<reference>009   COX RP                J MOL BIOL                      58   197 971</reference>
+	<reference>010   GRIFFIN MJ            ARCH BIOCHEM BIOPHYS           164   619 974</reference>
+	<reference>011   MIEDEMA E             EXP CELL RES                    53   488 968</reference>
+	<reference>012   VANNEUVILLE FJ        BIOCHEM SOC TRANS                5  1117 977</reference>
+	<reference>013   LUNDGREN E            EXP CELL RES                   110    25 977</reference>
+	<reference>014   HOSLI P               ADV EXP MED BIOL                68     1 974</reference>
+	<reference>015   HOSLI P               BIOCHEM BIOPHYS RES COMMUN      73   209 976</reference>
+	<reference>016   HOSLI P               BIOCHEM BIOPHYS RES COMMUN      79   741 977</reference>
+	<reference>017   RIORDAN JR            J SUPRAMOL STRUCT SUPPL          2   126 978</reference>
+	<reference>018   TAMM I                J EXP MED                       95    71 952</reference>
+	<reference>019   BUCHWALD M            MOD PROBL PEDIATR               19   165 977</reference>
+	<reference>020   STANNERS CP           NATURE NEW BIOL                230    52 971</reference>
+	<reference>021   BOHLEN P              ARCH BIOCHEM BIOPHYS           155   213 973</reference>
+	<reference>022   DEUTSCH SI            BIOCHIM BIOPHYS ACTA           499   382 977</reference>
+	<reference>023   GHOSH NK              NATURE                         267   435 977</reference>
+	<reference>024   HENNEBERRY RC         NATURE                         268   252 977</reference>
+	<reference>025   TALLMAN JF            PROC NAT ACAD SCI USA           74   873 977</reference>
+	<reference>026   MERIMEE TJ            J CLIN ENDOCRINOL METAB         43  1190 976</reference>
+	<reference>027   FISHMAN PH            BIOCHEM BIOPHYS RES COMMUN      59   292 974</reference>
+	<reference>028   GHOSH NK              NATURE                         267   435 977</reference>
+	<reference>029   WRIGHT JA             EXP CELL RES                    78   456 973</reference>
+	<reference>030   GINSBURG E            PROC NAT ACAD SCI USA           70  2457 973</reference>
+	<reference>031   HENNEBERRY RC         CELL                             5     1 975</reference>
+	<reference>032   VIDALI G              PROC NAT ACAD SCI USA           75  2239 978</reference>
+	<reference>033   HORVAT A              J CELL PHYSIOL                  83    59 974</reference>
+	<reference>034   MAZIERE C             BIOCHIMIE                       59   225 977</reference>
+
+	<citation>1   CAREY WF              MED J AUST                       2   604 979</citation>
+	<citation>2   BUCHWALD M            ADV CYCLIC NUCLEO RES           12   243 980</citation>
+	<citation>3   MALER T               BIOCHIM BIOPHYS ACTA           598     1 980</citation>
+	<citation>4   CROFTON PM            CRC CRIT REV CLIN LAB SCI       16   161 982</citation>
+	<citation>5   BUCHWALD M            CLIN BIOCHEM                    17   143 984</citation>
+	<citation>6   ZGURSKII AA           BIOCHEMISTRY USSR               49  1380 984</citation>
+	<citation>7   ZGURSKY AA            TSITOLOGIYA                     27   775 985</citation>
+	<citation>8   YANG AH               IN VITRO CELL DEVEL BIOL        23    34 987</citation>
+	<citation>9   WHYTE MP              CALC TISS INT                   40   244 987</citation>
+
+</document>

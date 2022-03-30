@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>In vitro susceptibility of pseudomonas to four
+   beta-lactamantibiotics (ampicillin, cephalothin, carbenicillin,
+   piperacillin), to four aminoglycosides (kanamycin, amikacin,
+   gentamicin, tobramycin) and to colimycin.</title>
+
+	<author>Hoogkamp-Korstanje-J-A.</author>
+	<author>Westerdaal-N-A.</author>
+
+	<source>Chemotherapy. 1979. 25(1). P 48-53.</source>
+
+	<abstract>Of 97 well-defined strains of Pseudomonas, isolated from sputum of
+   patients with cystic fibrosis (CF), the minimum inhibitory
+   concentration (MIC) of several antibiotics was determined with a
+   broth dilution method. The majority of the strains were resistant to
+   ampicillin and cephalothin, moderately susceptible to carbenicillin
+   (70% to 100 microgram/ml) and highly susceptible to piperacillin
+   (100% to 25 microgram/ml, 88% to 6.25 microgram and 60% to 3.12
+   microgram/ml). If the pharmacological properties of piperacillin are
+   comparable with those of carbenicillin, it can be expected that the
+   sputum level of this drug will be adequate to treat Pseudomonas
+   pulmonary infections. At the lowest concentration tested (0.78
+   microgram/ml) 3% of the strains were susceptible to kanamycin, 85,5%
+   to amikacin, 95% to gentamicin, 98% of tobramycin, and 80% to
+   colimycin. With regard to clinically attainable concentrations, 98.9%
+   of the strains were susceptible to gentamicin and tobramycin 97.9% to
+   amikacin, 96.9% to colimycin, 88.6%  to piperacillin, 38% to
+   carbenicillin, 25.7% to kanamycin, 12.3% to ampicillin, and 1% to
+   cephalothin.</abstract>
+
+	<majorsubject>AMINOGLYCOSIDES: pd</majorsubject>
+	<majorsubject>CEPHALOTHIN: pd</majorsubject>
+	<majorsubject>COLISTIN: pd</majorsubject>
+	<majorsubject>PENICILLINS: pd</majorsubject>
+	<majorsubject>PSEUDOMONAS: de</majorsubject>
+
+	<minorsubject>AMIKACIN: pd</minorsubject>
+	<minorsubject>AMPICILLIN: pd</minorsubject>
+	<minorsubject>CARBENICILLIN: pd</minorsubject>
+	<minorsubject>CHILD</minorsubject>
+	<minorsubject>COMPARATIVE-STUDY</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: mi</minorsubject>
+	<minorsubject>DRUG-RESISTANCE-MICROBIAL</minorsubject>
+	<minorsubject>GENTAMICINS: pd</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>KANAMYCIN: pd</minorsubject>
+	<minorsubject>MICROBIAL-SENSITIVITY-TESTS</minorsubject>
+	<minorsubject>SPUTUM: mi</minorsubject>
+	<minorsubject>TOBRAMYCIN: pd</minorsubject>
+
+	<reference>001   BLAIR JE              MANUAL OF CLINICAL MICROBIOLO            970</reference>
+	<reference>002   BOXERBAUM B           J INFECT DIS SUPPL             122    59 970</reference>
+	<reference>003   BOXERBAUM B           J INFECT DIS SUPPL             124   293 971</reference>
+	<reference>004   COWAN ST              MANUAL FOR THE IDENTIFICATION            973</reference>
+	<reference>005   ERICSSON HM           ACTA PATH MICROBIOL SCAND     S217       971</reference>
+	<reference>006   MARKS MI              J PEDIATR                       79   822 971</reference>
+	<reference>007   MONROE PW             APPL MICROBIOL                  18   214 969</reference>
+	<reference>008   PENNINGTON JE         ANTIMICROB AGENTS CHEMOTHER      4   299 973</reference>
+	<reference>009   PHAIR JP              AM J DIS CHILD                 120    22 970</reference>
+	<reference>010   REYNOLDS AV           BR MED J                         3   778 974</reference>
+	<reference>011   SAGGERS BA            ARCH DIS CHILD                  43   404 968</reference>
+	<reference>012   WOOD RE               PSEUDOMONAS INFECTION IN CF P            975</reference>
+	<reference>013   ZIERDT CH             J CLIN MICROBIOL                 1   521 975</reference>
+
+	<citation>1   HOOGKAMPKORSTANJE JAA J ANTIMICROB CHEMOTHER           8   101 981</citation>
+	<citation>2   HOOGKAMPKORSTANJE JAA INFECTION                       10  S257 982</citation>
+	<citation>3   HOOGKAMPKORSTANJE JAA J ANTIMICROB CHEMOTHER          12   175 983</citation>
+	<citation>4   SEGNI G               CURR THER RES CLIN EXP          33   265 983</citation>
+
+</document>

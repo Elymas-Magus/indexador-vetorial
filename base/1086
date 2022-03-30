@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Serotypes and antibiotic susceptibilities of Pseudomonas aeruginosa
+   isolates from single sputa of cystic fibrosis patients.</title>
+
+	<author>Seale-T-W.</author>
+	<author>Thirkill-H.</author>
+	<author>Tarpay-M.</author>
+	<author>Flux-M.</author>
+	<author>Rennert-O-M.</author>
+
+	<source>J-Clin-Microbiol. 1979 Jan. 9(1). P 72-8.</source>
+
+	<abstract>A phenotypic characterization of Pseudomonas aeruginosa from single
+   sputum samples of 21 typical cystic fibrosis patients indicated a
+   high frequency of heterogeneity among isolates on the basis of
+   differences in antibiotic resistance, colony morphology,
+   pigmentation, and serotype.  Two or more isolates with different but
+   stable susceptibilities to carnecillin, gentamycin, streptomycin,
+   tetracycline, chloramphenicol, and sulfamethoxazole plus
+   trimethoprim were detected in 38% of the sputa.  Differences
+   generally were independent of the mucoid state of the strain.  O-
+   antigen group determination with the Difco typing set showed that
+   two or more serologically distinct strains were present in 10/21
+   sputum specimens.  Nonmucoid derivatives of mucoid isolates almost
+   always retained both the antibiotic susceptibilities and serotype of
+   their parent strain.  These data suggest that cystic fibrosis
+   patients may be cocolonized/coinfected by difference strains of P.
+   aeruginosa more frequently than generally believed.  Alternatively,
+   phenotypically distinct strains from a single patient might arise as
+   phenotypic dissociants from a single infecting strain.  Because of
+   the frequency and multiplicity of phenotypically distinct P.
+   aeruginosa isolates which we obtained from our cystic fibrosis
+   patients, it is important to select multiple isolates from sputum
+   cultures for antimicrobial susceptibility testing so as to assess
+   adequately the susceptibility of this organism to antibiotic therapy
+   in cystic fibrosis.  We recommend that several colonies of each
+   distinguishable colony type of P. aeruginosa be pooled for the
+   antibiogram.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS: mi</majorsubject>
+	<majorsubject>PSEUDOMONAS-AERUGINOSA: cl</majorsubject>
+	<majorsubject>SPUTUM: mi</majorsubject>
+
+	<minorsubject>ADOLESCENCE</minorsubject>
+	<minorsubject>ADULT</minorsubject>
+	<minorsubject>ANTIBIOTICS: pd</minorsubject>
+	<minorsubject>CHILD</minorsubject>
+	<minorsubject>CHILD-PRESCHOOL</minorsubject>
+	<minorsubject>DRUG-RESISTANCE-MICROBIAL</minorsubject>
+	<minorsubject>HAEMOPHILUS-INFLUENZAE: ip</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>PSEUDOMONAS-AERUGINOSA: de</minorsubject>
+	<minorsubject>SEROTYPING</minorsubject>
+	<minorsubject>STAPHYLOCOCCUS-AUREUS: ip</minorsubject>
+	<minorsubject>SUPPORT-U-S-GOVT-P-H-S</minorsubject>
+
+	<reference>001   BAUER AW              AM J CLIN PATHOL                45   493 966</reference>
+	<reference>002   BERGAN T              ACTA PATH MICROBIOL SCAND (B)   83   553 975</reference>
+	<reference>003   BOWMAN BH             IN: MANGOS JA                        277 976</reference>
+	<reference>004   BOXERBAUM B           AM REV RESPIR DIS              108   777 973</reference>
+	<reference>005   DIAZ F                J INFECT DIS                   121   269 970</reference>
+	<reference>006   DI SANTAGNESE PA      N ENGL J MED                   295   481 976</reference>
+	<reference>007   DOGGETT RG            J PEDIATR                       68   215 966</reference>
+	<reference>008   GRIEBLE HG            N ENGL J MED                   282   531 970</reference>
+	<reference>009   HOIBY N               ACTA PATH MICROBIOL SCAND (C) S262     1 977</reference>
+	<reference>010   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   551 974</reference>
+	<reference>011   LEVISON H             IN: MANGOS JA                          3 976</reference>
+	<reference>012   SHWACHMAN H           MEDICINE (BALTIMORE)            56   129 977</reference>
+	<reference>013   SCHWARZMANN S         INFECT IMMUN                     3   762 971</reference>
+	<reference>014   TALAMO RC             IN: MANGOS JA                        195 976</reference>
+	<reference>015   WILLIAMS RJ           J MED MICROBIOL                  6   409 973</reference>
+	<reference>016   ZIERDT CH             J BACTERIOL                     87  1003 964</reference>
+	<reference>017   ZIERDT CH             J CLIN MICROBIOL                 1   521 975</reference>
+
+	<citation>1   DEMKO CA              CURRENT MICROBIOL                4    69 980</citation>
+	<citation>2   MARKOWITZ SM          J ANTIMICROB CHEMOTHER           6   251 980</citation>
+	<citation>3   GODFREY AJ            ANTIMICROB AGENTS CHEMOTHER     19   705 981</citation>
+	<citation>4   IRVIN RT              ANTIMICROB AGENTS CHEMOTHER     19  1056 981</citation>
+	<citation>5   WILSON LA             AM J OPHTHALMOL                 92   546 981</citation>
+	<citation>6   MARKS MI              J PEDIATR                       98   173 981</citation>
+	<citation>7   SEALE TW              ANN CLIN LAB SCI                12   415 982</citation>
+	<citation>8   JANDA JM              J CLIN MICROBIOL                15   178 982</citation>
+	<citation>9   SHEEHAN DJ            J CLIN MICROBIOL                15   926 982</citation>
+	<citation>10   PUGASHETTI BK         J CLIN MICROBIOL                16   686 982</citation>
+	<citation>11   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    33 982</citation>
+	<citation>12   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    75 982</citation>
+	<citation>13   ANON                  LANCET                           2   257 983</citation>
+	<citation>14   GOVAN JRW             REV INFECT DIS                   5  S874 983</citation>
+	<citation>15   JAGGER KN             J CLIN MICROBIOL                17    55 983</citation>
+	<citation>16   FLOURNOY DJ           METH FIND EXP CLIN PHARMACOL     6   487 984</citation>
+	<citation>17   CHAN R                J CLIN MICROBIOL                19     8 984</citation>
+	<citation>18   MCNEILL WF            AM J CLIN PATHOL                81   742 984</citation>
+	<citation>19   GOLD R                PEDIATR INFECT DIS               4   172 985</citation>
+	<citation>20   LUZAR MA              INFECT IMMUN                    50   577 985</citation>
+	<citation>21   KOMIYAMA K            ORAL SURG                       59   590 985</citation>
+	<citation>22   BERKIN KE             EUR J RESPIR DIS                67   103 985</citation>
+	<citation>23   PIER GB               J INFECT DIS                   151   575 985</citation>
+	<citation>24   PACIFICO L            J INFECT DIS                   152   852 985</citation>
+	<citation>25   MAYO MS               J CLIN MICROBIOL                24   372 986</citation>
+	<citation>26   PIER GB               J CLIN MICROBIOL                24   189 986</citation>
+	<citation>27   KOMIYAMA K            CAN J MICROBIOL                 33   221 987</citation>
+	<citation>28   OGLE JW               J INFECT DIS                   155   119 987</citation>
+
+</document>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Test strip meconium screening for cystic fibrosis.</title>
+
+	<author>Bruns-W-T.</author>
+	<author>Connell-T-R.</author>
+	<author>Lacey-J-A.</author>
+	<author>Whisler-K-E.</author>
+
+	<source>Am-J-Dis-Child. 1977 Jan. 131(1). P 71-3.</source>
+
+	<abstract>The Boehringer-Mannheim Corporation (BMC) strip test is extremely
+   reliable in indicating an albumin content above 20 mg/gm of dried
+   meconium. All infants born during one year in 14 Milwaukee area
+   hospitals were tested. Of 16,224 newborns, two were diagnosed
+   correctly as suffering from cystic fibrosis and two were missed.
+   False-positive tests were obtained in 0.9% of infants (prematurity,
+   melena, gastroschisis, and intrauterine infection). The strip test
+   is, at present, the best available but not the perfect screening
+   method for cystic fibrosis.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS: di</majorsubject>
+	<majorsubject>INDICATORS-AND-REAGENTS</majorsubject>
+	<majorsubject>MASS-SCREENING</majorsubject>
+	<majorsubject>MECONIUM: an</majorsubject>
+	<majorsubject>PHENOLPHTHALEINS: du</majorsubject>
+	<majorsubject>REAGENT-STRIPS</majorsubject>
+
+	<minorsubject>ALBUMINS: an</minorsubject>
+	<minorsubject>FALSE-NEGATIVE-REACTIONS</minorsubject>
+	<minorsubject>FALSE-POSITIVE-REACTIONS</minorsubject>
+	<minorsubject>FEMALE</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>INFANT-NEWBORN</minorsubject>
+	<minorsubject>SWEAT: an</minorsubject>
+	<minorsubject>WISCONSIN</minorsubject>
+
+	<reference>001   GREEN MN              PEDIATRICS                      41   989 968</reference>
+	<reference>002   STEPHAN U             PADIATRISCHE PRAXIS             12   487 973</reference>
+	<reference>003   PROSSER R             ARCH DIS CHILD                  49   597 974</reference>
+	<reference>004   STEPHAN U             PEDIATRICS                      55    35 975</reference>
+	<reference>005   KAISER D              HELV PAEDIATR ACTA              29    51 974</reference>
+	<reference>006   KOLLBERG H            ARCH DIS CHILD                  47   836 972</reference>
+	<reference>007   HELLSING K            SCAND J CLIN LAB INVEST         33   333 974</reference>
+	<reference>008   FRANKENBURG WK        PEDIATRICS                      54   612 974</reference>
+	<reference>009   NORTH AF JR           PEDIATRICS                      54   631 974</reference>
+	<reference>010   DI SANTAGNESE PA      PEDIATRICS                      15   683 955</reference>
+	<reference>011   HOLTZMAN NA           J PUBLIC HEALTH                 64   775 974</reference>
+	<reference>012   HOLTZMAN NA           JAMA                           229   667 974</reference>
+
+	<citation>1   BRUNS WT              AM J DIS CHILD                 131   853 977</citation>
+	<citation>2   RYLEY HC              MONOGR PAEDIATR                 10   151 979</citation>
+	<citation>3   TRAVERT G             J GENET HUM                     28   141 980</citation>
+	<citation>4   TRAVERT G             NOUV PRESSE MED                 10  2093 981</citation>
+	<citation>5   ROSENSTEIN BJ         JOHNS HOPKINS MED J            150   113 982</citation>
+
+</document>

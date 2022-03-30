@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Operational definition of cystic fibrosis.  I.</title>
+
+	<author>Hosli-P.</author>
+	<author>Kollberg-H.</author>
+	<author>Vogt-E.</author>
+
+	<source>Monogr-Paediatr. 1979. 10. P 90-5.</source>
+
+	<abstract>Recently, one of us suggested a new hypothesis concerning the &apos;basic
+   defect&apos; of cystic fibrosis.  The purpose of the present paper is to
+   review this model and to critically discuss its eventual diagnostic
+   applications.  With extensive studies, we collected experimental data
+   which contribute five major arguments in favour of the proposition
+   that CF may be an enzyme recognition site mutant.  With fibroblast
+   cultures the three genotypes can be separated in the following way:
+   CF homozygote, leaky for alkaline phosphatase (A1P) and lysosomal
+   hydrolases/A1P is Tamm-Horsfall glycoprotein (THP) inducible; CF
+   heterozygote, leaky for A1P and lysosomal hydrolases/A1P is not THP
+   inducible; normal control, not leaky for A1P and lysosomal
+   enzymes/A1P is not THP inducible.  With the exception of a second
+   double-blind study, the THP induction as well as the leakage analysis
+   seem to be statistically unequivocal: they strongly support our
+   hypothesis concerning the basic defect in CF.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS: di</majorsubject>
+
+	<minorsubject>ANIMAL</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: en, fg, me</minorsubject>
+	<minorsubject>FIBROBLASTS: me</minorsubject>
+	<minorsubject>HETEROZYGOTE</minorsubject>
+	<minorsubject>HOMOZYGOTE</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>HYDROLASES: me</minorsubject>
+	<minorsubject>LYSOSOMES: en</minorsubject>
+
+	<reference>001   HOSLI P               PROC INT CF CONG 7TH                 278 976</reference>
+	<reference>002   HOSLI P               BIOCHEM BIOPHYS RES COMMUN      79   741 977</reference>
+	<reference>003   HOSLI P               BIOCHEM BIOPHYS RES COMMUN      73   209 976</reference>
+	<reference>004   HOSLI P               HUM HERED                       27   185 977</reference>
+	<reference>005   WARD JB JR            TEX REP BIOL MED                34    11 976</reference>
+	<reference>006   RENNERT OM            GAP CONF REP TISS CULT APPR            1 977</reference>
+	<reference>007   HOSLI P               IN: MOTULSKY AG                      226 974</reference>
+	<reference>010   HOSLI P               ADV EXP MED BIOL                68     1 976</reference>
+	<reference>011   HOSLI P               CLIN CHEM                       23  1476 977</reference>
+	<reference>012   BOAT TF               IN: MANGOS JA                        165 976</reference>
+	<reference>013   HOSLI P               HUM GENET                       41   169 978</reference>
+	<reference>015   HICKMAN S             BIOCHEM BIOPHYS RES COMMUN      57    55 974</reference>
+	<reference>016   WIESMANN UN           N ENGL J MED                   284   109 971</reference>
+	<reference>017   SCANLIN TF JR         PROC INT CF CONG 7TH                  44 976</reference>
+	<reference>020   MANGOS JA             SCIENCE                        158   135 967</reference>
+	<reference>021   PALADE GE             INT SYMP ON LYSOSOMES ABST            36 972</reference>
+	<reference>022   PALADE GE             CF Q ANNOTATED REFERENCES       14    29 975</reference>
+	<reference>023   HOSLI P               TISSUE CULTIVATION ON PLASTIC            972</reference>
+
+	<citation>1   HOSLI P               LANCET                           2   543 979</citation>
+	<citation>2   DISANTAGNESE PA       MONOGR PAEDIATR                 10    66 979</citation>
+	<citation>3   HOSLI P               FEBS LETTERS                   104   271 979</citation>
+	<citation>4   TEGNER H              ACTA PAEDIATR SCAND             70   629 981</citation>
+	<citation>5   MALER T               J BIOL CHEM                    256  1420 981</citation>
+	<citation>6   CAREY WF              MED J AUST                       2   528 983</citation>
+	<citation>7   HEELEY AF             CLIN CHEM                       29  2011 983</citation>
+	<citation>8   CEDER O               ACTA PAEDIATR SCAND             72   291 983</citation>
+	<citation>9   CEDER O               ACTA PAEDIATR SCAND SUPPL 309 1983     1 983</citation>
+	<citation>10   BUYS CHCM             CLIN CHIM ACTA                 136   229 984</citation>
+
+</document>

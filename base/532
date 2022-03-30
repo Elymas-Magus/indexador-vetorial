@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Determination and characterization of ciliary ATPase in the presence
+   of serum from cystic fibrosis patients.</title>
+
+	<author>Farrell-P-M.</author>
+	<author>Fox-G-N.</author>
+	<author>Spicer-S-S.</author>
+
+	<source>Pediatr-Res. 1976 Feb. 10(2). P 127-35.</source>
+
+	<abstract>The purpose of this investigation was twofold: (1) to identify and
+   characterize the enzymatic ATP hydrolysis system of epithelial cilia,
+   and (2) to develop a quantitative, biochemical test for the
+   ciliotoxic cystic fibrosis (CF) factor based on inhibition of ATP
+   utilization by ciliary preparations. Our rationale for selecting this
+   system for CF factor analysis relates to the tight and essential
+   mechanochemical coupling of functioning cilia. Using rabbit tracheal
+   epithelium as the source, a high molecular weight (greater than
+   200,000) ATPase was identified, partially purified, and extensively
+   characterized. The properties of this protein were similar to those
+   observed in previous studies of others with flagellar and ciliary
+   dynein (the motility-associated ATPase) isolated from microorganisms.
+   Analysis of the pH profile revealed a broad range of high enzymatic
+   activity between 6.5 and 9. Studies with potential cation activators
+   showed that the enzyme is activated equally by either Ca2+ or Mg2+ in
+   equimolar concentrations. No activation occurred in the presence of
+   Zn2+, Na+, H+, or Na+ plus K+ and the effect of Mg2+ or Ca2+ was not
+   inhibited by Na+, K+, or Na+ plus K+. The enzyme hydrolyzed Mg2+-
+   containing solutions of UTP, CTP, and ADP at 51-54% the rate of ATP
+   dephosphorylation, whereas Mg-deoxy-ATP was hydrolyzed 79% as
+   effectively as ATP. Using a newly devised, analytical technique with
+   [gamma-32P]ATP as the substrate, the ATP hydrolysis of various
+   ciliary preparations from rabbit trachea and oyster gill (including
+   motile suspensions) was monitored in the presence of sera from CF
+   homo- and heterozygotes. Reproducible rates of ATP dephosphorylation
+   averaging 27 nmol/min/mg protein were demonstrable with homogenates
+   of ciliated epithelium. None of the test systems evaluated, however,
+   were capable of demonstrating CF-related differences in ATPase
+   activity or ATP utilization. Although these attemps have been
+   unsuccessful thus far, the approach described in this report provides
+   an example of an objective, quantitative, biochemical assessment of
+   ciliary function.</abstract>
+
+	<majorsubject>ADENOSINE-TRIPHOSPHATE: me</majorsubject>
+	<majorsubject>CILIA: en</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: en</majorsubject>
+	<majorsubject>EPITHELIUM: en</majorsubject>
+	<majorsubject>EPITHELIUM: cy</majorsubject>
+
+	<minorsubject>ADENOSINE-TRIPHOSPHATASE: me</minorsubject>
+	<minorsubject>ANIMAL</minorsubject>
+	<minorsubject>CHROMATOGRAPHY: mt</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: bl</minorsubject>
+	<minorsubject>ELECTROLYTES: pd</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>HYDROLYSIS</minorsubject>
+	<minorsubject>IN-VITRO</minorsubject>
+	<minorsubject>MICROSCOPY-ELECTRON</minorsubject>
+	<minorsubject>OYSTERS: an</minorsubject>
+	<minorsubject>RABBITS</minorsubject>
+
+	<reference>001   AIELLO EL             PHYSIOL ZOOL                    23   120 960</reference>
+	<reference>002   BARGMAN GJ            PEDIATR RES                      8   464 974</reference>
+	<reference>003   BESLEY GTN            J MED GENET                      6   278 969</reference>
+	<reference>004   BOWMAN BH             PROC NAT ACAD SCI USA           70   548 973</reference>
+	<reference>005   BOWMAN BH             SCIENCE                        164   325 969</reference>
+	<reference>006   BROKAW CJ             SCIENCE                        156    76 967</reference>
+	<reference>007   BROKAW CJ             ARCH BIOCHEM BIOPHYS           125   770 968</reference>
+	<reference>008   BROKAW CJ             ARCH BIOCHEM BIOPHYS           142    91 971</reference>
+	<reference>009   CHERRY JD             J PEDIATR                       79   937 971</reference>
+	<reference>010   CHEUNG ATW            CF CLUB ABST                    14    28 973</reference>
+	<reference>011   COLE CH               PEDIATR RES                      6   616 972</reference>
+	<reference>012   CONOVER JH            PEDIATR RES                      7   220 973</reference>
+	<reference>013   CONOVER JH            PEDIATR RES                      7   224 973</reference>
+	<reference>014   DI SANTAGNESE PA      N ENGL J MED                   277  1287 967</reference>
+	<reference>015   ECKERT R              SCIENCE                        176   473 972</reference>
+	<reference>016   EISENBERG E           J BIOL CHEM                    245  2451 970</reference>
+	<reference>017   FAIRBANKS G           BIOCHEMISTRY                    10  2606 971</reference>
+	<reference>018   FISKE CH              J BIOL CHEM                     66   375 925</reference>
+	<reference>019   GRAY J                PROC R SOC LOND BIOL            96    95 924</reference>
+	<reference>020   GIBBONS IR            J BIOL CHEM                    241  5500 966</reference>
+	<reference>021   GIBBONS IR            J CELL BIOL                     54   365 972</reference>
+	<reference>022   GIBBONS BH            J CELL BIOL                     54    75 972</reference>
+	<reference>023   HORTON CR             BIOCHEM BIOPHYS RES COMMUN      40   505 970</reference>
+	<reference>024   KINOSITA H            PHYSIOL REV                     47    53 967</reference>
+	<reference>025   LOWRY OH              J BIOL CHEM                    193   265 951</reference>
+	<reference>026   MANGOS JA             PEDIATR RES                      1   436 967</reference>
+	<reference>027   MANGOS JA             GAP CONF REP CILIARY INHIBITO          2 973</reference>
+	<reference>028   POSSELT HG            Z KINDERHEILK                  110    93 971</reference>
+	<reference>029   SKOU JC               PHYSIOL REV                     45   596 965</reference>
+	<reference>030   SPOCK A               PEDIATR RES                      1   173 967</reference>
+	<reference>031   TAYLOR A              PEDIATR RES                      8   861 974</reference>
+	<reference>032   WARNER FD             ADV CELL MOL BIOL                2   193 972</reference>
+	<reference>033   WACHSTEIN M           J HISTOCHEM CYTOCHEM             8   387 960</reference>
+	<reference>034   WATANABE T            BIOCHEM BIOPHYS RES COMMUN      52   195 973</reference>
+	<reference>035   WETZEL MG             J CELL BIOL                     30   299 966</reference>
+	<reference>036   WOOD RE               LANCET                           2  1452 973</reference>
+
+	<citation>1   MARTINEZ JR           MO MED                          73   173 976</citation>
+	<citation>2   WOOD RE               AM REV RESPIR DIS              113   833 976</citation>
+	<citation>3   DISANTAGNESE PA       N ENGL J MED                   295   534 976</citation>
+	<citation>4   BOGART BI             PEDIATR RES                     12    15 978</citation>
+	<citation>5   KURLANDSKY LE         PEDIATR RES                     14  1263 980</citation>
+	<citation>6   MALER T               BIOCHIM BIOPHYS ACTA           598     1 980</citation>
+
+</document>

@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Liver-spleen scanning in pediatrics.</title>
+
+	<author>Rosenfield-N.</author>
+	<author>Treves-S.</author>
+
+	<source>Pediatrics. 1974 May. 53(5). P 692-701.</source>
+
+	<abstract>Liver-spleen scans on 254 children were reviewed retrospectively
+   with regard to accuracy and yield of examination.  The scan
+   predicted abnormality correctly 95% of the time and normality
+   correctly 86% of the time.  Pitfalls in interpretation include the
+   nonspecificity of abnormalities present on the scan, confusion of
+   extrinsic with intrinsic defects, and normal anatomical variations
+   with pathology.  The technetium-99m-sulfur colloid scan was found to
+   be most helpful in diagnosing splenic abnormalities, in working up
+   abdominal masses, and in evaluating tumor patients with a baseline
+   scan.  It was found least useful in patients with fever of unknown
+   origin, abdominal pain, diffuse liver disease, and most inflammatory
+   conditions.  Liver abscesses were not found in febrile, otherwise
+   healthy children.  The iodine-131-rose bengal liver scan was found
+   to be useful to differentiate potentially curable lesions (e.g.,
+   choledochal cysts) from those not surgically treatable.</abstract>
+
+	<majorsubject>BILIARY-TRACT-DISEASES: di</majorsubject>
+	<majorsubject>HEPATOMA: di</majorsubject>
+	<majorsubject>KIDNEY-NEOPLASMS: di</majorsubject>
+	<majorsubject>LIVER-DISEASES: di</majorsubject>
+	<majorsubject>LIVER-NEOPLASMS: di</majorsubject>
+	<majorsubject>NEPHROBLASTOMA: di</majorsubject>
+	<majorsubject>RADIONUCLIDE-IMAGING</majorsubject>
+	<majorsubject>SPLENIC-DISEASES: di</majorsubject>
+
+	<minorsubject>ANEMIA-SICKLE-CELL: di</minorsubject>
+	<minorsubject>CHILD</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: di</minorsubject>
+	<minorsubject>CYSTS: di</minorsubject>
+	<minorsubject>DIAGNOSTIC-ERRORS</minorsubject>
+	<minorsubject>EVALUATION-STUDIES</minorsubject>
+	<minorsubject>HEPATOMEGALY: et</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>IODINE-RADIOISOTOPES: du</minorsubject>
+	<minorsubject>IODINE-RADIOISOTOPES</minorsubject>
+	<minorsubject>CHOLESTASIS: di</minorsubject>
+	<minorsubject>LIVER-CIRRHOSIS: di</minorsubject>
+	<minorsubject>SPLENIC-RUPTURE: di</minorsubject>
+	<minorsubject>SPLENOMEGALY: et</minorsubject>
+	<minorsubject>TECHNETIUM</minorsubject>
+
+	<reference>001   TEFFT M               AM J ROENTG RAD THER NUCL MED  101   570 967</reference>
+	<reference>002   TREVES S              SEMIN NUCL MED                   3    55 973</reference>
+	<reference>003   NAGLER W              GASTROENTEROLOGY                44    36 963</reference>
+	<reference>004   DRUM DE               J NUCL MED                      13   908 973</reference>
+	<reference>005   FELLOWS KE            AM J ROENTG RAD THER NUCL MED  104   678 968</reference>
+	<reference>006   CONN HO               GASTROENTEROLOGY                54   135 968</reference>
+	<reference>007   LUSTED LB             N ENGL J MED                   284   416 971</reference>
+	<reference>008   TEFFT M               AM J ROENTG RAD THER NUCL MED  111   165 971</reference>
+	<reference>009   FELLOWS KE            AM J ROENTG RAD THER NUCL MED  103   422 968</reference>
+	<reference>010   TEFFT M               AM J ROENTG RAD THER NUCL MED  108   365 970</reference>
+	<reference>011   FREEDOM RM            RADIOLOGY                      107   381 973</reference>
+	<reference>012   GRISCOM NT            AM J DIS CHILD                 109   224 965</reference>
+	<reference>013   BLANK E               PEDIATRICS                      51    75 973</reference>
+	<reference>014   PEARSON HA            J PEDIATR                       77   216 970</reference>
+	<reference>015   PEARSON HA            N ENGL J MED                   283   334 970</reference>
+	<reference>016   PEARSON HA            J NUCL MED                      11   348 970</reference>
+	<reference>017   OMARA RE              J PEDIATR                       77   211 970</reference>
+	<reference>018   SILVERMAN A           PEDIATR CLIN GASTROENTEROL               971</reference>
+	<reference>019   WHITE WE              PEDIATRICS                      32   239 963</reference>
+	<reference>020   BRENT RL              AM J DIS CHILD                  98   720 959</reference>
+	<reference>021   MAKSOUD JG            PEDIATRICS                      48   966 971</reference>
+	<reference>022   SILVERBERG M          SEMIN NUCL MED                   3    69 973</reference>
+	<reference>023   THALER MM             AM J DIS CHILD                 116   257 968</reference>
+	<reference>024   WILLIAMS LE           N ENGL J MED                   283    85 970</reference>
+	<reference>025   WAGNER HN             IN: WAGNER HN                        601 968</reference>
+	<reference>026   VIDRIH VE             CAN J SURG                      14   273 971</reference>
+	<reference>027   COVINGTON E           AM J ROENTG RAD THER NUCL MED  109   742 970</reference>
+	<reference>028   LUDBROOK J            GASTROENTEROLOGY                62  1013 972</reference>
+	<reference>029   MCAFEE JG             ARCH INTERN MED                116    95 965</reference>
+	<reference>030   CONN HO               GASTROENTEROLOGY                62  1085 972</reference>
+	<reference>031   SEYMOUR EQ            AM J ROENTG RAD THER NUCL MED  107    54 969</reference>
+	<reference>032   ODONELL TA            AM J ROENTG RAD THER NUCL MED   96  1063 963</reference>
+	<reference>033   FREEMAN LM            BR J RADIOL                     42   651 969</reference>
+
+	<citation>1   WALKER WA             PEDIATR CLIN NORTH AM           22   929 975</citation>
+	<citation>2   WHITE PR              PEDIATR CLIN NORTH AM           22   851 975</citation>
+	<citation>3   TREVES S              POSTGRAD MED                    57   125 975</citation>
+	<citation>4   ROSENFIELD N          RADIOLOGY                      114   113 975</citation>
+	<citation>5   GATES GF              AM J ROENTGENOL                128   773 977</citation>
+	<citation>6   GATES GF              JAMA                           239  2667 978</citation>
+	<citation>7   RACHEDMOHASSEL MA     ANN CHIR                        33   123 979</citation>
+	<citation>8   ROSEN PR              CLIN PEDIATR                    21   180 982</citation>
+
+</document>

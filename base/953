@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Spermine and spermidine, modulators of the cell surface enzyme
+   adenylate cyclase.</title>
+
+	<author>Wright-R-K.</author>
+	<author>Buehler-B-A.</author>
+	<author>Schott-S-N.</author>
+	<author>Rennert-O-M.</author>
+
+	<source>Pediatr-Res. 1978 Aug. 12(8). P 830-3.</source>
+
+	<abstract>Adenylate cyclase activity was measured in membrane preparations of
+   cultured fibroblasts from controls and patients with cystic fibrosis.
+   Enzyme activity increased as the transition from exponential growth
+   to confluence occurred; sodium fluoride-stimulated activity more
+   markedly displayed this relationship than basal cyclase activity. The
+   in vitro addition of spermine (1 X 10(-6) to 2 X 10(-3) M) to
+   membrane preparations caused inhibition of basal and sodium fluoride-
+   stimulated enzyme activity, with 50% inhibition of basal activity
+   occurring at 10(-6) M spermine. Spermidine (10(-4) M) caused 15--25%
+   inhibition of adenylate cyclase activity. The increase in fibroblast
+   adenylate cyclase activity during the transition from exponential
+   growth was comparable in cells obtained from cystic fibrosis patients
+   and control subjects. Basal and sodium-fluoride stimulated adenylate
+   cyclase activity as well as inhibition of this enzyme activity by
+   spermidine and spermine were undistinguishable between the different
+   cell genotypes. A potential modulation of cellular proliferative
+   activity through polyamine interaction with the adenylate cyclase
+   system is postulated.</abstract>
+
+	<majorsubject>ADENYL-CYCLASE: ai</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: en</majorsubject>
+	<majorsubject>SPERMIDINE: pd</majorsubject>
+	<majorsubject>SPERMINE: pd</majorsubject>
+
+	<minorsubject>ADULT</minorsubject>
+	<minorsubject>CELL-MEMBRANE: de, en</minorsubject>
+	<minorsubject>CELLS-CULTURED</minorsubject>
+	<minorsubject>CHILD</minorsubject>
+	<minorsubject>CHILD-PRESCHOOL</minorsubject>
+	<minorsubject>COMPARATIVE-STUDY</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: pa</minorsubject>
+	<minorsubject>FIBROBLASTS: de</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>IN-VITRO</minorsubject>
+	<minorsubject>INFANT-NEWBORN</minorsubject>
+	<minorsubject>SUPPORT-U-S-GOVT-P-H-S</minorsubject>
+
+	<reference>001   ANDERSON WB           ADV CYCLIC NUCLEO RES            5   681 975</reference>
+	<reference>002   AMATRUDA J            BIOCHIM BIOPHYS ACTA           373   266 974</reference>
+	<reference>003   ARVANITAKIS S         TEX REP BIOL MED                34   175 976</reference>
+	<reference>004   BUEHLER B             PEDIATR RES                     11   186 977</reference>
+	<reference>005   BUCHWALD M            PROC NAT ACAD SCI USA           73  2899 976</reference>
+	<reference>006   CHUN P                BIOCHEM BIOPHYS RES COMMUN      69  1095 976</reference>
+	<reference>007   COHEN LF              PEDIATR RES                      9   334 975</reference>
+	<reference>008   CUETRECASAS P         ADV CYCLIC NUCLEO RES            5    79 975</reference>
+	<reference>009   DYKSTRA WG            SCIENCE                        149   428 965</reference>
+	<reference>010   FRANKS DJ             FEBS LETTERS                    42   267 974</reference>
+	<reference>011   HOLTTA E              BIOCHEM BIOPHYS RES COMMUN      54   350 973</reference>
+	<reference>012   JOHNSON RA            J BIOL CHEM                    250  6599 975</reference>
+	<reference>013   KOSSOROTOW A          BIOCHEM J                      144    21 974</reference>
+	<reference>014   LOWRY OH              J BIOL CHEM                    193   265 951</reference>
+	<reference>015   MANGOS JA             IN: MANGOS JA                        311 976</reference>
+	<reference>016   ONEILL J              BIOCHIM BIOPHYS ACTA           404   243 975</reference>
+	<reference>017   OTTEN J               J BIOL CHEM                    247  7082 972</reference>
+	<reference>018   PROCTOR MS            J INVEST DERMATOL               65   409 975</reference>
+	<reference>019   RAINA A               MED BIOL                        53   121 975</reference>
+	<reference>020   RENNERT OM            TEX REP BIOL MED                34   187 976</reference>
+	<reference>021   RICHARDS GM           ANAL BIOCHEM                    57   369 974</reference>
+	<reference>022   ROSENTHAL S           BIOCHIM BIOPHYS ACTA           363   141 974</reference>
+	<reference>023   RUSSELL DH            PROC NAT ACAD SCI USA           60  1420 968</reference>
+	<reference>024   SALOMON Y             ANAL BIOCHEM                    58   541 974</reference>
+	<reference>025   TASHIMA Y             BIOCHEM BIOPHYS RES COMMUN      66  1344 975</reference>
+	<reference>026   WOLFF J               J BIOL CHEM                    250  6897 975</reference>
+	<reference>027   WRIGHT RK             ARCH DERMATOL                  107    47 973</reference>
+
+	<citation>1   ILLIANO G             BULL MOL BIOL MED                4   155 979</citation>
+	<citation>2   CANELLAKIS ES         CURR TOP CELL REGUL             15   155 979</citation>
+	<citation>3   TINTNER R             J NEUROCHEM                     33  1067 979</citation>
+	<citation>4   ALLEN JC              EUR J BIOCHEM                  102   153 979</citation>
+	<citation>5   GAHL WA               PEDIATR RES                     14   118 980</citation>
+	<citation>6   KUROSHIMA A           JAP J PHYSIOL                   30   935 980</citation>
+	<citation>7   KIMBERLY MM           ANAL CHEM                       53   789 981</citation>
+
+</document>

@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Premature senescence in cultured skin fibroblasts from subjects with
+   cystic fibrosis.</title>
+
+	<author>Shapiro-B-L.</author>
+	<author>Lam-L-F.</author>
+	<author>Fast-L-H.</author>
+
+	<source>Science. 1979 Mar 23. 203(4386). P 1251-3.</source>
+
+	<abstract>Cultured skin fibroblasts from subjects with cystic fibrosis
+   exhibited normal population doubling times in early passages. After
+   about 13 cumulative population doublings, cystic fibrosis lines
+   doubled more slowly than controls and ceased doubling after about 19
+   weekly passages. Control lines continued doubling for 27 passages.
+   The premature senescence noted in cells from subjects with cystic
+   fibrosis reconciles controversial observations of cell doubling
+   reported in the literature. Data presented here demonstrate that
+   experiments with cystic fibrosis cells in late passage may generate
+   misleading results since differences from control lines may be
+   ascribed to generalized senile changes rather than to specific
+   results of the cystic fibrosis genotype.</abstract>
+
+	<majorsubject>CELL-SURVIVAL</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: pa</majorsubject>
+
+	<minorsubject>ADOLESCENCE</minorsubject>
+	<minorsubject>ADULT</minorsubject>
+	<minorsubject>AGING</minorsubject>
+	<minorsubject>CELL-DIVISION</minorsubject>
+	<minorsubject>CELLS-CULTURED</minorsubject>
+	<minorsubject>CHILD</minorsubject>
+	<minorsubject>DNA: bi</minorsubject>
+	<minorsubject>FEMALE</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>MALE</minorsubject>
+	<minorsubject>SKIN: pa</minorsubject>
+
+	<reference>001   ANON                  GAP CONF REP TISS CULT APPR              977</reference>
+	<reference>002   RAFF EC               J CELL PHYSIOL                  74   235 969</reference>
+	<reference>003   HOUCK JC              PROC SOC EXP BIOL MED          135   369 970</reference>
+	<reference>004   HOUCK JC              PROC SOC EXP BIOL MED          147   167 974</reference>
+	<reference>005   FLETCHER DS           CLIN CHIM ACTA                  44     5 973</reference>
+	<reference>006   WELCH DW              PEDIATR RES                      9   698 975</reference>
+	<reference>007   FARRELL PM            PROC SOC EXP BIOL MED          149   340 975</reference>
+	<reference>008   BOLTON WE             AM J HUM GENET                  27   394 975</reference>
+	<reference>009   BARRANCO SC           J CELL PHYSIOL                  88    33 976</reference>
+	<reference>010   SHAPIRO BL            CLIN CHIM ACTA                  82   125 978</reference>
+	<reference>011   HAYFLICK L            EXP CELL RES                    25   585 961</reference>
+	<reference>012   HAYFLICK L            EXP CELL RES                    37   614 965</reference>
+	<reference>013   SCHNEIDER EL          PROC SOC EXP BIOL MED          141  1092 972</reference>
+	<reference>014   GOLDSTEIN S           SCIENCE                        199   781 978</reference>
+	<reference>015   NADLER HL             IN: STANBURY JB                     1683 978</reference>
+	<reference>016   LOBECK CC             IN: STANBURY JB                     1605 972</reference>
+	<reference>017   DOERING KM            EUR J PEDIATR                  126   185 977</reference>
+	<reference>018   KELLER PJ             BIOCHEMISTRY                    10  4867 971</reference>
+	<reference>019   ROBINSON AB           PROC NAT ACAD SCI USA           66   753 970</reference>
+	<reference>019   MARTIN GM             IN: BERGSMA D                            978</reference>
+	<reference>020   ARGLEBE C             CLIN OTOLARYNGOLOGY              1   249 976</reference>
+	<reference>021   CHILLA R              ARCH OTO RHINO LARYNGOL        214   267 977</reference>
+	<reference>022   SWENEY LR             PEDIATRICS                      40   421 967</reference>
+	<reference>023   SWENEY LR             ARCH PATHOL                     86   413 968</reference>
+	<reference>024   STREHLER BL           TIME CELLS AND AGING                     977</reference>
+
+	<citation>1   LAM LFH               LIFE SCI                        24  2483 979</citation>
+	<citation>2   SHAPIRO BL            PROC NAT ACAD SCI USA           76  2979 979</citation>
+	<citation>3   HOEHN H               AM J MED GENET                   7   141 980</citation>
+	<citation>4   DAVIS PB              PEDIATR RES                     14    83 980</citation>
+	<citation>5   CHASE HP              METABOLISM                      29   365 980</citation>
+	<citation>6   TARNOKY AL            J ROY SOC MED                   73    73 980</citation>
+	<citation>7   VRACKO R              EXP CELL RES                   129   345 980</citation>
+	<citation>8   ROOMANS GM            ULTRASTRUCTURAL PATHOL           2    53 981</citation>
+	<citation>9   KURZ JB               PEDIATR RES                     15  1328 981</citation>
+	<citation>10   SHAPIRO BL            AM J HUM GENET                  34   846 982</citation>
+	<citation>11   ANDERSON PJ           BIOCHEM BIOPHYS RES COMMUN     108   182 982</citation>
+	<citation>12   SHAPIRO BL            SCIENCE                        216   417 982</citation>
+	<citation>13   CEDER O               SCANN ELECTRON MICROSC        1982   723 982</citation>
+	<citation>14   CARMAGNOL F           PEDIATR RES                     17   181 983</citation>
+	<citation>15   VRACKO R              IN VITRO                        19   504 983</citation>
+	<citation>16   THOMPSON KVA          GERONTOLOGY                     29    97 983</citation>
+	<citation>17   CEDER O               ACTA PAEDIATR SCAND SUPPL 309 1983     1 983</citation>
+	<citation>18   KATZ S                CELL CALC                        5   421 984</citation>
+	<citation>19   MATTHEWS LW           PEDIATR CLIN NORTH AM           31   133 984</citation>
+	<citation>20   GRINSTEIN S           BIOCHIM BIOPHYS ACTA           769   270 984</citation>
+	<citation>21   RAVIA Y               HUM GENET                       71   294 985</citation>
+	<citation>22   AVIOLI LV             AM J NEPHROL                     6   151 986</citation>
+	<citation>23   MATTES PM             PROC NAT ACAD SCI USA           84  3009 987</citation>
+
+</document>

@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Pyocin typing of Pseudomonas aeruginosa.</title>
+
+	<author>Farmer-J-J-3d.</author>
+	<author>Herman-L-G.</author>
+
+	<source>J-Infect-Dis. 1974 Nov. 130 Suppl(0). P S43-6.</source>
+
+	<abstract>Over the last 10 years, pyocin typing has been a useful tool for the
+   epidemiological fingerprinting of Pseudomonas aeruginosa.  The
+   widely used &quot;scrape-and-streak&quot; method of Gillies and Govan,
+   although simple to perform, has not been sensitive enough in
+   differentiation of strains.  Use of additional indicator strains
+   might correct this deficiency.  The &quot;growth-in-broth&quot; method of
+   typing has shown promise; because it is easily automated, it may
+   become the method of choice when very sensitive results are
+   required.  The value of pyocin typing appears to be well established
+   in the study of nosocomial infections; however, in some situations
+   it may give misleading results.  Further studies are required for
+   demonstration of the relative value and relationships of
+   serological, pyocin, and bacteriophage typing.</abstract>
+
+	<majorsubject>BACTERIOCINS</majorsubject>
+	<majorsubject>PSEUDOMONAS-AERUGINOSA: cl</majorsubject>
+	<majorsubject>PYOCINS</majorsubject>
+
+	<minorsubject>ADULT</minorsubject>
+	<minorsubject>BACTERIOLOGICAL-TECHNICS</minorsubject>
+	<minorsubject>CHILD</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: mi</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>INTENSIVE-CARE-UNITS</minorsubject>
+	<minorsubject>MICROBIAL-SENSITIVITY-TESTS</minorsubject>
+	<minorsubject>PSEUDOMONAS-AERUGINOSA: de, ip, me</minorsubject>
+	<minorsubject>PYOCINS: bi, pd</minorsubject>
+
+	<reference>001   BOBO RA               APPL MICROBIOL                  25   414 973</reference>
+	<reference>002   RAMPLING A            LANCET                           1    15 972</reference>
+	<reference>003   GILLIES RR            J PATHOL BACTERIOL              91   339 966</reference>
+	<reference>004   HECKMAN MG            AM J CLIN PATHOL                57    35 972</reference>
+	<reference>005   MUSHIN R              ISR J MED SCI                    9   155 972</reference>
+	<reference>006   DASOMSON T            SOUTHEAST ASIAN J TROP MED PU    1   391 970</reference>
+	<reference>007   FARMER JJ 3RD         APPL MICROBIOL                  18   760 969</reference>
+	<reference>008   JONES LF              APPL MICROBIOL                  26   120 972</reference>
+	<reference>009   ROSE HB               APPL MICROBIOL                  22   475 971</reference>
+	<reference>010   WAHBA AH              J HYG CAMB                      61   431 963</reference>
+	<reference>011   GOVAN JRW             J MED MICROBIOL                  2    17 969</reference>
+	<reference>012   WILLIAMS RJ           J MED MICROBIOL                  6   409 973</reference>
+	<reference>013   FARMER JJ 3RD         APPL MICROBIOL                  20   517 970</reference>
+	<reference>014   HARTMAN PA            ADV APPL MICROBIOL SUPPL         1    85 968</reference>
+	<reference>015   OSMAN MA              J CLIN PATHOL                   18   200 965</reference>
+	<reference>016   ZIERDT CH             J BACTERIOL                     87  1003 964</reference>
+	<reference>017   FARMER JJ 3RD         LANCET                           2    96 970</reference>
+
+	<citation>1   MORSE SA              ANTIMICROB AGENTS CHEMOTHER     10   354 976</citation>
+	<citation>2   FARKASHIMSLEY H       INFECT IMMUN                    16    12 977</citation>
+	<citation>3   GIERLOFF B            NORD VET MED                    32   147 980</citation>
+	<citation>4   CHOUDHARY SP          INDIAN J ANIM SCI               53   629 983</citation>
+	<citation>5   URBANO P              MED MICROBIOL IMMUNOL          172    41 983</citation>
+	<citation>6   MOROZ AF              ZH MIKROBIO EPIDEMIO IMMUNOBI         31 984</citation>
+	<citation>7   CHACON DJ             ANN INST PASTEUR MICROBIOL    137A   253 986</citation>
+
+</document>

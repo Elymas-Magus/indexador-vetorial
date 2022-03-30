@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Cystic fibrosis: enzymatic detection of a ciliostatic factor.</title>
+
+	<author>Gillard-B-K.</author>
+	<author>Feig-S-A.</author>
+	<author>Harrison-G-M.</author>
+	<author>Nelson-T-E.</author>
+
+	<source>Pediatr-Res. 1976 Nov. 10(11). P 907-10.</source>
+
+	<abstract>The ciliostatic cystic fibrosis (CF) factor has been investigated in
+   order to develop an enzymatic assay for its detection. In saliva,
+   this factor is associated with alpha-amylase. Removal or addition of
+   the factor by dialysis does not affect the alpha-amylase catalytic
+   activity of CF or control (normal) saliva. Crude preparations of the
+   dialyzable factor from CF saliva are ciliostatic. Alpha-Amylase-
+   catalyzed starch hydrolysis from both CF and control saliva was found
+   to be insensitive to hydroxyalkylamine inhibitors so this method
+   could not be used to detect differences in CF and control amylase.
+   Since another carbohydrase, mammalian debranching enzyme, is much
+   more sensitive to inhibition, the effect of the isolated crude factor
+   on this enzyme was determined. The mean values for percentage of
+   inhibition of debranching enzyme activity by fractions obtained from
+   saliva of CF patients, obligate heterozygotes, and control subjects
+   are: 32% (27 samples), 13% (21 samples), and 6% (11 samples),
+   respectively. Fifteen of the CF values exceed the maximum 13%
+   inhibition observed for controls. Indeed, five samples almost
+   completely inhibited debranching enzyme. This inhibitory action
+   provides the basis of an enzymatic assay for the detection of the
+   ciliostatic CF factor.</abstract>
+
+	<majorsubject>AMYLASES</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: en</majorsubject>
+	<majorsubject>GLUCOSYLTRANSFERASES: ai</majorsubject>
+	<majorsubject>GLYCOGEN-DEBRANCHING-ENZYME: ai</majorsubject>
+
+	<minorsubject>AMYLASES: ai, me</minorsubject>
+	<minorsubject>DIALYSIS</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>POLYAMINES: pd</minorsubject>
+	<minorsubject>SALIVA: an, en</minorsubject>
+
+	<reference>001   CAUDILL M             LANCET                           2   307 973</reference>
+	<reference>002   BISHOP SH             CF CLUB ABST                    14    25 973</reference>
+	<reference>003   BOWMAN BH             BIOCHEM BIOPHYS RES COMMUN      64  1310 975</reference>
+	<reference>004   BOWMAN BH             SCIENCE                        164   325 969</reference>
+	<reference>005   ANON                  GAP CONF REP CILIARY INHIBITO          2 973</reference>
+	<reference>006   DANES BS              CLIN GENET                       7   128 975</reference>
+	<reference>007   DANES BS              J EXP MED                      136  1313 972</reference>
+	<reference>008   DANES BS              CLIN GENET                       8    85 975</reference>
+	<reference>009   DI SANTAGNESE PA      N ENGL J MED                   277  1287 967</reference>
+	<reference>010   DOGGETT RG            TEX REP BIOL MED                31   685 973</reference>
+	<reference>011   DOGGETT RG            NATURE NEW BIOL                243   251 973</reference>
+	<reference>012   FISHER EH             BIOCHEM PREP                     8    27 961</reference>
+	<reference>014   KAISER D              LANCET                           1  1003 970</reference>
+	<reference>015   LOWRY OH              J BIOL CHEM                    193   265 951</reference>
+	<reference>016   MANGOS JA             SCIENCE                        158   135 967</reference>
+	<reference>017   MANGOS JA             PEDIATR RES                      1   436 967</reference>
+	<reference>018   MCCOMBS ML            TEX REP BIOL MED                31   615 973</reference>
+	<reference>019   MCNEELY CM            CF CLUB ABST                    16     6 975</reference>
+	<reference>020   MILLER GL             ANAL CHEM                       31   964 959</reference>
+	<reference>021   NELSON TE             CF CLUB ABST                           7 974</reference>
+	<reference>022   NELSON TE             FED PROC                        33  1311 974</reference>
+	<reference>023   NELSON TE             BIOCHEMISTRY                     8  1419 969</reference>
+	<reference>024   REESE ET              CARBOHYD RES                    18   381 971</reference>
+	<reference>025   ROBYT JF              IN: RADLEY JA                        431 968</reference>
+	<reference>026   SPOCK A               PEDIATR RES                      1   173 967</reference>
+	<reference>027   WATTS TE              ANAL BIOCHEM                    49   479 972</reference>
+
+	<citation>1   GILLARD BK            BIOCHEMISTRY                    16  3978 977</citation>
+	<citation>2   GILLARD BK            CLIN CHEM                       23  2279 977</citation>
+	<citation>3   GILLARD BK            PEDIATR RES                     12   868 978</citation>
+	<citation>4   IMPERO JE             PEDIATR RES                     12   108 978</citation>
+	<citation>5   JAKEL HP              BIOL ZENTRALBL                  98    55 979</citation>
+	<citation>6   MANDEL ID             CRC CRIT REV CLIN LAB SCI       12   321 980</citation>
+	<citation>7   SEALE TW              PEDIATR RES                     14  1398 980</citation>
+	<citation>8   IMPERO JE             PEDIATR RES                     15   940 981</citation>
+	<citation>9   SEALE TW              ANN CLIN LAB SCI                12   415 982</citation>
+	<citation>10   VONEULER AM           ULTRASTRUCTURAL PATHOL           5    37 983</citation>
+
+</document>

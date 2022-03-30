@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>The effect of serum from patients with pancreatic disease on the
+   short circuit current of rat jejunum.</title>
+
+	<author>Tucker-R-D.</author>
+	<author>Hudrlik-T-R.</author>
+	<author>Gibbs-G-E.</author>
+	<author>Christensen-M-B.</author>
+
+	<source>IEEE-Trans-Biomed-Eng. 1979 Nov. 26(11). P 607-13.</source>
+
+	<abstract>The short circuit current rat jejunum bioassay, first employed in an
+   attempt to discern the cystic fibrosis (CF) serum &quot;factor,&quot; was
+   evaluated using sera from patients with pancreatic disease.  The
+   data suggest other pancreatic diseases, specifically genetic
+   diabetes and alcoholic pancreatitis, also present with a serum
+   &quot;factor&quot; (or &quot;factors&quot;) which reduce the short circuit current of
+   rat jejunum, an effect very similar to that of the CF serum
+   &quot;factor.&quot;  A large number of sera from presumed normal subjects also
+   exhibited a significant reduction in short circuit current; these
+   (false positives) represent a yet to be defined mechanism, however,
+   they do decrease the likelihood that the observed effect is merely
+   due to pancreatic destruction.  Detailed procedure and equipment
+   specifications for the bioassay system are included.</abstract>
+
+	<majorsubject>BIOLOGICAL-ASSAY: mt</majorsubject>
+	<majorsubject>JEJUNUM: ph</majorsubject>
+	<majorsubject>PANCREATIC-DISEASES: bl</majorsubject>
+
+	<minorsubject>ANIMAL</minorsubject>
+	<minorsubject>BIOLOGICAL-ASSAY: is</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: bl</minorsubject>
+	<minorsubject>DIABETES-MELLITUS: bl</minorsubject>
+	<minorsubject>ELECTRIC-CONDUCTIVITY</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>MEMBRANE-POTENTIALS</minorsubject>
+	<minorsubject>PANCREATITIS: bl</minorsubject>
+	<minorsubject>RATS</minorsubject>
+
+	<reference>001   DI SANTAGNESE PA      N ENGL J MED                   277  1287 967</reference>
+	<reference>002   WOOD RE               AM REV RESPIR DIS              113   833 976</reference>
+	<reference>003   KOPEL FB              GASTROENTEROLOGY                62   483 972</reference>
+	<reference>004   CRAIG JM              AM J DIS CHILD                  93   357 957</reference>
+	<reference>005   DI SANTAGNESE PA      PEDIATRICS                      18   387 956</reference>
+	<reference>006   DI SANTAGNESE PA      N ENGL J MED                   295   481 976</reference>
+	<reference>007   SPOCK A               PEDIATR RES                      1   173 967</reference>
+	<reference>008   BOWMAN BH             SCIENCE                        164   325 969</reference>
+	<reference>009   BESLEY GTN            J MED GENET                      6   278 969</reference>
+	<reference>010   CHERRY JD             J PEDIATR                       79   937 971</reference>
+	<reference>011   POSSELT HG            Z KINDERHEILK                  110    93 971</reference>
+	<reference>012   ARAKI H               PEDIATR RES                      9   932 975</reference>
+	<reference>013   ARAKI H               PROC INT CF CONG 7TH                  28 976</reference>
+	<reference>014   GILMORE JP            PROC SOC EXP BIOL MED          157    70 978</reference>
+	<reference>016   CONOVER JH            LANCET                           1  1194 973</reference>
+
+	<citation>1   TUCKER RD             COMPUT BIOL MED                 11   153 981</citation>
+
+</document>

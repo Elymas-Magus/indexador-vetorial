@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Enzymes of phospholipid metabolism in airway secretions of patients
+   with asthma, cystic fibrosis, and alveolar proteinosis.</title>
+
+	<author>Sahu-S.</author>
+	<author>Lynn-W-S.</author>
+
+	<source>Inflammation. 1977 Jun. 2(2). P 93-104.</source>
+
+	<abstract>Phospholipase A2, lysolecithinase, and lysolecithin-lysolecithin
+   acyltransferase are present in the airway secretions of patients
+   with asthma, cystic fibrosis (CF), and alveolar proteinosis.  Assays
+   of these enzymes under the same conditions in extracts of human
+   polymorphonuclear leukocytes, alveolar macrophages, and pig tracheal
+   mucosa indicated that these extracellular airway enzymes were
+   probably not derived from these cell types.  Although the above
+   three enzymes were present in secretions of all patients with these
+   three diseases, large amounts of palmitoyl lysolecithin, free fatty
+   acids, and dipalmitoyl lecithin were found only in patients having
+   alveolar proteinosis and asthma.  The amount of free fatty acids in
+   these secretions was sufficient to inhibit both the lysolecithinase
+   and the lysolecithin-lysolecithin acyltransferase, but not the
+   phospholipase A2.  These findings suggest that the large amount of
+   dipalmitoyl lecithin, free fatty acids, and lysolecithin found in
+   these secretions results from extracellular remodelling by these
+   enzymes.  Because the phospholipase A2 was present in large amounts,
+   it was possible after delipidation to purify it to homogeneity.  It
+   is a stable enzyme with an apparent molecular weight of 75,000 as
+   estimated by SDS-mercaptoethanol gel electrophoresis.</abstract>
+
+	<majorsubject>ASTHMA: en</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: en</majorsubject>
+	<majorsubject>PHOSPHOLIPIDS: me</majorsubject>
+	<majorsubject>PULMONARY-ALVEOLAR-PROTEINOSIS: en</majorsubject>
+	<majorsubject>RESPIRATORY-SYSTEM: en</majorsubject>
+
+	<minorsubject>ADOLESCENCE</minorsubject>
+	<minorsubject>ADULT</minorsubject>
+	<minorsubject>ANIMAL</minorsubject>
+	<minorsubject>CHILD</minorsubject>
+	<minorsubject>CHILD-PRESCHOOL</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>IN-VITRO</minorsubject>
+	<minorsubject>INFANT</minorsubject>
+	<minorsubject>PHOSPHOLIPASES: me</minorsubject>
+	<minorsubject>LYSOLECITHIN-ACYLTRANSFERASE: me</minorsubject>
+	<minorsubject>LYSOPHOSPHATIDYLCHOLINES</minorsubject>
+	<minorsubject>PHOSPHOLIPASES: ip, me</minorsubject>
+	<minorsubject>RABBITS</minorsubject>
+	<minorsubject>RESPIRATORY-SYSTEM: se</minorsubject>
+	<minorsubject>SUPPORT-U-S-GOVT-NON-P-H-S</minorsubject>
+	<minorsubject>SUPPORT-U-S-GOVT-P-H-S</minorsubject>
+
+	<reference>001   SAHU S                AM REV RESPIR DIS              114   177 976</reference>
+	<reference>002   SAHU S                AM REV RESPIR DIS              115   233 977</reference>
+	<reference>003   LEWIS RW              LIPIDS                           6   859 971</reference>
+	<reference>004   ROBERTSON AF          BIOCHEMISTRY                     1   804 962</reference>
+	<reference>005   GALLAI-HATCHARD JJ    BIOCHIM BIOPHYS ACTA            98   128 965</reference>
+	<reference>006   GARCIA A              BIOCHEM BIOPHYS RES COMMUN      64   128 975</reference>
+	<reference>007   OLDENBERG V           BIOCHIM BIOPHYS ACTA           441   433 976</reference>
+	<reference>008   KYLSTRA JA            AM REV RESPIR DIS              103   651 971</reference>
+	<reference>009   TURNER S              J EXP MED                      141  1437 975</reference>
+	<reference>010   MYRVIK QN             J IMMUNOL                       86   128 961</reference>
+	<reference>011   MAGEE WL              METHODS ENZYMOL                 14   170 969</reference>
+	<reference>012   NIEUWENHUIZEN W       METHODS ENZYMOL                 32   147 974</reference>
+	<reference>013   BARTLETT GR           J BIOL CHEM                    234   466 959</reference>
+	<reference>014   LONG C                BIOCHEM J                       65   382 957</reference>
+	<reference>015   MOORE JH              BIOCHIM BIOPHYS ACTA            70   348 963</reference>
+	<reference>016   HANAHAN DJ            J BIOL CHEM                    235  1917 960</reference>
+	<reference>017   TAGUCHI R             BIOCHIM BIOPHYS ACTA           409    75 975</reference>
+	<reference>018   BHATTACHARYYA SN      BIOCHIM BIOPHYS ACTA           427    91 976</reference>
+	<reference>019   ERBLAND JF            BIOCHIM BIOPHYS ACTA           106   128 965</reference>
+	<reference>020   ERBLAND JF            BIOCHIM BIOPHYS ACTA           106   139 965</reference>
+	<reference>021   ELSBACH P             BIOCHIM BIOPHYS ACTA           125   510 966</reference>
+	<reference>022   OTTOLENGHI A          LIPIDS                           5   531 970</reference>
+	<reference>023   VAN DEENEN LLM        IN: HOLMAN RT                    8     1 965</reference>
+	<reference>024   AKINO T               BIOCHIM BIOPHYS ACTA           248   274 971</reference>
+	<reference>025   VEREKEN JM            BIOCHIM BIOPHYS ACTA           260    70 972</reference>
+	<reference>026   GATT S                ANNU REV BIOCHEM                42    61 973</reference>
+	<reference>027   DE HAAS GH            BIOCHIM BIOPHYS ACTA           159   103 968</reference>
+	<reference>028   SCOW RO               BIOCHIM BIOPHYS ACTA           431   538 976</reference>
+
+	<citation>1   SMITH FB              NY STATE J MED                  80  1372 980</citation>
+	<citation>2   RAO RH                EXP LUNG RES                     2     9 981</citation>
+	<citation>3   GALABERT C            CLIN RESP PHYSIOL               17   197 981</citation>
+	<citation>4   WIGHTMAN PD           BIOCHEM J                      200   441 981</citation>
+	<citation>5   LANNI C               BIOCHIM BIOPHYS ACTA           658    54 981</citation>
+
+</document>

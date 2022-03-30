@@ -1,0 +1,333 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Vitamin E.</title>
+
+	<author>Bieri-J-G.</author>
+	<author>Farrell-P-M.</author>
+
+	<source>Vitam-Horm. 1976. 34. P 31-75. (REVIEW).</source>
+
+	<abstract>In this review, we make a deliberate attempt to put all the
+   information on vitamin E requirement, absorption, metabolism, and
+   function in both animals and man in better perspective.  The large
+   clinical trials in which vitamin E was given at pharmacological
+   levels for presumed medical indications, as well as trials of vitamin
+   E for bona fide deficiency disease in man, will be extensively
+   reviewed.  Nutritional aspects discussed include dietary intake,
+   biological activity, the evaluation of nutritional status, and the
+   relationship to dietary polyunsaturated fatty acids.  Metabolism
+   concerns include absorption, transport and deposition, and cellular
+   function.  Clinical aspects include deficiency states, approaches to
+   therapy, and possible pharmacological effects.</abstract>
+
+	<majorsubject>VITAMIN-E: me</majorsubject>
+
+	<minorsubject>ANIMAL</minorsubject>
+	<minorsubject>ANTIOXIDANTS: me</minorsubject>
+	<minorsubject>BLOOD-COAGULATION</minorsubject>
+	<minorsubject>CORONARY-DISEASE: me</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: me</minorsubject>
+	<minorsubject>DIET</minorsubject>
+	<minorsubject>DIETARY-FATS: me</minorsubject>
+	<minorsubject>ERYTHROCYTES: me</minorsubject>
+	<minorsubject>FATTY-ACIDS-UNSATURATED: me</minorsubject>
+	<minorsubject>HEMOGLOBINS: me</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>INFANT-NEWBORN</minorsubject>
+	<minorsubject>INFANT-PREMATURE</minorsubject>
+	<minorsubject>LIPOPROTEINS: me</minorsubject>
+	<minorsubject>LYMPH: me</minorsubject>
+	<minorsubject>MALABSORPTION-SYNDROMES: me</minorsubject>
+	<minorsubject>PROTEIN-CALORIE-MALNUTRITION: me</minorsubject>
+	<minorsubject>PROTEINS: bi</minorsubject>
+	<minorsubject>RETROLENTAL-FIBROPLASIA: me</minorsubject>
+	<minorsubject>REVIEW</minorsubject>
+	<minorsubject>CELIAC-DISEASE:  me</minorsubject>
+	<minorsubject>VITAMIN-E-DEFICIENCY: me, th</minorsubject>
+	<minorsubject>VITAMIN-E: tu</minorsubject>
+
+	<reference>001   ABRAMS AA             N ENGL J MED                   272  1080 965</reference>
+	<reference>002   ABRAMS BA             ARCH DIS CHILD                  48   721 973</reference>
+	<reference>003   ANDERSON TW           CAN MED ASSOC J                110   401 974</reference>
+	<reference>004   ANDERSON TW           AM J CLIN NUTR                  27  1174 974</reference>
+	<reference>005   ARMSTRONG D           AM NEUROL ASSOC                 98     3 973</reference>
+	<reference>006   BAER S                JAMA                           139   733 949</reference>
+	<reference>007   BAKER SJ              BLOOD                           32   717 968</reference>
+	<reference>008   BARNESS LA            AM J CLIN NUTR                  21    40 968</reference>
+	<reference>009   BASSEN FA             BLOOD                            5   381 950</reference>
+	<reference>010   BAUERNFEIND JC        AM J CLIN NUTR                  27   234 974</reference>
+	<reference>011   BIERI JG              IN: DE LUCA HF                       307 969</reference>
+	<reference>012   BIERI JG              ANN NY ACAD SCI                203   181 972</reference>
+	<reference>013   BIERI JG              J AM DIET ASSOC                 62   147 973</reference>
+	<reference>014   BIERI JG              FED PROC                        34   913 975</reference>
+	<reference>015   BIERI JG              PROC SOC EXP BIOL MED          149   500 975</reference>
+	<reference>016   BIERI JG              J AM DIET ASSOC                 66   134 975</reference>
+	<reference>017   BIERI JG              J NUTR                         100   557 970</reference>
+	<reference>018   BIERI JG              INT J VITAM RES                 40   344 970</reference>
+	<reference>019   BIERI JG              PROC SOC EXP BIOL MED          120   554 965</reference>
+	<reference>020   BIERI JG              PROC SOC EXP BIOL MED          117   131 964</reference>
+	<reference>021   BIERI JG              J NUTR                         106   124 976</reference>
+	<reference>022   BINDER HJ             N ENGL J MED                   273  1289 965</reference>
+	<reference>023   BLANC WA              PEDIATRICS                      22   494 958</reference>
+	<reference>024   BLOMSTRAND R          INT J VITAM RES                 38   328 968</reference>
+	<reference>025   BOYD AM               J BONE JOINT SURG              31B   325 949</reference>
+	<reference>026   BRUBACHER G           WISS VEROEFF DTSCH GES ERNAEH   16    50 967</reference>
+	<reference>027   BUNNELL RH            AM J CLIN NUTR                  17     1 965</reference>
+	<reference>028   BUNYAN J              BIOCHEM J                       77    47 960</reference>
+	<reference>029   BURK RF               US ARMY MED RES NUTR LAB REP   335       973</reference>
+	<reference>030$  CANTAROW A            CLIN BIOCHEM                         180 962</reference>
+	<reference>031   CATIGNANI GL          BIOCHEM BIOPHYS RES COMMUN      67    66 975</reference>
+	<reference>032   CATIGNANI GL          IN: MACHLIN LJ                           976</reference>
+	<reference>033   CATIGNANI GL          PROC NAT ACAD SCI USA           71  1966 974</reference>
+	<reference>034   CHADD MA              INT J VITAM RES                 40   610 970</reference>
+	<reference>035   CHEEKE PR             CAN J ANIM SCI                  49   169 969</reference>
+	<reference>036   CURETON TK            AM J PHYSIOL                   179   628 954</reference>
+	<reference>037   CURRAN JS             PEDIATR RES                      9   364 975</reference>
+	<reference>038   DAM H                 VITAM HORM                      20   527 962</reference>
+	<reference>039   DARBY CW              ARCH DIS CHILD                  48    72 973</reference>
+	<reference>040   DARBY WJ              PROC SOC EXP BIOL MED           63   310 946</reference>
+	<reference>041   DARBY WJ              ANN NY ACAD SCI                 52   328 949</reference>
+	<reference>042   DAVIES T              CLIN CHIM ACTA                  24   431 969</reference>
+	<reference>043   DAVIS KC              AM J CLIN NUTR                  25   933 972</reference>
+	<reference>044   DE LEON AS            PEDIATR CLIN NORTH AM           17   309 970</reference>
+	<reference>045   DE VILLERS A          CAN J BIOCHEM                   51   450 973</reference>
+	<reference>046   DICKS-BUSHNELL MW     AM J CLIN NUTR                  20   262 967</reference>
+	<reference>047   DILLEY RA             J MEMBR BIOL                     2   317 970</reference>
+	<reference>048   DINNING JS            VITAM HORM                      20   511 962</reference>
+	<reference>049   DIPLOCK AT            AM J CLIN NUTR                  27   995 974</reference>
+	<reference>050   DI SANTAGNESE PA      N ENGL J MED                   277  1399 967</reference>
+	<reference>051   EVARTS RP             LIPIDS                           9   860 974</reference>
+	<reference>052   FARRELL PM            AM J CLIN NUTR                  28  1381 975</reference>
+	<reference>053   FARRELL PM            ACTA PAEDIATR SCAND             64   150 975</reference>
+	<reference>054   FERGUSON ME           J NUTR                          55   205 955</reference>
+	<reference>055   FILER LJ JR           AM J CLIN NUTR                  21     3 968</reference>
+	<reference>056   FILER LJ JR           PEDIATRICS                       8   328 951</reference>
+	<reference>057   ANON                  RECOMMENDED DIETARY ALLOWANCE            968</reference>
+	<reference>058   ANON                  RECOMMENDED DIETARY ALLOWANCE            974</reference>
+	<reference>059   FUKUBA H              IN: SHIMAZONO N                       63 972</reference>
+	<reference>060   FUKUBA H              PROC SYMP ON INFLUENCE OF ENV            975</reference>
+	<reference>061   GALLO-TORRES HE       LIPIDS                           5   379 970</reference>
+	<reference>062   GLOOR U               HELV CHIM ACTA                  49  2303 966</reference>
+	<reference>063   GOLDBLOOM RB          CAN MED ASSOC J                 82  1114 960</reference>
+	<reference>064   GOLDBLOOM RB          PEDIATRICS                      32    36 963</reference>
+	<reference>065   GORDON HH             AM J DIS CHILD                  62   328 941</reference>
+	<reference>066   GORDON HH             IN: WOHL MG                          238 968</reference>
+	<reference>067   GORDON HH             AM J DIS CHILD                  90   669 955</reference>
+	<reference>068   GORDON HH             PEDIATRICS                      21   673 958</reference>
+	<reference>069   GROSS S               ANN NY ACAD SCI                203   141 972</reference>
+	<reference>070   HAEGER K              VASA                             2   280 973</reference>
+	<reference>071   HAEGER K              AM J CLIN NUTR                  27  1179 974</reference>
+	<reference>072   HALSTEAD CH           AM J CLIN NUTR                  22  1371 969</reference>
+	<reference>073   HAMILTON M            LANCET                           1   367 953</reference>
+	<reference>074   HARRIES JT            ARCH DIS CHILD                  46   341 971</reference>
+	<reference>075   HARRIS PL             PROC SOC EXP BIOL MED          107   381 961</reference>
+	<reference>076   HARRIS RS             VITAM HORM                      20   603 962</reference>
+	<reference>077   HASHIM SA             AM J CLIN NUTR                  21     7 968</reference>
+	<reference>078   HASSAN H              AM J CLIN NUTR                  19   147 966</reference>
+	<reference>079   HERTING DC            AM J CLIN NUTR                  22   147 969</reference>
+	<reference>080   HODGES RE             J AM DIET ASSOC                 62   638 973</reference>
+	<reference>081   HOEKSTRA WG           FED PROC FED AM SOC EXP BIOL    34  2083 975</reference>
+	<reference>082   HORWITT MK            AM J CLIN NUTR                   8   451 960</reference>
+	<reference>083   HORWITT MK            VITAM HORM                      20   541 962</reference>
+	<reference>084   HORWITT MK            AM J CLIN NUTR                  27  1182 974</reference>
+	<reference>085   HORWITT MK            VITAM HORM                      26   487 968</reference>
+	<reference>086   HORWITT MK            ANN NY ACAD SCI                203   223 972</reference>
+	<reference>087   HYMAN CB              ANN NY ACAD SCI                232   211 974</reference>
+	<reference>088   IKEHATA H             VITAMINS                        38   253 968</reference>
+	<reference>089   JAGER FC              ANN NY ACAD SCI                203   199 972</reference>
+	<reference>090   JOHNSON L             AM J CLIN NUTR                  27  1158 974</reference>
+	<reference>091   JOHNSON P             LIFE SCI                         1   115 962</reference>
+	<reference>092   KANNO C               AGRIC BIOL CHEM                 34   878 970</reference>
+	<reference>093   KATER RMH             AM J CLIN NUTR                  23   913 970</reference>
+	<reference>094   KATTWINKEL J          J PEDIATR                       82   234 973</reference>
+	<reference>095   KAYDEN HJ             ANNU REV MED                    23   285 972</reference>
+	<reference>096   KAYDEN HJ             TRANS ASSOC AM PHYSICIANS       78   334 965</reference>
+	<reference>097   KELLEHER J            BR J NUTR                       24  1033 970</reference>
+	<reference>098   KERNER I              AM J DIS CHILD                  99   597 960</reference>
+	<reference>099   KINSEY VE             ARCH OPHTHALMOL                 56   481 956</reference>
+	<reference>100   KINSEY VE             AM J OPHTHALMOL                 34  1259 951</reference>
+	<reference>101   KLATSKIN G            J CLIN INVEST                   31   159 952</reference>
+	<reference>102   KULAPONGS P           IN: OLSON RE                         263 975</reference>
+	<reference>103   LARSSON H             PHARMACOL CLIN                   1    72 968</reference>
+	<reference>104   LEONARD PJ            AM J CLIN NUTR                  20   795 967</reference>
+	<reference>105   LEONARD PJ            AM J CLIN NUTR                  24   388 971</reference>
+	<reference>106   LEONARD PJ            GUT                              7   578 966</reference>
+	<reference>107   LEVIN S               PEDIATRICS                      27   578 961</reference>
+	<reference>108   LIVINGSTONE PD        LANCET                           2   602 958</reference>
+	<reference>109   LO SS                 ARCH DIS CHILD                  48   360 973</reference>
+	<reference>110   LOSOWSKY MS           ANN NY ACAD SCI                203   212 972</reference>
+	<reference>111   LUCY JA               ANN NY ACAD SCI                203     4 972</reference>
+	<reference>112   MCCORMICK EC          J LIPID RES                      1   221 960</reference>
+	<reference>113   MACDOUGALL LG         J PEDIATR                       80   775 972</reference>
+	<reference>114   MACHLIN LF            PROC SOC EXP BIOL MED          149   275 975</reference>
+	<reference>115   MACKENZIE JB          PEDIATRICS                      13   346 954</reference>
+	<reference>116   MCLAREN DS            AM J CLIN NUTR                  22   863 969</reference>
+	<reference>117   MACMAHON MT           CLIN SCI                        38   197 970</reference>
+	<reference>118   MACMAHON MT           EUR J CLIN INVEST                1   161 970</reference>
+	<reference>119   MACMAHON MT           EUR J CLIN INVEST                1   288 970</reference>
+	<reference>120   MCWHIRTER WR          ACTA PAEDIATR SCAND             64   446 975</reference>
+	<reference>121   MAJAJ AS              AM J CLIN NUTR                  12   374 963</reference>
+	<reference>122   MARKS J               VITAM HORM                      20   573 962</reference>
+	<reference>123   MASON KE              IN: SEBRELL WH JR                5   293 972</reference>
+	<reference>124   MELHORN DK            J LAB CLIN MED                  74   798 969</reference>
+	<reference>125   MELHORN DK            J PEDIATR                       79   581 971</reference>
+	<reference>126   MELHORN DK            BLOOD                           37   438 971</reference>
+	<reference>127   MELLORS A             BR J NUTR                       20    69 966</reference>
+	<reference>128   MENGEL CE             J CLIN INVEST                   46  1715 967</reference>
+	<reference>129   MINOT AS              J LAB CLIN MED                  29   772 944</reference>
+	<reference>130   MODELL CB             BR MED J                         3   259 974</reference>
+	<reference>131   MOLENAAR I            PROC NAT ACAD SCI USA           61   982 969</reference>
+	<reference>132   MOLENAAR I            VITAM HORM                      30    45 972</reference>
+	<reference>133   MOYER WT              PEDIATRICS                       6   893 950</reference>
+	<reference>134   MULLER DPR            BIOCHEM J                      112   28P 969</reference>
+	<reference>135   MULLER DPR            GUT                             15   966 974</reference>
+	<reference>136   MUNSAT TL             JAMA                           226  1536 973</reference>
+	<reference>137   MUSTAJOKI P           JAMA                           221   714 972</reference>
+	<reference>138   NAIR PP               ARCH INTERN MED                128   411 971</reference>
+	<reference>139   NEWMARK HL            J PHARM SCI                     64   655 975</reference>
+	<reference>140   NITOWSKY HM           AM J DIS CHILD                  92   164 956</reference>
+	<reference>141   NITOWSKY HM           AM J CLIN NUTR                  10   368 962</reference>
+	<reference>142   NORDOY A              J LIPID RES                     16   386 975</reference>
+	<reference>143   ANON                  NUTRITION SURVEY OF EAST PAKI            966</reference>
+	<reference>144   OLSON RE              AM J CLIN NUTR                  20   604 967</reference>
+	<reference>145   OLSON RE              CIRCULATION                     48   179 973</reference>
+	<reference>146   OLSON RE              AM J CLIN NUTR                  27  1117 974</reference>
+	<reference>147   OLSON RE              IN: OLSON RE                         275 975</reference>
+	<reference>148   OPPENHEIMER EH        BULL JOHNS HOPKINS HOSP         98   353 956</reference>
+	<reference>149   OSKI FA               J PEDIATR                       70   211 967</reference>
+	<reference>150   OSKI FA               AM J CLIN NUTR                  21    45 968</reference>
+	<reference>151   OSKI FA               HEMATOLOGIC PROBLEMS IN THE N            972</reference>
+	<reference>152   OWENS WC              AM J OPHTHALMOL                 32     1 949</reference>
+	<reference>153   PANOS TC              AM J CLIN NUTR                  21    15 968</reference>
+	<reference>154   PATNAIK RN            EXPERIENTIA                     31  1023 975</reference>
+	<reference>155   PEAKE IR              BIOCHIM BIOPHYS ACTA           260   679 972</reference>
+	<reference>156   PEARSON CK            BR J NUTR                       24   581 970</reference>
+	<reference>157   POUKKA RKH            LIPIDS                           5   757 970</reference>
+	<reference>158   RAJARAM OV            BIOCHEM J                      140   509 974</reference>
+	<reference>159   RAMIREZ I             AM J CLIN NUTR                  26  1045 973</reference>
+	<reference>160   RATCLIFFE AH          LANCET                           2  1128 949</reference>
+	<reference>161   RAVIN IS              N ENGL J MED                   240   331 949</reference>
+	<reference>162   RICHARDS JE           PEDIATRICS                      20    92 957</reference>
+	<reference>163   RINZLER SH            CIRCULATION                      1   288 950</reference>
+	<reference>164   ROSE CS               AM J PHYSIOL                   168   414 952</reference>
+	<reference>165   RUBINSTEIN HM         CLIN CHIM ACTA                  23     1 968</reference>
+	<reference>166   SANDSTEAD HH          AM J CLIN NUTR                  17    27 965</reference>
+	<reference>167   SARTAIN P             SOUTH MED J                     60  1371 967</reference>
+	<reference>168   SCHMANDKE H           INT Z VITAMINFORSCH             34   312 964</reference>
+	<reference>169   SCRIMSHAW NS          JAMA                           164   555 957</reference>
+	<reference>170   SCRIVER CR            PEDIATRICS                      46   493 970</reference>
+	<reference>171   SHARMAN IM            BR J NUTR                       26   265 971</reference>
+	<reference>172   SHUTE WE              MED REC                        160    91 947</reference>
+	<reference>173   SILBER R              J CLIN INVEST                   48  2089 969</reference>
+	<reference>174   SIMON ER              J CLIN INVEST                   43  1311 964</reference>
+	<reference>175   SMITH CL              BR J NUTR                       26    89 971</reference>
+	<reference>176   STEINER M             J CLIN INVEST                   57   732 976</reference>
+	<reference>177   STOCKMAN JA           SEMIN HEMATOL                   12   163 975</reference>
+	<reference>178   TAYLOR BW             ARCH DIS CHILD                  48   657 973</reference>
+	<reference>179   THANANGKUL O          AM J CLIN NUTR                  18   379 966</reference>
+	<reference>180   THOMPSON JN           AM J CLIN NUTR                  26  1349 973</reference>
+	<reference>181   UNDERWOOD BA          PEDIATR RES                      6    26 972</reference>
+	<reference>182   VOGELSANG A           NATURE                         157   772 946</reference>
+	<reference>183   VOGTMANN H            NUTR METAB                      13   271 971</reference>
+	<reference>184   WATSON CJ             ARCH INTERN MED                131   698 973</reference>
+	<reference>185   WEBER F               NUTR DIETA                       8    54 966</reference>
+	<reference>186   WEBER F               Z ERNAEHRUNGSWISS              245     1 964</reference>
+	<reference>187   WEINBERG T            AM J PATHOL                     34   565 958</reference>
+	<reference>188   WEISS P               AM J MED SCI                   258   275 969</reference>
+	<reference>189   WHITAKER JA           AM J CLIN NUTR                  20   783 967</reference>
+	<reference>190   WILLIAMS HTG          SURG GYNECOL OBSTET            132   662 971</reference>
+	<reference>191   WITTING LA            AM J CLIN NUTR                  25   257 972</reference>
+	<reference>192   WITTING LA            J NUTR                          82    19 964</reference>
+	<reference>193   WITTING LA            AM J CLIN NUTR                  28   571 975</reference>
+	<reference>194   WO CKW                AM J CLIN NUTR                  28   808 975</reference>
+	<reference>195   WOODRUFF CW           AM J CLIN NUTR                   4   597 956</reference>
+	<reference>196   WRIGHT SW             PEDIATRICS                       7   386 951</reference>
+	<reference>197   ZANNOS-MARIOLEA L     BR J HAEMATOL                   26   193 974</reference>
+
+	<citation>1   DONOVAN DH            TOXICOL LETT                     1   135 977</citation>
+	<citation>2   HOFFMANNOSTENHOF O    TRENDS BIOCHEM SCI               2   284 977</citation>
+	<citation>3   TANGNEY CC            CONTRACEPTION                   17   499 978</citation>
+	<citation>4   CHO S                 J NUTR SCI VITAMINOL            24   221 978</citation>
+	<citation>5   FARRELL PM            AM J CLIN NUTR                  31  1720 978</citation>
+	<citation>6   EHRENKRANZ RA         N ENGL J MED                   299   564 978</citation>
+	<citation>7   LOW H                 BIOCHIM BIOPHYS ACTA           515   141 978</citation>
+	<citation>8   OGUNMEKAN AO          AM J CLIN NUTR                  32  2269 979</citation>
+	<citation>9   VATASSERY GT          AM J CLIN NUTR                  32  2061 979</citation>
+	<citation>10   ASTRUP H              INT J VIT NUTR RES              49   186 979</citation>
+	<citation>11   PHELPS DL             PEDIATRICS                      63   933 979</citation>
+	<citation>12   TURUNEN S             COMP BIOCHEM PHYSIOL (A)        63   455 979</citation>
+	<citation>13   KONINGS AWT           RADIAT RES                      80   494 979</citation>
+	<citation>14   EHRENKRANZ RA         J PEDIATR                       95   873 979</citation>
+	<citation>15   FARRELL PM            J PEDIATR                       95   869 979</citation>
+	<citation>16   COHEN N               J AM CHEM SOCIETY              101  6710 979</citation>
+	<citation>17   VISSER CM             BIOORGAN CHEM                    9   411 980</citation>
+	<citation>18   PARRISH DB            CRC CRIT REV FOOD SCI NUTR      13   161 980</citation>
+	<citation>19   KAJIWARA M            HETEROCYCLES                    14  1995 980</citation>
+	<citation>20   BAKER H               NUTR REP INT                    21   531 980</citation>
+	<citation>21   PRASAD JS             AM J CLIN NUTR                  33   606 980</citation>
+	<citation>22   BOUGLE D              ANN NUTR ALIMENT                34   505 980</citation>
+	<citation>23   NADIGER HA            BR J NUTR                       44   211 980</citation>
+	<citation>24   OLSON GL              J ORGANIC CHEM                  45   803 980</citation>
+	<citation>25   KILIAN PL             BIOCHEM BIOPHYS RES COMMUN      93   409 980</citation>
+	<citation>26   BURTON GW             J AM CHEM SOCIETY              102  7791 980</citation>
+	<citation>27   LAMBERT JR            ARCH PATHOL LAB MED            104   201 980</citation>
+	<citation>28   EHRENKRANZ RA         AM J DIS CHILD                 134  1157 980</citation>
+	<citation>29   BERTONIFREDDARI C     MECH AGEING DEV                 16   169 981</citation>
+	<citation>30   HESS HH               LAB ANIM SCI                    31   482 981</citation>
+	<citation>31   BELL EF               AM J CLIN NUTR                  34   414 981</citation>
+	<citation>32   JANSSON L             AM J CLIN NUTR                  34     8 981</citation>
+	<citation>33   JANSSON L             ACTA PAEDIATR SCAND             70   297 981</citation>
+	<citation>34   BURTON GW             J AM CHEM SOCIETY              103  6472 981</citation>
+	<citation>35   BIERI JG              J NUTR                         111   458 981</citation>
+	<citation>36   NADIGER HA            CLIN CHIM ACTA                 116     9 981</citation>
+	<citation>37   BATINICHABERLE I      Z ACKER PFLANZEN               150   147 981</citation>
+	<citation>38   NODA Y                NEUROBIOL AGING                  3   173 982</citation>
+	<citation>39   SKLAN D               NUTR REP INT                    25   499 982</citation>
+	<citation>40   WELCH SC              J MED CHEM                      25    81 982</citation>
+	<citation>41   WIMALASENA J          BIOCHEM PHARMACOL               31  3455 982</citation>
+	<citation>42   MCKENNA MC            AM J CLIN NUTR                  35  1010 982</citation>
+	<citation>43   WEERAPRADIST W        ORAL SURG                       54   304 982</citation>
+	<citation>44   SHKLAR G              J NATL CANCER INST              68   791 982</citation>
+	<citation>45   PUKLIN JE             OPHTHALMOLOGY                   89    96 982</citation>
+	<citation>46   GUGGENHEIM MA         J PEDIATR                      100    51 982</citation>
+	<citation>47   SKLAN D               J NUTR                         112  1394 982</citation>
+	<citation>48   EHRENKRANZ RA         ANN NY ACAD SCI                393   452 982</citation>
+	<citation>49   FARRELL PM            ANN NY ACAD SCI                393    96 982</citation>
+	<citation>50   GUGGENHEIM MA         ANN NY ACAD SCI                393    84 982</citation>
+	<citation>51   JANSSON L             ACTA PAEDIATR SCAND SUPPL 296 1982   110 982</citation>
+	<citation>52   TERAO S               J CHEM SOC PERKIN TRANS I     1982  2909 982</citation>
+	<citation>53   PANATTA GB            NUTR REP INT                    27   811 983</citation>
+	<citation>54   VATASSERY GT          AM J CLIN NUTR                  37  1020 983</citation>
+	<citation>55   KIM JE                J PERIODONTOL                   54   305 983</citation>
+	<citation>56   MATHER JP             ACTA ENDOCRINOL                102   470 983</citation>
+	<citation>57   TAJIMA K              BIOCHEM BIOPHYS RES COMMUN     115  1002 983</citation>
+	<citation>58   BURTON GW             ARCH BIOCHEM BIOPHYS           221   281 983</citation>
+	<citation>59   BIERI JG              N ENGL J MED                   308  1063 983</citation>
+	<citation>60   FULLER PA             NUTR RES                         4   333 984</citation>
+	<citation>61   TAKEDA K              CRIT CARE MED                   12   957 984</citation>
+	<citation>62   VOST A                LIPIDS                          19   423 984</citation>
+	<citation>63   MARTINEZ FE           J TROP PEDIATR                  30    92 984</citation>
+	<citation>64   GUTCHER GR            AM J CLIN NUTR                  40  1078 984</citation>
+	<citation>65   BOUGLE D              ARCH FR PEDIATR                 41    63 984</citation>
+	<citation>66   BIERI JG              J AM OIL CHEM SOC               61  1917 984</citation>
+	<citation>67   LABADARIOS D          S AFR MED J                     66   477 984</citation>
+	<citation>68   LABADARIOS D          S AFR J SCI                     80   427 984</citation>
+	<citation>69   NAPOLI JL             ARCH BIOCHEM BIOPHYS           230   194 984</citation>
+	<citation>70   GUTCHER GR            J PEDIATR GASTROENTEROL NUTR     4   604 985</citation>
+	<citation>71   CARPENTER D           SEM NEUROL                       5   271 985</citation>
+	<citation>72   CARPENTER D           SEM NEUROL                       5   283 985</citation>
+	<citation>73   LIBONDI T             OPHTHALM RES                    17    42 985</citation>
+	<citation>74   OBARA H               CAN ANAESTH SOC J               32   358 985</citation>
+	<citation>75   OGUNMEKAN AO          TROP GEOGR MED                  37   175 985</citation>
+	<citation>76   MINO M                AM J CLIN NUTR                  41   631 985</citation>
+	<citation>77   MCGEE CD              AM J CLIN NUTR                  42   432 985</citation>
+	<citation>78   SYVAOJA EL            INT J VIT NUTR RES              55   159 985</citation>
+	<citation>79   KALVARIA I            INT J PANCREATOL                 1   119 986</citation>
+	<citation>80   PIERI C               ARCH GERONTOL GERIATR            5    21 986</citation>
+	<citation>81   GUTCHER G             SEM PERINATOL                   10   196 986</citation>
+	<citation>82   VANDEWOUDE MG         J PARENT ENTERAL NUTR           10   303 986</citation>
+	<citation>83   HERBETH B             CLIN CHEM                       32  1756 986</citation>
+	<citation>84   ARANDA JV             PEDIATR CLIN NORTH AM           33   583 986</citation>
+
+</document>

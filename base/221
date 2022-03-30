@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Serum alpha - fetoprotein levels in patients with cystic fibrosis
+   and their parents and siblings.</title>
+
+	<author>Chandra-R-K.</author>
+	<author>Madhavankutty-K.</author>
+	<author>Way-R-C.</author>
+
+	<source>Br-Med-J. 1975 Mar 29. 1(5960). P 714-6.</source>
+
+	<abstract>Patients with cystic fibrosis (C.F.) showed raised serum levels of
+   alpha-fetoprotein (AFP). A moderate but significant increase in serum
+   AFP was present in their parents and some siblings. There was no
+   correlation between the clinical severity of the disease and serum
+   AFP concentration. Samples from control groups with gluten-induced
+   malabsorption and bronchiectasis had normal levels. Persistent
+   synthesis of AFP may be an associated marker of C.F. genes, and
+   estimation of serum AFP might help in detecting heterozygote carriers
+   in families at risk.</abstract>
+
+	<majorsubject>ALPHA-FETOPROTEINS: an</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: bl</majorsubject>
+	<majorsubject>FETAL-PROTEINS: an</majorsubject>
+
+	<minorsubject>BRONCHIECTASIS: bl</minorsubject>
+	<minorsubject>CELIAC-DISEASE: bl</minorsubject>
+	<minorsubject>CHLORIDES: an</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: fg, me</minorsubject>
+	<minorsubject>GEL-DIFFUSION-TESTS</minorsubject>
+	<minorsubject>GENETIC-COUNSELING</minorsubject>
+	<minorsubject>HETEROZYGOTE</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>IMMUNOELECTROPHORESIS</minorsubject>
+	<minorsubject>INFANT</minorsubject>
+	<minorsubject>LIVER: me</minorsubject>
+	<minorsubject>SWEAT: an</minorsubject>
+
+	<reference>001   ABELEV GI             ADV CANCER RES                  14   295 971</reference>
+	<reference>002   ALLAN LD              LANCET                           2   522 973</reference>
+	<reference>003   BESLEY GTN            J MED GENET                      6   278 969</reference>
+	<reference>004   BROCK DJH             LANCET                           2   197 972</reference>
+	<reference>005   BROCK DJH             LANCET                           2   923 973</reference>
+	<reference>006   BRUNECKY Z            J MED GENET                      9    33 972</reference>
+	<reference>007   CHANDRA RK            ARCH DIS CHILD                  48   157 973</reference>
+	<reference>008   CHANDRA RK            MED CHIR DIG                     3    63 974</reference>
+	<reference>010   CHERRY JD             J PEDIATR                       79   937 971</reference>
+	<reference>011   DANES BS              LANCET                           1  1061 968</reference>
+	<reference>012   DANES BS              J EXP MED                      129   775 969</reference>
+	<reference>013   DANKS DM              ANN HUM GENET                   28   323 965</reference>
+	<reference>014   GITLIN D              J CLIN INVEST                   45  1826 966</reference>
+	<reference>015   LEEK AE               LANCET                           2   385 973</reference>
+	<reference>016   LOCKHART LH           SOUTH MED J                     61  1356 968</reference>
+	<reference>017   MASOPUST J            INT J CANCER                     3   364 968</reference>
+	<reference>018   NAYAK NC              LANCET                           1    86 972</reference>
+	<reference>019   RENNERT OM            CLIN PEDIATR                    11   351 972</reference>
+	<reference>020   RUOSLAHTI E           INT J CANCER                     8   374 971</reference>
+	<reference>021   SPOCK A               PEDIATR RES                      1   173 967</reference>
+	<reference>022   WALDMANN TA           LANCET                           2  1112 972</reference>
+	<reference>023   WRIGHT SW             HAWAII MED J                    27   229 968</reference>
+
+	<citation>1   BROCK DJH             BR MED J                         2   392 975</citation>
+	<citation>2   SMITH JA              BR MED J                         2   392 975</citation>
+	<citation>3   WALLWORK JC           BR MED J                         2   392 975</citation>
+	<citation>4   FITZSIMMONS JS        BR MED J                         3   544 975</citation>
+	<citation>5   ZAIDI ZH              BR MED J                         3   491 975</citation>
+	<citation>6   BELANGER  L           BR MED J                         4   759 975</citation>
+	<citation>7   KNOPFLE G             BR MED J                         4   459 975</citation>
+	<citation>8   LEHMANN FG            LEBER MAGEN DARM                 5   144 975</citation>
+	<citation>9   ADINOLFI A            J MED GENET                     12   138 975</citation>
+	<citation>10   BROCK DJH             CHILDS BRAIN                     2     1 976</citation>
+	<citation>11   BERNAUDIN F           NOUV PRESSE MED                  5   643 976</citation>
+	<citation>12   GRENIER A             CLIN CHEM                       22  1001 976</citation>
+	<citation>13   LUCKING T             KLIN WSCHR                      54   391 976</citation>
+	<citation>14   BISWAS S              CLIN CHIM ACTA                  69   541 976</citation>
+	<citation>15   NORGAARDPEDERSEN B    CLIN CHIM ACTA                  71   343 976</citation>
+	<citation>16   KNOPFLE G             EUR J PEDIATR                  122   241 976</citation>
+	<citation>17   DISANTAGNESE PA       N ENGL J MED                   295   597 976</citation>
+	<citation>18   RAMIREZ P             N ENGL J MED                   295  1381 976</citation>
+	<citation>19   NORGAARDPEDERSEN B    SCAND J IMMUNOL               1976     7 976</citation>
+	<citation>20   CRUIKSHANK DP         SEM PERINATOL                    1   135 977</citation>
+	<citation>21   BROCK DJH             PROG MED GENET                   2     1 977</citation>
+	<citation>22   SIZARET P             DIGESTION                       15    97 977</citation>
+	<citation>23   CHANDRA RK            INT ARCH ALLERGY APPL IMMUNOL   53   180 977</citation>
+	<citation>24   OLSSON M              J EXP MED                      145   819 977</citation>
+	<citation>25   KNOPFLE G             KLIN PAEDIATR                  189   207 977</citation>
+	<citation>26   DELPRE G              GASTROENTEROL CLIN BIOL          2   193 978</citation>
+	<citation>27   ALHADEFF JA           CLIN GENET                      14   189 978</citation>
+	<citation>28   BROCK DJH             CLIN CHIM ACTA                  82   101 978</citation>
+	<citation>29   ADINOLFI M            ADV HUM GENET                    9   165 979</citation>
+	<citation>30   BROCK DJH             MOL ASP MED                      3   431 980</citation>
+	<citation>31   BOYE NP               EUR J RESPIR DIS                61   227 980</citation>
+	<citation>32   SCAMBLER  P           HUM GENET                       69   250 985</citation>
+
+</document>

@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Endoscopic pancreatography: an analysis of the radiologic findings
+   in pancreatitis.</title>
+
+	<author>Robbins-A-H.</author>
+	<author>Messian-R-A.</author>
+	<author>Widrich-W-C.</author>
+	<author>Paul-R-E-Jr.</author>
+	<author>Norton-R-A.</author>
+	<author>Schimmel-E-M.</author>
+	<author>Ogoshi-K.</author>
+
+	<source>Radiology. 1974 Nov. 113(2). P 293-6.</source>
+
+	<abstract>The endoscopic pancreaticographic findings in 46 proved cases of
+   pancreatitis are analyzed.  Pathologic ductograms were demonstrated
+   in approximately 60%.  Significant information was obtained in many
+   cases, allowing both proper diagnosis of the primary disease process
+   and complications thereof.  Because of the latter, the procedure has
+   proved to be quite helpful in isolating those patients who could
+   benefit from surgery.</abstract>
+
+	<majorsubject>CHOLANGIOGRAPHY</majorsubject>
+	<majorsubject>ENDOSCOPY</majorsubject>
+	<majorsubject>PANCREAS: ra</majorsubject>
+	<majorsubject>PANCREATITIS: ra</majorsubject>
+
+	<minorsubject>ADULT</minorsubject>
+	<minorsubject>CHOLANGIOGRAPHY: mt</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: ra, co</minorsubject>
+	<minorsubject>DUODENUM</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>MALE</minorsubject>
+	<minorsubject>MIDDLE-AGE</minorsubject>
+	<minorsubject>PANCREATIC-DUCTS: ra</minorsubject>
+	<minorsubject>PANCREATITIS: di, et</minorsubject>
+
+	<reference>001   BLUMGART LH           LANCET                           2  1269 972</reference>
+	<reference>002   COTTON PB             LANCET                           1    53 972</reference>
+	<reference>003   DICKINSON PB          JAMA                           225   944 973</reference>
+	<reference>004   KASUGAI T             GASTROENTEROLOGY                63   217 972</reference>
+	<reference>005   KASUGAI T             GASTROENTEROLOGY                63   217 972</reference>
+	<reference>006   KOZOWER M             ANN SURG                       178   197 973</reference>
+	<reference>007   MUJAHED Z             RADIOL CLIN NORTH AM             4   535 966</reference>
+	<reference>008   OGOSHI K              GASTROENTEROLOGY                64   210 973</reference>
+	<reference>009   ROBBINS AH            AM J ROENTG RAD THER NUCL MED  117   432 973</reference>
+	<reference>010   STRACK PR             N ENGL J MED                   285  1225 971</reference>
+	<reference>011   WISE RE               INTRAVENOUS CHOLANGIOGRAPHY           21 962</reference>
+
+	<citation>1   KASUGAI T             DIGESTION                       13    76 975</citation>
+	<citation>2   PAUL RE               SEM ROENTGENOL                  11   223 976</citation>
+	<citation>3   FERRUCCI JT           RADIOL CLIN NORTH AM            14   543 976</citation>
+	<citation>4   JABBARI M             CAN J SURG                      19   192 976</citation>
+	<citation>5   CREMER M              ACTA GASTROENTEROL BELG         39   522 976</citation>
+	<citation>6   ENGELHOLM L           ACTA GASTROENTEROL BELG         39   405 976</citation>
+	<citation>7   WARSHAW AL            GASTROENTEROLOGY                70   562 976</citation>
+	<citation>8   BRUHLMANN W           FORTSCHR GEB RONTG NUKL        124   542 976</citation>
+	<citation>9   FEINBERG SB           J CLIN ULTRASOUND                5    96 977</citation>
+	<citation>10   COTTON PB             GUT                             18   316 977</citation>
+	<citation>11   CLASSEN M             MED KLIN                        72   684 977</citation>
+	<citation>12   CLARKE AC             NZ MED J                        86   514 977</citation>
+	<citation>13   DIMAGNO EP            N ENGL J MED                   297   737 977</citation>
+	<citation>14   HACKEN JB             GASTROINTEST RADIOL              3   173 978</citation>
+	<citation>15   STANDERTSKJOLDNORDENS ANN CLIN RES                    10    30 978</citation>
+	<citation>16   ROLNY P               SCAND J GASTROENTEROL           13   777 978</citation>
+	<citation>17   MULLENS JE            CAN J SURG                      21    60 978</citation>
+	<citation>18   TAGUCHI K             CAN J SURG                      21   313 978</citation>
+	<citation>19   GO VLW                MED CLIN NORTH AM               62   129 978</citation>
+	<citation>20   MULLENS JE            SURGERY                         84   308 978</citation>
+	<citation>21   KLINGER J             REV MED CHIL                   106   277 978</citation>
+	<citation>22   NELSON EW             AM J SURG                      136   740 978</citation>
+	<citation>23   SIEGEL JH             AM J GASTROENTEROL              72   259 979</citation>
+	<citation>24   WEINSTEIN DP          RADIOLOGY                      130   729 979</citation>
+	<citation>25   FISHMAN A             AM J ROENTGENOL                133   225 979</citation>
+	<citation>26   ROLNY P               SCAND J GASTROENTEROL           15     1 980</citation>
+	<citation>27   SIMEONE JF            INVEST RADIOL                   15     6 980</citation>
+	<citation>28   EPSTEIN RJ            GASTROINTEST ENDOSC             26    98 980</citation>
+	<citation>29   SWENSEN T             BR J RADIOL                     53   760 980</citation>
+	<citation>30   WEINSTEIN BJ          RADIOLOGY                      134   185 980</citation>
+	<citation>31   GOLD RP               GASTROINTEST RADIOL              6    35 981</citation>
+	<citation>32   VALENTINI M           ENDOSCOPY                       13    64 981</citation>
+	<citation>33   LUKES PJ              ACTA RADIOL DIAGN STOCKH        22   145 981</citation>
+	<citation>34   CREAGHE SB            AM SURGEON                      47   243 981</citation>
+	<citation>35   CALETTI G             BR J SURG                       69   507 982</citation>
+	<citation>36   MASARYK TJ            DIG DIS SCI                     28   874 983</citation>
+	<citation>37   SWOBODNIK W           KLIN WSCHR                      61   291 983</citation>
+	<citation>38   KARASAWA E            RADIOLOGY                      148   489 983</citation>
+	<citation>39   DARNIS E              ANAT CLIN                        6   109 984</citation>
+	<citation>40   CLASSEN M             CLIN GASTROENTEROL              13   819 984</citation>
+	<citation>41   TRILLER J             FORTSCHR GEB RONTG NUKL        141   483 984</citation>
+	<citation>42   AXON ATR              CLIN GASTROENTEROL              15   279 986</citation>
+
+</document>

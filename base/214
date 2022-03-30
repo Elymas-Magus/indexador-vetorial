@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Cystic fibrosis: the ciliary inhibitor is a small polypeptide
+   associated with immunoglobulin G.</title>
+
+	<author>Bowman-B-H.</author>
+	<author>Lankford-B-J.</author>
+	<author>Fuller-G-M.</author>
+	<author>Carson-S-D.</author>
+	<author>Kurosky-A.</author>
+	<author>Barnett-D-R.</author>
+
+	<source>Biochem-Biophys-Res-Commun. 1975 Jun 16. 64(4). P 1310-5.</source>
+
+	<abstract>A small polypeptide within the molecular weight range of 6,000 to
+   11,000 was found in immunoglobulin fractions from sera of cystic
+   fibrosis homozygotes and heterozygotes.  This factor appears to be
+   responsible for interfering with ciliary activity in oyster gills.
+   Since it can be dissociated from IgG without reductive cleavage it
+   must be bound in a non-covalent manner.  After its dissociation the
+   IgG fractions from cystic fibrosis sera no longer inhibited ciliary
+   activity.  This finding explains the differences previously observed
+   in the molecular weights of the ciliary inhibitor synthesized by
+   cultured cells and that of sera from cystic fibrosis genotypes.</abstract>
+
+	<majorsubject>CILIA: pp</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: bl</majorsubject>
+	<majorsubject>IGG: ph</majorsubject>
+
+	<minorsubject>ANIMAL</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: pp</minorsubject>
+	<minorsubject>GILLS: ph</minorsubject>
+	<minorsubject>HETEROZYGOTE</minorsubject>
+	<minorsubject>HOMOZYGOTE</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>MOLECULAR-WEIGHT</minorsubject>
+	<minorsubject>OYSTERS: ph</minorsubject>
+	<minorsubject>PEPTIDES: bl</minorsubject>
+	<minorsubject>SUPPORT-U-S-GOVT-P-H-S</minorsubject>
+
+	<reference>001   SPOCK A               PEDIATR RES                      1   173 967</reference>
+	<reference>002   BOWMAN BH             SCIENCE                        164   325 969</reference>
+	<reference>003   BESLEY GTN            J MED GENET                      6   278 969</reference>
+	<reference>004   BARNETT DR            TEX REP BIOL MED                31   709 973</reference>
+	<reference>005   HERZBERG V            J CLIN INVEST                   52  2732 973</reference>
+	<reference>006   DANES BS              J EXP MED                      136  1313 972</reference>
+	<reference>007   BOWMAN BH             PROC NAT ACAD SCI USA           70   548 973</reference>
+	<reference>008   CONOVER JH            PEDIATR RES                      7   224 973</reference>
+	<reference>009   BERATIS NG            PEDIATR RES                      7   958 973</reference>
+	<reference>010   BARNETT DR            TEX REP BIOL MED                31   703 973</reference>
+	<reference>011   BOWMAN BH             SCIENCE                        167   871 970</reference>
+	<reference>012   MCCOMBS ML            CLIN GENET                       1   171 970</reference>
+	<reference>013   PALACIOS R            J BIOL CHEM                    247  2316 972</reference>
+	<reference>014   SWANK RT              ANAL BIOCHEM                    39   462 971</reference>
+
+	<citation>1   LEE TJ                CLIN RES                        23  A655 975</citation>
+	<citation>2   GILLARD BK            PEDIATR RES                     10   907 976</citation>
+	<citation>3   BOWMAN BH             LIFE SCI                        19  1289 976</citation>
+	<citation>4   BAUR PS               TEX REP BIOL MED                34   113 976</citation>
+	<citation>5   BAUR PS               TEX REP BIOL MED                34   155 976</citation>
+	<citation>6   BOWMAN BH             TEX REP BIOL MED                34     1 976</citation>
+	<citation>7   CARSON SD             TEX REP BIOL MED                34   209 976</citation>
+	<citation>8   HARPER BL             TEX REP BIOL MED                34    73 976</citation>
+	<citation>9   WARD JB               TEX REP BIOL MED                34    83 976</citation>
+	<citation>10   WOOD RE               AM REV RESPIR DIS              113   833 976</citation>
+	<citation>11   DISANTAGNESE PA       N ENGL J MED                   295   534 976</citation>
+	<citation>12   CONOD EJ              PEDIATR RES                     11    45 977</citation>
+	<citation>13   THOMAS JM             PEDIATR RES                     11  1148 977</citation>
+	<citation>14   YOKOYAMA M            PEDIATR RES                     11   765 977</citation>
+	<citation>15   BOWMAN BH             CLIN GENET                      12   333 977</citation>
+	<citation>16   ROSSMAN CM            J PEDIATR                       90   579 977</citation>
+	<citation>17   CONOVER JH            BIOCHEM BIOPHYS RES COMMUN      83  1595 978</citation>
+	<citation>18   GUY GJ                CLIN CHIM ACTA                  87    63 978</citation>
+	<citation>19   WILSON GB             J LAB CLIN MED                  92   463 978</citation>
+	<citation>20   BOAT TF               ACS SYMPOSIUM SERIES          1978   108 978</citation>
+	<citation>21   NAGY EC               PEDIATR RES                     13   729 979</citation>
+	<citation>22   PIVETTA OH            PEDIATR RES                     13  1160 979</citation>
+	<citation>23   TUCKER RD             PEDIATR RES                     13  1371 979</citation>
+	<citation>24   STRAUSS RG            HELV PAEDIATR ACTA              34   429 979</citation>
+	<citation>25   BOWMAN BH             TEX REP BIOL MED                38    47 979</citation>
+	<citation>26   BOGART BI             BIOCHEM BIOPHYS RES COMMUN      88  1398 979</citation>
+	<citation>27   KURLANDSKY LE         PEDIATR RES                     14  1263 980</citation>
+	<citation>28   BOWMAN BH             FED PROC                        39  3195 980</citation>
+	<citation>29   MARTINEZ JR           PEDIATR RES                     15  1439 981</citation>
+	<citation>30   SANDERSON MJ          PEDIATR RES                     15   219 981</citation>
+	<citation>31   FLEMING N             EXPERIENTIA                     37   139 981</citation>
+	<citation>32   TEGNER H              ACTA PAEDIATR SCAND             70   629 981</citation>
+	<citation>33   CARSON SD             BIOCHIM BIOPHYS ACTA           667    23 981</citation>
+	<citation>34   BLITZER MG            PEDIATR RES                     16   203 982</citation>
+	<citation>35   CARSON SD             PEDIATR RES                     16    13 982</citation>
+	<citation>36   MCNEELY MC            PEDIATR RES                     16    21 982</citation>
+	<citation>37   WOODS DE              INFECT IMMUN                    36  1223 982</citation>
+	<citation>38   BUCHANAN KD           SCAND J GASTROENTEROL           18   155 983</citation>
+	<citation>39   HERMANS CO            OCEANOGR MARINE BIOL            21   283 983</citation>
+	<citation>40   SHAPIRA E             ANN NY ACAD SCI                421   352 983</citation>
+	<citation>41   ROOMANS GM            SCANN ELECTRON MICROSC        1983   697 983</citation>
+	<citation>42   BLITZER MG            PEDIATR RES                     18   540 984</citation>
+
+</document>

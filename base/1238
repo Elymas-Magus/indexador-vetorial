@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Detection of a lectin in the blood of cystic fibrosis homozygotes
+   and heterozygotes.</title>
+
+	<author>Lieberman-J.</author>
+	<author>Costea-N-V.</author>
+	<author>Jakulis-V-J.</author>
+	<author>Kaneshiro-W.</author>
+
+	<source>Trans-Assoc-Am-Physicians. 1979. 92. P 121-9.</source>
+
+	<abstract>We theorize that cystic fibrosis may be a disease in which a plasma
+   factor with lectin-like activity stimulates mucus secretion, causes
+   precipitation of mucus glycoproteins, and incidentally affects
+   lymphocytes in culture.  To confirm our theory, we planned to search
+   for additional lectin-like activities in CF serum.  Our experiments
+   suggest that the lectin-like substance in CF blood requires IgM for
+   its red-blood-cell-agglutination activity.  Thus, no difference in
+   agglutination titer is observed between CF homozygotes and
+   heterozygotes, because IgM is the limiting factor, and IgM
+   concentrations do not differ appreciably in such subjects.  We
+   suspect that CF homozygotes have a larger pool of free lectin in
+   their blood than do heterozygotes, so that quantitation of this free
+   lectin pool may distinguish between the two phenotypes.  Excess free
+   lectin may account for the signs and symptoms of CF, whereas lesser
+   amounts may theoretically be advantageous to the heterozygote.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS: bl</majorsubject>
+	<majorsubject>LECTINS: an</majorsubject>
+
+	<minorsubject>ANIMAL</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: fg</minorsubject>
+	<minorsubject>DEXTRANS: pd</minorsubject>
+	<minorsubject>DOGS</minorsubject>
+	<minorsubject>GUINEA-PIGS</minorsubject>
+	<minorsubject>HAMSTERS</minorsubject>
+	<minorsubject>HEMAGGLUTINATION-INHIBITION-TESTS: mt</minorsubject>
+	<minorsubject>HEMAGGLUTINATION-TESTS: mt</minorsubject>
+	<minorsubject>HEMAGGLUTINATION: de</minorsubject>
+	<minorsubject>HETEROZYGOTE</minorsubject>
+	<minorsubject>HOMOZYGOTE</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>IGM: im</minorsubject>
+	<minorsubject>LYMPHOCYTES: de, en</minorsubject>
+	<minorsubject>MICE</minorsubject>
+	<minorsubject>PEDIGREE</minorsubject>
+	<minorsubject>PHYTOHEMAGGLUTININS: pd</minorsubject>
+	<minorsubject>RABBITS</minorsubject>
+	<minorsubject>RATS</minorsubject>
+	<minorsubject>SUPPORT-U-S-GOVT-NON-P-H-S</minorsubject>
+	<minorsubject>SUPPORT-U-S-GOVT-P-H-S</minorsubject>
+
+	<reference>001   MARCHI AG             HELV PAEDIATR ACTA              28   427 973</reference>
+	<reference>002   LIEBERMAN J           AM REV RESPIR DIS              116  1047 977</reference>
+	<reference>003$  LIEBERMAN J           CHEST                          75S  220S 979</reference>
+	<reference>004   FREED DLJ             LANCET                           1   585 978</reference>
+	<reference>005   SHARON N              SCIENCE                        177   949 972</reference>
+	<reference>006   BROOKS DE             IN: MOHN JF                           27 977</reference>
+
+	<citation>1   LIEBERMAN J           J LAB CLIN MED                  97   646 981</citation>
+	<citation>2   SEALE TW              ANN CLIN LAB SCI                12   415 982</citation>
+	<citation>3   LIEBERMAN J           AM J MED                        77   678 984</citation>
+	<citation>4   QURESHI AR            J PEDIATR                      106   913 985</citation>
+
+</document>

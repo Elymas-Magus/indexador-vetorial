@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Interactions of Pseudomonas aeruginosa with immunoglobulins and
+   complement in sputum.</title>
+
+	<author>Hann-S.</author>
+	<author>Holsclaw-D-S.</author>
+
+	<source>Infect-Immun. 1976 Jul. 14(1). P 114-7.</source>
+
+	<abstract>The interactions of Pseudomonas aeruginosa with humoral factors in
+   the sputum of patients with cystic fibrosis were investigated by
+   using an indirect immunofluorescent technique. Fluorescein-
+   conjugated, monovalent antiserum specific to heavy chains of human
+   immunoglobulin A (IgA), IgG, or IgM and to complement C3 were used.
+   All strains of P. aeruginosa recovered from the sputum specimens of
+   patients with cystic fibrosis were found to be coated with antibodies
+   of IgA, IgG, and IgM classes and with C3. The specificity of the
+   antibody coating was determined. The fluorescence was most intense
+   with IgA and was followed in intensity by IgG, IgM, and C3. No
+   difference was noted between rough and mucoid strains of P.
+   aeruginosa. When the subcultured P. aeruginosa was incubated with the
+   sputum eluates, a similar pattern of fluorescence was demonstrated,
+   indicating that these humoral factors are present in the sputum and
+   that the coating process can take place in the lower respiratory
+   tract of the patients. By single radial immunodiffusion, significant
+   quantities of the humoral factors in the sputum eluates were
+   detected. These findings suggest that P. aeruginosa is opsonized in
+   sputum of patients with cystic fibrosis.</abstract>
+
+	<majorsubject>COMPLEMENT-3</majorsubject>
+	<majorsubject>COMPLEMENT</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: im</majorsubject>
+	<majorsubject>IMMUNOGLOBULINS</majorsubject>
+	<majorsubject>PSEUDOMONAS-AERUGINOSA: im</majorsubject>
+	<majorsubject>SPUTUM: im</majorsubject>
+
+	<minorsubject>ADOLESCENCE</minorsubject>
+	<minorsubject>ADULT</minorsubject>
+	<minorsubject>ANTIGEN-ANTIBODY-REACTIONS</minorsubject>
+	<minorsubject>CHILD</minorsubject>
+	<minorsubject>CHILD-PRESCHOOL</minorsubject>
+	<minorsubject>COMPLEMENT-3: an</minorsubject>
+	<minorsubject>COMPLEMENT: an</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: mi</minorsubject>
+	<minorsubject>FEMALE</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>IGA: an</minorsubject>
+	<minorsubject>IGG: an</minorsubject>
+	<minorsubject>IGM: an</minorsubject>
+	<minorsubject>IMMUNOGLOBULINS: an</minorsubject>
+	<minorsubject>MALE</minorsubject>
+	<minorsubject>SPUTUM: mi</minorsubject>
+
+	<reference>001   BIGGAR WD             PROC NAT ACAD SCI USA           68  1716 971</reference>
+	<reference>002   BOXERBAUM B           AM REV RESPIR DIS              108   777 973</reference>
+	<reference>003   BOYDEN SV             IN: WOLSTENHOLME GEW                 190 976</reference>
+	<reference>004   GOTZE O               J EXP MED                      134   90S 971</reference>
+	<reference>005   GREEN GM              N ENGL J MED                   276   421 967</reference>
+	<reference>006   GREEN GM              J CLIN INVEST                   43   769 964</reference>
+	<reference>007   GUGLER EC             J PEDIATR                       73   548 968</reference>
+	<reference>008   HUANG NN              J PEDIATR                       59   512 961</reference>
+	<reference>009   IACOCCA VF            AM J DIS CHILD                 106   315 963</reference>
+	<reference>010   ISHIZAKA T            J IMMUNOL                       97   716 966</reference>
+	<reference>011   JOHNSTON RB JR        J EXP MED                      129  1275 969</reference>
+	<reference>012   MARCER V              RIV CLIN PEDIATR                83   135 970</reference>
+	<reference>013   OREN R                J CELL BIOL                     17   486 963</reference>
+	<reference>014   REYNOLDS HY           GAP CONF REP PSEUDOMON IN CF           7 974</reference>
+	<reference>015   SMITH MR              PROC NAT ACAD SCI USA           63  1151 969</reference>
+	<reference>016   SOUTH MA              J PEDIATR                       71   645 967</reference>
+	<reference>017   THOMAS V              N ENGL J MED                   290   588 974</reference>
+	<reference>018   WILLIAMS RC JR        IMMUNOLOGY                      17   249 969</reference>
+	<reference>019   WINKELSTEIN JA        J PEDIATR                       82   747 973</reference>
+	<reference>020   YOUNG LS              J INFECT DIS                   126   257 972</reference>
+
+	<citation>1   HOIBY N               ACTA PATH MICROBIOL SCAND (C) S262     3 977</citation>
+	<citation>2   SORENSEN RU           INFECT IMMUN                    18   735 977</citation>
+	<citation>3   SORENSEN RU           J PEDIATR                       93   201 978</citation>
+	<citation>4   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C)   87   229 979</citation>
+	<citation>5   SHAW JO               LAB INVEST                      42   547 980</citation>
+	<citation>6   HOMMA JY              JAP J EXP MED                   50   149 980</citation>
+	<citation>7   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C) S276     1 981</citation>
+	<citation>8   KOLB WP               AM REV RESPIR DIS              123   226 981</citation>
+	<citation>9   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    63 982</citation>
+	<citation>10   OLIVER AM             J CLIN LAB IMMUNOL              10   221 983</citation>
+	<citation>11   SCHILLER NL           PEDIATR RES                     17   747 983</citation>
+	<citation>12   SORENSEN RU           EUR J RESPIR DIS                64   524 983</citation>
+	<citation>13   PIER GB               J INFECT DIS                   150   223 984</citation>
+	<citation>14   SPEERT DP             SURV SYNTH PATHOL RES            4    14 985</citation>
+	<citation>15   PIEDRA P              J PEDIATR                      108   817 986</citation>
+
+</document>

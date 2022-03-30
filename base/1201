@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Altered intracellular calcium in fibroblasts from patients with
+   cystic fibrosis and heterozygotes.</title>
+
+	<author>Feigal-R-J.</author>
+	<author>Shapiro-B-L.</author>
+
+	<source>Pediatr-Res. 1979 Jun. 13(6). P 764-8.</source>
+
+	<abstract>The importance of intracellular calcium (Ca) in secretion and
+   transmembrane ion movement led us to study Ca in cells from patients
+   with cystic fibrosis (CF) which is a lethal genetic exocrinopathy.
+   Skin fibroblasts from patients with CF, obligate heterozygotes (HZ),
+   and age- and sex-matched controls (C) were used in matched pair
+   experiments measuring 45Ca exchange into and efflux from the cells
+   over time. CF cell lines and HZ cell lines exhibit increased 45Ca
+   exchange when compared with their respective controls (P less than
+   0.005). The magnitude of this difference (approximately 30%) is not
+   reduced when cells are washed with lanthanum chloride after the
+   exchange period. This difference is likely attributable to an altered
+   capacity of one or more of the intracellular Ca sequestering
+   organelles. Further evidence for this explanation was seen in 45Ca
+   efflux experiments in which CF cells retained a higher percent of
+   their initial 0-time 45Ca than did C cells late in the efflux period
+   (P less than 0.05). The finding of an altered Ca pool size in both CF
+   and particularly HZ cells suggests that altered Ca metabolism is
+   related to the basic gene defect in CF.</abstract>
+
+	<majorsubject>BODY-FLUIDS: me</majorsubject>
+	<majorsubject>CALCIUM: me</majorsubject>
+	<majorsubject>CYSTIC-FIBROSIS: me</majorsubject>
+	<majorsubject>HETEROZYGOTE</majorsubject>
+	<majorsubject>INTRACELLULAR-FLUID: me</majorsubject>
+
+	<minorsubject>CELLS-CULTURED</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: fg</minorsubject>
+	<minorsubject>FIBROBLASTS: me</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+
+	<reference>001   BAUR PS               TEX REP BIOL MED                34   113 976</reference>
+	<reference>002   BLOMFIELD J           ARCH DIS CHILD                  48   267 973</reference>
+	<reference>003   BOGART BI             PEDIATR RES                     11   131 977</reference>
+	<reference>004   BOLTON WE             TEX REP BIOL MED                34    97 976</reference>
+	<reference>005   BORLE AB              METHODS ENZYMOL                 39   513 975</reference>
+	<reference>006   BORLE AB              TISSUE RES SUPPL                21    21 976</reference>
+	<reference>007   BOTELHO SY            J PEDIATR                       83   601 973</reference>
+	<reference>008   CARAFOLI E            SOC SYMP                        39    89 974</reference>
+	<reference>009   DI SANTAGNESE PA      N ENGL J MED                   295   481 976</reference>
+	<reference>010   DI SANTAGNESE PA      N ENGL J MED                   277  1287 967</reference>
+	<reference>011   DOUGLAS WW            IN: CASE RM                              976</reference>
+	<reference>012   DUNN OJ               PRIMER FOR THE BIOMED SCI                964</reference>
+	<reference>013   FARRELL PM            PROC SOC EXP BIOL MED          149   340 975</reference>
+	<reference>014   FLETCHER DS           CLIN CHIM ACTA                  44     5 973</reference>
+	<reference>015   FOSTER DO             J BIOL CHEM                    244  2675 969</reference>
+	<reference>016   GIBSON LE             PEDIATRICS                      48   695 971</reference>
+	<reference>017   LEHMANN H             IN: STANBURY JB                          972</reference>
+	<reference>018   LEHNINGER AL          PROC NAT ACAD SCI USA           71  1520 974</reference>
+	<reference>019   LEHNINGER AL          ADV IMMUNOL                     29   259 967</reference>
+	<reference>020   LOBECK CC             IN: STANBURY JB                     1605 972</reference>
+	<reference>021   MANGOS JA             IN: ANDREOLI TE                          978</reference>
+	<reference>022   MOORE L               J CELL PHYSIOL                  91   289 977</reference>
+	<reference>023   OYAMA VI              PROC SOC EXP BIOL MED           91   305 956</reference>
+	<reference>024   RASMUSSEN H           CRIT REV BIOCHEM                 1    95 972</reference>
+	<reference>025   ROBBLEE LS            BIOCHIM BIOPHYS ACTA           463   448 976</reference>
+	<reference>026   SHAPIRO BL            CLIN CHIM ACTA                  82   125 978</reference>
+	<reference>027   VANBREEMAN C          CIRC RES                        33    44 972</reference>
+	<reference>028   WOTMAN S              ARCH ORAL BIOL                  16   663 971</reference>
+
+	<citation>1   SHAPIRO BL            PROC NAT ACAD SCI USA           76  2979 979</citation>
+	<citation>2   ANSAH TA              CELL CALC                        1   195 980</citation>
+	<citation>3   SCANLIN TF            CLIN CHEST MED                   1   424 980</citation>
+	<citation>4   KATZ S                CLIN CHIM ACTA                 100   245 980</citation>
+	<citation>5   ROOMANS GM            ULTRASTRUCTURAL PATHOL           2    53 981</citation>
+	<citation>6   ROOMANS GM            J SUBMICROSC CYTOL              13   445 981</citation>
+	<citation>7   REZNIK VM             PROC NAT ACAD SCI USA           78  7143 981</citation>
+	<citation>8   SORSCHER EJ           LANCET                           1   368 982</citation>
+	<citation>9   SEALE TW              ANN CLIN LAB SCI                12   415 982</citation>
+	<citation>10   BOGART BI             PEDIATR RES                     16   223 982</citation>
+	<citation>11   FEIGAL RJ             LIFE SCI                        30    93 982</citation>
+	<citation>12   SHAPIRO BL            AM J HUM GENET                  34   846 982</citation>
+	<citation>13   SHAPIRO BL            SCIENCE                        216   417 982</citation>
+	<citation>14   FONDACARO JD          LIFE SCI                        32  1449 983</citation>
+	<citation>15   MINER C               J PHYSIOL (LOND)               338  P 63 983</citation>
+	<citation>16   CEDER O               ACTA PAEDIATR SCAND SUPPL 309 1983     1 983</citation>
+	<citation>17   ROOMANS GM            SCANN ELECTRON MICROSC        1983   697 983</citation>
+	<citation>18   SEYMOUR CA            BIOESSAYS                        1    38 984</citation>
+	<citation>19   KATZ S                CELL CALC                        5   421 984</citation>
+	<citation>20   CABRINI G             RIV ITAL PEDIATR                10   405 984</citation>
+	<citation>21   KAMOUN P              BIOCHEM MED                     31   104 984</citation>
+	<citation>22   RUSSI EW              CHEST                           86   475 984</citation>
+	<citation>23   GRINSTEIN S           BIOCHIM BIOPHYS ACTA           769   270 984</citation>
+	<citation>24   WALLER RL             CELL CALC                        6   245 985</citation>
+	<citation>25   KIRKPATRICK C         PEDIATR RES                     19  1341 985</citation>
+	<citation>26   SUTER S               PEDIATR RES                     19   346 985</citation>
+	<citation>27   MUALLEM S             BIOCHIM BIOPHYS ACTA           819   143 985</citation>
+	<citation>28   RUPP GM               MED HYPOTHESES                  20   245 986</citation>
+	<citation>29   MORRISSEY SM          DIGESTION                       34    28 986</citation>
+	<citation>30   FEIGAL RJ             ANN NY ACAD SCI                488    82 986</citation>
+	<citation>31   ROOMANS GM            SCANN ELECTRON MICROSC        1986   165 986</citation>
+
+</document>

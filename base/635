@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Differential serum amylase determination by use of an inhibitor, and
+   design of a routine procedure.</title>
+
+	<author>ODonnell-M-D.</author>
+	<author>FitzGerald-O.</author>
+	<author>McGeeney-K-F.</author>
+
+	<source>Clin-Chem. 1977 Mar. 23(3). P 560-6.</source>
+
+	<abstract>We describe a new method for measuring pancreatic and salivary-type
+   amylases in serum that requires no electrophoresis or chromatography.
+   An inhibitor protein (from wheat) with a 100-fold greater specificity
+   for human salivary than for human pancreatic amylase was used to
+   analyze mixtures of the two enzymes. The concentration of pancreatic
+   and salivary amyalase was determined in 141 normal sera (72 men and
+   69 women). Statistically significant differences were found for serum
+   pancreatic amylase between mean and women, higher values being shown
+   in women. No sex-related difference was found for the salivary
+   component of serum amylase. With this method, the increase in serum
+   amylase activity in pancreatitis was shown to be attributable to the
+   pancreatic component. In mumps, the increase is attributable to the
+   salivary component. In pancreatic insufficiency, serum pancreatic
+   amylase activities were significantly lower than in the controls. Our
+   method is simple and rapid; our results agree well with those of
+   other authors who used chromatographic or electrophoretic methods.</abstract>
+
+	<majorsubject>AMYLASES: bl</majorsubject>
+	<majorsubject>PLANT-PROTEINS: pd</majorsubject>
+
+	<minorsubject>ADOLESCENCE</minorsubject>
+	<minorsubject>ADULT</minorsubject>
+	<minorsubject>AMYLASES: ai</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: bl</minorsubject>
+	<minorsubject>FEMALE</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>ISOENZYMES: bl</minorsubject>
+	<minorsubject>MALE</minorsubject>
+	<minorsubject>MIDDLE-AGE</minorsubject>
+	<minorsubject>MUMPS: bl</minorsubject>
+	<minorsubject>PANCREAS: en</minorsubject>
+	<minorsubject>PANCREATIC-DISEASES: bl</minorsubject>
+	<minorsubject>SALIVARY-GLANDS: en</minorsubject>
+	<minorsubject>WHEAT</minorsubject>
+
+	<reference>001   BERNFELD P            HELV CHIM ACTA                  31  2165 948</reference>
+	<reference>002   BERNFELD P            HELV CHIM ACTA                  33  1964 950</reference>
+	<reference>003   STIEFEL DJ            BIOCHIM BIOPHYS ACTA           302   345 973</reference>
+	<reference>004   NORBY S               EXP CELL RES                    36   663 964</reference>
+	<reference>005   TAKEUCHI T            CLIN CHIM ACTA                  54   137 974</reference>
+	<reference>006   BERK JE               AM J DIG DIS                    11   695 966</reference>
+	<reference>007   TAKEUCHI T            CLIN CHIM ACTA                  60   207 975</reference>
+	<reference>008   BERK JE               AM J GASTROENTEROL              63   457 975</reference>
+	<reference>009   ODONNELL MD           BIOCHIM BIOPHYS ACTA           422   159 976</reference>
+	<reference>010   HALL FF               AM J DIG DIS                    15  1013 970</reference>
+	<reference>011   STIEFEL DJ            CLIN CHEM                       21   343 975</reference>
+	<reference>012   ODONNELL MD           ENZYME                          18   348 974</reference>
+	<reference>013   ROBYT JF              IN: RADLEY JA                        431 968</reference>
+	<reference>014   LEGAZ ME              CLIN CHEM                       22    57 976</reference>
+	<reference>015   AW SE                 GUT                              8   402 967</reference>
+	<reference>016   OTSUKI M              CLIN CHIM ACTA                  22   439 976</reference>
+	<reference>017   MCGEACHIN RL          ANN NY ACAD SCI                151   208 968</reference>
+	<reference>018   MESSER M              BIOCHEM J                      151    17 975</reference>
+	<reference>019   TAKEUCHI T            BIOCHIM BIOPHYS ACTA           403   122 975</reference>
+	<reference>020   FRIDHANDLER L         CLIN CHEM                       18  1493 972</reference>
+	<reference>021   JANOWITZ HD           AM J MED                        27   924 959</reference>
+	<reference>022   ADLERCREUTZ H         BR MED J                         3   529 972</reference>
+	<reference>023   FITZGERALD O          BR MED J                         1   349 955</reference>
+	<reference>024   KAISER R              AM J OBSTET GYNECOL            122   283 975</reference>
+	<reference>025   SKUDE G               SCAND J GASTROENTEROL           10   577 975</reference>
+	<reference>026   AMMAN RW              ANN INTERN MED                  78   521 973</reference>
+	<reference>027   TAUSSIG LM            PEDIATRICS                      54   229 974</reference>
+	<reference>028   TYE JG                J MED GENET                     13    96 976</reference>
+
+	<citation>1   HEGARTY JE            GUT                             19   350 978</citation>
+	<citation>2   KEOGH JB              GUT                             19  1125 978</citation>
+	<citation>3   BRAGANZA  JM          CANCER                          41  1522 978</citation>
+	<citation>4   BERK JE               AM J GASTROENTEROL              69   417 978</citation>
+	<citation>5   BERK JE               ANN INTERN MED                  88   838 978</citation>
+	<citation>6   KENNY D               CLIN CHIM ACTA                  89   429 978</citation>
+	<citation>7   BERK JE               CLIN BIOCHEM                    12   264 979</citation>
+	<citation>8   GILLARD BK            CLIN CHEM                       25  1919 979</citation>
+	<citation>9   TAKEUCHI T            CLIN CHEM                       25  1406 979</citation>
+	<citation>10   STEPAN J              CLIN CHIM ACTA                  91   263 979</citation>
+	<citation>11   VINICOR F             ANN INTERN MED                  91   200 979</citation>
+	<citation>12   CAILLENS H            NOUV PRESSE MED                  9  3079 980</citation>
+	<citation>13   WALLER SL             AUST NZ J MED                   10   351 980</citation>
+	<citation>14   GILLARD BK            PEDIATR RES                     14  1168 980</citation>
+	<citation>15   MCGEENEY KF           PEDIATR RES                     14   967 980</citation>
+	<citation>16   WOLF RO               PEDIATR RES                     14   968 980</citation>
+	<citation>17   BIRATH K              J CLIN CHEM CLIN BIOCHEM        18   680 980</citation>
+	<citation>18   HOLMBERG H            J CLIN CHEM CLIN BIOCHEM        18   681 980</citation>
+	<citation>19   SOFRANKOVA A          PHYSIOL BOHEMOSLOV              29    89 980</citation>
+	<citation>20   EDERY M               ANN BIOL CLIN                   38   243 980</citation>
+	<citation>21   JACOBSON G            SCAND J CLIN LAB INVEST         40    77 980</citation>
+	<citation>22   FRIDHANDLER L         CLIN CHIM ACTA                 101   135 980</citation>
+	<citation>23   ODONNELL MD           CLIN CHIM ACTA                 104   265 980</citation>
+	<citation>24   LANKISCH PG           DTSCH MED WSCHR                105  1636 980</citation>
+	<citation>25   LANKISCH PG           MONATSSCHR KINDERHEILKD        128   739 980</citation>
+	<citation>26   KLONOFF DC            WEST J MED                     133   392 980</citation>
+	<citation>27   GROARKE JF            IR J MED SCI                   149   102 980</citation>
+	<citation>28   BIRATH K              J CLIN CHEM CLIN BIOCHEM        19   616 981</citation>
+	<citation>29   DERIJKE D             J CLIN CHEM CLIN BIOCHEM        19   815 981</citation>
+	<citation>30   JAFFRAY P             J CLIN CHEM CLIN BIOCHEM        19   711 981</citation>
+	<citation>31   MCGEENEY KF           J CLIN CHEM CLIN BIOCHEM        19   231 981</citation>
+	<citation>32   ODONNELL MD           J CLIN CHEM CLIN BIOCHEM        19   786 981</citation>
+	<citation>33   VADER HL              J CLIN CHEM CLIN BIOCHEM        19   241 981</citation>
+	<citation>34   BOSSUYT PJ            CLIN CHEM                       27   451 981</citation>
+	<citation>35   LANKISCH PG           HEPATOGASTROENTEROLOGY          28   333 981</citation>
+	<citation>36   BENOIT MO             PATHOL BIOL (PARIS)             29   223 981</citation>
+	<citation>37   BERK JE               AM J GASTROENTEROL              75   128 981</citation>
+	<citation>38   TOBIN MJ              IR J MED SCI                   150   325 981</citation>
+	<citation>39   RUDDELL WSJ           BR MED J                       283  1429 981</citation>
+	<citation>40   OCONNOR CM            BIOCHIM BIOPHYS ACTA           635   397 981</citation>
+	<citation>41   TSIANOS EB            LANCET                           1   856 982</citation>
+	<citation>42   HARDY R               CLIN BIOCHEM                    15    95 982</citation>
+	<citation>43   AMMANN RW             SCAND J GASTROENTEROL           17   997 982</citation>
+	<citation>44   LANKISCH PG           GUT                             23   777 982</citation>
+	<citation>45   LANKISCH PG           DIGESTION                       25   211 982</citation>
+	<citation>46   ABRAMSON SB           DIG DIS SCI                     27   889 982</citation>
+	<citation>47   ELLIS C               DIG DIS SCI                     27   897 982</citation>
+	<citation>48   HUANG WY              CLIN CHEM                       28  1525 982</citation>
+	<citation>49   RAMMELOO T            CLIN CHEM                       28   145 982</citation>
+	<citation>50   MIWA I                CHEM PHARMACEUT BULL            30   362 982</citation>
+	<citation>51   BROWN RC              J CLIN PATHOL                   35   547 982</citation>
+	<citation>52   DUCHASSAING D         ANN BIOL CLIN                   40   448 982</citation>
+	<citation>53   MAEDA K               AGRIC BIOL CHEM                 46  2873 982</citation>
+	<citation>54   TSIANOS EB            CLIN CHIM ACTA                 124    13 982</citation>
+	<citation>55   KAMEYA A              CLIN CHIM ACTA                 125    77 982</citation>
+	<citation>56   MOLLERPETERSEN J      ACTA MED SCAND                 211   459 982</citation>
+	<citation>57   BARRETT A             BR MED J                       285   170 982</citation>
+	<citation>58   ROBISON JC            N ENGL J MED                   307   899 982</citation>
+	<citation>59   BRIVET M              GASTROENTEROL CLIN BIOL          7   940 983</citation>
+	<citation>60   KELLEHER J            SCAND J GASTROENTEROL           18   791 983</citation>
+	<citation>61   NASRALLAH SM          GUT                             24   161 983</citation>
+	<citation>62   ANDRIULLI A           DIGESTION                       26    67 983</citation>
+	<citation>63   WARCHALEWSKI JR       NAHRUNG                         27   103 983</citation>
+	<citation>64   DERIJKE D             CLIN CHEM                       29  1100 983</citation>
+	<citation>65   HOEK FJ               CLIN CHEM                       29   995 983</citation>
+	<citation>66   LECLERC P             CLIN CHEM                       29  1020 983</citation>
+	<citation>67   ODONNELL MD           CLIN CHEM                       29   510 983</citation>
+	<citation>68   SKRHA J               CLIN CHEM                       29   407 983</citation>
+	<citation>69   SOBIECH KA            ENZYME                          30    66 983</citation>
+	<citation>70   MURAO S               AGRIC BIOL CHEM                 47   453 983</citation>
+	<citation>71   SATZ N                KLIN WSCHR                      61    91 983</citation>
+	<citation>72   OMICHI K              J BIOCHEM                       94  1797 983</citation>
+	<citation>73   DURR GHK              DTSCH MED WSCHR                108  1876 983</citation>
+	<citation>74   SOYAMA K              CLIN CHIM ACTA                 131   149 983</citation>
+	<citation>75   KIRBY J               IR J MED SCI                   152   394 983</citation>
+	<citation>76   TSIANOS EB            CLIN EXP RHEUMATOL               2   235 984</citation>
+	<citation>77   PELLETIER G           GASTROENTEROL CLIN BIOL          8   792 984</citation>
+	<citation>78   SIMPSON JW            VET RES COMMUN                   8   303 984</citation>
+	<citation>79   WILCOX ER             J FOOD BIOCHEM                   8   189 984</citation>
+	<citation>80   KOOP H                CLIN GASTROENTEROL              13   739 984</citation>
+	<citation>81   PAVESI F              RIC CLIN LAB                    14   443 984</citation>
+	<citation>82   TAIT AD               AUST NZ J MED                   14   600 984</citation>
+	<citation>83   PARVIAINEN MT         J CLIN CHEM CLIN BIOCHEM        22    41 984</citation>
+	<citation>84   BANKS PA              DIG DIS SCI                     29   297 984</citation>
+	<citation>85   GORDON S              CLIN CHEM                       30   339 984</citation>
+	<citation>86   OKABE H               CLIN CHEM                       30  1219 984</citation>
+	<citation>87   ROYSE VL              CLIN CHEM                       30   387 984</citation>
+	<citation>88   TIETZ NW              CLIN CHEM                       30  1227 984</citation>
+	<citation>89   ZAKOWSKI JJ           CLIN CHEM                       30    62 984</citation>
+	<citation>90   MASIAR PJ             NEOPLASMA                       31   351 984</citation>
+	<citation>91   LANG C                THER UMSCH                      41   606 984</citation>
+	<citation>92   MORGENSTERN T         MONATSSCHR KINDERHEILKD        132   661 984</citation>
+	<citation>93   HAFKENSCHEID JCM      CLIN CHIM ACTA                 136   235 984</citation>
+	<citation>94   GILLARD BK            AM J DIS CHILD                 138   577 984</citation>
+	<citation>95   OMICHI K              CLIN CHIM ACTA                 138   197 984</citation>
+	<citation>96   GIVEN F               IR J MED SCI                   153   203 984</citation>
+	<citation>97   MOOSSA AR             N ENGL J MED                   311   639 984</citation>
+	<citation>98   MCMAHON LF            J CLIN GASTROENTEROL             7    17 985</citation>
+	<citation>99   NAGARAJ RH            J BIOSCI                         7   257 985</citation>
+	<citation>100   LAFERLA G             IRCS MED SCI BIOCHEM            13  1034 985</citation>
+	<citation>101   GIBERTINI P           ITAL J GASTROENTEROL            17   211 985</citation>
+	<citation>102   LESI C                CLIN BIOCHEM                    18   317 985</citation>
+	<citation>103   ZAKOWSKI JJ           CRC CRIT REV CLIN LAB SCI       21   283 985</citation>
+	<citation>104   TSIANOS EB            CLIN TRIALS J                   22   239 985</citation>
+	<citation>105   COURTOIS P            J CLIN CHEM CLIN BIOCHEM        23   733 985</citation>
+	<citation>106   STEINBERG WM          DIG DIS SCI                     30  1209 985</citation>
+	<citation>107   HAFKENSCHEID JCM      CLIN CHEM                       31   162 985</citation>
+	<citation>108   MIFFLIN TE            CLIN CHEM                       31  1283 985</citation>
+	<citation>109   BRAULT D              PATHOL BIOL (PARIS)             33   195 985</citation>
+	<citation>110   HAFKENSCHEID JCM      ENZYME                          33   128 985</citation>
+	<citation>111   ARAI M                AGRIC BIOL CHEM                 49   987 985</citation>
+	<citation>112   BRAULT D              SEM HOP PARIS                   61  2847 985</citation>
+	<citation>113   MALFERTHEINER P       KLIN WSCHR                      63    43 985</citation>
+	<citation>114   KAMEYA A              AM J GASTROENTEROL              80    54 985</citation>
+	<citation>115   NIEDERAU C            GASTROENTEROLOGY                88  1973 985</citation>
+	<citation>116   ITO K                 J BIOCHEM                       97  1357 985</citation>
+	<citation>117   STEINBERG WM          ANN INTERN MED                 102   576 985</citation>
+	<citation>118   STRNAD G              J ELECTROAN CHEM INTERF ELECT  194   123 985</citation>
+	<citation>119   MCCORMICK PA          BR MED J                       290  1472 985</citation>
+	<citation>120   SCHNEIDER  MU         LANGENBECKS ARCH CHIR          363   149 985</citation>
+	<citation>121   MAEDA K               BIOCHIM BIOPHYS ACTA           828   213 985</citation>
+	<citation>122   KAMEYA S              J CLIN GASTROENTEROL             8   438 986</citation>
+	<citation>123   MAILLIE AJ            SCAND J GASTROENTEROL           21   941 986</citation>
+	<citation>124   HARMOINEN A           J CLIN CHEM CLIN BIOCHEM        24   903 986</citation>
+	<citation>125   LANKISCH PG           DIG DIS SCI                     31  1299 986</citation>
+	<citation>126   GORUS F               CLIN CHEM                       32   398 986</citation>
+	<citation>127   JIMENEZ A             CLIN CHEM                       32  1577 986</citation>
+	<citation>128   JUNGLEE D             CLIN CHEM                       32   609 986</citation>
+	<citation>129   LACHER DA             CLIN CHEM                       32  1539 986</citation>
+	<citation>130   TIETZ NW              CLIN CHEM                       32   301 986</citation>
+	<citation>131   WOLF RO               CLIN CHEM                       32   296 986</citation>
+	<citation>132   TSIANOS EB            HEPATOGASTROENTEROLOGY          33   247 986</citation>
+	<citation>133   BUCHLER M             KLIN WSCHR                      64  1186 986</citation>
+	<citation>134   BARROS FP             AM J GASTROENTEROL              81   261 986</citation>
+	<citation>135   KAMEYA S              AM J GASTROENTEROL              81   358 986</citation>
+	<citation>136   LANKISCH PG           AM J GASTROENTEROL              81   365 986</citation>
+	<citation>137   NAGARAJ RH            INDIAN J MED RES                84    89 986</citation>
+	<citation>138   OMICHI K              J BIOCHEM                      100  1353 986</citation>
+	<citation>139   ADACHI K              CLIN CHIM ACTA                 154   103 986</citation>
+	<citation>140   MOLLERPETERSEN J      CLIN CHIM ACTA                 157   151 986</citation>
+	<citation>141   HIROISHI S            CLIN CHIM ACTA                 159    89 986</citation>
+
+</document>

@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Simple technique for detection of cystic fibrosis heterozygotes and
+   homozygotes.</title>
+
+	<author>Smith-Q-T.</author>
+	<author>Hamilton-M-J.</author>
+	<author>Shapiro-B-L.</author>
+
+	<source>Pediatr-Res. 1976 Dec. 10(12). P 999-1000.</source>
+
+	<abstract>We examined serum proteins from 18 CF subjects and 14 control
+   individuals.  We were unable to detect any consistent differences
+   between the stained serum protein patterns of the CF and the control
+   subjects.  These patterns show greater resolution of proteins than
+   those previously published, but, in contrast, no consistent
+   differences between CF and control subjects.  In addition, we have
+   modified the published methods with procedures which would enhance
+   the likelihood of electrophoretic detection of an abnormal protein
+   with the reported properties.  A portion of the samples analyzed by
+   the published procedures also were analyzed by each of these
+   modifications.  None of the modified procedures showed consistent
+   differences between serum proteins from the CF and the control
+   subjects.  No explanation is readily apparent for the difference
+   between results of Thomas et al. and our own results on the one hand
+   and the previously reported results on the other.  We attempted to
+   rigorously reproduce the isoelectric focusing techniques given in the
+   literature.  However, isoelectric focusing in polyacrylamide gel can
+   be affected by small technical differences and, thus, factors
+   essential to reproducing the techniques may not have been evident in
+   the published procedure.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS: di</majorsubject>
+
+	<minorsubject>BLOOD-PROTEINS: an</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: bl</minorsubject>
+	<minorsubject>ELECTROPHORESIS-POLYACRYLAMIDE-GEL</minorsubject>
+	<minorsubject>HETEROZYGOTE</minorsubject>
+	<minorsubject>HOMOZYGOTE</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>ISOELECTRIC-FOCUSING</minorsubject>
+	<minorsubject>STAINS-AND-STAINING</minorsubject>
+
+	<reference>001   ALTLAND K             HUMANGENETIK                    28   207 975</reference>
+	<reference>002   THOMAS JM             CF CLUB ABST                    17    19 976</reference>
+	<reference>003   WILLIAMSON AR         IN: WEIR DM                              973</reference>
+	<reference>004   WILSON GB             PEDIATR RES                      9   635 975</reference>
+	<reference>005   WILSON GB             CLIN CHIM ACTA                  49    79 973</reference>
+
+	<citation>1   WILSON GB             PEDIATR RES                     10  1001 976</citation>
+	<citation>2   THOMAS JM             PEDIATR RES                     11  1148 977</citation>
+	<citation>3   WILSON GB             PEDIATR RES                     11   139 977</citation>
+	<citation>4   WILSON GB             PEDIATR RES                     11   986 977</citation>
+	<citation>5   SCHOLEY J             PEDIATR RES                     12   800 978</citation>
+	<citation>6   WILSON GB             PEDIATR RES                     12   801 978</citation>
+	<citation>7   TULLY GW              PEDIATR RES                     13  1078 979</citation>
+	<citation>8   WILSON GB             PEDIATR RES                     13  1079 979</citation>
+	<citation>9   MANSON JC             LANCET                           1   330 980</citation>
+	<citation>10   NEVIN GB              HUM GENET                       56   387 981</citation>
+	<citation>11   HALLINAN FM           CLIN CHIM ACTA                 117   103 981</citation>
+	<citation>12   BULLOCK S             CLIN GENET                      21   336 982</citation>
+	<citation>13   BURY AF               CLIN CHIM ACTA                 118    45 982</citation>
+	<citation>14   ANON                  LANCET                           2   249 985</citation>
+	<citation>15   JAMIESON A            HUM GENET                       70   168 985</citation>
+	<citation>16   GETLIFFE KA           J INHERIT METAB DIS              9   348 986</citation>
+
+</document>

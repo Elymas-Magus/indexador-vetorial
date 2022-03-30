@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Somatic cell genetic studies of cystic fibrosis.</title>
+
+	<author>Mayo-B-J.</author>
+	<author>Klebe-R-J.</author>
+	<author>Lankford-B-J.</author>
+	<author>Morris-N-R.</author>
+	<author>Barnett-D-R.</author>
+	<author>Bowman-B-H.</author>
+
+	<source>Tex-Rep-Biol-Med. 1976. 34(1). P 107-11.</source>
+
+	<abstract>The expression of the gene coding for the cystic fibrosis ciliary
+   inhibitor has been examined in somatic cell hybrid clonal lines.
+   Hybrids were produced by the fusion of cultured skin fibroblasts from
+   cystic fibrosis patients with mouse RAG and LM (TK-) cell lines. The
+   ciliary inhibitor was detected by the oyster ciliary assay in several
+   primary hybrid clones but not detected in others, indicating the
+   segregation of an associated nuclear gene.</abstract>
+
+	<majorsubject>CYSTIC-FIBROSIS: fg</majorsubject>
+
+	<minorsubject>ANIMAL</minorsubject>
+	<minorsubject>BLOOD-PROTEINS: ip</minorsubject>
+	<minorsubject>CELL-LINE</minorsubject>
+	<minorsubject>CILIA: ph</minorsubject>
+	<minorsubject>CLONE-CELLS</minorsubject>
+	<minorsubject>CULTURE-MEDIA</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: me</minorsubject>
+	<minorsubject>ELECTROPHORESIS-STARCH-GEL</minorsubject>
+	<minorsubject>GLUCOSEPHOSPHATE-DEHYDROGENASE: an</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>HYBRID-CELLS: en</minorsubject>
+	<minorsubject>MICE</minorsubject>
+	<minorsubject>OYSTERS</minorsubject>
+	<minorsubject>SUPPORT-U-S-GOVT-P-H-S</minorsubject>
+
+	<reference>001   BOLTON WE             AM J HUM GENET                  27   394 975</reference>
+	<reference>002   BOWMAN BH             PROC NAT ACAD SCI USA           70   548 973</reference>
+	<reference>003   BOWMAN BH             SCIENCE                        164   325 969</reference>
+	<reference>004   CONOVER JH            PEDIATR RES                      7   224 973</reference>
+	<reference>005   DANES BS              AM J HUM GENET                  25   323 973</reference>
+	<reference>006   DAVIDSON RL           NATURE                         205  1170 965</reference>
+	<reference>007   KIT S                 EXP CELL RES                    31   297 963</reference>
+	<reference>008   KLEBE RJ              J CELL BIOL                     45    74 970</reference>
+	<reference>009   LITTLEFIELD JW        SCIENCE                        145   709 964</reference>
+	<reference>010   NICHOLS EA            J HISTOCHEM CYTOCHEM            21  1066 973</reference>
+	<reference>011   NYHAN WL              PEDIATR RES                      1     5 967</reference>
+	<reference>012   PUCK RR               J EXP MED                      103   273 956</reference>
+	<reference>013   WEISS MC              PROC NAT ACAD SCI USA           58  1104 967</reference>
+
+	<citation>1   BOWMAN BH             TEX REP BIOL MED                34     1 976</citation>
+	<citation>2   BOAT TF               ACS SYMPOSIUM SERIES          1978   108 978</citation>
+
+</document>

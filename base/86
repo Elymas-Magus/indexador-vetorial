@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>Evolution of plasmids in vivo in a strain of Staphylococcus aureus.</title>
+
+	<author>Lacey-R-W.</author>
+	<author>Lewis-E.</author>
+	<author>Rosdahl-V-T.</author>
+
+	<source>J-Med-Microbiol. 1974 Feb. 7(1). P 117-25.</source>
+
+	<abstract>A strain of Staphylococcus aureus (no. FAR4) has been isolated from
+   a patient at frequent intervals over 18 months.  This strain has
+   previously been shown to lose resistance to several antibodies
+   (Lacey et al., 1973); during the last 6 months further changes have
+   occurred in it in vivo.  Lincomycin resistance appeared after the
+   patient had been treated with clindamycin.  This was due to mutation
+   to constitutive resistance to both lincomycin and erythromycin at a
+   locus adjacent to that determining &quot;inducible&quot; resistance to
+   erythromycin.  Both loci are probably carried by an extrachromosomal
+   element.  Three types of variation in the PF plasmid were observed.
+   Alteration in production of penicillinase from macroconstitutive to
+   microconstitutive, was not associated with any detectable change in
+   plasmid size.  This change gave the cell an advantage in vitro,
+   because it was associated with a faster growth rate and probably
+   also in vivo, because the microconstitutive variants were isolated
+   in increasing numbers after flucloxacillin therapy had ceased.
+   Complete loss of determinants for penicillinase production and for
+   resistance to cadmium ions from the PF plasmid was associated with a
+   decrease in plasmid size of about 4 x 10 6 daltons.  This change was
+   also associated with increased growth rate in vitro.  Loss of
+   resistance to fusidic acid from the PF plasmid was associated with a
+   decrease in plasmid size of about 1 x 10 6 daltons.</abstract>
+
+	<majorsubject>EXTRACHROMOSOMAL-INHERITANCE</majorsubject>
+	<majorsubject>STAPHYLOCOCCUS: gd</majorsubject>
+	<majorsubject>GENETICS-MICROBIAL</majorsubject>
+
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>DRUG-RESISTANCE-MICROBIAL</minorsubject>
+	<minorsubject>CLINDAMYCIN: tu</minorsubject>
+	<minorsubject>FUSIDIC-ACID:  tu</minorsubject>
+	<minorsubject>LINCOMYCIN</minorsubject>
+	<minorsubject>ERYTHROMYCIN</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: dt</minorsubject>
+	<minorsubject>PENICILLINS</minorsubject>
+	<minorsubject>MUTATION</minorsubject>
+	<minorsubject>PENICILLINASE</minorsubject>
+
+	<reference>001   GARROD LP             BR MED J                         2    57 957</reference>
+	<reference>002   GRINSTED J            J MED MICROBIOL                  6   351 973</reference>
+	<reference>003   GUEROLA N             NATURE NEW BIOL                230   122 971</reference>
+	<reference>004   LACEY RW              J GEN MICROBIOL                 73   501 972</reference>
+	<reference>005   LACEY RW              J MED MICROBIOL                  6   191 973</reference>
+	<reference>006   LACEY RW              J MED MICROBIOL                  7     1 974</reference>
+	<reference>007   RICHMOND MH           BIOCHEM J                       88   452 963</reference>
+	<reference>008   ROSDAHL VT            J GEN MICROBIOL                 77   229 973</reference>
+
+	<citation>1   CHOPRA I              ANTIMICROB AGENTS CHEMOTHER      6   397 974</citation>
+	<citation>2   MALKE H               MOL GEN GENET                  135   349 974</citation>
+	<citation>3   LACEY RW              J MED MICROBIOL                  8    39 975</citation>
+	<citation>4   LACEY RW              J MED MICROBIOL                  8   337 975</citation>
+	<citation>5   LACEY RW              BACT REV                        39     1 975</citation>
+	<citation>6   ANNEAR DI             MED J AUST                       1   399 976</citation>
+	<citation>7   WITTE W               Z ALLG MIKROBIOL                16   563 976</citation>
+	<citation>8   NOVICK RP             BACT REV                        40   168 976</citation>
+	<citation>9   CHOPRA I              J GEN MICROBIOL                 96   229 976</citation>
+	<citation>10   LACEY RW              ZENTRALBL BAKT MIKROB HYG (A) 1976  1100 976</citation>
+	<citation>11   COURVALIN P           ANTIMICROB AGENTS CHEMOTHER     11   619 977</citation>
+	<citation>12   EMERUWA AC            ANN INST PASTEUR MICROBIOL    B130   443 979</citation>
+	<citation>13   VONDAEHNE W           ADV APPL MICROBIOL              25    95 979</citation>
+	<citation>14   COURVALIN P           GENE                             9   247 980</citation>
+	<citation>15   IVANOV NA             ANTIBIOTIKI                     26   109 981</citation>
+	<citation>16   TSCHAPE H             BIOL ZENTRALBL                 100   353 981</citation>
+	<citation>17   PASYNKOVA LN          ZH MIKROBIO EPIDEMIO IMMUNOBI 1982    14 982</citation>
+	<citation>18   LACEY RW              J ANTIMICROB CHEMOTHER          11     3 983</citation>
+	<citation>19   IVANOV NA             ZH MIKROBIO EPIDEMIO IMMUNOBI 1983    38 983</citation>
+	<citation>20   IVANOV NA             ZH MIKROBIO EPIDEMIO IMMUNOBI         19 985</citation>
+	<citation>21   KEARNEY PC            PURE APPL CHEM                  57   389 985</citation>
+	<citation>22   LYON BR               MICROBIOL REV                   51    88 987</citation>
+
+</document>

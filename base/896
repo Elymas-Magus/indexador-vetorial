@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+
+<document>
+	<title>One-hour blood xylose test: a reliable index of small bowel function.</title>
+
+	<author>Buts-J-P.</author>
+	<author>Morin-C-L.</author>
+	<author>Roy-C-C.</author>
+	<author>Weber-A.</author>
+	<author>Bonin-A.</author>
+
+	<source>J-Pediatr. 1978 May. 92(5). P 729-33.</source>
+
+	<abstract>A retrospective analysis of oral D-xylose tolerance tests in 435
+   pediatric patients was performed. A significant difference was found
+   between 126 normal subjects and 47 untreated children with celiac
+   disease one hour after load. The one-hour value was found to be more
+   reliable than was fecal fat analysis in screening children for celiac
+   disease. Sex, age, weight, and body surface did not influence the
+   results of the one-hour value in the control subjects. Forty-eight
+   children with cystic fibrosis had one-hour xylose levels within the
+   normal range, but the means at 90, 120, and 180 minutes after load
+   exceeded significantly (P less than 0.01) those of the controls. In a
+   nonceliac group of 63 children with abnormally low xylose levels,
+   almost all were found to have clinical conditions compatible with
+   upper small bowel mucosal impairment. This study shows that a single
+   estimation of xylose in blood one hour after load is a reliable index
+   of small bowel mucosal function. It is a good screening test for
+   celiac disease and small bowel disorders producing malabsorption in
+   children.</abstract>
+
+	<majorsubject>INTESTINAL-MUCOSA: pp</majorsubject>
+	<majorsubject>INTESTINE-SMALL: pp</majorsubject>
+	<majorsubject>XYLOSE: du</majorsubject>
+
+	<minorsubject>CELIAC-DISEASE: di</minorsubject>
+	<minorsubject>CYSTIC-FIBROSIS: pp</minorsubject>
+	<minorsubject>FECES: an</minorsubject>
+	<minorsubject>HUMAN</minorsubject>
+	<minorsubject>INTESTINAL-DISEASES: di</minorsubject>
+	<minorsubject>LIPIDS: an</minorsubject>
+	<minorsubject>MALABSORPTION-SYNDROMES: di</minorsubject>
+	<minorsubject>RETROSPECTIVE-STUDIES</minorsubject>
+	<minorsubject>TIME-FACTORS</minorsubject>
+	<minorsubject>XYLOSE: bl</minorsubject>
+
+	<reference>001   HAWKINS KI            CLIN CHEM                       16   749 970</reference>
+	<reference>002   JONES WO              J PEDIATR                       62    50 963</reference>
+	<reference>003   MEEUWISSE GW          ACTA PAEDIATR SCAND             54    33 965</reference>
+	<reference>004   MCCRAE WM             ARCH DIS CHILD                  38   571 963</reference>
+	<reference>005   SAMMONS HG            GUT                              8   348 967</reference>
+	<reference>006   FINLAY JM             ANN INTERN MED                  61   411 964</reference>
+	<reference>007   BENSON JA JR          N ENGL J MED                   256   335 957</reference>
+	<reference>008   ROLLES CJ             LANCET                           2  1043 973</reference>
+	<reference>009   ROLLES CJ             ARCH DIS CHILD                  50   359 975</reference>
+	<reference>010   SLADEN GE             BR MED J                         3   223 973</reference>
+	<reference>011   LAMABADUSURIYA SP     ARCH DIS CHILD                  50    34 975</reference>
+	<reference>012   GOLDMAN AS            PEDIATRICS                      32   425 963</reference>
+	<reference>013   DAVIDSON M            J PEDIATR                       69  1027 966</reference>
+	<reference>014   ROE JH                J BIOL CHEM                    173   507 948</reference>
+	<reference>015   LANZKOWSKY P          JAMA                           186   517 963</reference>
+	<reference>016   VAN DE KAMER JH       J BIOL CHEM                    177   347 949</reference>
+	<reference>017   SHMERLING DH          PEDIATRICS                      46   690 970</reference>
+	<reference>018   FORDTRAN JS           N ENGL J MED                   267   274 962</reference>
+	<reference>019   BUTTERWORTH CE JR     N ENGL J MED                   261   157 959</reference>
+	<reference>020   SEGAL S               J CLIN INVEST                   38   407 959</reference>
+	<reference>021   CASPARY WF            GASTROENTEROLOGY                63   531 972</reference>
+	<reference>022   GLUCKMAN RF           GASTROENTEROLOGY                44   828 963</reference>
+	<reference>023   KENDALL MJ            BR MED J                         1   533 971</reference>
+	<reference>024   JACOBSON ED           AM J MED                        28   524 960</reference>
+	<reference>025   EGAN-MITCHELL B       ARCH DIS CHILD                  47   238 972</reference>
+	<reference>026   OPPENHEIMER EH        J PEDIATR                       86   683 975</reference>
+	<reference>027   DI SANTAGNESE PA      PEDIATRICS                      18   387 956</reference>
+	<reference>028   WYNGAARDEN JB         J CLIN INVEST                   36  1395 957</reference>
+	<reference>029   BRIEN FS              GASTROENTEROLOGY                20   287 952</reference>
+	<reference>030   SANTIAGO-BORRERO PJ   PEDIATRICS                      48    59 971</reference>
+	<reference>031   GOLDSTEIN F           GASTROENTEROLOGY                59   380 970</reference>
+	<reference>032   ROBILLARD JE          UNION MED CAN                  102  1496 973</reference>
+
+	<citation>1   MORIN CL              LANCET                           1  1102 979</citation>
+	<citation>2   CHRISTIE DL           J PEDIATR                       94   509 979</citation>
+	<citation>3   LIEBMAN WM            J PEDIATR                       94   508 979</citation>
+	<citation>4   MORIN CL              J PEDIATR                       94   509 979</citation>
+	<citation>5   COBDEN I              GUT                             21   512 980</citation>
+	<citation>6   PARK RW               GASTROENTEROLOGY                81  1143 981</citation>
+	<citation>7   LEBENTHAL E           J PEDIATR                       98   681 981</citation>
+	<citation>8   KEKOMAKI M            J PEDIATR GASTROENTEROL NUTR     1   369 982</citation>
+	<citation>9   MONTGOMERY RD         TRANS R SOC TROP MED HYG        76    25 982</citation>
+	<citation>10   RYAN ME               CLIN GASTROENTEROL              12   533 983</citation>
+	<citation>11   SAVILAHTI E           ARCH DIS CHILD                  58   246 983</citation>
+	<citation>12   PERKKIO M             ACTA PAEDIATR SCAND             73   680 984</citation>
+	<citation>13   FITZGERALD JF         PEDIATR INFECT DIS               4     6 985</citation>
+	<citation>14   BONAMICO M            RIV ITAL PEDIATR                11   172 985</citation>
+	<citation>15   CHATTI N              UNION MED CAN                  114    60 985</citation>
+	<citation>16   LOMBARD KA            PEDIATRICS                      77   396 986</citation>
+	<citation>17   LEVINE JJ             AM J DIS CHILD                 141   435 987</citation>
+
+</document>
