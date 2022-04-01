@@ -1,6 +1,6 @@
 # indexador-vetorial
 
-## Esta aplicação é capaz de receber uma ou mais consultas, inseridas via arquivo xml (queries.txt), e então ela procura na base de dados, usando o modelo vetorial de busca e indexação, os arquivos que mais se assemelham as buscas.
+Esta aplicação é capaz de receber uma ou mais consultas, inseridas via arquivo xml (queries.txt), e então ela procura na base de dados, usando o modelo vetorial de busca e indexação, os arquivos que mais se assemelham as buscas.
 
 Para tal feito o modelo vetorial atribui pesos aos termos da consulta, já tratados, posteriormente atribui pesos aos termons da consulta relacionando-os com um determinado documento e então os compara tratando os pesos como vetores e aplicando o cosseno do angulo formado pelos dois vetores (o da consulta e o que relaciona os termos da consulta com os documentos da base de dados).
 
